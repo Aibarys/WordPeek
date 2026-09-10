@@ -1,0 +1,83 @@
+# XcodeGen spec — generates WordPeek.xcodeproj from these sources.
+#
+#   brew install xcodegen
+#   cd ios && xcodegen generate && open WordPeek.xcodeproj
+#
+# Change PRODUCT_BUNDLE_IDENTIFIER and DEVELOPMENT_TEAM to your own before
+# building to a device. The App Group id must match SharedStore.appGroupID.
+
+name: WordPeek
+options:
+  bundleIdPrefix: com.wordpeek
+  deploymentTarget:
+    iOS: "16.1" # 16.1 is when lock screen widgets arrived
+  createIntermediateGroups: true
+
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+    DEVELOPMENT_TEAM: "" # your 10-character Apple Team ID
+    CODE_SIGN_STYLE: Automatic
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+
+targets:
+  WordPeek:
+    type: application
+    platform: iOS
+    sources:
+      - path: WordPeek
+      - path: Shared
+    resources:
+      - path: WordPeek/Resources/words.json
+    dependencies:
+      - target: WordPeekWidgetExtension
+        embed: true
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.wordpeek.app
+        INFOPLIST_FILE: WordPeek/Info.plist
+        CODE_SIGN_ENTITLEMENTS: WordPeek/WordPeek.entitlements
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        TARGETED_DEVICE_FAMILY: "1,2"
+
+  WordPeekWidgetExtension:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: WordPeekWidget
+      - path: Shared
+    resources:
+      - path: WordPeek/Resources/words.json
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.wordpeek.app.widget
+        INFOPLIST_FILE: WordPeekWidget/Info.plist
+        CODE_SIGN_ENTITLEMENTS: WordPeekWidget/WordPeekWidget.entitlements
+        TARGETED_DEVICE_FAMILY: "1,2"
+
+  WordPeekTests:
+    type: bundle.unit-test
+    platform: iOS
+    # Only the test sources. `Shared` is already compiled into the app target
+    # and reached through `@testable import WordPeek`; compiling it here as well
+    # would define every type twice and make every reference ambiguous.
+    sources:
+      - path: WordPeekTests
+    dependencies:
+      - target: WordPeek
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.wordpeek.app.tests
+
+schemes:
+  WordPeek:
+    build:
+      targets:
+        WordPeek: all
+        WordPeekWidgetExtension: all
+    test:
+      targets:
+        - WordPeekTests
+    run:
+      config: Debug
