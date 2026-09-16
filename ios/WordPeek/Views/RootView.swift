@@ -32,6 +32,7 @@ struct RootView: View {
 
 struct TodayView: View {
     @EnvironmentObject private var model: AppModel
+    @State private var showWidgetHowTo = false
 
     var body: some View {
         NavigationStack {
@@ -45,17 +46,31 @@ struct TodayView: View {
                         WordCardView(word: word)
                         AnswerButtons(word: word)
                     } else {
-                        ContentUnavailableView(
-                            "Словарь пуст",
+                        EmptyState(
+                            title: "Словарь пуст",
                             systemImage: "book.closed",
-                            description: Text("Выбери хотя бы один уровень в настройках.")
+                            description: "Выбери хотя бы один уровень в настройках."
                         )
                         .padding(.top, 60)
                     }
+
+                    Button {
+                        showWidgetHowTo = true
+                    } label: {
+                        Label("Как добавить виджет на экран блокировки", systemImage: "questionmark.circle")
+                            .font(.footnote)
+                    }
+                    .buttonStyle(.plain)
+                    .foregroundStyle(.secondary)
+                    .padding(.top, 4)
                 }
                 .padding()
             }
             .navigationTitle("Сейчас")
+            .sheet(isPresented: $showWidgetHowTo) {
+                WidgetHowToView()
+            }
+            #if DEBUG
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     Text("слот \(model.currentSlot)")
@@ -63,6 +78,7 @@ struct TodayView: View {
                         .foregroundStyle(.secondary)
                 }
             }
+            #endif
         }
     }
 }
@@ -125,6 +141,31 @@ private struct AppGroupWarning: View {
     }
 }
 
+/// `ContentUnavailableView` needs iOS 17, and the deployment target is 16.1 —
+/// lock screen widgets arrived in 16.1, so the app should run there too.
+private struct EmptyState: View {
+    let title: String
+    let systemImage: String
+    var description: String?
+
+    var body: some View {
+        VStack(spacing: 8) {
+            Image(systemName: systemImage)
+                .font(.system(size: 44, weight: .medium))
+                .foregroundStyle(.secondary)
+            Text(title)
+                .font(.title3.weight(.semibold))
+            if let description {
+                Text(description)
+                    .font(.subheadline)
+                    .foregroundStyle(.secondary)
+                    .multilineTextAlignment(.center)
+            }
+        }
+        .frame(maxWidth: .infinity)
+    }
+}
+
 struct HistoryView: View {
     @EnvironmentObject private var model: AppModel
 
@@ -135,8 +176,9 @@ struct HistoryView: View {
     }()
 
     var body: some View {
+        let recent = model.recentWords()
         NavigationStack {
-            List(model.recentWords(), id: \.slot) { item in
+            List(recent, id: \.slot) { item in
                 Button {
                     model.pinnedWord = item.word
                 } label: {
@@ -159,8 +201,8 @@ struct HistoryView: View {
             .listStyle(.plain)
             .navigationTitle("История")
             .overlay {
-                if model.recentWords().isEmpty {
-                    ContentUnavailableView("Пока пусто", systemImage: "clock")
+                if recent.isEmpty {
+                    EmptyState(title: "Пока пусто", systemImage: "clock")
                 }
             }
         }
