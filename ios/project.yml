@@ -44,11 +44,15 @@ targets:
   WordPeekWidgetExtension:
     type: app-extension
     platform: iOS
+    # words.json is declared here as a source with an explicit build phase,
+    # not under `resources:`: listing the same file in two targets' resources
+    # makes XcodeGen attach it to only one of them, and the widget silently
+    # ships without the dictionary — every card falls back to "serendipity".
     sources:
       - path: WordPeekWidget
       - path: Shared
-    resources:
       - path: WordPeek/Resources/words.json
+        buildPhase: resources
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.wordpeek.app.widget

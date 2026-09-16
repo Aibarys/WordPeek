@@ -20,7 +20,10 @@ struct WordTimelineEntry: TimelineEntry {
 /// between refreshes.
 struct WordProvider: TimelineProvider {
     /// Hard cap on entries per timeline. Well inside the widget extension's
-    /// memory budget while covering a full day at the 5-minute default.
+    /// memory budget while covering a full day at the 5-minute default. At the
+    /// 2-minute setting the cap shortens coverage to about ten hours; the
+    /// timeline then ends and the `.after` policy asks for a rebuild — two or
+    /// three extra refreshes a day, far inside the WidgetKit budget.
     static let maxEntries = 288
     /// Never plan further ahead than this; the app rebuilds long before it.
     static let maxHorizon: TimeInterval = 24 * 60 * 60
@@ -52,8 +55,9 @@ struct WordProvider: TimelineProvider {
         let slot = schedule.slotDuration
         let firstIndex = schedule.slotIndex(for: now)
 
-        // How many slots fit in the horizon, capped by the entry limit and by
-        // the queue itself, so a short queue does not emit hundreds of repeats.
+        // How many slots fit in the horizon, capped by the entry limit. A
+        // short queue still needs an entry per slot — it wraps, so the word
+        // keeps changing on every boundary even while the cycle repeats.
         let slotsInHorizon = slot > 0 ? Int(Self.maxHorizon / slot) : Self.maxEntries
         let count = max(1, min(Self.maxEntries, slotsInHorizon))
 

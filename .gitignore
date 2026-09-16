@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Xcode / XcodeGen — the project file is generated from ios/project.yml
+ios/WordPeek.xcodeproj/
+ios/DerivedData/
+ios/build/
+xcuserdata/
+
+# Python
+__pycache__/
+
+# Tool caches
+.impeccable/

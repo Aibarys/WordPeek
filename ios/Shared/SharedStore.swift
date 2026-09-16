@@ -27,12 +27,29 @@ final class SharedStore {
 
     /// Falls back to `.standard` so the app still runs (widget sharing aside)
     /// if the App Group entitlement is missing — a common first-build snag.
-    init(defaults: UserDefaults? = UserDefaults(suiteName: SharedStore.appGroupID)) {
-        self.defaults = defaults ?? .standard
+    init(defaults: UserDefaults? = nil) {
+        if let defaults {
+            self.defaults = defaults
+        } else if SharedStore.hasAppGroupContainer,
+                  let suite = UserDefaults(suiteName: SharedStore.appGroupID) {
+            self.defaults = suite
+        } else {
+            self.defaults = .standard
+        }
+    }
+
+    /// `UserDefaults(suiteName:)` returns a usable-looking object even when the
+    /// entitlement is missing — writes just silently stay private to the
+    /// process. The container URL is the check that actually fails without the
+    /// capability, so it is what both the warning and the fallback rely on.
+    private static var hasAppGroupContainer: Bool {
+        FileManager.default.containerURL(
+            forSecurityApplicationGroupIdentifier: SharedStore.appGroupID
+        ) != nil
     }
 
     var isAppGroupConfigured: Bool {
-        UserDefaults(suiteName: SharedStore.appGroupID) != nil
+        SharedStore.hasAppGroupContainer
     }
 
     // MARK: - Settings

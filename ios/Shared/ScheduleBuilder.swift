@@ -60,6 +60,8 @@ enum ScheduleBuilder {
             result.append(id)
 
             // Drain anything that has now moved far enough from its twin.
+            // One placement per step: draining greedily here empties the
+            // reserve early and leaves the tail with nothing to interleave.
             if !pending.isEmpty {
                 for (offset, held) in pending.enumerated() where !result.suffix(minimumGap).contains(held) {
                     result.append(held)
@@ -68,8 +70,28 @@ enum ScheduleBuilder {
                 }
             }
         }
-        result.append(contentsOf: pending)
+
+        // Ids still held when the pass ends cannot go at the tail, but may
+        // fit elsewhere: inserting between two items only widens every other
+        // pair's distance, so it cannot break spacing that already holds. An
+        // id with no valid position anywhere (one word owns the whole tail)
+        // is appended as-is — dropping it would skew the Leitner weights.
+        for held in pending {
+            result.insert(held, at: insertionIndex(for: held, in: result, minimumGap: minimumGap))
+        }
         return result
+    }
+
+    /// First position where `id` would sit at least `minimumGap` items from
+    /// every copy of itself on both sides; `endIndex` (a plain append) if no
+    /// such position exists.
+    private static func insertionIndex(for id: String, in result: [String], minimumGap: Int) -> Int {
+        for index in result.indices {
+            let before = result[max(0, index - minimumGap)..<index]
+            let after = result[index..<min(result.count, index + minimumGap)]
+            if !before.contains(id), !after.contains(id) { return index }
+        }
+        return result.count
     }
 }
 

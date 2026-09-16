@@ -91,6 +91,20 @@ final class ScheduleBuilderTests: XCTestCase {
         }
     }
 
+    func testTailPendingIsInterleavedWhenPossible() {
+        // "a" keeps getting deferred and "b" joins it; a naive tail append
+        // would emit "...a, a, b". The final drain must interleave what still
+        // fits instead of dumping the held ids next to their twins.
+        let spaced = ScheduleBuilder.spaceOutDuplicates(
+            ["a", "b", "a", "a", "b", "c", "d"], minimumGap: 3
+        )
+        XCTAssertEqual(spaced.sorted(), ["a", "a", "a", "b", "b", "c", "d"], "no id may be dropped")
+        for index in 1..<spaced.count {
+            XCTAssertNotEqual(spaced[index], spaced[index - 1],
+                              "adjacent duplicate at index \(index)")
+        }
+    }
+
     func testQueueIsCapped() {
         let pool = (0..<500).map { word("w\($0)") }
         let queue = ScheduleBuilder.buildQueue(from: pool, progress: [:], seed: 3)
