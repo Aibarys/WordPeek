@@ -16,7 +16,7 @@ options:
 settings:
   base:
     SWIFT_VERSION: "5.9"
-    DEVELOPMENT_TEAM: "" # your 10-character Apple Team ID
+    DEVELOPMENT_TEAM: "VTP9UAM5MH"
     CODE_SIGN_STYLE: Automatic
     MARKETING_VERSION: "1.0"
     CURRENT_PROJECT_VERSION: "1"

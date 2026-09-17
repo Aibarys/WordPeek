@@ -62,6 +62,13 @@ brew install xcodegen
 cd ios && xcodegen generate && open WordPeek.xcodeproj
 ```
 
+> **Если собираешь из терминала:** не указывай `-derivedDataPath` внутри
+> `~/Documents` или `~/Desktop` — iCloud Drive синхронизирует эти папки и
+> вешает на свежесозданные файлы расширенные атрибуты, из-за чего codesign
+> падает с ошибкой «resource fork, Finder information, or similar detritus
+> not allowed». Дефолтное расположение DerivedData (`~/Library/Developer/…`)
+> безопасно; Xcode из GUI использует его сам.
+
 ### Вручную, без XcodeGen
 
 1. Xcode → **File ▸ New ▸ Project ▸ iOS App**, имя `WordPeek`, интерфейс SwiftUI.
