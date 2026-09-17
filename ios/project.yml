@@ -18,7 +18,7 @@ settings:
     SWIFT_VERSION: "5.9"
     DEVELOPMENT_TEAM: "VTP9UAM5MH"
     CODE_SIGN_STYLE: Automatic
-    MARKETING_VERSION: "1.0"
+    MARKETING_VERSION: "1.1"
     CURRENT_PROJECT_VERSION: "1"
 
 targets:
@@ -73,6 +73,7 @@ targets:
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.wordpeek.app.tests
+        GENERATE_INFOPLIST_FILE: YES
 
 schemes:
   WordPeek:
