@@ -39,7 +39,7 @@ targets:
         INFOPLIST_FILE: WordPeek/Info.plist
         CODE_SIGN_ENTITLEMENTS: WordPeek/WordPeek.entitlements
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
-        TARGETED_DEVICE_FAMILY: "1,2"
+        TARGETED_DEVICE_FAMILY: "1"
 
   WordPeekWidgetExtension:
     type: app-extension
@@ -58,7 +58,7 @@ targets:
         PRODUCT_BUNDLE_IDENTIFIER: com.wordpeek.app.widget
         INFOPLIST_FILE: WordPeekWidget/Info.plist
         CODE_SIGN_ENTITLEMENTS: WordPeekWidget/WordPeekWidget.entitlements
-        TARGETED_DEVICE_FAMILY: "1,2"
+        TARGETED_DEVICE_FAMILY: "1"
 
   WordPeekTests:
     type: bundle.unit-test
