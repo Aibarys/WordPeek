@@ -229,4 +229,39 @@ final class WordDatabaseTests: XCTestCase {
         ])
         XCTAssertEqual(database.words(levels: [.a2]).count, 1)
     }
+
+    private func entry(_ id: String, word: String, ru: String) -> Word {
+        Word(id: id, word: word, ipa: "/x/", pos: "verb", level: .b1,
+             ru: ru, defEn: "definition", noteRu: "заметка",
+             example: "Example.", exampleRu: "Пример.", extraExamples: [],
+             topic: "core")
+    }
+
+    func testSearchRanksHeadwordPrefixBeforeSubstringBeforeTranslation() {
+        let database = WordDatabase(words: [
+            entry("1", word: "keep up with", ru: "поспевать за"),
+            entry("2", word: "borrow", ru: "брать взаймы"),
+            entry("3", word: "laboratory", ru: "лаборатория"),
+            entry("4", word: "lend", ru: "одалживать (bor-подобных нет)")
+        ])
+        let hits = database.search("bor").map(\.word)
+        XCTAssertEqual(hits.first, "borrow", "prefix match must rank first")
+        XCTAssertTrue(hits.contains("laboratory"), "substring match must be found")
+        XCTAssertFalse(hits.contains("keep up with"))
+    }
+
+    func testSearchFindsWordsByRussianTranslation() {
+        let database = WordDatabase(words: [
+            entry("1", word: "borrow", ru: "брать взаймы, одалживать"),
+            entry("2", word: "lend", ru: "давать взаймы")
+        ])
+        let hits = database.search("взаймы").map(\.word)
+        XCTAssertEqual(Set(hits), ["borrow", "lend"])
+        XCTAssertTrue(database.search("ВЗАЙМЫ").map(\.word).contains("borrow"),
+                      "search must ignore case")
+    }
+
+    func testEmptySearchReturnsEverything() {
+        XCTAssertEqual(WordDatabase.shared.search("  ").count, WordDatabase.shared.words.count)
+    }
 }

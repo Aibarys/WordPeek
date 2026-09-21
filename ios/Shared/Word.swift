@@ -96,6 +96,29 @@ struct WordDatabase {
         return filtered.isEmpty ? words : filtered
     }
 
+    /// Case-insensitive search over headwords and translations. Headword
+    /// prefix matches rank first, then headword substrings, then hits in the
+    /// Russian translation; ties break alphabetically. An empty query returns
+    /// the whole dictionary.
+    func search(_ query: String) -> [Word] {
+        let trimmed = query.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !trimmed.isEmpty else { return words }
+        let needle = trimmed.lowercased()
+
+        func rank(_ word: Word) -> Int? {
+            let headword = word.word.lowercased()
+            if headword.hasPrefix(needle) { return 0 }
+            if headword.contains(needle) { return 1 }
+            if word.ru.lowercased().contains(needle) { return 2 }
+            return nil
+        }
+
+        return words
+            .compactMap { word in rank(word).map { (word: word, rank: $0) } }
+            .sorted { ($0.rank, $0.word.word) < ($1.rank, $1.word.word) }
+            .map(\.word)
+    }
+
     /// Never fails at runtime: a missing or corrupt bundle resource yields a
     /// single placeholder entry rather than a crash inside a widget refresh,
     /// where a crash would silently blank the lock screen.

@@ -8,6 +8,9 @@ struct RootView: View {
             TodayView()
                 .tabItem { Label("Сейчас", systemImage: "sparkles") }
                 .tag(AppModel.Tab.today)
+            DictionaryView()
+                .tabItem { Label("Словарь", systemImage: "magnifyingglass") }
+                .tag(AppModel.Tab.dictionary)
             HistoryView()
                 .tabItem { Label("История", systemImage: "clock.arrow.circlepath") }
                 .tag(AppModel.Tab.history)
@@ -146,7 +149,7 @@ private struct AppGroupWarning: View {
 
 /// `ContentUnavailableView` needs iOS 17, and the deployment target is 16.1 —
 /// lock screen widgets arrived in 16.1, so the app should run there too.
-private struct EmptyState: View {
+struct EmptyState: View {
     let title: String
     let systemImage: String
     var description: String?

@@ -17,7 +17,7 @@ struct WordPeekApp: App {
 /// which is what the widget reads.
 @MainActor
 final class AppModel: ObservableObject {
-    enum Tab { case today, history, settings }
+    enum Tab { case today, dictionary, history, settings }
 
     @Published private(set) var currentWord: Word?
     @Published private(set) var currentSlot: Int = 0
