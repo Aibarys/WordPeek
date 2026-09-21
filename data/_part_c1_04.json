@@ -1,22 +1,390 @@
 [
-{"id":"c1-081","word":"mundane","ipa":"/mʌnˈdeɪn/","pos":"adj","level":"C1","ru":"будничный, рутинный, скучно-обыденный","def_en":"ordinary and not interesting","note_ru":"Лёгкое пренебрежение: «mundane tasks» — рутина. Не путать с worldly или global.","example":"Most of the job is fairly mundane.","example_ru":"Большая часть работы довольно рутинная.","topic":"work"},
-{"id":"c1-082","word":"futile","ipa":"/ˈfjuːtaɪl/","pos":"adj","level":"C1","ru":"тщетный, бесполезный","def_en":"certain to fail, so not worth doing","note_ru":"Сильнее useless: тут не просто бесполезно, а заведомо обречено. Существительное futility.","example":"Arguing with him was futile.","example_ru":"Спорить с ним было тщетно.","topic":"opinion"},
-{"id":"c1-083","word":"obsolete","ipa":"/ˈɒbsəliːt/","pos":"adj","level":"C1","ru":"устаревший, вышедший из употребления","def_en":"no longer used because something better exists","note_ru":"Не просто старый, а вытесненный новым: «the format is obsolete». «Planned obsolescence» — запланированное устаревание.","example":"That standard is now obsolete.","example_ru":"Этот стандарт теперь устарел.","topic":"tech"},
-{"id":"c1-084","word":"cumbersome","ipa":"/ˈkʌmbəsəm/","pos":"adj","level":"C1","ru":"громоздкий, неудобный в обращении","def_en":"large and awkward, or slow and overcomplicated","note_ru":"И про предметы, и про процессы: «a cumbersome approval process» — громоздкая процедура согласования.","example":"The approval process is cumbersome.","example_ru":"Процедура согласования громоздкая.","topic":"work"},
-{"id":"c1-085","word":"seamless","ipa":"/ˈsiːmləs/","pos":"adj","level":"C1","ru":"бесшовный, без сбоев и стыков","def_en":"happening smoothly with no noticeable joins or interruptions","note_ru":"От seam — шов. «A seamless transition» — переход, которого пользователь не замечает.","example":"The migration was almost seamless.","example_ru":"Миграция прошла почти бесшовно.","topic":"tech"},
-{"id":"c1-086","word":"versatile","ipa":"/ˈvɜːsətaɪl/","pos":"adj","level":"C1","ru":"универсальный, многофункциональный; разносторонний","def_en":"able to be used for many purposes, or good at many things","note_ru":"И про вещи, и про людей: «a versatile tool», «a versatile musician». Всегда похвала.","example":"It is a surprisingly versatile tool.","example_ru":"Это на удивление универсальный инструмент.","topic":"tech"},
-{"id":"c1-087","word":"concise","ipa":"/kənˈsaɪs/","pos":"adj","level":"C1","ru":"краткий и ёмкий","def_en":"saying a lot in few words","note_ru":"Похвала, в отличие от short: кратко, но без потери смысла. «Keep it concise».","example":"Try to keep the summary concise.","example_ru":"Постарайся сделать резюме кратким и ёмким.","topic":"language"},
-{"id":"c1-088","word":"elaborate","ipa":"/ɪˈlæbərət/","pos":"adj","level":"C1","ru":"детально проработанный, замысловатый","def_en":"complicated and carefully worked out in detail","note_ru":"Прилагательное «илЭбэрэт», глагол «илЭбэрейт» — раскрыть подробнее: «could you elaborate?»","example":"They had an elaborate plan for the launch.","example_ru":"У них был детально проработанный план запуска.","topic":"formal"},
-{"id":"c1-089","word":"ambivalent","ipa":"/æmˈbɪvələnt/","pos":"adj","level":"C1","ru":"испытывающий смешанные чувства","def_en":"having two opposing feelings about something at once","note_ru":"Не «безразличный» — наоборот, чувств два и они противоположны. Существительное ambivalence.","example":"I am ambivalent about the redesign.","example_ru":"У меня смешанные чувства по поводу редизайна.","topic":"emotions"},
-{"id":"c1-090","word":"nostalgic","ipa":"/nɒˈstældʒɪk/","pos":"adj","level":"C1","ru":"ностальгический, тоскующий по прошлому","def_en":"feeling a sentimental longing for the past","note_ru":"«Nostalgic about» или «for». Существительное nostalgia — ударение на второй слог.","example":"The photos made everyone nostalgic.","example_ru":"Фотографии вызвали у всех ностальгию.","topic":"emotions"},
-{"id":"c1-091","word":"spearhead","ipa":"/ˈspɪəhed/","pos":"verb","level":"C1","ru":"возглавить, стать движущей силой","def_en":"to lead an important effort or campaign","note_ru":"Буквально «наконечник копья». «Spearhead the initiative» — возглавить инициативу.","example":"She spearheaded the whole campaign.","example_ru":"Она возглавила всю кампанию.","topic":"work"},
-{"id":"c1-092","word":"overhaul","ipa":"/ˈəʊvəhɔːl/","pos":"noun","level":"C1","ru":"капитальная переработка, полный пересмотр","def_en":"a complete change or repair of a system","note_ru":"«A complete overhaul» — полная переделка. И глагол: «overhaul the process».","example":"The system needs a complete overhaul.","example_ru":"Система нуждается в полной переработке.","topic":"work"},
-{"id":"c1-093","word":"streamline","ipa":"/ˈstriːmlaɪn/","pos":"verb","level":"C1","ru":"упростить, избавить от лишних шагов","def_en":"to make a process simpler and more efficient","note_ru":"Из аэродинамики — обтекаемая форма. «Streamline the workflow» — оптимизировать процесс.","example":"We streamlined the whole approval flow.","example_ru":"Мы упростили всю процедуру согласования.","topic":"work"},
-{"id":"c1-094","word":"phase out","ipa":"/feɪz aʊt/","pos":"phrasal verb","level":"C1","ru":"постепенно выводить из использования","def_en":"to stop using something gradually over time","note_ru":"Ключевое слово — постепенно. Противоположность — phase in, постепенно вводить.","example":"They are phasing out the old format.","example_ru":"Они постепенно выводят старый формат из обращения.","topic":"phrasal"},
-{"id":"c1-095","word":"scale back","ipa":"/skeɪl bæk/","pos":"phrasal verb","level":"C1","ru":"свернуть, урезать масштаб","def_en":"to reduce the size or scope of something","note_ru":"«Scale back the plans» — урезать планы. Обратное — scale up, наращивать.","example":"We had to scale back our plans.","example_ru":"Нам пришлось урезать наши планы.","topic":"phrasal"},
-{"id":"c1-096","word":"in lieu of","ipa":"/ɪn ˈluː əv/","pos":"phrase","level":"C1","ru":"вместо, взамен","def_en":"instead of something else","note_ru":"Читается «ин лу ов», из французского. «Time off in lieu» — отгул вместо оплаты сверхурочных.","example":"They offered vouchers in lieu of a refund.","example_ru":"Они предложили сертификаты вместо возврата денег.","topic":"formal"},
-{"id":"c1-097","word":"notwithstanding","ipa":"/ˌnɒtwɪθˈstændɪŋ/","pos":"preposition","level":"C1","ru":"несмотря на","def_en":"in spite of something","note_ru":"Формально и книжно. Уникально тем, что может стоять и после существительного: «the delays notwithstanding».","example":"Notwithstanding the cost, it was worth doing.","example_ru":"Несмотря на стоимость, это стоило сделать.","topic":"formal"},
-{"id":"c1-098","word":"whereby","ipa":"/weəˈbaɪ/","pos":"adverb","level":"C1","ru":"посредством чего, при котором","def_en":"by which; through which a thing happens","note_ru":"Вводит описание механизма: «a system whereby users vote» — система, при которой пользователи голосуют.","example":"They set up a scheme whereby staff can swap shifts.","example_ru":"Они ввели схему, при которой сотрудники могут меняться сменами.","topic":"formal"},
-{"id":"c1-099","word":"thereby","ipa":"/ˌðeəˈbaɪ/","pos":"adverb","level":"C1","ru":"тем самым, вследствие этого","def_en":"as a result of the action just mentioned","note_ru":"Обычно с -ing: «thereby reducing costs» — тем самым снижая издержки. Только письменная речь.","example":"The change removes a step, thereby saving time.","example_ru":"Изменение убирает один шаг, тем самым экономя время.","topic":"formal"},
-{"id":"c1-100","word":"hence","ipa":"/hens/","pos":"adverb","level":"C1","ru":"отсюда, следовательно; отныне","def_en":"for this reason; or from now (with a time period)","note_ru":"Часто без глагола: «hence the delay» — отсюда и задержка. Ещё «two weeks hence» — через две недели.","example":"The server was down, hence the delay.","example_ru":"Сервер лежал, отсюда и задержка.","topic":"formal"}
+ {
+  "id": "c1-081",
+  "word": "mundane",
+  "ipa": "/mʌnˈdeɪn/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "будничный, рутинный, скучно-обыденный",
+  "def_en": "ordinary and not interesting",
+  "note_ru": "Лёгкое пренебрежение: «mundane tasks» — рутина. Не путать с worldly или global.",
+  "example": "Most of the job is fairly mundane.",
+  "example_ru": "Большая часть работы довольно рутинная.",
+  "examples_extra": [
+   {
+    "en": "Even mundane tasks feel lighter with music.",
+    "ru": "Даже рутинные дела с музыкой даются легче."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-082",
+  "word": "futile",
+  "ipa": "/ˈfjuːtaɪl/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "тщетный, бесполезный",
+  "def_en": "certain to fail, so not worth doing",
+  "note_ru": "Сильнее useless: тут не просто бесполезно, а заведомо обречено. Существительное futility.",
+  "example": "Arguing with him was futile.",
+  "example_ru": "Спорить с ним было тщетно.",
+  "examples_extra": [
+   {
+    "en": "It's futile to argue about taste.",
+    "ru": "Спорить о вкусах бесполезно."
+   }
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "c1-083",
+  "word": "obsolete",
+  "ipa": "/ˈɒbsəliːt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "устаревший, вышедший из употребления",
+  "def_en": "no longer used because something better exists",
+  "note_ru": "Не просто старый, а вытесненный новым: «the format is obsolete». «Planned obsolescence» — запланированное устаревание.",
+  "example": "That standard is now obsolete.",
+  "example_ru": "Этот стандарт теперь устарел.",
+  "examples_extra": [
+   {
+    "en": "Paper maps aren't obsolete in the mountains.",
+    "ru": "В горах бумажные карты не устарели."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "c1-084",
+  "word": "cumbersome",
+  "ipa": "/ˈkʌmbəsəm/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "громоздкий, неудобный в обращении",
+  "def_en": "large and awkward, or slow and overcomplicated",
+  "note_ru": "И про предметы, и про процессы: «a cumbersome approval process» — громоздкая процедура согласования.",
+  "example": "The approval process is cumbersome.",
+  "example_ru": "Процедура согласования громоздкая.",
+  "examples_extra": [
+   {
+    "en": "The old export tool was slow and cumbersome.",
+    "ru": "Старый инструмент экспорта был медленным и громоздким."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-085",
+  "word": "seamless",
+  "ipa": "/ˈsiːmləs/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "бесшовный, без сбоев и стыков",
+  "def_en": "happening smoothly with no noticeable joins or interruptions",
+  "note_ru": "От seam — шов. «A seamless transition» — переход, которого пользователь не замечает.",
+  "example": "The migration was almost seamless.",
+  "example_ru": "Миграция прошла почти бесшовно.",
+  "examples_extra": [
+   {
+    "en": "Payment in the app is completely seamless.",
+    "ru": "Оплата в приложении происходит совершенно бесшовно."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "c1-086",
+  "word": "versatile",
+  "ipa": "/ˈvɜːsətaɪl/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "универсальный, многофункциональный; разносторонний",
+  "def_en": "able to be used for many purposes, or good at many things",
+  "note_ru": "И про вещи, и про людей: «a versatile tool», «a versatile musician». Всегда похвала.",
+  "example": "It is a surprisingly versatile tool.",
+  "example_ru": "Это на удивление универсальный инструмент.",
+  "examples_extra": [
+   {
+    "en": "Eggs are the most versatile ingredient I know.",
+    "ru": "Яйца — самый универсальный ингредиент из всех, что я знаю."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "c1-087",
+  "word": "concise",
+  "ipa": "/kənˈsaɪs/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "краткий и ёмкий",
+  "def_en": "saying a lot in few words",
+  "note_ru": "Похвала, в отличие от short: кратко, но без потери смысла. «Keep it concise».",
+  "example": "Try to keep the summary concise.",
+  "example_ru": "Постарайся сделать резюме кратким и ёмким.",
+  "examples_extra": [
+   {
+    "en": "Keep the answer concise: two sentences.",
+    "ru": "Сформулируйте ответ кратко: два предложения."
+   }
+  ],
+  "topic": "language"
+ },
+ {
+  "id": "c1-088",
+  "word": "elaborate",
+  "ipa": "/ɪˈlæbərət/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "детально проработанный, замысловатый",
+  "def_en": "complicated and carefully worked out in detail",
+  "note_ru": "Прилагательное «илЭбэрэт», глагол «илЭбэрейт» — раскрыть подробнее: «could you elaborate?»",
+  "example": "They had an elaborate plan for the launch.",
+  "example_ru": "У них был детально проработанный план запуска.",
+  "examples_extra": [
+   {
+    "en": "The cake had elaborate sugar decorations.",
+    "ru": "Торт был украшен замысловатым сахарным декором."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-089",
+  "word": "ambivalent",
+  "ipa": "/æmˈbɪvələnt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "испытывающий смешанные чувства",
+  "def_en": "having two opposing feelings about something at once",
+  "note_ru": "Не «безразличный» — наоборот, чувств два и они противоположны. Существительное ambivalence.",
+  "example": "I am ambivalent about the redesign.",
+  "example_ru": "У меня смешанные чувства по поводу редизайна.",
+  "examples_extra": [
+   {
+    "en": "He's ambivalent about moving abroad.",
+    "ru": "Он испытывает смешанные чувства по поводу переезда за границу."
+   }
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "c1-090",
+  "word": "nostalgic",
+  "ipa": "/nɒˈstældʒɪk/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "ностальгический, тоскующий по прошлому",
+  "def_en": "feeling a sentimental longing for the past",
+  "note_ru": "«Nostalgic about» или «for». Существительное nostalgia — ударение на второй слог.",
+  "example": "The photos made everyone nostalgic.",
+  "example_ru": "Фотографии вызвали у всех ностальгию.",
+  "examples_extra": [
+   {
+    "en": "The song makes me nostalgic for the nineties.",
+    "ru": "Эта песня вызывает у меня ностальгию по девяностым."
+   }
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "c1-091",
+  "word": "spearhead",
+  "ipa": "/ˈspɪəhed/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "возглавить, стать движущей силой",
+  "def_en": "to lead an important effort or campaign",
+  "note_ru": "Буквально «наконечник копья». «Spearhead the initiative» — возглавить инициативу.",
+  "example": "She spearheaded the whole campaign.",
+  "example_ru": "Она возглавила всю кампанию.",
+  "examples_extra": [
+   {
+    "en": "He spearheaded the move to open source.",
+    "ru": "Он возглавил переход на открытый код."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-092",
+  "word": "overhaul",
+  "ipa": "/ˈəʊvəhɔːl/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "капитальная переработка, полный пересмотр",
+  "def_en": "a complete change or repair of a system",
+  "note_ru": "«A complete overhaul» — полная переделка. И глагол: «overhaul the process».",
+  "example": "The system needs a complete overhaul.",
+  "example_ru": "Система нуждается в полной переработке.",
+  "examples_extra": [
+   {
+    "en": "The tax code got its first overhaul in decades.",
+    "ru": "Налоговый кодекс впервые за десятилетия полностью пересмотрели."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-093",
+  "word": "streamline",
+  "ipa": "/ˈstriːmlaɪn/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "упростить, избавить от лишних шагов",
+  "def_en": "to make a process simpler and more efficient",
+  "note_ru": "Из аэродинамики — обтекаемая форма. «Streamline the workflow» — оптимизировать процесс.",
+  "example": "We streamlined the whole approval flow.",
+  "example_ru": "Мы упростили всю процедуру согласования.",
+  "examples_extra": [
+   {
+    "en": "Streamlining onboarding cut a week of delays.",
+    "ru": "Упрощение онбординга убрало неделю задержек."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-094",
+  "word": "phase out",
+  "ipa": "/feɪz aʊt/",
+  "pos": "phrasal verb",
+  "level": "C1",
+  "ru": "постепенно выводить из использования",
+  "def_en": "to stop using something gradually over time",
+  "note_ru": "Ключевое слово — постепенно. Противоположность — phase in, постепенно вводить.",
+  "example": "They are phasing out the old format.",
+  "example_ru": "Они постепенно выводят старый формат из обращения.",
+  "examples_extra": [
+   {
+    "en": "The airline is phasing out its oldest planes.",
+    "ru": "Авиакомпания постепенно выводит из эксплуатации свои самые старые самолёты."
+   },
+   {
+    "en": "Support for the old API will be phased out next year.",
+    "ru": "Поддержку старого API постепенно свернут в следующем году."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "c1-095",
+  "word": "scale back",
+  "ipa": "/skeɪl bæk/",
+  "pos": "phrasal verb",
+  "level": "C1",
+  "ru": "свернуть, урезать масштаб",
+  "def_en": "to reduce the size or scope of something",
+  "note_ru": "«Scale back the plans» — урезать планы. Обратное — scale up, наращивать.",
+  "example": "We had to scale back our plans.",
+  "example_ru": "Нам пришлось урезать наши планы.",
+  "examples_extra": [
+   {
+    "en": "They scaled back the festival to one day.",
+    "ru": "Фестиваль урезали до одного дня."
+   },
+   {
+    "en": "We scaled back our expectations after the pilot.",
+    "ru": "После пилота мы умерили ожидания."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "c1-096",
+  "word": "in lieu of",
+  "ipa": "/ɪn ˈluː əv/",
+  "pos": "phrase",
+  "level": "C1",
+  "ru": "вместо, взамен",
+  "def_en": "instead of something else",
+  "note_ru": "Читается «ин лу ов», из французского. «Time off in lieu» — отгул вместо оплаты сверхурочных.",
+  "example": "They offered vouchers in lieu of a refund.",
+  "example_ru": "Они предложили сертификаты вместо возврата денег.",
+  "examples_extra": [
+   {
+    "en": "He took extra holiday in lieu of overtime pay.",
+    "ru": "Он взял дополнительный отпуск вместо оплаты переработок."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-097",
+  "word": "notwithstanding",
+  "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+  "pos": "preposition",
+  "level": "C1",
+  "ru": "несмотря на",
+  "def_en": "in spite of something",
+  "note_ru": "Формально и книжно. Уникально тем, что может стоять и после существительного: «the delays notwithstanding».",
+  "example": "Notwithstanding the cost, it was worth doing.",
+  "example_ru": "Несмотря на стоимость, это стоило сделать.",
+  "examples_extra": [
+   {
+    "en": "Notwithstanding the rain, the match went ahead.",
+    "ru": "Несмотря на дождь, матч состоялся."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-098",
+  "word": "whereby",
+  "ipa": "/weəˈbaɪ/",
+  "pos": "adverb",
+  "level": "C1",
+  "ru": "посредством чего, при котором",
+  "def_en": "by which; through which a thing happens",
+  "note_ru": "Вводит описание механизма: «a system whereby users vote» — система, при которой пользователи голосуют.",
+  "example": "They set up a scheme whereby staff can swap shifts.",
+  "example_ru": "Они ввели схему, при которой сотрудники могут меняться сменами.",
+  "examples_extra": [
+   {
+    "en": "There's a rule whereby guests register at the desk.",
+    "ru": "Есть правило, по которому гости регистрируются на стойке."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-099",
+  "word": "thereby",
+  "ipa": "/ˌðeəˈbaɪ/",
+  "pos": "adverb",
+  "level": "C1",
+  "ru": "тем самым, вследствие этого",
+  "def_en": "as a result of the action just mentioned",
+  "note_ru": "Обычно с -ing: «thereby reducing costs» — тем самым снижая издержки. Только письменная речь.",
+  "example": "The change removes a step, thereby saving time.",
+  "example_ru": "Изменение убирает один шаг, тем самым экономя время.",
+  "examples_extra": [
+   {
+    "en": "We cache the results, thereby halving the load.",
+    "ru": "Мы кешируем результаты, тем самым вдвое снижая нагрузку."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-100",
+  "word": "hence",
+  "ipa": "/hens/",
+  "pos": "adverb",
+  "level": "C1",
+  "ru": "отсюда, следовательно; отныне",
+  "def_en": "for this reason; or from now (with a time period)",
+  "note_ru": "Часто без глагола: «hence the delay» — отсюда и задержка. Ещё «two weeks hence» — через две недели.",
+  "example": "The server was down, hence the delay.",
+  "example_ru": "Сервер лежал, отсюда и задержка.",
+  "examples_extra": [
+   {
+    "en": "It's a prototype, hence the rough edges.",
+    "ru": "Это прототип — отсюда и шероховатости."
+   }
+  ],
+  "topic": "formal"
+ }
 ]

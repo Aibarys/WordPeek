@@ -1,32 +1,572 @@
 [
-{"id":"a2-021","word":"advice","ipa":"/ədˈvaɪs/","pos":"noun","level":"A2","ru":"совет, советы","def_en":"an opinion about what someone should do","note_ru":"Неисчисляемое: нельзя «an advice» или «advices». Один совет — «a piece of advice». Глагол advise пишется через s и звучит «эдвАйз».","example":"Can I give you a piece of advice?","example_ru":"Можно дать тебе совет?","topic":"communication"},
-{"id":"a2-022","word":"luggage","ipa":"/ˈlʌɡɪdʒ/","pos":"noun","level":"A2","ru":"багаж","def_en":"the bags you take when travelling","note_ru":"Неисчисляемое: «my luggage is heavy», а не «luggages are». Одно место багажа — «a piece of luggage».","example":"We left our luggage at the hotel.","example_ru":"Мы оставили багаж в отеле.","topic":"travel"},
-{"id":"a2-023","word":"make a mistake","ipa":"/meɪk ə mɪˈsteɪk/","pos":"phrase","level":"A2","ru":"совершить ошибку","def_en":"to do something wrongly","note_ru":"Именно make, а не do. «Do a mistake» — калька с русского «сделать ошибку», по-английски так не говорят.","example":"Everyone makes mistakes at first.","example_ru":"Поначалу все совершают ошибки.","topic":"core"},
-{"id":"a2-024","word":"queue","ipa":"/kjuː/","pos":"noun","level":"A2","ru":"очередь","def_en":"a line of people waiting for something","note_ru":"Читается «кью» — пять букв, один звук. Британское слово; в США говорят line. Глагол: «queue up» — стоять в очереди.","example":"There was a long queue at the till.","example_ru":"На кассе была длинная очередь.","topic":"city"},
-{"id":"a2-025","word":"remind","ipa":"/rɪˈmaɪnd/","pos":"verb","level":"A2","ru":"напоминать","def_en":"to make someone remember something","note_ru":"remind — напомнить другому, remember — вспомнить самому. «Remind me to call» — напомни мне позвонить.","example":"Remind me to buy milk.","example_ru":"Напомни мне купить молока.","topic":"core"},
-{"id":"a2-026","word":"prefer","ipa":"/prɪˈfɜː/","pos":"verb","level":"A2","ru":"предпочитать","def_en":"to like one thing more than another","note_ru":"prefer A to B — предпочитать А чему-то Б. Не «prefer than». Удвоение r: preferred, preferring.","example":"I prefer tea to coffee.","example_ru":"Я предпочитаю чай кофе.","topic":"core"},
-{"id":"a2-027","word":"spend","ipa":"/spend/","pos":"verb","level":"A2","ru":"тратить деньги; проводить время","def_en":"to use money, or to pass time doing something","note_ru":"spend money on something, но spend time doing something. Неправильный глагол: spend — spent — spent.","example":"We spent the whole weekend cooking.","example_ru":"Мы провели все выходные за готовкой.","topic":"money"},
-{"id":"a2-028","word":"enjoy","ipa":"/ɪnˈdʒɔɪ/","pos":"verb","level":"A2","ru":"получать удовольствие от","def_en":"to get pleasure from something","note_ru":"После enjoy идёт -ing, а не инфинитив: «I enjoy reading», не «enjoy to read». Ещё нужен объект: «Did you enjoy it?»","example":"I really enjoyed working with them.","example_ru":"Мне было по-настоящему приятно с ними работать.","topic":"emotions"},
-{"id":"a2-029","word":"decide","ipa":"/dɪˈsaɪd/","pos":"verb","level":"A2","ru":"решать, принимать решение","def_en":"to choose what to do after thinking","note_ru":"decide to do something. Существительное — decision: «make a decision», а не «take a decision» в американском варианте.","example":"They decided to stay one more night.","example_ru":"Они решили остаться ещё на одну ночь.","topic":"thinking"},
-{"id":"a2-030","word":"traffic","ipa":"/ˈtræfɪk/","pos":"noun","level":"A2","ru":"дорожное движение, пробки","def_en":"the cars and other vehicles on the road","note_ru":"Неисчисляемое: «the traffic is bad», а не «traffics are». Пробка целиком — «a traffic jam».","example":"We were stuck in traffic for an hour.","example_ru":"Мы час простояли в пробке.","topic":"city"},
-{"id":"a2-031","word":"news","ipa":"/njuːz/","pos":"noun","level":"A2","ru":"новости, новость","def_en":"information about recent events","note_ru":"Выглядит как множественное, но глагол в единственном: «the news is good». И это неисчисляемое — «a news» нельзя, только «a piece of news».","example":"The news was better than we expected.","example_ru":"Новости оказались лучше, чем мы ожидали.","topic":"media"},
-{"id":"a2-032","word":"wait for","ipa":"/weɪt fɔː/","pos":"phrase","level":"A2","ru":"ждать кого-то или чего-то","def_en":"to stay somewhere until someone or something comes","note_ru":"Предлог for обязателен: «wait for me», а не «wait me». Русское «ждать кого-то» без предлога сбивает.","example":"I waited for her outside the station.","example_ru":"Я ждал её у станции.","topic":"core"},
-{"id":"a2-033","word":"worry","ipa":"/ˈwʌri/","pos":"verb","level":"A2","ru":"волноваться, переживать","def_en":"to feel anxious about something","note_ru":"worry about something. «Don't worry» — не переживай. Прилагательное worried — обеспокоенный.","example":"Stop worrying about the exam.","example_ru":"Хватит переживать из-за экзамена.","topic":"emotions"},
-{"id":"a2-034","word":"improve","ipa":"/ɪmˈpruːv/","pos":"verb","level":"A2","ru":"улучшать, улучшаться","def_en":"to get better, or to make something better","note_ru":"Работает в обе стороны без частицы: «my English is improving» и «I improved my English».","example":"Her pronunciation has improved a lot.","example_ru":"Её произношение сильно улучшилось.","topic":"learning"},
-{"id":"a2-035","word":"borrow money","ipa":"/ˈbɒrəʊ ˈmʌni/","pos":"phrase","level":"A2","ru":"занимать деньги","def_en":"to take money that you will pay back","note_ru":"borrow money from somebody — занять у кого-то. Дать в долг — lend money to somebody.","example":"He borrowed money from his brother.","example_ru":"Он занял денег у брата.","topic":"money"},
-{"id":"a2-036","word":"share","ipa":"/ʃeə/","pos":"verb","level":"A2","ru":"делить, делиться","def_en":"to use or have something together with others","note_ru":"share something with somebody. Существительное share — доля, а в финансах — акция.","example":"We share an office with the design team.","example_ru":"Мы делим кабинет с командой дизайна.","topic":"work"},
-{"id":"a2-037","word":"notice","ipa":"/ˈnəʊtɪs/","pos":"verb","level":"A2","ru":"замечать","def_en":"to see or become aware of something","note_ru":"Как существительное — объявление или предупреждение: «two weeks' notice» — предупредить за две недели.","example":"Did you notice the new sign?","example_ru":"Ты заметил новую вывеску?","topic":"core"},
-{"id":"a2-038","word":"do you mind","ipa":"/duː juː maɪnd/","pos":"phrase","level":"A2","ru":"вы не против?","def_en":"a polite way of asking permission","note_ru":"Ловушка в ответе: «No» значит «не против, пожалуйста». Согласие через «Yes» звучит как отказ.","example":"Do you mind if I open the window?","example_ru":"Вы не против, если я открою окно?","topic":"communication"},
-{"id":"a2-039","word":"by the way","ipa":"/baɪ ðə weɪ/","pos":"phrase","level":"A2","ru":"кстати, между прочим","def_en":"used to add something not connected to the main topic","note_ru":"В переписке сокращают до BTW. Ставится в начале или в конце фразы.","example":"By the way, your parcel arrived.","example_ru":"Кстати, твоя посылка пришла.","topic":"communication"},
-{"id":"a2-040","word":"at least","ipa":"/ət liːst/","pos":"phrase","level":"A2","ru":"по крайней мере, хотя бы","def_en":"not less than; used to mention one good point","note_ru":"Два применения: «at least ten people» — не меньше десяти, и «at least it stopped raining» — зато дождь кончился.","example":"It was expensive, but at least it works.","example_ru":"Было дорого, но зато работает.","topic":"core"},
-{"id":"a2-041","word":"cost","ipa":"/kɒst/","pos":"verb","level":"A2","ru":"стоить","def_en":"to have a particular price","note_ru":"Неправильный глагол без изменений: cost — cost — cost. «How much does it cost?» — вопрос про цену.","example":"The tickets cost forty euros each.","example_ru":"Билеты стоят по сорок евро.","topic":"money"},
-{"id":"a2-042","word":"offer","ipa":"/ˈɒfə/","pos":"verb","level":"A2","ru":"предлагать (сделать что-то или что-то дать)","def_en":"to say you are willing to give or do something","note_ru":"offer to do something. Отличается от suggest: offer — предложить свою помощь или вещь, suggest — предложить идею.","example":"She offered to drive me home.","example_ru":"Она предложила отвезти меня домой.","topic":"communication"},
-{"id":"a2-043","word":"promise","ipa":"/ˈprɒmɪs/","pos":"verb","level":"A2","ru":"обещать","def_en":"to say firmly that you will do something","note_ru":"Ударение на первый слог, вторая часть звучит «мис». «Keep a promise» — сдержать обещание, «break a promise» — нарушить.","example":"I promise I will call you back.","example_ru":"Обещаю, я тебе перезвоню.","topic":"communication"},
-{"id":"a2-044","word":"hurt","ipa":"/hɜːt/","pos":"verb","level":"A2","ru":"болеть; причинять боль, обижать","def_en":"to feel pain, or to cause pain to someone","note_ru":"Неизменяемый неправильный глагол: hurt — hurt — hurt. «My back hurts» — спина болит. Ещё об обиде: «you hurt her feelings».","example":"My knee still hurts a bit.","example_ru":"Колено всё ещё немного болит.","topic":"health"},
-{"id":"a2-045","word":"chance","ipa":"/tʃɑːns/","pos":"noun","level":"A2","ru":"шанс, возможность; случайность","def_en":"an opportunity, or the possibility of something happening","note_ru":"«A chance to do something» — возможность. «By chance» — случайно. Не путать с luck (удача).","example":"This is your chance to say something.","example_ru":"Это твой шанс что-то сказать.","topic":"core"},
-{"id":"a2-046","word":"save","ipa":"/seɪv/","pos":"verb","level":"A2","ru":"копить; экономить; сохранять; спасать","def_en":"to keep money, to use less of something, or to rescue","note_ru":"Четыре значения сразу: save money (копить), save time (экономить), save a file (сохранить), save a life (спасти).","example":"Buying in bulk saves a lot of money.","example_ru":"Покупка оптом сильно экономит деньги.","topic":"money"},
-{"id":"a2-047","word":"weather","ipa":"/ˈweðə/","pos":"noun","level":"A2","ru":"погода","def_en":"the temperature, rain, wind and sun at a certain time","note_ru":"Неисчисляемое: «the weather is nice», не «weathers». Омофон whether (ли) — пишутся по-разному, звучат одинаково.","example":"The weather has been awful all week.","example_ru":"Погода всю неделю была ужасная.","topic":"nature"},
-{"id":"a2-048","word":"staff","ipa":"/stɑːf/","pos":"noun","level":"A2","ru":"персонал, сотрудники","def_en":"the people who work for an organisation","note_ru":"Это уже множество: «the staff are friendly». «A staff» об одном человеке не говорят — нужен «a staff member».","example":"The staff were incredibly helpful.","example_ru":"Персонал был невероятно услужлив.","topic":"work"},
-{"id":"a2-049","word":"almost","ipa":"/ˈɔːlməʊst/","pos":"adverb","level":"A2","ru":"почти","def_en":"very nearly but not completely","note_ru":"Синоним nearly. Перед never, nothing, nobody используют almost: «almost never» — почти никогда.","example":"We are almost there.","example_ru":"Мы почти на месте.","topic":"core"},
-{"id":"a2-050","word":"ill","ipa":"/ɪl/","pos":"adj","level":"A2","ru":"больной, нездоровый","def_en":"not healthy; suffering from a disease","note_ru":"В британском чаще ill, в американском sick. «Be off ill» — быть на больничном. Sick в BrE ещё значит «тошнит».","example":"He has been ill since Monday.","example_ru":"Он болеет с понедельника.","topic":"health"}
+ {
+  "id": "a2-021",
+  "word": "advice",
+  "ipa": "/ədˈvaɪs/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "совет, советы",
+  "def_en": "an opinion about what someone should do",
+  "note_ru": "Неисчисляемое: нельзя «an advice» или «advices». Один совет — «a piece of advice». Глагол advise пишется через s и звучит «эдвАйз».",
+  "example": "Can I give you a piece of advice?",
+  "example_ru": "Можно дать тебе совет?",
+  "examples_extra": [
+   {
+    "en": "His advice saved me a lot of time.",
+    "ru": "Его совет сэкономил мне кучу времени."
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-022",
+  "word": "luggage",
+  "ipa": "/ˈlʌɡɪdʒ/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "багаж",
+  "def_en": "the bags you take when travelling",
+  "note_ru": "Неисчисляемое: «my luggage is heavy», а не «luggages are». Одно место багажа — «a piece of luggage».",
+  "example": "We left our luggage at the hotel.",
+  "example_ru": "Мы оставили багаж в отеле.",
+  "examples_extra": [
+   {
+    "en": "You can take one piece of hand luggage.",
+    "ru": "Можно взять одну единицу ручной клади."
+   }
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "a2-023",
+  "word": "make a mistake",
+  "ipa": "/meɪk ə mɪˈsteɪk/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "совершить ошибку",
+  "def_en": "to do something wrongly",
+  "note_ru": "Именно make, а не do. «Do a mistake» — калька с русского «сделать ошибку», по-английски так не говорят.",
+  "example": "Everyone makes mistakes at first.",
+  "example_ru": "Поначалу все совершают ошибки.",
+  "examples_extra": [
+   {
+    "en": "I made a mistake in the address.",
+    "ru": "Я ошибся в адресе."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-024",
+  "word": "queue",
+  "ipa": "/kjuː/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "очередь",
+  "def_en": "a line of people waiting for something",
+  "note_ru": "Читается «кью» — пять букв, один звук. Британское слово; в США говорят line. Глагол: «queue up» — стоять в очереди.",
+  "example": "There was a long queue at the till.",
+  "example_ru": "На кассе была длинная очередь.",
+  "examples_extra": [
+   {
+    "en": "We stood in the queue for forty minutes.",
+    "ru": "Мы простояли в очереди сорок минут."
+   }
+  ],
+  "topic": "city"
+ },
+ {
+  "id": "a2-025",
+  "word": "remind",
+  "ipa": "/rɪˈmaɪnd/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "напоминать",
+  "def_en": "to make someone remember something",
+  "note_ru": "remind — напомнить другому, remember — вспомнить самому. «Remind me to call» — напомни мне позвонить.",
+  "example": "Remind me to buy milk.",
+  "example_ru": "Напомни мне купить молока.",
+  "examples_extra": [
+   {
+    "en": "This song reminds me of school.",
+    "ru": "Эта песня напоминает мне о школе."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-026",
+  "word": "prefer",
+  "ipa": "/prɪˈfɜː/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "предпочитать",
+  "def_en": "to like one thing more than another",
+  "note_ru": "prefer A to B — предпочитать А чему-то Б. Не «prefer than». Удвоение r: preferred, preferring.",
+  "example": "I prefer tea to coffee.",
+  "example_ru": "Я предпочитаю чай кофе.",
+  "examples_extra": [
+   {
+    "en": "Which do you prefer, the blue one or the red one?",
+    "ru": "Какой ты предпочитаешь — синий или красный?"
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-027",
+  "word": "spend",
+  "ipa": "/spend/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "тратить деньги; проводить время",
+  "def_en": "to use money, or to pass time doing something",
+  "note_ru": "spend money on something, но spend time doing something. Неправильный глагол: spend — spent — spent.",
+  "example": "We spent the whole weekend cooking.",
+  "example_ru": "Мы провели все выходные за готовкой.",
+  "examples_extra": [
+   {
+    "en": "Don't spend all your money on clothes.",
+    "ru": "Не трать все деньги на одежду."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "a2-028",
+  "word": "enjoy",
+  "ipa": "/ɪnˈdʒɔɪ/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "получать удовольствие от",
+  "def_en": "to get pleasure from something",
+  "note_ru": "После enjoy идёт -ing, а не инфинитив: «I enjoy reading», не «enjoy to read». Ещё нужен объект: «Did you enjoy it?»",
+  "example": "I really enjoyed working with them.",
+  "example_ru": "Мне было по-настоящему приятно с ними работать.",
+  "examples_extra": [
+   {
+    "en": "Did you enjoy the concert last night?",
+    "ru": "Тебе понравился вчерашний концерт?"
+   }
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "a2-029",
+  "word": "decide",
+  "ipa": "/dɪˈsaɪd/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "решать, принимать решение",
+  "def_en": "to choose what to do after thinking",
+  "note_ru": "decide to do something. Существительное — decision: «make a decision», а не «take a decision» в американском варианте.",
+  "example": "They decided to stay one more night.",
+  "example_ru": "Они решили остаться ещё на одну ночь.",
+  "examples_extra": [
+   {
+    "en": "I can't decide what to cook tonight.",
+    "ru": "Не могу решить, что приготовить на ужин."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "a2-030",
+  "word": "traffic",
+  "ipa": "/ˈtræfɪk/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "дорожное движение, пробки",
+  "def_en": "the cars and other vehicles on the road",
+  "note_ru": "Неисчисляемое: «the traffic is bad», а не «traffics are». Пробка целиком — «a traffic jam».",
+  "example": "We were stuck in traffic for an hour.",
+  "example_ru": "Мы час простояли в пробке.",
+  "examples_extra": [
+   {
+    "en": "There's less traffic early in the morning.",
+    "ru": "Рано утром на дорогах меньше машин."
+   }
+  ],
+  "topic": "city"
+ },
+ {
+  "id": "a2-031",
+  "word": "news",
+  "ipa": "/njuːz/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "новости, новость",
+  "def_en": "information about recent events",
+  "note_ru": "Выглядит как множественное, но глагол в единственном: «the news is good». И это неисчисляемое — «a news» нельзя, только «a piece of news».",
+  "example": "The news was better than we expected.",
+  "example_ru": "Новости оказались лучше, чем мы ожидали.",
+  "examples_extra": [
+   {
+    "en": "I heard the news on the radio.",
+    "ru": "Я услышал эту новость по радио."
+   }
+  ],
+  "topic": "media"
+ },
+ {
+  "id": "a2-032",
+  "word": "wait for",
+  "ipa": "/weɪt fɔː/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "ждать кого-то или чего-то",
+  "def_en": "to stay somewhere until someone or something comes",
+  "note_ru": "Предлог for обязателен: «wait for me», а не «wait me». Русское «ждать кого-то» без предлога сбивает.",
+  "example": "I waited for her outside the station.",
+  "example_ru": "Я ждал её у станции.",
+  "examples_extra": [
+   {
+    "en": "Don't wait for me, start without me.",
+    "ru": "Не ждите меня, начинайте без меня."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-033",
+  "word": "worry",
+  "ipa": "/ˈwʌri/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "волноваться, переживать",
+  "def_en": "to feel anxious about something",
+  "note_ru": "worry about something. «Don't worry» — не переживай. Прилагательное worried — обеспокоенный.",
+  "example": "Stop worrying about the exam.",
+  "example_ru": "Хватит переживать из-за экзамена.",
+  "examples_extra": [
+   {
+    "en": "She worries too much about what people think.",
+    "ru": "Она слишком переживает о том, что подумают люди."
+   }
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "a2-034",
+  "word": "improve",
+  "ipa": "/ɪmˈpruːv/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "улучшать, улучшаться",
+  "def_en": "to get better, or to make something better",
+  "note_ru": "Работает в обе стороны без частицы: «my English is improving» и «I improved my English».",
+  "example": "Her pronunciation has improved a lot.",
+  "example_ru": "Её произношение сильно улучшилось.",
+  "examples_extra": [
+   {
+    "en": "Practice will improve your speaking.",
+    "ru": "Практика улучшит твою разговорную речь."
+   }
+  ],
+  "topic": "learning"
+ },
+ {
+  "id": "a2-035",
+  "word": "borrow money",
+  "ipa": "/ˈbɒrəʊ ˈmʌni/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "занимать деньги",
+  "def_en": "to take money that you will pay back",
+  "note_ru": "borrow money from somebody — занять у кого-то. Дать в долг — lend money to somebody.",
+  "example": "He borrowed money from his brother.",
+  "example_ru": "Он занял денег у брата.",
+  "examples_extra": [
+   {
+    "en": "I'd rather not borrow money from friends.",
+    "ru": "Я предпочитаю не занимать деньги у друзей."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "a2-036",
+  "word": "share",
+  "ipa": "/ʃeə/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "делить, делиться",
+  "def_en": "to use or have something together with others",
+  "note_ru": "share something with somebody. Существительное share — доля, а в финансах — акция.",
+  "example": "We share an office with the design team.",
+  "example_ru": "Мы делим кабинет с командой дизайна.",
+  "examples_extra": [
+   {
+    "en": "The kids share a room with bunk beds.",
+    "ru": "Дети делят комнату с двухъярусной кроватью."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "a2-037",
+  "word": "notice",
+  "ipa": "/ˈnəʊtɪs/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "замечать",
+  "def_en": "to see or become aware of something",
+  "note_ru": "Как существительное — объявление или предупреждение: «two weeks' notice» — предупредить за две недели.",
+  "example": "Did you notice the new sign?",
+  "example_ru": "Ты заметил новую вывеску?",
+  "examples_extra": [
+   {
+    "en": "I noticed a small crack in the screen.",
+    "ru": "Я заметил небольшую трещину на экране."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-038",
+  "word": "do you mind",
+  "ipa": "/duː juː maɪnd/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "вы не против?",
+  "def_en": "a polite way of asking permission",
+  "note_ru": "Ловушка в ответе: «No» значит «не против, пожалуйста». Согласие через «Yes» звучит как отказ.",
+  "example": "Do you mind if I open the window?",
+  "example_ru": "Вы не против, если я открою окно?",
+  "examples_extra": [
+   {
+    "en": "Do you mind waiting a few minutes?",
+    "ru": "Вы не против подождать пару минут?"
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-039",
+  "word": "by the way",
+  "ipa": "/baɪ ðə weɪ/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "кстати, между прочим",
+  "def_en": "used to add something not connected to the main topic",
+  "note_ru": "В переписке сокращают до BTW. Ставится в начале или в конце фразы.",
+  "example": "By the way, your parcel arrived.",
+  "example_ru": "Кстати, твоя посылка пришла.",
+  "examples_extra": [
+   {
+    "en": "By the way, how was your interview?",
+    "ru": "Кстати, как прошло твоё собеседование?"
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-040",
+  "word": "at least",
+  "ipa": "/ət liːst/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "по крайней мере, хотя бы",
+  "def_en": "not less than; used to mention one good point",
+  "note_ru": "Два применения: «at least ten people» — не меньше десяти, и «at least it stopped raining» — зато дождь кончился.",
+  "example": "It was expensive, but at least it works.",
+  "example_ru": "Было дорого, но зато работает.",
+  "examples_extra": [
+   {
+    "en": "Take at least one warm jumper with you.",
+    "ru": "Возьми с собой хотя бы один тёплый свитер."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-041",
+  "word": "cost",
+  "ipa": "/kɒst/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "стоить",
+  "def_en": "to have a particular price",
+  "note_ru": "Неправильный глагол без изменений: cost — cost — cost. «How much does it cost?» — вопрос про цену.",
+  "example": "The tickets cost forty euros each.",
+  "example_ru": "Билеты стоят по сорок евро.",
+  "examples_extra": [
+   {
+    "en": "How much does this jacket cost?",
+    "ru": "Сколько стоит эта куртка?"
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "a2-042",
+  "word": "offer",
+  "ipa": "/ˈɒfə/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "предлагать (сделать что-то или что-то дать)",
+  "def_en": "to say you are willing to give or do something",
+  "note_ru": "offer to do something. Отличается от suggest: offer — предложить свою помощь или вещь, suggest — предложить идею.",
+  "example": "She offered to drive me home.",
+  "example_ru": "Она предложила отвезти меня домой.",
+  "examples_extra": [
+   {
+    "en": "They offered me a better price.",
+    "ru": "Они предложили мне цену получше."
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-043",
+  "word": "promise",
+  "ipa": "/ˈprɒmɪs/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "обещать",
+  "def_en": "to say firmly that you will do something",
+  "note_ru": "Ударение на первый слог, вторая часть звучит «мис». «Keep a promise» — сдержать обещание, «break a promise» — нарушить.",
+  "example": "I promise I will call you back.",
+  "example_ru": "Обещаю, я тебе перезвоню.",
+  "examples_extra": [
+   {
+    "en": "He promised to fix it by Friday.",
+    "ru": "Он пообещал починить это к пятнице."
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-044",
+  "word": "hurt",
+  "ipa": "/hɜːt/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "болеть; причинять боль, обижать",
+  "def_en": "to feel pain, or to cause pain to someone",
+  "note_ru": "Неизменяемый неправильный глагол: hurt — hurt — hurt. «My back hurts» — спина болит. Ещё об обиде: «you hurt her feelings».",
+  "example": "My knee still hurts a bit.",
+  "example_ru": "Колено всё ещё немного болит.",
+  "examples_extra": [
+   {
+    "en": "Careful, don't hurt yourself with that knife.",
+    "ru": "Осторожно, не поранься этим ножом."
+   }
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "a2-045",
+  "word": "chance",
+  "ipa": "/tʃɑːns/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "шанс, возможность; случайность",
+  "def_en": "an opportunity, or the possibility of something happening",
+  "note_ru": "«A chance to do something» — возможность. «By chance» — случайно. Не путать с luck (удача).",
+  "example": "This is your chance to say something.",
+  "example_ru": "Это твой шанс что-то сказать.",
+  "examples_extra": [
+   {
+    "en": "Give him a chance to explain.",
+    "ru": "Дай ему шанс объясниться."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-046",
+  "word": "save",
+  "ipa": "/seɪv/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "копить; экономить; сохранять; спасать",
+  "def_en": "to keep money, to use less of something, or to rescue",
+  "note_ru": "Четыре значения сразу: save money (копить), save time (экономить), save a file (сохранить), save a life (спасти).",
+  "example": "Buying in bulk saves a lot of money.",
+  "example_ru": "Покупка оптом сильно экономит деньги.",
+  "examples_extra": [
+   {
+    "en": "I'm saving for a new bike.",
+    "ru": "Я коплю на новый велосипед."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "a2-047",
+  "word": "weather",
+  "ipa": "/ˈweðə/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "погода",
+  "def_en": "the temperature, rain, wind and sun at a certain time",
+  "note_ru": "Неисчисляемое: «the weather is nice», не «weathers». Омофон whether (ли) — пишутся по-разному, звучат одинаково.",
+  "example": "The weather has been awful all week.",
+  "example_ru": "Погода всю неделю была ужасная.",
+  "examples_extra": [
+   {
+    "en": "The weather changed suddenly in the afternoon.",
+    "ru": "После обеда погода резко изменилась."
+   }
+  ],
+  "topic": "nature"
+ },
+ {
+  "id": "a2-048",
+  "word": "staff",
+  "ipa": "/stɑːf/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "персонал, сотрудники",
+  "def_en": "the people who work for an organisation",
+  "note_ru": "Это уже множество: «the staff are friendly». «A staff» об одном человеке не говорят — нужен «a staff member».",
+  "example": "The staff were incredibly helpful.",
+  "example_ru": "Персонал был невероятно услужлив.",
+  "examples_extra": [
+   {
+    "en": "The hotel staff speak three languages.",
+    "ru": "Персонал отеля говорит на трёх языках."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "a2-049",
+  "word": "almost",
+  "ipa": "/ˈɔːlməʊst/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "почти",
+  "def_en": "very nearly but not completely",
+  "note_ru": "Синоним nearly. Перед never, nothing, nobody используют almost: «almost never» — почти никогда.",
+  "example": "We are almost there.",
+  "example_ru": "Мы почти на месте.",
+  "examples_extra": [
+   {
+    "en": "Dinner is almost ready.",
+    "ru": "Ужин почти готов."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-050",
+  "word": "ill",
+  "ipa": "/ɪl/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "больной, нездоровый",
+  "def_en": "not healthy; suffering from a disease",
+  "note_ru": "В британском чаще ill, в американском sick. «Be off ill» — быть на больничном. Sick в BrE ещё значит «тошнит».",
+  "example": "He has been ill since Monday.",
+  "example_ru": "Он болеет с понедельника.",
+  "examples_extra": [
+   {
+    "en": "She stayed home because she felt ill.",
+    "ru": "Она осталась дома, потому что плохо себя чувствовала."
+   }
+  ],
+  "topic": "health"
+ }
 ]

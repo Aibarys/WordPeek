@@ -68,14 +68,23 @@ struct WordCardView: View {
     }
 
     private var example: some View {
-        section("Пример", systemImage: "quote.opening") {
-            VStack(alignment: .leading, spacing: 6) {
-                Text(word.example)
-                    .font(.body.italic())
-                Text(word.exampleRu)
-                    .font(.subheadline)
-                    .foregroundStyle(.secondary)
+        section(word.extraExamples.isEmpty ? "Пример" : "Примеры", systemImage: "quote.opening") {
+            VStack(alignment: .leading, spacing: 14) {
+                examplePair(word.example, word.exampleRu)
+                ForEach(word.extraExamples, id: \.self) { pair in
+                    examplePair(pair.en, pair.ru)
+                }
             }
+        }
+    }
+
+    private func examplePair(_ en: String, _ ru: String) -> some View {
+        VStack(alignment: .leading, spacing: 6) {
+            Text(en)
+                .font(.body.italic())
+            Text(ru)
+                .font(.subheadline)
+                .foregroundStyle(.secondary)
         }
     }
 

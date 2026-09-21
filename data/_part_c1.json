@@ -1,22 +1,390 @@
 [
-{"id":"c1-001","word":"nuance","ipa":"/ˈnjuːɑːns/","pos":"noun","level":"C1","ru":"нюанс, оттенок смысла","def_en":"a very small difference in meaning, feeling or colour","note_ru":"«Nuanced» как прилагательное — тонкий, неупрощённый: «a nuanced argument».","example":"The translation loses some of the nuance.","example_ru":"Перевод теряет часть нюансов.","topic":"language"},
-{"id":"c1-002","word":"discern","ipa":"/dɪˈsɜːn/","pos":"verb","level":"C1","ru":"различать, распознавать","def_en":"to notice or understand something that is not obvious","note_ru":"Формально. «Discernible» — различимый, заметный. «No discernible difference» — нет заметной разницы.","example":"It is hard to discern any pattern in the data.","example_ru":"В данных трудно различить какую-либо закономерность.","topic":"thinking"},
-{"id":"c1-003","word":"contentious","ipa":"/kənˈtenʃəs/","pos":"adj","level":"C1","ru":"спорный, вызывающий разногласия","def_en":"likely to cause disagreement or argument","note_ru":"«A contentious issue» — острый вопрос. Синоним — controversial, но contentious звучит суше.","example":"Pricing turned out to be the most contentious point.","example_ru":"Ценообразование оказалось самым спорным пунктом.","topic":"opinion"},
-{"id":"c1-004","word":"mitigate","ipa":"/ˈmɪtɪɡeɪt/","pos":"verb","level":"C1","ru":"смягчать, снижать риск","def_en":"to make something bad less severe","note_ru":"Не путать с militate (говорить против). «Mitigate the risk» — стандартная фраза в отчётах.","example":"These steps mitigate the risk of data loss.","example_ru":"Эти шаги снижают риск потери данных.","topic":"work"},
-{"id":"c1-005","word":"pragmatic","ipa":"/præɡˈmætɪk/","pos":"adj","level":"C1","ru":"прагматичный, практичный","def_en":"dealing with things in a practical rather than theoretical way","note_ru":"В английском это комплимент, а не упрёк. «A pragmatic approach» — здравый практичный подход.","example":"Let us take a pragmatic approach to this.","example_ru":"Давайте подойдём к этому прагматично.","topic":"character"},
-{"id":"c1-006","word":"albeit","ipa":"/ɔːlˈbiːɪt/","pos":"conjunction","level":"C1","ru":"хотя и, пусть и","def_en":"although, used before a short phrase","note_ru":"Только в письменной и формальной речи: «effective, albeit expensive».","example":"He agreed, albeit reluctantly.","example_ru":"Он согласился, пусть и неохотно.","topic":"formal"},
-{"id":"c1-007","word":"scrutiny","ipa":"/ˈskruːtəni/","pos":"noun","level":"C1","ru":"пристальное внимание, тщательная проверка","def_en":"careful and detailed examination","note_ru":"«Under scrutiny» — под пристальным вниманием. «Close scrutiny» — тщательный разбор.","example":"The deal came under intense public scrutiny.","example_ru":"Сделка попала под пристальное внимание общественности.","topic":"formal"},
-{"id":"c1-008","word":"counterintuitive","ipa":"/ˌkaʊntərɪnˈtjuːɪtɪv/","pos":"adj","level":"C1","ru":"противоречащий интуиции","def_en":"the opposite of what you would naturally expect","note_ru":"Частое слово в науке и продуктовой аналитике: «a counterintuitive result».","example":"The result is counterintuitive but well documented.","example_ru":"Результат противоречит интуиции, но хорошо задокументирован.","topic":"thinking"},
-{"id":"c1-009","word":"hindsight","ipa":"/ˈhaɪndsaɪt/","pos":"noun","level":"C1","ru":"взгляд задним числом","def_en":"understanding of an event only after it has happened","note_ru":"«In hindsight» или «with hindsight» — задним числом. «Hindsight is 20/20» — задним умом все крепки.","example":"In hindsight, we should have waited.","example_ru":"Задним числом ясно, что надо было подождать.","topic":"idiom"},
-{"id":"c1-010","word":"undermine","ipa":"/ˌʌndəˈmaɪn/","pos":"verb","level":"C1","ru":"подрывать, исподволь ослаблять","def_en":"to weaken something gradually, often secretly","note_ru":"«Undermine confidence» — подорвать доверие. Буквально — подкапывать снизу.","example":"Constant criticism undermines his confidence.","example_ru":"Постоянная критика подрывает его уверенность.","topic":"relationships"},
-{"id":"c1-011","word":"tentative","ipa":"/ˈtentətɪv/","pos":"adj","level":"C1","ru":"предварительный; неуверенный","def_en":"not final and may be changed; done without confidence","note_ru":"«A tentative date» — предварительная дата. «A tentative smile» — робкая улыбка.","example":"We have a tentative agreement for now.","example_ru":"Пока у нас предварительная договорённость.","topic":"work"},
-{"id":"c1-012","word":"epitome","ipa":"/ɪˈpɪtəmi/","pos":"noun","level":"C1","ru":"воплощение, олицетворение","def_en":"a perfect example of a quality or type","note_ru":"Произносится «ипИтэми», четыре слога — не как пишется. «The epitome of elegance».","example":"She is the epitome of professionalism.","example_ru":"Она — воплощение профессионализма.","topic":"opinion"},
-{"id":"c1-013","word":"caveat","ipa":"/ˈkæviæt/","pos":"noun","level":"C1","ru":"оговорка, предостережение","def_en":"a warning that something is true only under certain conditions","note_ru":"«With one caveat» — с одной оговоркой. Из латыни, поэтому произношение необычное.","example":"I agree, with one important caveat.","example_ru":"Я согласен, с одной важной оговоркой.","topic":"formal"},
-{"id":"c1-014","word":"gloss over","ipa":"/ɡlɒs ˈəʊvə/","pos":"phrasal verb","level":"C1","ru":"замять, обойти вниманием","def_en":"to avoid discussing something difficult by mentioning it briefly","note_ru":"Подразумевает намеренное умалчивание: «The report glosses over the costs».","example":"He glossed over the failures completely.","example_ru":"Он полностью замял разговор о провалах.","topic":"phrasal"},
-{"id":"c1-015","word":"inadvertently","ipa":"/ˌɪnədˈvɜːtəntli/","pos":"adverb","level":"C1","ru":"непреднамеренно, по недосмотру","def_en":"without intending to; by accident","note_ru":"Формальный способ сказать «случайно». «I inadvertently deleted the file».","example":"The update inadvertently broke the login.","example_ru":"Обновление по недосмотру сломало вход в систему.","topic":"formal"},
-{"id":"c1-016","word":"plausible","ipa":"/ˈplɔːzəbl/","pos":"adj","level":"C1","ru":"правдоподобный, похожий на правду","def_en":"seeming reasonable or likely to be true","note_ru":"Иногда с оттенком сомнения: «plausible deniability» — правдоподобное отрицание.","example":"That is the only plausible explanation.","example_ru":"Это единственное правдоподобное объяснение.","topic":"thinking"},
-{"id":"c1-017","word":"entail","ipa":"/ɪnˈteɪl/","pos":"verb","level":"C1","ru":"влечь за собой, подразумевать","def_en":"to involve something as a necessary part or result","note_ru":"«What does the job entail?» — что входит в эту работу? Формально, но очень употребимо.","example":"The role entails a lot of travel.","example_ru":"Эта должность подразумевает много поездок.","topic":"work"},
-{"id":"c1-018","word":"quandary","ipa":"/ˈkwɒndəri/","pos":"noun","level":"C1","ru":"затруднительное положение, дилемма","def_en":"a state of uncertainty about what to do","note_ru":"«In a quandary» — в затруднении. Литературнее, чем dilemma.","example":"We are in a real quandary about the deadline.","example_ru":"Мы в настоящем затруднении из-за срока.","topic":"emotions"},
-{"id":"c1-019","word":"by default","ipa":"/baɪ dɪˈfɔːlt/","pos":"phrase","level":"C1","ru":"по умолчанию; за неимением альтернативы","def_en":"because nothing else was chosen or nobody else competed","note_ru":"В технике — стандартная настройка. В жизни — «he won by default» значит «выиграл, потому что соперник не явился».","example":"The setting is enabled by default.","example_ru":"Эта настройка включена по умолчанию.","topic":"tech"},
-{"id":"c1-020","word":"redundant","ipa":"/rɪˈdʌndənt/","pos":"adj","level":"C1","ru":"избыточный, лишний; сокращённый с работы","def_en":"not needed because it duplicates something; no longer employed","note_ru":"В британском «made redundant» значит «попал под сокращение» — важное значение, которого нет в русском кальке.","example":"Half the code turned out to be redundant.","example_ru":"Половина кода оказалась лишней.","topic":"work"}
+ {
+  "id": "c1-001",
+  "word": "nuance",
+  "ipa": "/ˈnjuːɑːns/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "нюанс, оттенок смысла",
+  "def_en": "a very small difference in meaning, feeling or colour",
+  "note_ru": "«Nuanced» как прилагательное — тонкий, неупрощённый: «a nuanced argument».",
+  "example": "The translation loses some of the nuance.",
+  "example_ru": "Перевод теряет часть нюансов.",
+  "examples_extra": [
+   {
+    "en": "Good editors catch every nuance of tone.",
+    "ru": "Хорошие редакторы улавливают каждый нюанс тона."
+   }
+  ],
+  "topic": "language"
+ },
+ {
+  "id": "c1-002",
+  "word": "discern",
+  "ipa": "/dɪˈsɜːn/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "различать, распознавать",
+  "def_en": "to notice or understand something that is not obvious",
+  "note_ru": "Формально. «Discernible» — различимый, заметный. «No discernible difference» — нет заметной разницы.",
+  "example": "It is hard to discern any pattern in the data.",
+  "example_ru": "В данных трудно различить какую-либо закономерность.",
+  "examples_extra": [
+   {
+    "en": "She quickly discerned who was really in charge.",
+    "ru": "Она быстро распознала, кто на самом деле главный."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-003",
+  "word": "contentious",
+  "ipa": "/kənˈtenʃəs/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "спорный, вызывающий разногласия",
+  "def_en": "likely to cause disagreement or argument",
+  "note_ru": "«A contentious issue» — острый вопрос. Синоним — controversial, но contentious звучит суше.",
+  "example": "Pricing turned out to be the most contentious point.",
+  "example_ru": "Ценообразование оказалось самым спорным пунктом.",
+  "examples_extra": [
+   {
+    "en": "The new road remains a contentious issue locally.",
+    "ru": "Новая дорога остаётся спорной темой для местных."
+   }
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "c1-004",
+  "word": "mitigate",
+  "ipa": "/ˈmɪtɪɡeɪt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "смягчать, снижать риск",
+  "def_en": "to make something bad less severe",
+  "note_ru": "Не путать с militate (говорить против). «Mitigate the risk» — стандартная фраза в отчётах.",
+  "example": "These steps mitigate the risk of data loss.",
+  "example_ru": "Эти шаги снижают риск потери данных.",
+  "examples_extra": [
+   {
+    "en": "Early warnings mitigated the damage from the storm.",
+    "ru": "Ранние предупреждения смягчили ущерб от шторма."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-005",
+  "word": "pragmatic",
+  "ipa": "/præɡˈmætɪk/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "прагматичный, практичный",
+  "def_en": "dealing with things in a practical rather than theoretical way",
+  "note_ru": "В английском это комплимент, а не упрёк. «A pragmatic approach» — здравый практичный подход.",
+  "example": "Let us take a pragmatic approach to this.",
+  "example_ru": "Давайте подойдём к этому прагматично.",
+  "examples_extra": [
+   {
+    "en": "She's pragmatic: whatever works, works.",
+    "ru": "Она прагматична: что работает, то и годится."
+   }
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "c1-006",
+  "word": "albeit",
+  "ipa": "/ɔːlˈbiːɪt/",
+  "pos": "conjunction",
+  "level": "C1",
+  "ru": "хотя и, пусть и",
+  "def_en": "although, used before a short phrase",
+  "note_ru": "Только в письменной и формальной речи: «effective, albeit expensive».",
+  "example": "He agreed, albeit reluctantly.",
+  "example_ru": "Он согласился, пусть и неохотно.",
+  "examples_extra": [
+   {
+    "en": "The results were positive, albeit preliminary.",
+    "ru": "Результаты были положительными, хотя и предварительными."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-007",
+  "word": "scrutiny",
+  "ipa": "/ˈskruːtəni/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "пристальное внимание, тщательная проверка",
+  "def_en": "careful and detailed examination",
+  "note_ru": "«Under scrutiny» — под пристальным вниманием. «Close scrutiny» — тщательный разбор.",
+  "example": "The deal came under intense public scrutiny.",
+  "example_ru": "Сделка попала под пристальное внимание общественности.",
+  "examples_extra": [
+   {
+    "en": "Every expense now gets close scrutiny.",
+    "ru": "Каждая трата теперь проходит тщательную проверку."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-008",
+  "word": "counterintuitive",
+  "ipa": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "противоречащий интуиции",
+  "def_en": "the opposite of what you would naturally expect",
+  "note_ru": "Частое слово в науке и продуктовой аналитике: «a counterintuitive result».",
+  "example": "The result is counterintuitive but well documented.",
+  "example_ru": "Результат противоречит интуиции, но хорошо задокументирован.",
+  "examples_extra": [
+   {
+    "en": "It sounds counterintuitive, but slower is often faster.",
+    "ru": "Звучит противоречащим интуиции, но медленнее часто значит быстрее."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-009",
+  "word": "hindsight",
+  "ipa": "/ˈhaɪndsaɪt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "взгляд задним числом",
+  "def_en": "understanding of an event only after it has happened",
+  "note_ru": "«In hindsight» или «with hindsight» — задним числом. «Hindsight is 20/20» — задним умом все крепки.",
+  "example": "In hindsight, we should have waited.",
+  "example_ru": "Задним числом ясно, что надо было подождать.",
+  "examples_extra": [
+   {
+    "en": "Hindsight makes every mistake look avoidable.",
+    "ru": "Задним числом любая ошибка кажется предотвратимой."
+   },
+   {
+    "en": "With the benefit of hindsight, the signs were obvious.",
+    "ru": "Оглядываясь назад, понимаешь: признаки были очевидны."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "c1-010",
+  "word": "undermine",
+  "ipa": "/ˌʌndəˈmaɪn/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "подрывать, исподволь ослаблять",
+  "def_en": "to weaken something gradually, often secretly",
+  "note_ru": "«Undermine confidence» — подорвать доверие. Буквально — подкапывать снизу.",
+  "example": "Constant criticism undermines his confidence.",
+  "example_ru": "Постоянная критика подрывает его уверенность.",
+  "examples_extra": [
+   {
+    "en": "Leaks undermine trust inside a team.",
+    "ru": "Утечки подрывают доверие внутри команды."
+   }
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "c1-011",
+  "word": "tentative",
+  "ipa": "/ˈtentətɪv/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "предварительный; неуверенный",
+  "def_en": "not final and may be changed; done without confidence",
+  "note_ru": "«A tentative date» — предварительная дата. «A tentative smile» — робкая улыбка.",
+  "example": "We have a tentative agreement for now.",
+  "example_ru": "Пока у нас предварительная договорённость.",
+  "examples_extra": [
+   {
+    "en": "We pencilled in a tentative date for June.",
+    "ru": "Мы наметили предварительную дату на июнь."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-012",
+  "word": "epitome",
+  "ipa": "/ɪˈpɪtəmi/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "воплощение, олицетворение",
+  "def_en": "a perfect example of a quality or type",
+  "note_ru": "Произносится «ипИтэми», четыре слога — не как пишется. «The epitome of elegance».",
+  "example": "She is the epitome of professionalism.",
+  "example_ru": "Она — воплощение профессионализма.",
+  "examples_extra": [
+   {
+    "en": "The hotel is the epitome of quiet luxury.",
+    "ru": "Этот отель — воплощение тихой роскоши."
+   }
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "c1-013",
+  "word": "caveat",
+  "ipa": "/ˈkæviæt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "оговорка, предостережение",
+  "def_en": "a warning that something is true only under certain conditions",
+  "note_ru": "«With one caveat» — с одной оговоркой. Из латыни, поэтому произношение необычное.",
+  "example": "I agree, with one important caveat.",
+  "example_ru": "Я согласен, с одной важной оговоркой.",
+  "examples_extra": [
+   {
+    "en": "The lawyer added a caveat about liability.",
+    "ru": "Юрист добавил оговорку об ответственности."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-014",
+  "word": "gloss over",
+  "ipa": "/ɡlɒs ˈəʊvə/",
+  "pos": "phrasal verb",
+  "level": "C1",
+  "ru": "замять, обойти вниманием",
+  "def_en": "to avoid discussing something difficult by mentioning it briefly",
+  "note_ru": "Подразумевает намеренное умалчивание: «The report glosses over the costs».",
+  "example": "He glossed over the failures completely.",
+  "example_ru": "Он полностью замял разговор о провалах.",
+  "examples_extra": [
+   {
+    "en": "The report glosses over the cost overruns.",
+    "ru": "Отчёт обходит вниманием перерасход бюджета."
+   },
+   {
+    "en": "Don't gloss over the risks in the pitch.",
+    "ru": "Не замалчивай риски в презентации."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "c1-015",
+  "word": "inadvertently",
+  "ipa": "/ˌɪnədˈvɜːtəntli/",
+  "pos": "adverb",
+  "level": "C1",
+  "ru": "непреднамеренно, по недосмотру",
+  "def_en": "without intending to; by accident",
+  "note_ru": "Формальный способ сказать «случайно». «I inadvertently deleted the file».",
+  "example": "The update inadvertently broke the login.",
+  "example_ru": "Обновление по недосмотру сломало вход в систему.",
+  "examples_extra": [
+   {
+    "en": "I inadvertently sent the draft to the whole office.",
+    "ru": "Я по недосмотру отправил черновик всему офису."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-016",
+  "word": "plausible",
+  "ipa": "/ˈplɔːzəbl/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "правдоподобный, похожий на правду",
+  "def_en": "seeming reasonable or likely to be true",
+  "note_ru": "Иногда с оттенком сомнения: «plausible deniability» — правдоподобное отрицание.",
+  "example": "That is the only plausible explanation.",
+  "example_ru": "Это единственное правдоподобное объяснение.",
+  "examples_extra": [
+   {
+    "en": "Her story sounded plausible enough to check.",
+    "ru": "Её история звучала достаточно правдоподобно, чтобы её проверить."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-017",
+  "word": "entail",
+  "ipa": "/ɪnˈteɪl/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "влечь за собой, подразумевать",
+  "def_en": "to involve something as a necessary part or result",
+  "note_ru": "«What does the job entail?» — что входит в эту работу? Формально, но очень употребимо.",
+  "example": "The role entails a lot of travel.",
+  "example_ru": "Эта должность подразумевает много поездок.",
+  "examples_extra": [
+   {
+    "en": "Ownership entails responsibility.",
+    "ru": "Владение влечёт за собой ответственность."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-018",
+  "word": "quandary",
+  "ipa": "/ˈkwɒndəri/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "затруднительное положение, дилемма",
+  "def_en": "a state of uncertainty about what to do",
+  "note_ru": "«In a quandary» — в затруднении. Литературнее, чем dilemma.",
+  "example": "We are in a real quandary about the deadline.",
+  "example_ru": "Мы в настоящем затруднении из-за срока.",
+  "examples_extra": [
+   {
+    "en": "The offer left her in a quandary about moving.",
+    "ru": "Это предложение поставило её перед дилеммой с переездом."
+   }
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "c1-019",
+  "word": "by default",
+  "ipa": "/baɪ dɪˈfɔːlt/",
+  "pos": "phrase",
+  "level": "C1",
+  "ru": "по умолчанию; за неимением альтернативы",
+  "def_en": "because nothing else was chosen or nobody else competed",
+  "note_ru": "В технике — стандартная настройка. В жизни — «he won by default» значит «выиграл, потому что соперник не явился».",
+  "example": "The setting is enabled by default.",
+  "example_ru": "Эта настройка включена по умолчанию.",
+  "examples_extra": [
+   {
+    "en": "Notifications are silent by default.",
+    "ru": "Уведомления по умолчанию беззвучны."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "c1-020",
+  "word": "redundant",
+  "ipa": "/rɪˈdʌndənt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "избыточный, лишний; сокращённый с работы",
+  "def_en": "not needed because it duplicates something; no longer employed",
+  "note_ru": "В британском «made redundant» значит «попал под сокращение» — важное значение, которого нет в русском кальке.",
+  "example": "Half the code turned out to be redundant.",
+  "example_ru": "Половина кода оказалась лишней.",
+  "examples_extra": [
+   {
+    "en": "The second checklist is redundant, remove it.",
+    "ru": "Второй чек-лист избыточен, уберите его."
+   }
+  ],
+  "topic": "work"
+ }
 ]

@@ -1,32 +1,572 @@
 [
-{"id":"b1-131","word":"ingredient","ipa":"/ɪnˈɡriːdiənt/","pos":"noun","level":"B1","ru":"ингредиент, составляющая","def_en":"one of the foods used to make a dish","note_ru":"Переносно — «a key ingredient of success», ключевая составляющая успеха.","example":"You only need four ingredients.","example_ru":"Нужно всего четыре ингредиента.","topic":"food"},
-{"id":"b1-132","word":"recipe","ipa":"/ˈresəpi/","pos":"noun","level":"B1","ru":"рецепт блюда","def_en":"instructions for cooking a dish","note_ru":"Читается в три слога — «рЭсэпи», не «ресайп». Рецепт от врача — prescription, а receipt — чек.","example":"This recipe takes about twenty minutes.","example_ru":"Этот рецепт занимает минут двадцать.","topic":"food"},
-{"id":"b1-133","word":"landlord","ipa":"/ˈlændlɔːd/","pos":"noun","level":"B1","ru":"арендодатель, хозяин квартиры","def_en":"a person who rents out a property","note_ru":"Женский вариант landlady, но landlord всё чаще используют для всех. Съёмщик — tenant.","example":"The landlord raised the rent again.","example_ru":"Хозяин квартиры снова поднял аренду.","topic":"home"},
-{"id":"b1-134","word":"rent","ipa":"/rent/","pos":"noun","level":"B1","ru":"арендная плата; снимать","def_en":"money paid regularly for using a home; to pay for using something","note_ru":"«Rent a flat» — снимать, «rent out» — сдавать. В США машины rent, в Британии чаще hire.","example":"Rent is due at the start of the month.","example_ru":"Аренду платят в начале месяца.","topic":"home"},
-{"id":"b1-135","word":"neighbourhood","ipa":"/ˈneɪbəhʊd/","pos":"noun","level":"B1","ru":"район, округа","def_en":"an area of a town and the people living there","note_ru":"В США пишется neighborhood. Ближе по смыслу к «свой район», чем формальное district.","example":"It is a quiet neighbourhood.","example_ru":"Это тихий район.","topic":"city"},
-{"id":"b1-136","word":"commute","ipa":"/kəˈmjuːt/","pos":"noun","level":"B1","ru":"дорога на работу и обратно","def_en":"the regular journey between home and work","note_ru":"И глагол, и существительное: «I commute by train», «a long commute». Русского односложного аналога нет.","example":"My commute takes forty minutes.","example_ru":"Дорога до работы занимает у меня сорок минут.","topic":"city"},
-{"id":"b1-137","word":"appointment","ipa":"/əˈpɔɪntmənt/","pos":"noun","level":"B1","ru":"запись на приём, назначенная встреча","def_en":"an arranged time to see a doctor, dentist or professional","note_ru":"«Make an appointment» — записаться. Дружеская встреча — не appointment, а просто «meet up».","example":"I have a dentist appointment at four.","example_ru":"У меня запись к стоматологу на четыре.","topic":"health"},
-{"id":"b1-138","word":"symptom","ipa":"/ˈsɪmptəm/","pos":"noun","level":"B1","ru":"симптом, признак","def_en":"a sign that you have an illness","note_ru":"Буква p между m и t произносится слабо. Переносно — «a symptom of a bigger problem».","example":"The symptoms lasted about three days.","example_ru":"Симптомы держались около трёх дней.","topic":"health"},
-{"id":"b1-139","word":"injury","ipa":"/ˈɪndʒəri/","pos":"noun","level":"B1","ru":"травма, повреждение","def_en":"physical harm to your body","note_ru":"Травма от удара или падения. Психологическая травма — trauma. Глагол injure, прилагательное injured.","example":"He missed the season through injury.","example_ru":"Он пропустил сезон из-за травмы.","topic":"health"},
-{"id":"b1-140","word":"treatment","ipa":"/ˈtriːtmənt/","pos":"noun","level":"B1","ru":"лечение; обращение с кем-то","def_en":"medical care; the way you behave towards someone","note_ru":"Два значения: «the treatment worked» — лечение помогло, «unfair treatment» — несправедливое отношение.","example":"The treatment takes six weeks.","example_ru":"Лечение занимает шесть недель.","topic":"health"},
-{"id":"b1-141","word":"device","ipa":"/dɪˈvaɪs/","pos":"noun","level":"B1","ru":"устройство, прибор","def_en":"a piece of equipment made for a particular purpose","note_ru":"Существительное device через c, глагол devise (придумать) через s. Разное произношение конца.","example":"The app works on any device.","example_ru":"Приложение работает на любом устройстве.","topic":"tech"},
-{"id":"b1-142","word":"update","ipa":"/ˈʌpdeɪt/","pos":"noun","level":"B1","ru":"обновление; сводка новостей","def_en":"a newer version, or the latest information","note_ru":"Ударение переезжает: существительное «Апдэйт», глагол «апдЭйт». «Keep me updated» — держи меня в курсе.","example":"The update fixed most of the bugs.","example_ru":"Обновление исправило большинство ошибок.","topic":"tech"},
-{"id":"b1-143","word":"account","ipa":"/əˈkaʊnt/","pos":"noun","level":"B1","ru":"аккаунт; счёт в банке; отчёт о событии","def_en":"a personal record with a service or bank; a description of events","note_ru":"Три значения сразу. «On account of» отдельно значит «из-за». «Take into account» — учитывать.","example":"I created an account in two minutes.","example_ru":"Я создал аккаунт за две минуты.","topic":"tech"},
-{"id":"b1-144","word":"subscription","ipa":"/səbˈskrɪpʃn/","pos":"noun","level":"B1","ru":"подписка","def_en":"a regular payment to receive a service","note_ru":"«Cancel a subscription» — отменить подписку. Подписаться на кого-то в соцсетях — follow, а не subscribe.","example":"The subscription renews automatically.","example_ru":"Подписка продлевается автоматически.","topic":"tech"},
-{"id":"b1-145","word":"delivery","ipa":"/dɪˈlɪvəri/","pos":"noun","level":"B1","ru":"доставка","def_en":"the act of bringing goods to someone","note_ru":"«Free delivery» — бесплатная доставка. Глагол deliver ещё значит «выступить с речью»: «deliver a talk».","example":"Delivery takes two to three days.","example_ru":"Доставка занимает два-три дня.","topic":"shopping"},
-{"id":"b1-146","word":"refund","ipa":"/ˈriːfʌnd/","pos":"noun","level":"B1","ru":"возврат денег","def_en":"money paid back to you for a returned purchase","note_ru":"«Get a refund» — вернуть деньги. Ударение в существительном на первый слог, в глаголе на второй.","example":"They gave me a full refund.","example_ru":"Мне вернули всю сумму.","topic":"shopping"},
-{"id":"b1-147","word":"shortcut","ipa":"/ˈʃɔːtkʌt/","pos":"noun","level":"B1","ru":"короткий путь; горячая клавиша","def_en":"a quicker route or method; a key combination","note_ru":"«Take a shortcut» — срезать дорогу. «There are no shortcuts» — лёгких путей нет.","example":"There is a shortcut through the park.","example_ru":"Через парк есть короткая дорога.","topic":"city"},
-{"id":"b1-148","word":"schedule","ipa":"/ˈʃedjuːl/","pos":"noun","level":"B1","ru":"расписание, график","def_en":"a plan of when things will happen","note_ru":"Британцы говорят «шЕдьюл», американцы «скЕджул» — оба верны. «Ahead of schedule» — с опережением графика.","example":"The project is behind schedule.","example_ru":"Проект отстаёт от графика.","topic":"work"},
-{"id":"b1-149","word":"rough","ipa":"/rʌf/","pos":"adj","level":"B1","ru":"примерный, черновой; шероховатый; тяжёлый","def_en":"approximate; not smooth; difficult","note_ru":"Читается «раф». «A rough idea» — примерное представление, «a rough day» — тяжёлый день.","example":"Can you give me a rough estimate?","example_ru":"Можешь дать примерную оценку?","topic":"core"},
-{"id":"b1-150","word":"spare","ipa":"/speə/","pos":"adj","level":"B1","ru":"запасной, свободный","def_en":"extra and not currently being used","note_ru":"«Spare time» — свободное время, «a spare key» — запасной ключ. Как глагол — уделить: «spare me a minute».","example":"I read in my spare time.","example_ru":"Я читаю в свободное время.","topic":"everyday"},
-{"id":"b1-151","word":"plenty of","ipa":"/ˈplenti əv/","pos":"phrase","level":"B1","ru":"много, полно, более чем достаточно","def_en":"more than enough of something","note_ru":"Работает и с исчисляемыми, и с неисчисляемыми: «plenty of time», «plenty of chairs».","example":"There is plenty of time before the train.","example_ru":"До поезда полно времени.","topic":"core"},
-{"id":"b1-152","word":"a couple of","ipa":"/ə ˈkʌpl əv/","pos":"phrase","level":"B1","ru":"пара, несколько","def_en":"two, or a small number","note_ru":"Строго это два, но в разговоре означает «несколько». Предлог of обязателен: «a couple of days».","example":"Give me a couple of minutes.","example_ru":"Дай мне пару минут.","topic":"core"},
-{"id":"b1-153","word":"approximately","ipa":"/əˈprɒksɪmətli/","pos":"adverb","level":"B1","ru":"приблизительно","def_en":"close to a particular number but not exact","note_ru":"Формальный вариант about. В сокращениях — approx. Для чисел в отчётах.","example":"The trip takes approximately five hours.","example_ru":"Поездка занимает приблизительно пять часов.","topic":"formal"},
-{"id":"b1-154","word":"increase","ipa":"/ɪnˈkriːs/","pos":"verb","level":"B1","ru":"увеличивать, расти","def_en":"to become larger in number or amount","note_ru":"Ударение: глагол «инкрИс», существительное «Инкрис». «Increase by 10%» — на 10%, «increase to 50» — до 50.","example":"Sales increased by twelve per cent.","example_ru":"Продажи выросли на двенадцать процентов.","topic":"work"},
-{"id":"b1-155","word":"decrease","ipa":"/dɪˈkriːs/","pos":"verb","level":"B1","ru":"уменьшаться, снижать","def_en":"to become smaller in number or amount","note_ru":"Зеркало к increase, с тем же переносом ударения. В разговоре чаще говорят «go down».","example":"Traffic decreased over the weekend.","example_ru":"Трафик снизился за выходные.","topic":"work"},
-{"id":"b1-156","word":"average","ipa":"/ˈævərɪdʒ/","pos":"adj","level":"B1","ru":"средний; обычный","def_en":"typical; calculated by dividing a total by the number of items","note_ru":"«On average» — в среднем. Как оценка человека или вещи звучит прохладно: «average» ближе к «так себе».","example":"On average, we get twenty a day.","example_ru":"В среднем нам приходит по двадцать в день.","topic":"work"},
-{"id":"b1-157","word":"nowadays","ipa":"/ˈnaʊədeɪz/","pos":"adverb","level":"B1","ru":"в наши дни, сейчас","def_en":"at the present time, compared with the past","note_ru":"Одно слово, всегда с s на конце. Обычно с Present Simple: «Nowadays everyone works remotely».","example":"Nowadays most people book online.","example_ru":"В наши дни большинство бронирует онлайн.","topic":"core"},
-{"id":"b1-158","word":"meanwhile","ipa":"/ˈmiːnwaɪl/","pos":"adverb","level":"B1","ru":"тем временем, между тем","def_en":"while something else is happening","note_ru":"Связка между двумя параллельными событиями. «In the meantime» — то же самое, но чуть разговорнее.","example":"Meanwhile, the guests were waiting outside.","example_ru":"Тем временем гости ждали снаружи.","topic":"formal"},
-{"id":"b1-159","word":"so far","ipa":"/səʊ fɑː/","pos":"phrase","level":"B1","ru":"пока что, до сих пор","def_en":"up to now","note_ru":"Обычно с Present Perfect: «So far we have sold thirty». «So far so good» — пока всё идёт хорошо.","example":"So far everything is going to plan.","example_ru":"Пока что всё идёт по плану.","topic":"core"},
-{"id":"b1-160","word":"as soon as","ipa":"/əz suːn əz/","pos":"phrase","level":"B1","ru":"как только","def_en":"immediately after something happens","note_ru":"О будущем — настоящее время: «I will call as soon as I arrive», а не «as soon as I will arrive».","example":"Let me know as soon as you hear back.","example_ru":"Дай знать, как только получишь ответ.","topic":"grammar"}
+ {
+  "id": "b1-131",
+  "word": "ingredient",
+  "ipa": "/ɪnˈɡriːdiənt/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "ингредиент, составляющая",
+  "def_en": "one of the foods used to make a dish",
+  "note_ru": "Переносно — «a key ingredient of success», ключевая составляющая успеха.",
+  "example": "You only need four ingredients.",
+  "example_ru": "Нужно всего четыре ингредиента.",
+  "examples_extra": [
+   {
+    "en": "The secret ingredient is smoked paprika.",
+    "ru": "Секретный ингредиент — копчёная паприка."
+   }
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "b1-132",
+  "word": "recipe",
+  "ipa": "/ˈresəpi/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "рецепт блюда",
+  "def_en": "instructions for cooking a dish",
+  "note_ru": "Читается в три слога — «рЭсэпи», не «ресайп». Рецепт от врача — prescription, а receipt — чек.",
+  "example": "This recipe takes about twenty minutes.",
+  "example_ru": "Этот рецепт занимает минут двадцать.",
+  "examples_extra": [
+   {
+    "en": "My grandmother never wrote her recipes down.",
+    "ru": "Моя бабушка никогда не записывала свои рецепты."
+   }
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "b1-133",
+  "word": "landlord",
+  "ipa": "/ˈlændlɔːd/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "арендодатель, хозяин квартиры",
+  "def_en": "a person who rents out a property",
+  "note_ru": "Женский вариант landlady, но landlord всё чаще используют для всех. Съёмщик — tenant.",
+  "example": "The landlord raised the rent again.",
+  "example_ru": "Хозяин квартиры снова поднял аренду.",
+  "examples_extra": [
+   {
+    "en": "The landlord promised to fix the heating.",
+    "ru": "Хозяин квартиры пообещал починить отопление."
+   }
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "b1-134",
+  "word": "rent",
+  "ipa": "/rent/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "арендная плата; снимать",
+  "def_en": "money paid regularly for using a home; to pay for using something",
+  "note_ru": "«Rent a flat» — снимать, «rent out» — сдавать. В США машины rent, в Британии чаще hire.",
+  "example": "Rent is due at the start of the month.",
+  "example_ru": "Аренду платят в начале месяца.",
+  "examples_extra": [
+   {
+    "en": "How much rent do you pay for this place?",
+    "ru": "Сколько ты платишь за аренду этого жилья?"
+   }
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "b1-135",
+  "word": "neighbourhood",
+  "ipa": "/ˈneɪbəhʊd/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "район, округа",
+  "def_en": "an area of a town and the people living there",
+  "note_ru": "В США пишется neighborhood. Ближе по смыслу к «свой район», чем формальное district.",
+  "example": "It is a quiet neighbourhood.",
+  "example_ru": "Это тихий район.",
+  "examples_extra": [
+   {
+    "en": "They moved to a greener neighbourhood.",
+    "ru": "Они переехали в более зелёный район."
+   }
+  ],
+  "topic": "city"
+ },
+ {
+  "id": "b1-136",
+  "word": "commute",
+  "ipa": "/kəˈmjuːt/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "дорога на работу и обратно",
+  "def_en": "the regular journey between home and work",
+  "note_ru": "И глагол, и существительное: «I commute by train», «a long commute». Русского односложного аналога нет.",
+  "example": "My commute takes forty minutes.",
+  "example_ru": "Дорога до работы занимает у меня сорок минут.",
+  "examples_extra": [
+   {
+    "en": "A short commute changes your whole day.",
+    "ru": "Короткая дорога до работы меняет весь день."
+   }
+  ],
+  "topic": "city"
+ },
+ {
+  "id": "b1-137",
+  "word": "appointment",
+  "ipa": "/əˈpɔɪntmənt/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "запись на приём, назначенная встреча",
+  "def_en": "an arranged time to see a doctor, dentist or professional",
+  "note_ru": "«Make an appointment» — записаться. Дружеская встреча — не appointment, а просто «meet up».",
+  "example": "I have a dentist appointment at four.",
+  "example_ru": "У меня запись к стоматологу на четыре.",
+  "examples_extra": [
+   {
+    "en": "Can I move my appointment to Monday?",
+    "ru": "Можно перенести мою запись на понедельник?"
+   }
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-138",
+  "word": "symptom",
+  "ipa": "/ˈsɪmptəm/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "симптом, признак",
+  "def_en": "a sign that you have an illness",
+  "note_ru": "Буква p между m и t произносится слабо. Переносно — «a symptom of a bigger problem».",
+  "example": "The symptoms lasted about three days.",
+  "example_ru": "Симптомы держались около трёх дней.",
+  "examples_extra": [
+   {
+    "en": "A dry cough is a common symptom.",
+    "ru": "Сухой кашель — распространённый симптом."
+   }
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-139",
+  "word": "injury",
+  "ipa": "/ˈɪndʒəri/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "травма, повреждение",
+  "def_en": "physical harm to your body",
+  "note_ru": "Травма от удара или падения. Психологическая травма — trauma. Глагол injure, прилагательное injured.",
+  "example": "He missed the season through injury.",
+  "example_ru": "Он пропустил сезон из-за травмы.",
+  "examples_extra": [
+   {
+    "en": "It's a minor injury, nothing serious.",
+    "ru": "Это лёгкая травма, ничего серьёзного."
+   }
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-140",
+  "word": "treatment",
+  "ipa": "/ˈtriːtmənt/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "лечение; обращение с кем-то",
+  "def_en": "medical care; the way you behave towards someone",
+  "note_ru": "Два значения: «the treatment worked» — лечение помогло, «unfair treatment» — несправедливое отношение.",
+  "example": "The treatment takes six weeks.",
+  "example_ru": "Лечение занимает шесть недель.",
+  "examples_extra": [
+   {
+    "en": "The new treatment has fewer side effects.",
+    "ru": "У нового лечения меньше побочных эффектов."
+   }
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-141",
+  "word": "device",
+  "ipa": "/dɪˈvaɪs/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "устройство, прибор",
+  "def_en": "a piece of equipment made for a particular purpose",
+  "note_ru": "Существительное device через c, глагол devise (придумать) через s. Разное произношение конца.",
+  "example": "The app works on any device.",
+  "example_ru": "Приложение работает на любом устройстве.",
+  "examples_extra": [
+   {
+    "en": "Turn the device off and on again.",
+    "ru": "Выключите и снова включите устройство."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-142",
+  "word": "update",
+  "ipa": "/ˈʌpdeɪt/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "обновление; сводка новостей",
+  "def_en": "a newer version, or the latest information",
+  "note_ru": "Ударение переезжает: существительное «Апдэйт», глагол «апдЭйт». «Keep me updated» — держи меня в курсе.",
+  "example": "The update fixed most of the bugs.",
+  "example_ru": "Обновление исправило большинство ошибок.",
+  "examples_extra": [
+   {
+    "en": "Install the update before the trip.",
+    "ru": "Установи обновление до поездки."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-143",
+  "word": "account",
+  "ipa": "/əˈkaʊnt/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "аккаунт; счёт в банке; отчёт о событии",
+  "def_en": "a personal record with a service or bank; a description of events",
+  "note_ru": "Три значения сразу. «On account of» отдельно значит «из-за». «Take into account» — учитывать.",
+  "example": "I created an account in two minutes.",
+  "example_ru": "Я создал аккаунт за две минуты.",
+  "examples_extra": [
+   {
+    "en": "I forgot the password to my old account.",
+    "ru": "Я забыл пароль от старого аккаунта."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-144",
+  "word": "subscription",
+  "ipa": "/səbˈskrɪpʃn/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "подписка",
+  "def_en": "a regular payment to receive a service",
+  "note_ru": "«Cancel a subscription» — отменить подписку. Подписаться на кого-то в соцсетях — follow, а не subscribe.",
+  "example": "The subscription renews automatically.",
+  "example_ru": "Подписка продлевается автоматически.",
+  "examples_extra": [
+   {
+    "en": "Cancel the subscription before the trial ends.",
+    "ru": "Отмени подписку до конца пробного периода."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-145",
+  "word": "delivery",
+  "ipa": "/dɪˈlɪvəri/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "доставка",
+  "def_en": "the act of bringing goods to someone",
+  "note_ru": "«Free delivery» — бесплатная доставка. Глагол deliver ещё значит «выступить с речью»: «deliver a talk».",
+  "example": "Delivery takes two to three days.",
+  "example_ru": "Доставка занимает два-три дня.",
+  "examples_extra": [
+   {
+    "en": "Delivery is free over fifty euros.",
+    "ru": "Доставка бесплатна при заказе от пятидесяти евро."
+   }
+  ],
+  "topic": "shopping"
+ },
+ {
+  "id": "b1-146",
+  "word": "refund",
+  "ipa": "/ˈriːfʌnd/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "возврат денег",
+  "def_en": "money paid back to you for a returned purchase",
+  "note_ru": "«Get a refund» — вернуть деньги. Ударение в существительном на первый слог, в глаголе на второй.",
+  "example": "They gave me a full refund.",
+  "example_ru": "Мне вернули всю сумму.",
+  "examples_extra": [
+   {
+    "en": "You can ask for a refund within thirty days.",
+    "ru": "Вернуть деньги можно в течение тридцати дней."
+   }
+  ],
+  "topic": "shopping"
+ },
+ {
+  "id": "b1-147",
+  "word": "shortcut",
+  "ipa": "/ˈʃɔːtkʌt/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "короткий путь; горячая клавиша",
+  "def_en": "a quicker route or method; a key combination",
+  "note_ru": "«Take a shortcut» — срезать дорогу. «There are no shortcuts» — лёгких путей нет.",
+  "example": "There is a shortcut through the park.",
+  "example_ru": "Через парк есть короткая дорога.",
+  "examples_extra": [
+   {
+    "en": "Learn the keyboard shortcuts, they save hours.",
+    "ru": "Выучи горячие клавиши — они экономят часы."
+   }
+  ],
+  "topic": "city"
+ },
+ {
+  "id": "b1-148",
+  "word": "schedule",
+  "ipa": "/ˈʃedjuːl/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "расписание, график",
+  "def_en": "a plan of when things will happen",
+  "note_ru": "Британцы говорят «шЕдьюл», американцы «скЕджул» — оба верны. «Ahead of schedule» — с опережением графика.",
+  "example": "The project is behind schedule.",
+  "example_ru": "Проект отстаёт от графика.",
+  "examples_extra": [
+   {
+    "en": "My schedule is full until Thursday.",
+    "ru": "Мой график забит до четверга."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-149",
+  "word": "rough",
+  "ipa": "/rʌf/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "примерный, черновой; шероховатый; тяжёлый",
+  "def_en": "approximate; not smooth; difficult",
+  "note_ru": "Читается «раф». «A rough idea» — примерное представление, «a rough day» — тяжёлый день.",
+  "example": "Can you give me a rough estimate?",
+  "example_ru": "Можешь дать примерную оценку?",
+  "examples_extra": [
+   {
+    "en": "It was a rough week for the whole team.",
+    "ru": "Это была тяжёлая неделя для всей команды."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-150",
+  "word": "spare",
+  "ipa": "/speə/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "запасной, свободный",
+  "def_en": "extra and not currently being used",
+  "note_ru": "«Spare time» — свободное время, «a spare key» — запасной ключ. Как глагол — уделить: «spare me a minute».",
+  "example": "I read in my spare time.",
+  "example_ru": "Я читаю в свободное время.",
+  "examples_extra": [
+   {
+    "en": "Do you have a spare charger?",
+    "ru": "У тебя есть запасная зарядка?"
+   }
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "b1-151",
+  "word": "plenty of",
+  "ipa": "/ˈplenti əv/",
+  "pos": "phrase",
+  "level": "B1",
+  "ru": "много, полно, более чем достаточно",
+  "def_en": "more than enough of something",
+  "note_ru": "Работает и с исчисляемыми, и с неисчисляемыми: «plenty of time», «plenty of chairs».",
+  "example": "There is plenty of time before the train.",
+  "example_ru": "До поезда полно времени.",
+  "examples_extra": [
+   {
+    "en": "Don't rush, we have plenty of time.",
+    "ru": "Не спеши, у нас полно времени."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-152",
+  "word": "a couple of",
+  "ipa": "/ə ˈkʌpl əv/",
+  "pos": "phrase",
+  "level": "B1",
+  "ru": "пара, несколько",
+  "def_en": "two, or a small number",
+  "note_ru": "Строго это два, но в разговоре означает «несколько». Предлог of обязателен: «a couple of days».",
+  "example": "Give me a couple of minutes.",
+  "example_ru": "Дай мне пару минут.",
+  "examples_extra": [
+   {
+    "en": "I'll be back in a couple of hours.",
+    "ru": "Я вернусь через пару часов."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-153",
+  "word": "approximately",
+  "ipa": "/əˈprɒksɪmətli/",
+  "pos": "adverb",
+  "level": "B1",
+  "ru": "приблизительно",
+  "def_en": "close to a particular number but not exact",
+  "note_ru": "Формальный вариант about. В сокращениях — approx. Для чисел в отчётах.",
+  "example": "The trip takes approximately five hours.",
+  "example_ru": "Поездка занимает приблизительно пять часов.",
+  "examples_extra": [
+   {
+    "en": "The hall seats approximately two hundred people.",
+    "ru": "Зал вмещает приблизительно двести человек."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b1-154",
+  "word": "increase",
+  "ipa": "/ɪnˈkriːs/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "увеличивать, расти",
+  "def_en": "to become larger in number or amount",
+  "note_ru": "Ударение: глагол «инкрИс», существительное «Инкрис». «Increase by 10%» — на 10%, «increase to 50» — до 50.",
+  "example": "Sales increased by twelve per cent.",
+  "example_ru": "Продажи выросли на двенадцать процентов.",
+  "examples_extra": [
+   {
+    "en": "The club increased ticket prices again.",
+    "ru": "Клуб снова поднял цены на билеты."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-155",
+  "word": "decrease",
+  "ipa": "/dɪˈkriːs/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "уменьшаться, снижать",
+  "def_en": "to become smaller in number or amount",
+  "note_ru": "Зеркало к increase, с тем же переносом ударения. В разговоре чаще говорят «go down».",
+  "example": "Traffic decreased over the weekend.",
+  "example_ru": "Трафик снизился за выходные.",
+  "examples_extra": [
+   {
+    "en": "Screen time decreased once we set limits.",
+    "ru": "Экранное время сократилось, когда мы ввели лимиты."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-156",
+  "word": "average",
+  "ipa": "/ˈævərɪdʒ/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "средний; обычный",
+  "def_en": "typical; calculated by dividing a total by the number of items",
+  "note_ru": "«On average» — в среднем. Как оценка человека или вещи звучит прохладно: «average» ближе к «так себе».",
+  "example": "On average, we get twenty a day.",
+  "example_ru": "В среднем нам приходит по двадцать в день.",
+  "examples_extra": [
+   {
+    "en": "It was an average film, nothing special.",
+    "ru": "Это был обычный фильм, ничего особенного."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-157",
+  "word": "nowadays",
+  "ipa": "/ˈnaʊədeɪz/",
+  "pos": "adverb",
+  "level": "B1",
+  "ru": "в наши дни, сейчас",
+  "def_en": "at the present time, compared with the past",
+  "note_ru": "Одно слово, всегда с s на конце. Обычно с Present Simple: «Nowadays everyone works remotely».",
+  "example": "Nowadays most people book online.",
+  "example_ru": "В наши дни большинство бронирует онлайн.",
+  "examples_extra": [
+   {
+    "en": "Nowadays even fridges connect to wifi.",
+    "ru": "В наши дни даже холодильники подключаются к вайфаю."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-158",
+  "word": "meanwhile",
+  "ipa": "/ˈmiːnwaɪl/",
+  "pos": "adverb",
+  "level": "B1",
+  "ru": "тем временем, между тем",
+  "def_en": "while something else is happening",
+  "note_ru": "Связка между двумя параллельными событиями. «In the meantime» — то же самое, но чуть разговорнее.",
+  "example": "Meanwhile, the guests were waiting outside.",
+  "example_ru": "Тем временем гости ждали снаружи.",
+  "examples_extra": [
+   {
+    "en": "I cooked dinner; meanwhile, she set the table.",
+    "ru": "Я готовил ужин; тем временем она накрывала на стол."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b1-159",
+  "word": "so far",
+  "ipa": "/səʊ fɑː/",
+  "pos": "phrase",
+  "level": "B1",
+  "ru": "пока что, до сих пор",
+  "def_en": "up to now",
+  "note_ru": "Обычно с Present Perfect: «So far we have sold thirty». «So far so good» — пока всё идёт хорошо.",
+  "example": "So far everything is going to plan.",
+  "example_ru": "Пока что всё идёт по плану.",
+  "examples_extra": [
+   {
+    "en": "So far we have sold thirty tickets.",
+    "ru": "Пока что мы продали тридцать билетов."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-160",
+  "word": "as soon as",
+  "ipa": "/əz suːn əz/",
+  "pos": "phrase",
+  "level": "B1",
+  "ru": "как только",
+  "def_en": "immediately after something happens",
+  "note_ru": "О будущем — настоящее время: «I will call as soon as I arrive», а не «as soon as I will arrive».",
+  "example": "Let me know as soon as you hear back.",
+  "example_ru": "Дай знать, как только получишь ответ.",
+  "examples_extra": [
+   {
+    "en": "Call me as soon as you land.",
+    "ru": "Позвони мне, как только приземлишься."
+   }
+  ],
+  "topic": "grammar"
+ }
 ]

@@ -1,22 +1,402 @@
 [
-{"id":"b2-021","word":"tackle","ipa":"/ˈtækl/","pos":"verb","level":"B2","ru":"взяться за, браться решать проблему","def_en":"to make a determined effort to deal with a problem","note_ru":"«Tackle the issue» — взяться за вопрос. В спорте — отбирать мяч, идти в подкат.","example":"We need to tackle this problem head-on.","example_ru":"Нам нужно взяться за эту проблему всерьёз.","topic":"work"},
-{"id":"b2-022","word":"inevitable","ipa":"/ɪnˈevɪtəbl/","pos":"adj","level":"B2","ru":"неизбежный","def_en":"certain to happen and impossible to avoid","note_ru":"«The inevitable» как существительное — неизбежное. Наречие inevitably — неизбежно, что и требовалось ожидать.","example":"Some delay was inevitable.","example_ru":"Какая-то задержка была неизбежна.","topic":"core"},
-{"id":"b2-023","word":"ambiguous","ipa":"/æmˈbɪɡjuəs/","pos":"adj","level":"B2","ru":"неоднозначный, двусмысленный","def_en":"having more than one possible meaning","note_ru":"В технике и юриспруденции — недостаток. Существительное — ambiguity.","example":"The wording is deliberately ambiguous.","example_ru":"Формулировка намеренно неоднозначна.","topic":"language"},
-{"id":"b2-024","word":"get away with","ipa":"/ɡet əˈweɪ wɪð/","pos":"phrasal verb","level":"B2","ru":"сойти с рук, остаться безнаказанным","def_en":"to avoid punishment for something you did","note_ru":"«He got away with it» — ему это сошло с рук. Не путать с get away — уехать, вырваться.","example":"You will never get away with cheating here.","example_ru":"Списать здесь безнаказанно не выйдет.","topic":"phrasal"},
-{"id":"b2-025","word":"prone to","ipa":"/prəʊn tuː/","pos":"phrase","level":"B2","ru":"склонный к, подверженный","def_en":"likely to suffer from or do something bad","note_ru":"Обычно про плохое: «prone to errors», «accident-prone». После prone to — существительное или -ing.","example":"This method is prone to errors.","example_ru":"Этот метод подвержен ошибкам.","topic":"work"},
-{"id":"b2-026","word":"to some extent","ipa":"/tuː sʌm ɪkˈstent/","pos":"phrase","level":"B2","ru":"в какой-то степени, отчасти","def_en":"partly, but not completely","note_ru":"Полезно для смягчения согласия в дискуссии: «I agree to some extent, but…»","example":"That is true to some extent.","example_ru":"Отчасти это правда.","topic":"formal"},
-{"id":"b2-027","word":"drawback","ipa":"/ˈdrɔːbæk/","pos":"noun","level":"B2","ru":"недостаток, минус","def_en":"a disadvantage of a plan or product","note_ru":"Мягче, чем disadvantage. «The main drawback is the price».","example":"The only drawback is the battery life.","example_ru":"Единственный минус — время работы батареи.","topic":"opinion"},
-{"id":"b2-028","word":"come down to","ipa":"/kʌm daʊn tuː/","pos":"phrasal verb","level":"B2","ru":"сводиться к","def_en":"to be, in the end, a matter of one main thing","note_ru":"«It all comes down to money» — всё сводится к деньгам. Очень частая разговорная конструкция.","example":"It comes down to how much time we have.","example_ru":"Всё сводится к тому, сколько у нас времени.","topic":"phrasal"},
-{"id":"b2-029","word":"reluctantly","ipa":"/rɪˈlʌktəntli/","pos":"adverb","level":"B2","ru":"неохотно, скрепя сердце","def_en":"in a way that shows you do not want to do something","note_ru":"«He reluctantly agreed» — он нехотя согласился.","example":"She reluctantly handed over the keys.","example_ru":"Она нехотя отдала ключи.","topic":"emotions"},
-{"id":"b2-030","word":"insight","ipa":"/ˈɪnsaɪt/","pos":"noun","level":"B2","ru":"понимание сути, инсайт, проницательность","def_en":"a clear and deep understanding of something complicated","note_ru":"«Gain insight into» — получить понимание чего-то. В аналитике insights — выводы из данных.","example":"The book gives real insight into how markets work.","example_ru":"Книга даёт настоящее понимание того, как работают рынки.","topic":"thinking"},
-{"id":"b2-031","word":"hesitate","ipa":"/ˈhezɪteɪt/","pos":"verb","level":"B2","ru":"колебаться, медлить","def_en":"to pause before doing something because you are unsure","note_ru":"«Don't hesitate to contact me» — стандартная концовка делового письма.","example":"He hesitated before answering.","example_ru":"Он помедлил перед ответом.","topic":"communication"},
-{"id":"b2-032","word":"backlog","ipa":"/ˈbæklɒɡ/","pos":"noun","level":"B2","ru":"накопившиеся дела, очередь задач","def_en":"work that should have been done already but has piled up","note_ru":"В IT — список задач на будущее. В обычной речи — завал: «a backlog of emails».","example":"I have a huge backlog of emails.","example_ru":"У меня огромный завал писем.","topic":"work"},
-{"id":"b2-033","word":"arguably","ipa":"/ˈɑːɡjuəbli/","pos":"adverb","level":"B2","ru":"пожалуй, можно утверждать что","def_en":"used to say that something can be reasonably argued","note_ru":"Способ высказать сильное мнение с подстраховкой: «arguably the best film of the year».","example":"He is arguably the best player in the league.","example_ru":"Он, пожалуй, лучший игрок лиги.","topic":"opinion"},
-{"id":"b2-034","word":"set up","ipa":"/set ʌp/","pos":"phrasal verb","level":"B2","ru":"настроить, создать, организовать","def_en":"to arrange or prepare something for use","note_ru":"«Set up a meeting», «set up an account». Существительное setup пишется слитно.","example":"It takes ten minutes to set everything up.","example_ru":"Настройка всего занимает десять минут.","topic":"phrasal"},
-{"id":"b2-035","word":"whereas","ipa":"/weərˈæz/","pos":"conjunction","level":"B2","ru":"тогда как, в то время как","def_en":"used to compare two contrasting facts","note_ru":"Формальнее, чем but. Идеально для эссе при сравнении: «A is cheap, whereas B is fast».","example":"He prefers coffee, whereas I prefer tea.","example_ru":"Он предпочитает кофе, тогда как я — чай.","topic":"formal"},
-{"id":"b2-036","word":"bring up","ipa":"/brɪŋ ʌp/","pos":"phrasal verb","level":"B2","ru":"поднять тему; воспитывать","def_en":"to mention a subject; to raise a child","note_ru":"«Don't bring that up again» — не поднимай эту тему. «She was brought up in Kazan» — выросла в Казани.","example":"Nobody wanted to bring up the salary question.","example_ru":"Никто не хотел поднимать вопрос зарплаты.","topic":"phrasal"},
-{"id":"b2-037","word":"cautious","ipa":"/ˈkɔːʃəs/","pos":"adj","level":"B2","ru":"осторожный, осмотрительный","def_en":"careful to avoid risk or danger","note_ru":"«Cautiously optimistic» — сдержанно оптимистичный, очень частая фраза в новостях.","example":"Investors remain cautious about the news.","example_ru":"Инвесторы сохраняют осторожность в связи с новостями.","topic":"character"},
-{"id":"b2-038","word":"the bottom line","ipa":"/ðə ˈbɒtəm laɪn/","pos":"phrase","level":"B2","ru":"суть дела, главное; итоговая прибыль","def_en":"the most important fact in a situation","note_ru":"«The bottom line is, we can't afford it». Изначально — нижняя строка финансового отчёта.","example":"The bottom line is that we need more time.","example_ru":"Суть в том, что нам нужно больше времени.","topic":"idiom"},
-{"id":"b2-039","word":"appreciate","ipa":"/əˈpriːʃieɪt/","pos":"verb","level":"B2","ru":"ценить; понимать важность; расти в цене","def_en":"to value something; to understand a situation fully","note_ru":"«I'd appreciate it if you could…» — вежливая просьба. Ещё значит «дорожать» о валюте и активах.","example":"I appreciate how difficult this is for you.","example_ru":"Я понимаю, насколько это тяжело для тебя.","topic":"communication"},
-{"id":"b2-040","word":"workaround","ipa":"/ˈwɜːkəraʊnd/","pos":"noun","level":"B2","ru":"обходной путь, временное решение","def_en":"a way of avoiding a problem instead of fixing it","note_ru":"Из IT, но давно вошло в общий язык. Подразумевает, что настоящее решение ещё впереди.","example":"There is a workaround until the fix ships.","example_ru":"Есть обходной путь, пока не выйдет исправление.","topic":"work"}
+ {
+  "id": "b2-021",
+  "word": "tackle",
+  "ipa": "/ˈtækl/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "взяться за, браться решать проблему",
+  "def_en": "to make a determined effort to deal with a problem",
+  "note_ru": "«Tackle the issue» — взяться за вопрос. В спорте — отбирать мяч, идти в подкат.",
+  "example": "We need to tackle this problem head-on.",
+  "example_ru": "Нам нужно взяться за эту проблему всерьёз.",
+  "examples_extra": [
+   {
+    "en": "The city is finally tackling the housing shortage.",
+    "ru": "Город наконец взялся за нехватку жилья."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-022",
+  "word": "inevitable",
+  "ipa": "/ɪnˈevɪtəbl/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "неизбежный",
+  "def_en": "certain to happen and impossible to avoid",
+  "note_ru": "«The inevitable» как существительное — неизбежное. Наречие inevitably — неизбежно, что и требовалось ожидать.",
+  "example": "Some delay was inevitable.",
+  "example_ru": "Какая-то задержка была неизбежна.",
+  "examples_extra": [
+   {
+    "en": "Change is inevitable; resisting it is optional.",
+    "ru": "Перемены неизбежны; сопротивляться им — по желанию."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-023",
+  "word": "ambiguous",
+  "ipa": "/æmˈbɪɡjuəs/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "неоднозначный, двусмысленный",
+  "def_en": "having more than one possible meaning",
+  "note_ru": "В технике и юриспруденции — недостаток. Существительное — ambiguity.",
+  "example": "The wording is deliberately ambiguous.",
+  "example_ru": "Формулировка намеренно неоднозначна.",
+  "examples_extra": [
+   {
+    "en": "His answer was polite but ambiguous.",
+    "ru": "Его ответ был вежливым, но двусмысленным."
+   }
+  ],
+  "topic": "language"
+ },
+ {
+  "id": "b2-024",
+  "word": "get away with",
+  "ipa": "/ɡet əˈweɪ wɪð/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "сойти с рук, остаться безнаказанным",
+  "def_en": "to avoid punishment for something you did",
+  "note_ru": "«He got away with it» — ему это сошло с рук. Не путать с get away — уехать, вырваться.",
+  "example": "You will never get away with cheating here.",
+  "example_ru": "Списать здесь безнаказанно не выйдет.",
+  "examples_extra": [
+   {
+    "en": "He thought he could get away with parking there.",
+    "ru": "Он думал, что парковка там сойдёт ему с рук."
+   },
+   {
+    "en": "They got away with a very thin excuse.",
+    "ru": "Им это сошло с рук благодаря очень слабой отговорке."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-025",
+  "word": "prone to",
+  "ipa": "/prəʊn tuː/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "склонный к, подверженный",
+  "def_en": "likely to suffer from or do something bad",
+  "note_ru": "Обычно про плохое: «prone to errors», «accident-prone». После prone to — существительное или -ing.",
+  "example": "This method is prone to errors.",
+  "example_ru": "Этот метод подвержен ошибкам.",
+  "examples_extra": [
+   {
+    "en": "Tired people are prone to snap decisions.",
+    "ru": "Уставшие люди склонны к поспешным решениям."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-026",
+  "word": "to some extent",
+  "ipa": "/tuː sʌm ɪkˈstent/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "в какой-то степени, отчасти",
+  "def_en": "partly, but not completely",
+  "note_ru": "Полезно для смягчения согласия в дискуссии: «I agree to some extent, but…»",
+  "example": "That is true to some extent.",
+  "example_ru": "Отчасти это правда.",
+  "examples_extra": [
+   {
+    "en": "To some extent, we are all responsible.",
+    "ru": "В какой-то степени ответственны мы все."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-027",
+  "word": "drawback",
+  "ipa": "/ˈdrɔːbæk/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "недостаток, минус",
+  "def_en": "a disadvantage of a plan or product",
+  "note_ru": "Мягче, чем disadvantage. «The main drawback is the price».",
+  "example": "The only drawback is the battery life.",
+  "example_ru": "Единственный минус — время работы батареи.",
+  "examples_extra": [
+   {
+    "en": "The main drawback of the flat is the noise.",
+    "ru": "Главный минус квартиры — шум."
+   }
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "b2-028",
+  "word": "come down to",
+  "ipa": "/kʌm daʊn tuː/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "сводиться к",
+  "def_en": "to be, in the end, a matter of one main thing",
+  "note_ru": "«It all comes down to money» — всё сводится к деньгам. Очень частая разговорная конструкция.",
+  "example": "It comes down to how much time we have.",
+  "example_ru": "Всё сводится к тому, сколько у нас времени.",
+  "examples_extra": [
+   {
+    "en": "In the end it comes down to trust.",
+    "ru": "В конечном счёте всё сводится к доверию."
+   },
+   {
+    "en": "The choice comes down to price versus comfort.",
+    "ru": "Выбор сводится к цене против комфорта."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-029",
+  "word": "reluctantly",
+  "ipa": "/rɪˈlʌktəntli/",
+  "pos": "adverb",
+  "level": "B2",
+  "ru": "неохотно, скрепя сердце",
+  "def_en": "in a way that shows you do not want to do something",
+  "note_ru": "«He reluctantly agreed» — он нехотя согласился.",
+  "example": "She reluctantly handed over the keys.",
+  "example_ru": "Она нехотя отдала ключи.",
+  "examples_extra": [
+   {
+    "en": "He reluctantly agreed to postpone the launch.",
+    "ru": "Он скрепя сердце согласился отложить запуск."
+   }
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "b2-030",
+  "word": "insight",
+  "ipa": "/ˈɪnsaɪt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "понимание сути, инсайт, проницательность",
+  "def_en": "a clear and deep understanding of something complicated",
+  "note_ru": "«Gain insight into» — получить понимание чего-то. В аналитике insights — выводы из данных.",
+  "example": "The book gives real insight into how markets work.",
+  "example_ru": "Книга даёт настоящее понимание того, как работают рынки.",
+  "examples_extra": [
+   {
+    "en": "Her comments offered a rare insight into the process.",
+    "ru": "Её комментарии дали редкое понимание процесса."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b2-031",
+  "word": "hesitate",
+  "ipa": "/ˈhezɪteɪt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "колебаться, медлить",
+  "def_en": "to pause before doing something because you are unsure",
+  "note_ru": "«Don't hesitate to contact me» — стандартная концовка делового письма.",
+  "example": "He hesitated before answering.",
+  "example_ru": "Он помедлил перед ответом.",
+  "examples_extra": [
+   {
+    "en": "If you need help, don't hesitate to ask.",
+    "ru": "Если нужна помощь — не стесняйся спросить."
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b2-032",
+  "word": "backlog",
+  "ipa": "/ˈbæklɒɡ/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "накопившиеся дела, очередь задач",
+  "def_en": "work that should have been done already but has piled up",
+  "note_ru": "В IT — список задач на будущее. В обычной речи — завал: «a backlog of emails».",
+  "example": "I have a huge backlog of emails.",
+  "example_ru": "У меня огромный завал писем.",
+  "examples_extra": [
+   {
+    "en": "The support team cleared the backlog by Friday.",
+    "ru": "Служба поддержки разобрала накопившиеся обращения к пятнице."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-033",
+  "word": "arguably",
+  "ipa": "/ˈɑːɡjuəbli/",
+  "pos": "adverb",
+  "level": "B2",
+  "ru": "пожалуй, можно утверждать что",
+  "def_en": "used to say that something can be reasonably argued",
+  "note_ru": "Способ высказать сильное мнение с подстраховкой: «arguably the best film of the year».",
+  "example": "He is arguably the best player in the league.",
+  "example_ru": "Он, пожалуй, лучший игрок лиги.",
+  "examples_extra": [
+   {
+    "en": "This is arguably the best coffee in town.",
+    "ru": "Это, пожалуй, лучший кофе в городе."
+   }
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "b2-034",
+  "word": "set up",
+  "ipa": "/set ʌp/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "настроить, создать, организовать",
+  "def_en": "to arrange or prepare something for use",
+  "note_ru": "«Set up a meeting», «set up an account». Существительное setup пишется слитно.",
+  "example": "It takes ten minutes to set everything up.",
+  "example_ru": "Настройка всего занимает десять минут.",
+  "examples_extra": [
+   {
+    "en": "We set up a small studio in the garage.",
+    "ru": "Мы устроили небольшую студию в гараже."
+   },
+   {
+    "en": "She set up her own company at twenty-five.",
+    "ru": "Она основала собственную компанию в двадцать пять."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-035",
+  "word": "whereas",
+  "ipa": "/weərˈæz/",
+  "pos": "conjunction",
+  "level": "B2",
+  "ru": "тогда как, в то время как",
+  "def_en": "used to compare two contrasting facts",
+  "note_ru": "Формальнее, чем but. Идеально для эссе при сравнении: «A is cheap, whereas B is fast».",
+  "example": "He prefers coffee, whereas I prefer tea.",
+  "example_ru": "Он предпочитает кофе, тогда как я — чай.",
+  "examples_extra": [
+   {
+    "en": "The north got snow, whereas the south had rain.",
+    "ru": "На севере выпал снег, тогда как на юге шёл дождь."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-036",
+  "word": "bring up",
+  "ipa": "/brɪŋ ʌp/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "поднять тему; воспитывать",
+  "def_en": "to mention a subject; to raise a child",
+  "note_ru": "«Don't bring that up again» — не поднимай эту тему. «She was brought up in Kazan» — выросла в Казани.",
+  "example": "Nobody wanted to bring up the salary question.",
+  "example_ru": "Никто не хотел поднимать вопрос зарплаты.",
+  "examples_extra": [
+   {
+    "en": "She brought up a good point about costs.",
+    "ru": "Она подняла хороший вопрос о расходах."
+   },
+   {
+    "en": "He was brought up by his grandparents.",
+    "ru": "Его воспитали бабушка с дедушкой."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-037",
+  "word": "cautious",
+  "ipa": "/ˈkɔːʃəs/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "осторожный, осмотрительный",
+  "def_en": "careful to avoid risk or danger",
+  "note_ru": "«Cautiously optimistic» — сдержанно оптимистичный, очень частая фраза в новостях.",
+  "example": "Investors remain cautious about the news.",
+  "example_ru": "Инвесторы сохраняют осторожность в связи с новостями.",
+  "examples_extra": [
+   {
+    "en": "Be cautious with offers that look too good.",
+    "ru": "Будь осторожен с предложениями, которые выглядят слишком хорошо."
+   }
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b2-038",
+  "word": "the bottom line",
+  "ipa": "/ðə ˈbɒtəm laɪn/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "суть дела, главное; итоговая прибыль",
+  "def_en": "the most important fact in a situation",
+  "note_ru": "«The bottom line is, we can't afford it». Изначально — нижняя строка финансового отчёта.",
+  "example": "The bottom line is that we need more time.",
+  "example_ru": "Суть в том, что нам нужно больше времени.",
+  "examples_extra": [
+   {
+    "en": "The bottom line: we ship on Monday or lose the client.",
+    "ru": "Суть такова: либо отгружаем в понедельник, либо теряем клиента."
+   },
+   {
+    "en": "What's the bottom line for this quarter?",
+    "ru": "Какова итоговая прибыль за этот квартал?"
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-039",
+  "word": "appreciate",
+  "ipa": "/əˈpriːʃieɪt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "ценить; понимать важность; расти в цене",
+  "def_en": "to value something; to understand a situation fully",
+  "note_ru": "«I'd appreciate it if you could…» — вежливая просьба. Ещё значит «дорожать» о валюте и активах.",
+  "example": "I appreciate how difficult this is for you.",
+  "example_ru": "Я понимаю, насколько это тяжело для тебя.",
+  "examples_extra": [
+   {
+    "en": "I'd appreciate a quick reply.",
+    "ru": "Буду признателен за быстрый ответ."
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b2-040",
+  "word": "workaround",
+  "ipa": "/ˈwɜːkəraʊnd/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "обходной путь, временное решение",
+  "def_en": "a way of avoiding a problem instead of fixing it",
+  "note_ru": "Из IT, но давно вошло в общий язык. Подразумевает, что настоящее решение ещё впереди.",
+  "example": "There is a workaround until the fix ships.",
+  "example_ru": "Есть обходной путь, пока не выйдет исправление.",
+  "examples_extra": [
+   {
+    "en": "The workaround is ugly, but it works.",
+    "ru": "Обходное решение некрасивое, но работает."
+   }
+  ],
+  "topic": "work"
+ }
 ]

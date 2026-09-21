@@ -1,32 +1,628 @@
 [
-{"id":"b2-071","word":"assumption","ipa":"/əˈsʌmpʃn/","pos":"noun","level":"B2","ru":"допущение, предположение","def_en":"something you accept as true without proof","note_ru":"«Make an assumption» — сделать допущение. «On the assumption that…» — исходя из того, что.","example":"That whole plan rests on one assumption.","example_ru":"Весь план держится на одном допущении.","topic":"thinking"},
-{"id":"b2-072","word":"constraint","ipa":"/kənˈstreɪnt/","pos":"noun","level":"B2","ru":"ограничение, сдерживающий фактор","def_en":"something that limits what you can do","note_ru":"«Time constraints» — ограничения по времени. Отличается от limit: constraint мешает извне.","example":"We are working under tight constraints.","example_ru":"Мы работаем в жёстких ограничениях.","topic":"work"},
-{"id":"b2-073","word":"framework","ipa":"/ˈfreɪmwɜːk/","pos":"noun","level":"B2","ru":"структура, система принципов; каркас","def_en":"a set of ideas or rules used to plan or decide something","note_ru":"«A legal framework» — правовая база. В программировании — фреймворк, тот же корень «каркас».","example":"We need a framework for these decisions.","example_ru":"Нам нужна система принципов для таких решений.","topic":"work"},
-{"id":"b2-074","word":"implication","ipa":"/ˌɪmplɪˈkeɪʃn/","pos":"noun","level":"B2","ru":"последствие; скрытый смысл","def_en":"a likely result; something suggested but not said","note_ru":"Во множественном — последствия: «the implications of this decision». В единственном чаще намёк.","example":"Have you thought about the implications?","example_ru":"Ты подумал о последствиях?","topic":"thinking"},
-{"id":"b2-075","word":"incentive","ipa":"/ɪnˈsentɪv/","pos":"noun","level":"B2","ru":"стимул, побудительный мотив","def_en":"something that encourages you to do something","note_ru":"«An incentive to do something». Часто про деньги и бонусы, но не только.","example":"There is little incentive to change.","example_ru":"Стимула что-то менять почти нет.","topic":"work"},
-{"id":"b2-076","word":"initiative","ipa":"/ɪˈnɪʃətɪv/","pos":"noun","level":"B2","ru":"инициатива; предприимчивость","def_en":"a new plan; or the ability to act without being told","note_ru":"«Take the initiative» — взять инициативу. «Show initiative» в резюме — проявлять самостоятельность.","example":"She took the initiative and rewrote it.","example_ru":"Она взяла инициативу и переписала это.","topic":"work"},
-{"id":"b2-077","word":"obstacle","ipa":"/ˈɒbstəkl/","pos":"noun","level":"B2","ru":"препятствие","def_en":"something that blocks your way or stops progress","note_ru":"«Overcome an obstacle» — преодолеть препятствие. Ударение на первый слог.","example":"The main obstacle is funding.","example_ru":"Главное препятствие — финансирование.","topic":"work"},
-{"id":"b2-078","word":"perspective","ipa":"/pəˈspektɪv/","pos":"noun","level":"B2","ru":"точка зрения; соотношение важности","def_en":"a particular way of viewing things","note_ru":"«From my perspective» — с моей точки зрения. «Put it in perspective» — оценить масштаб трезво.","example":"That gives us a fresh perspective.","example_ru":"Это даёт нам свежий взгляд.","topic":"opinion"},
-{"id":"b2-079","word":"rationale","ipa":"/ˌræʃəˈnɑːl/","pos":"noun","level":"B2","ru":"обоснование, логика решения","def_en":"the reasons behind a decision or approach","note_ru":"Читается «рэшенАль», последний слог как во французском. Не путать с rational — рациональный.","example":"Explain the rationale behind the change.","example_ru":"Объясни логику этого изменения.","topic":"formal"},
-{"id":"b2-080","word":"scope","ipa":"/skəʊp/","pos":"noun","level":"B2","ru":"охват, рамки; простор для","def_en":"the range of what something covers; room for something","note_ru":"«Out of scope» — вне рамок задачи. «Scope creep» — разрастание задачи сверх плана.","example":"That is outside the scope of this project.","example_ru":"Это выходит за рамки данного проекта.","topic":"work"},
-{"id":"b2-081","word":"trade-off","ipa":"/ˈtreɪd ɒf/","pos":"noun","level":"B2","ru":"компромисс, размен одного на другое","def_en":"a balance between two things you cannot both have fully","note_ru":"Не просто компромисс, а именно размен: за одно платишь другим. «A trade-off between speed and quality».","example":"There is always a trade-off between cost and quality.","example_ru":"Между ценой и качеством всегда есть размен.","topic":"work"},
-{"id":"b2-082","word":"threshold","ipa":"/ˈθreʃhəʊld/","pos":"noun","level":"B2","ru":"порог (значения или чувствительности)","def_en":"the level at which something starts to happen","note_ru":"«A pain threshold» — болевой порог. Буквально порог двери, но переносное значение частотнее.","example":"Anything above that threshold triggers an alert.","example_ru":"Всё выше этого порога вызывает оповещение.","topic":"tech"},
-{"id":"b2-083","word":"momentum","ipa":"/məˈmentəm/","pos":"noun","level":"B2","ru":"набранный ход, инерция движения вперёд","def_en":"the force that keeps something moving or progressing","note_ru":"«Gain momentum» — набирать обороты, «lose momentum» — выдыхаться. Из физики, но в речи чаще переносно.","example":"The campaign is gaining momentum.","example_ru":"Кампания набирает обороты.","topic":"work"},
-{"id":"b2-084","word":"precedent","ipa":"/ˈpresɪdənt/","pos":"noun","level":"B2","ru":"прецедент","def_en":"an earlier case used as an example for later ones","note_ru":"Ударение на первый слог — «прЭсидэнт». Не путать с president, там ударение тоже первое, но гласная другая.","example":"That would set a dangerous precedent.","example_ru":"Это создало бы опасный прецедент.","topic":"formal"},
-{"id":"b2-085","word":"at stake","ipa":"/ət steɪk/","pos":"phrase","level":"B2","ru":"на кону, под угрозой","def_en":"able to be won or lost, depending on what happens","note_ru":"«There is a lot at stake» — на кону многое. Не путать со steak — стейк, звучат одинаково.","example":"Their whole reputation is at stake.","example_ru":"На кону вся их репутация.","topic":"idiom"},
-{"id":"b2-086","word":"brush up on","ipa":"/brʌʃ ʌp ɒn/","pos":"phrasal verb","level":"B2","ru":"освежить в памяти, подтянуть","def_en":"to improve a skill you once had","note_ru":"Именно про подзабытое: «brush up on my French». Учить с нуля — не brush up.","example":"I should brush up on my Spanish.","example_ru":"Мне стоит подтянуть испанский.","topic":"learning"},
-{"id":"b2-087","word":"cut corners","ipa":"/kʌt ˈkɔːnəz/","pos":"phrase","level":"B2","ru":"делать наспех, экономить на качестве","def_en":"to do something quickly by leaving out important steps","note_ru":"Всегда с осуждением. «Don't cut corners on safety» — на безопасности не экономят.","example":"They cut corners and it showed.","example_ru":"Они сделали наспех, и это было видно.","topic":"idiom"},
-{"id":"b2-088","word":"go the extra mile","ipa":"/ɡəʊ ði ˈekstrə maɪl/","pos":"phrase","level":"B2","ru":"сделать больше, чем требуется","def_en":"to make more effort than is expected of you","note_ru":"Похвала. Частая формулировка в отзывах о сотрудниках и сервисе.","example":"She always goes the extra mile for clients.","example_ru":"Она всегда делает для клиентов больше, чем нужно.","topic":"idiom"},
-{"id":"b2-089","word":"in the long run","ipa":"/ɪn ðə lɒŋ rʌn/","pos":"phrase","level":"B2","ru":"в долгосрочной перспективе","def_en":"over a long period of time in the future","note_ru":"Противопоставляется «in the short term». «It pays off in the long run» — со временем окупается.","example":"It will save money in the long run.","example_ru":"В долгосрочной перспективе это сэкономит деньги.","topic":"idiom"},
-{"id":"b2-090","word":"jump to conclusions","ipa":"/dʒʌmp tuː kənˈkluːʒnz/","pos":"phrase","level":"B2","ru":"делать поспешные выводы","def_en":"to decide something too quickly without enough facts","note_ru":"«Let's not jump to conclusions» — не будем спешить с выводами. Всегда во множественном числе.","example":"Do not jump to conclusions yet.","example_ru":"Пока не делай поспешных выводов.","topic":"idiom"},
-{"id":"b2-091","word":"on the same page","ipa":"/ɒn ðə seɪm peɪdʒ/","pos":"phrase","level":"B2","ru":"понимать друг друга одинаково","def_en":"in agreement about what is happening or planned","note_ru":"«Just to make sure we are on the same page» — чтобы мы понимали одинаково. Очень частое на работе.","example":"I want to be sure we are on the same page.","example_ru":"Хочу убедиться, что мы понимаем это одинаково.","topic":"idiom"},
-{"id":"b2-092","word":"play it by ear","ipa":"/pleɪ ɪt baɪ ɪə/","pos":"phrase","level":"B2","ru":"действовать по обстоятельствам","def_en":"to decide as you go instead of planning","note_ru":"Из музыки — играть на слух, без нот. «Let's play it by ear» — решим на месте.","example":"We have no plan, we will play it by ear.","example_ru":"У нас нет плана, будем действовать по обстоятельствам.","topic":"idiom"},
-{"id":"b2-093","word":"up in the air","ipa":"/ʌp ɪn ði eə/","pos":"phrase","level":"B2","ru":"под вопросом, ещё не решено","def_en":"not yet decided or certain","note_ru":"«The date is still up in the air» — дата ещё под вопросом.","example":"Everything is up in the air until Monday.","example_ru":"До понедельника всё под вопросом.","topic":"idiom"},
-{"id":"b2-094","word":"get the hang of","ipa":"/ɡet ðə hæŋ əv/","pos":"phrase","level":"B2","ru":"наловчиться, приноровиться","def_en":"to learn how to do something with practice","note_ru":"Про навык, который приходит с практикой: «you will get the hang of it» — приноровишься.","example":"It took a week to get the hang of it.","example_ru":"Мне понадобилась неделя, чтобы приноровиться.","topic":"learning"},
-{"id":"b2-095","word":"make up for","ipa":"/meɪk ʌp fɔː/","pos":"phrasal verb","level":"B2","ru":"компенсировать, наверстать","def_en":"to compensate for something bad or missing","note_ru":"«Make up for lost time» — наверстать упущенное. Не путать с «make up» — придумать или помириться.","example":"The service makes up for the price.","example_ru":"Сервис компенсирует цену.","topic":"phrasal"},
-{"id":"b2-096","word":"look into","ipa":"/lʊk ˈɪntuː/","pos":"phrasal verb","level":"B2","ru":"изучить вопрос, разобраться","def_en":"to investigate something","note_ru":"«I will look into it» — стандартный ответ поддержки: разберусь и вернусь с ответом.","example":"We are looking into the complaint.","example_ru":"Мы разбираемся с этой жалобой.","topic":"phrasal"},
-{"id":"b2-097","word":"carry out","ipa":"/ˈkæri aʊt/","pos":"phrasal verb","level":"B2","ru":"выполнять, проводить","def_en":"to do something that has been planned or ordered","note_ru":"«Carry out a survey» — провести опрос. Формальнее do, стандарт для отчётов.","example":"They carried out a series of tests.","example_ru":"Они провели серию тестов.","topic":"phrasal"},
-{"id":"b2-098","word":"rule out","ipa":"/ruːl aʊt/","pos":"phrasal verb","level":"B2","ru":"исключить (вариант)","def_en":"to decide that something is not possible or not the cause","note_ru":"«We cannot rule it out» — исключать этого нельзя. Частое в расследованиях и медицине.","example":"Doctors ruled out an infection.","example_ru":"Врачи исключили инфекцию.","topic":"phrasal"},
-{"id":"b2-099","word":"back up","ipa":"/bæk ʌp/","pos":"phrasal verb","level":"B2","ru":"подкрепить, поддержать; сделать копию","def_en":"to support a claim or person; to make a copy of data","note_ru":"«Back up your argument» — подкрепить довод. Существительное backup пишется слитно.","example":"Can you back that up with data?","example_ru":"Можешь подкрепить это данными?","topic":"phrasal"},
-{"id":"b2-100","word":"stand out","ipa":"/stænd aʊt/","pos":"phrasal verb","level":"B2","ru":"выделяться, бросаться в глаза","def_en":"to be easily noticed because of being different or better","note_ru":"«Stand out from the crowd» — выделяться из толпы. Прилагательное outstanding — выдающийся.","example":"One answer really stood out.","example_ru":"Один ответ по-настоящему выделялся.","topic":"phrasal"}
+ {
+  "id": "b2-071",
+  "word": "assumption",
+  "ipa": "/əˈsʌmpʃn/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "допущение, предположение",
+  "def_en": "something you accept as true without proof",
+  "note_ru": "«Make an assumption» — сделать допущение. «On the assumption that…» — исходя из того, что.",
+  "example": "That whole plan rests on one assumption.",
+  "example_ru": "Весь план держится на одном допущении.",
+  "examples_extra": [
+   {
+    "en": "Challenge your own assumptions first.",
+    "ru": "Сначала подвергни сомнению собственные допущения."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b2-072",
+  "word": "constraint",
+  "ipa": "/kənˈstreɪnt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "ограничение, сдерживающий фактор",
+  "def_en": "something that limits what you can do",
+  "note_ru": "«Time constraints» — ограничения по времени. Отличается от limit: constraint мешает извне.",
+  "example": "We are working under tight constraints.",
+  "example_ru": "Мы работаем в жёстких ограничениях.",
+  "examples_extra": [
+   {
+    "en": "Time is our biggest constraint.",
+    "ru": "Время — наше главное ограничение."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-073",
+  "word": "framework",
+  "ipa": "/ˈfreɪmwɜːk/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "структура, система принципов; каркас",
+  "def_en": "a set of ideas or rules used to plan or decide something",
+  "note_ru": "«A legal framework» — правовая база. В программировании — фреймворк, тот же корень «каркас».",
+  "example": "We need a framework for these decisions.",
+  "example_ru": "Нам нужна система принципов для таких решений.",
+  "examples_extra": [
+   {
+    "en": "The new legal framework starts in January.",
+    "ru": "Новая правовая система вступает в силу в январе."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-074",
+  "word": "implication",
+  "ipa": "/ˌɪmplɪˈkeɪʃn/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "последствие; скрытый смысл",
+  "def_en": "a likely result; something suggested but not said",
+  "note_ru": "Во множественном — последствия: «the implications of this decision». В единственном чаще намёк.",
+  "example": "Have you thought about the implications?",
+  "example_ru": "Ты подумал о последствиях?",
+  "examples_extra": [
+   {
+    "en": "The ruling has implications for every school.",
+    "ru": "Это решение имеет последствия для каждой школы."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b2-075",
+  "word": "incentive",
+  "ipa": "/ɪnˈsentɪv/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "стимул, побудительный мотив",
+  "def_en": "something that encourages you to do something",
+  "note_ru": "«An incentive to do something». Часто про деньги и бонусы, но не только.",
+  "example": "There is little incentive to change.",
+  "example_ru": "Стимула что-то менять почти нет.",
+  "examples_extra": [
+   {
+    "en": "Discounts are an incentive to buy early.",
+    "ru": "Скидки — стимул покупать заранее."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-076",
+  "word": "initiative",
+  "ipa": "/ɪˈnɪʃətɪv/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "инициатива; предприимчивость",
+  "def_en": "a new plan; or the ability to act without being told",
+  "note_ru": "«Take the initiative» — взять инициативу. «Show initiative» в резюме — проявлять самостоятельность.",
+  "example": "She took the initiative and rewrote it.",
+  "example_ru": "Она взяла инициативу и переписала это.",
+  "examples_extra": [
+   {
+    "en": "The cleanup started as a local initiative.",
+    "ru": "Уборка началась как местная инициатива."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-077",
+  "word": "obstacle",
+  "ipa": "/ˈɒbstəkl/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "препятствие",
+  "def_en": "something that blocks your way or stops progress",
+  "note_ru": "«Overcome an obstacle» — преодолеть препятствие. Ударение на первый слог.",
+  "example": "The main obstacle is funding.",
+  "example_ru": "Главное препятствие — финансирование.",
+  "examples_extra": [
+   {
+    "en": "Fear of failure is the biggest obstacle.",
+    "ru": "Страх неудачи — самое большое препятствие."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-078",
+  "word": "perspective",
+  "ipa": "/pəˈspektɪv/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "точка зрения; соотношение важности",
+  "def_en": "a particular way of viewing things",
+  "note_ru": "«From my perspective» — с моей точки зрения. «Put it in perspective» — оценить масштаб трезво.",
+  "example": "That gives us a fresh perspective.",
+  "example_ru": "Это даёт нам свежий взгляд.",
+  "examples_extra": [
+   {
+    "en": "Travel changed my perspective on home.",
+    "ru": "Путешествия изменили мой взгляд на дом."
+   }
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "b2-079",
+  "word": "rationale",
+  "ipa": "/ˌræʃəˈnɑːl/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "обоснование, логика решения",
+  "def_en": "the reasons behind a decision or approach",
+  "note_ru": "Читается «рэшенАль», последний слог как во французском. Не путать с rational — рациональный.",
+  "example": "Explain the rationale behind the change.",
+  "example_ru": "Объясни логику этого изменения.",
+  "examples_extra": [
+   {
+    "en": "The rationale for the ban was never published.",
+    "ru": "Обоснование запрета так и не опубликовали."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-080",
+  "word": "scope",
+  "ipa": "/skəʊp/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "охват, рамки; простор для",
+  "def_en": "the range of what something covers; room for something",
+  "note_ru": "«Out of scope» — вне рамок задачи. «Scope creep» — разрастание задачи сверх плана.",
+  "example": "That is outside the scope of this project.",
+  "example_ru": "Это выходит за рамки данного проекта.",
+  "examples_extra": [
+   {
+    "en": "Payments are beyond the scope of version one.",
+    "ru": "Платежи выходят за рамки первой версии."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-081",
+  "word": "trade-off",
+  "ipa": "/ˈtreɪd ɒf/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "компромисс, размен одного на другое",
+  "def_en": "a balance between two things you cannot both have fully",
+  "note_ru": "Не просто компромисс, а именно размен: за одно платишь другим. «A trade-off between speed and quality».",
+  "example": "There is always a trade-off between cost and quality.",
+  "example_ru": "Между ценой и качеством всегда есть размен.",
+  "examples_extra": [
+   {
+    "en": "Speed versus battery life is the classic trade-off.",
+    "ru": "Скорость против времени работы батареи — классический размен."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-082",
+  "word": "threshold",
+  "ipa": "/ˈθreʃhəʊld/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "порог (значения или чувствительности)",
+  "def_en": "the level at which something starts to happen",
+  "note_ru": "«A pain threshold» — болевой порог. Буквально порог двери, но переносное значение частотнее.",
+  "example": "Anything above that threshold triggers an alert.",
+  "example_ru": "Всё выше этого порога вызывает оповещение.",
+  "examples_extra": [
+   {
+    "en": "My pain threshold is embarrassingly low.",
+    "ru": "Мой болевой порог до неприличия низкий."
+   }
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b2-083",
+  "word": "momentum",
+  "ipa": "/məˈmentəm/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "набранный ход, инерция движения вперёд",
+  "def_en": "the force that keeps something moving or progressing",
+  "note_ru": "«Gain momentum» — набирать обороты, «lose momentum» — выдыхаться. Из физики, но в речи чаще переносно.",
+  "example": "The campaign is gaining momentum.",
+  "example_ru": "Кампания набирает обороты.",
+  "examples_extra": [
+   {
+    "en": "Don't stop now — we finally have momentum.",
+    "ru": "Не останавливайся: мы наконец набрали ход."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-084",
+  "word": "precedent",
+  "ipa": "/ˈpresɪdənt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "прецедент",
+  "def_en": "an earlier case used as an example for later ones",
+  "note_ru": "Ударение на первый слог — «прЭсидэнт». Не путать с president, там ударение тоже первое, но гласная другая.",
+  "example": "That would set a dangerous precedent.",
+  "example_ru": "Это создало бы опасный прецедент.",
+  "examples_extra": [
+   {
+    "en": "There is no precedent for a case like this.",
+    "ru": "Для такого дела нет прецедента."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-085",
+  "word": "at stake",
+  "ipa": "/ət steɪk/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "на кону, под угрозой",
+  "def_en": "able to be won or lost, depending on what happens",
+  "note_ru": "«There is a lot at stake» — на кону многое. Не путать со steak — стейк, звучат одинаково.",
+  "example": "Their whole reputation is at stake.",
+  "example_ru": "На кону вся их репутация.",
+  "examples_extra": [
+   {
+    "en": "Thousands of jobs are at stake.",
+    "ru": "На кону тысячи рабочих мест."
+   },
+   {
+    "en": "With so much at stake, nobody wanted to guess.",
+    "ru": "Когда на кону так много, гадать никто не хотел."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-086",
+  "word": "brush up on",
+  "ipa": "/brʌʃ ʌp ɒn/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "освежить в памяти, подтянуть",
+  "def_en": "to improve a skill you once had",
+  "note_ru": "Именно про подзабытое: «brush up on my French». Учить с нуля — не brush up.",
+  "example": "I should brush up on my Spanish.",
+  "example_ru": "Мне стоит подтянуть испанский.",
+  "examples_extra": [
+   {
+    "en": "Brush up on the highway code before the test.",
+    "ru": "Освежи в памяти правила дорожного движения перед экзаменом."
+   }
+  ],
+  "topic": "learning"
+ },
+ {
+  "id": "b2-087",
+  "word": "cut corners",
+  "ipa": "/kʌt ˈkɔːnəz/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "делать наспех, экономить на качестве",
+  "def_en": "to do something quickly by leaving out important steps",
+  "note_ru": "Всегда с осуждением. «Don't cut corners on safety» — на безопасности не экономят.",
+  "example": "They cut corners and it showed.",
+  "example_ru": "Они сделали наспех, и это было видно.",
+  "examples_extra": [
+   {
+    "en": "Don't cut corners with safety equipment.",
+    "ru": "Не экономь на защитном снаряжении."
+   },
+   {
+    "en": "The builder cut corners, and the roof leaks.",
+    "ru": "Строитель схалтурил, и крыша течёт."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-088",
+  "word": "go the extra mile",
+  "ipa": "/ɡəʊ ði ˈekstrə maɪl/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "сделать больше, чем требуется",
+  "def_en": "to make more effort than is expected of you",
+  "note_ru": "Похвала. Частая формулировка в отзывах о сотрудниках и сервисе.",
+  "example": "She always goes the extra mile for clients.",
+  "example_ru": "Она всегда делает для клиентов больше, чем нужно.",
+  "examples_extra": [
+   {
+    "en": "The nurse went the extra mile for every patient.",
+    "ru": "Медсестра делала для каждого пациента больше, чем требовалось."
+   },
+   {
+    "en": "Go the extra mile and proofread it twice.",
+    "ru": "Сделай чуть больше — вычитай текст дважды."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-089",
+  "word": "in the long run",
+  "ipa": "/ɪn ðə lɒŋ rʌn/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "в долгосрочной перспективе",
+  "def_en": "over a long period of time in the future",
+  "note_ru": "Противопоставляется «in the short term». «It pays off in the long run» — со временем окупается.",
+  "example": "It will save money in the long run.",
+  "example_ru": "В долгосрочной перспективе это сэкономит деньги.",
+  "examples_extra": [
+   {
+    "en": "Cheap boots cost more in the long run.",
+    "ru": "Дешёвые ботинки в долгосрочной перспективе обходятся дороже."
+   },
+   {
+    "en": "In the long run, honesty wins.",
+    "ru": "В долгую честность побеждает."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-090",
+  "word": "jump to conclusions",
+  "ipa": "/dʒʌmp tuː kənˈkluːʒnz/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "делать поспешные выводы",
+  "def_en": "to decide something too quickly without enough facts",
+  "note_ru": "«Let's not jump to conclusions» — не будем спешить с выводами. Всегда во множественном числе.",
+  "example": "Do not jump to conclusions yet.",
+  "example_ru": "Пока не делай поспешных выводов.",
+  "examples_extra": [
+   {
+    "en": "We jumped to conclusions and blamed the wrong person.",
+    "ru": "Мы сделали поспешные выводы и обвинили не того."
+   },
+   {
+    "en": "Wait for the facts instead of jumping to conclusions.",
+    "ru": "Дождись фактов вместо поспешных выводов."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-091",
+  "word": "on the same page",
+  "ipa": "/ɒn ðə seɪm peɪdʒ/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "понимать друг друга одинаково",
+  "def_en": "in agreement about what is happening or planned",
+  "note_ru": "«Just to make sure we are on the same page» — чтобы мы понимали одинаково. Очень частое на работе.",
+  "example": "I want to be sure we are on the same page.",
+  "example_ru": "Хочу убедиться, что мы понимаем это одинаково.",
+  "examples_extra": [
+   {
+    "en": "Let's meet so everyone is on the same page.",
+    "ru": "Давайте встретимся, чтобы все понимали ситуацию одинаково."
+   },
+   {
+    "en": "The two teams were never on the same page.",
+    "ru": "Две команды так и не пришли к общему пониманию."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-092",
+  "word": "play it by ear",
+  "ipa": "/pleɪ ɪt baɪ ɪə/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "действовать по обстоятельствам",
+  "def_en": "to decide as you go instead of planning",
+  "note_ru": "Из музыки — играть на слух, без нот. «Let's play it by ear» — решим на месте.",
+  "example": "We have no plan, we will play it by ear.",
+  "example_ru": "У нас нет плана, будем действовать по обстоятельствам.",
+  "examples_extra": [
+   {
+    "en": "We didn't book anything — we played it by ear.",
+    "ru": "Мы ничего не бронировали — действовали по обстоятельствам."
+   },
+   {
+    "en": "Let's play it by ear and decide there.",
+    "ru": "Давай сориентируемся на месте и решим там."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-093",
+  "word": "up in the air",
+  "ipa": "/ʌp ɪn ði eə/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "под вопросом, ещё не решено",
+  "def_en": "not yet decided or certain",
+  "note_ru": "«The date is still up in the air» — дата ещё под вопросом.",
+  "example": "Everything is up in the air until Monday.",
+  "example_ru": "До понедельника всё под вопросом.",
+  "examples_extra": [
+   {
+    "en": "The venue is still up in the air.",
+    "ru": "Место проведения всё ещё под вопросом."
+   },
+   {
+    "en": "Our summer plans are up in the air because of work.",
+    "ru": "Наши планы на лето подвисли из-за работы."
+   }
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-094",
+  "word": "get the hang of",
+  "ipa": "/ɡet ðə hæŋ əv/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "наловчиться, приноровиться",
+  "def_en": "to learn how to do something with practice",
+  "note_ru": "Про навык, который приходит с практикой: «you will get the hang of it» — приноровишься.",
+  "example": "It took a week to get the hang of it.",
+  "example_ru": "Мне понадобилась неделя, чтобы приноровиться.",
+  "examples_extra": [
+   {
+    "en": "She got the hang of driving on the left quickly.",
+    "ru": "Она быстро приноровилась к левостороннему движению."
+   }
+  ],
+  "topic": "learning"
+ },
+ {
+  "id": "b2-095",
+  "word": "make up for",
+  "ipa": "/meɪk ʌp fɔː/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "компенсировать, наверстать",
+  "def_en": "to compensate for something bad or missing",
+  "note_ru": "«Make up for lost time» — наверстать упущенное. Не путать с «make up» — придумать или помириться.",
+  "example": "The service makes up for the price.",
+  "example_ru": "Сервис компенсирует цену.",
+  "examples_extra": [
+   {
+    "en": "Nothing can make up for the lost time.",
+    "ru": "Ничто не компенсирует потерянное время."
+   },
+   {
+    "en": "He bought flowers to make up for being late.",
+    "ru": "Он купил цветы, чтобы загладить опоздание."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-096",
+  "word": "look into",
+  "ipa": "/lʊk ˈɪntuː/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "изучить вопрос, разобраться",
+  "def_en": "to investigate something",
+  "note_ru": "«I will look into it» — стандартный ответ поддержки: разберусь и вернусь с ответом.",
+  "example": "We are looking into the complaint.",
+  "example_ru": "Мы разбираемся с этой жалобой.",
+  "examples_extra": [
+   {
+    "en": "The bank is looking into the strange charge.",
+    "ru": "Банк разбирается со странным списанием."
+   },
+   {
+    "en": "We'll look into it and reply tomorrow.",
+    "ru": "Мы изучим вопрос и ответим завтра."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-097",
+  "word": "carry out",
+  "ipa": "/ˈkæri aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "выполнять, проводить",
+  "def_en": "to do something that has been planned or ordered",
+  "note_ru": "«Carry out a survey» — провести опрос. Формальнее do, стандарт для отчётов.",
+  "example": "They carried out a series of tests.",
+  "example_ru": "Они провели серию тестов.",
+  "examples_extra": [
+   {
+    "en": "Engineers carried out the inspection overnight.",
+    "ru": "Инженеры провели проверку за ночь."
+   },
+   {
+    "en": "The plan was carried out without a single delay.",
+    "ru": "План был выполнен без единой задержки."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-098",
+  "word": "rule out",
+  "ipa": "/ruːl aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "исключить (вариант)",
+  "def_en": "to decide that something is not possible or not the cause",
+  "note_ru": "«We cannot rule it out» — исключать этого нельзя. Частое в расследованиях и медицине.",
+  "example": "Doctors ruled out an infection.",
+  "example_ru": "Врачи исключили инфекцию.",
+  "examples_extra": [
+   {
+    "en": "We can't rule out another price increase.",
+    "ru": "Нельзя исключать ещё одного повышения цен."
+   },
+   {
+    "en": "The alibi ruled him out as a suspect.",
+    "ru": "Алиби исключило его из числа подозреваемых."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-099",
+  "word": "back up",
+  "ipa": "/bæk ʌp/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "подкрепить, поддержать; сделать копию",
+  "def_en": "to support a claim or person; to make a copy of data",
+  "note_ru": "«Back up your argument» — подкрепить довод. Существительное backup пишется слитно.",
+  "example": "Can you back that up with data?",
+  "example_ru": "Можешь подкрепить это данными?",
+  "examples_extra": [
+   {
+    "en": "Back up your phone before the update.",
+    "ru": "Сделай резервную копию телефона перед обновлением."
+   },
+   {
+    "en": "Her colleagues backed her up at the meeting.",
+    "ru": "Коллеги поддержали её на собрании."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-100",
+  "word": "stand out",
+  "ipa": "/stænd aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "выделяться, бросаться в глаза",
+  "def_en": "to be easily noticed because of being different or better",
+  "note_ru": "«Stand out from the crowd» — выделяться из толпы. Прилагательное outstanding — выдающийся.",
+  "example": "One answer really stood out.",
+  "example_ru": "Один ответ по-настоящему выделялся.",
+  "examples_extra": [
+   {
+    "en": "Her CV stood out among two hundred others.",
+    "ru": "Её резюме выделялось среди двухсот других."
+   },
+   {
+    "en": "The yellow door makes the house stand out.",
+    "ru": "Жёлтая дверь делает дом заметным."
+   }
+  ],
+  "topic": "phrasal"
+ }
 ]

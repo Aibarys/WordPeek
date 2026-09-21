@@ -1,32 +1,572 @@
 [
-{"id":"b2-131","word":"sustainable","ipa":"/səˈsteɪnəbl/","pos":"adj","level":"B2","ru":"устойчивый, не истощающий ресурсы; посильный в долгую","def_en":"able to continue for a long time without damage or exhaustion","note_ru":"Не только про экологию: «a sustainable pace» — темп, который можно выдерживать долго.","example":"That workload is not sustainable.","example_ru":"Такая нагрузка нежизнеспособна в долгую.","topic":"nature"},
-{"id":"b2-132","word":"emissions","ipa":"/ɪˈmɪʃnz/","pos":"noun","level":"B2","ru":"выбросы","def_en":"gases released into the air, especially harmful ones","note_ru":"Почти всегда во множественном: «carbon emissions». Глагол emit — испускать.","example":"The new rules cut emissions by a third.","example_ru":"Новые правила сократили выбросы на треть.","topic":"nature"},
-{"id":"b2-133","word":"renewable","ipa":"/rɪˈnjuːəbl/","pos":"adj","level":"B2","ru":"возобновляемый","def_en":"naturally replaced and therefore never used up","note_ru":"«Renewable energy» — возобновляемая энергия. Ещё про договор: «a renewable contract» — продлеваемый.","example":"Most of their power is renewable.","example_ru":"Большая часть их энергии возобновляемая.","topic":"nature"},
-{"id":"b2-134","word":"waste","ipa":"/weɪst/","pos":"noun","level":"B2","ru":"отходы; пустая трата","def_en":"material thrown away; the useless use of time or money","note_ru":"«A waste of time» — пустая трата времени. Омофон waist — талия.","example":"That meeting was a complete waste of time.","example_ru":"Та встреча была совершенной тратой времени.","topic":"nature"},
-{"id":"b2-135","word":"evidence","ipa":"/ˈevɪdəns/","pos":"noun","level":"B2","ru":"доказательства, данные","def_en":"facts that support a conclusion","note_ru":"Неисчисляемое: «evidences» не бывает, только «a piece of evidence». В суде — улики.","example":"There is little evidence for that claim.","example_ru":"Доказательств этого утверждения мало.","topic":"formal"},
-{"id":"b2-136","word":"trend","ipa":"/trend/","pos":"noun","level":"B2","ru":"тенденция, направление изменений","def_en":"a general direction in which something is developing","note_ru":"«An upward trend» — тенденция к росту. Прилагательное trendy — модный, это другое значение.","example":"The trend has been steady for months.","example_ru":"Тенденция держится уже несколько месяцев.","topic":"work"},
-{"id":"b2-137","word":"estimate","ipa":"/ˈestɪmət/","pos":"noun","level":"B2","ru":"оценка, прикидка","def_en":"an approximate calculation of cost, size or time","note_ru":"Ударение как всегда переезжает: существительное «Эстимэт», глагол «Эстимэйт».","example":"That is a conservative estimate.","example_ru":"Это осторожная оценка.","topic":"work"},
-{"id":"b2-138","word":"rate","ipa":"/reɪt/","pos":"noun","level":"B2","ru":"показатель, ставка; темп","def_en":"a measured amount per unit of time or per hundred","note_ru":"«Interest rate» — процентная ставка, «at this rate» — такими темпами. Как глагол — оценивать.","example":"The success rate is around eighty per cent.","example_ru":"Показатель успеха около восьмидесяти процентов.","topic":"work"},
-{"id":"b2-139","word":"forecast","ipa":"/ˈfɔːkɑːst/","pos":"noun","level":"B2","ru":"прогноз","def_en":"a statement about what will probably happen","note_ru":"Не только о погоде: «a sales forecast». Как глагол не меняется: forecast — forecast — forecast.","example":"The sales forecast looks optimistic.","example_ru":"Прогноз продаж выглядит оптимистично.","topic":"work"},
-{"id":"b2-140","word":"mortgage","ipa":"/ˈmɔːɡɪdʒ/","pos":"noun","level":"B2","ru":"ипотека","def_en":"a long-term loan used to buy a home","note_ru":"Буква t не читается — «мОргидж». «Pay off the mortgage» — выплатить ипотеку.","example":"They are still paying off the mortgage.","example_ru":"Они всё ещё выплачивают ипотеку.","topic":"money"},
-{"id":"b2-141","word":"loan","ipa":"/ləʊn/","pos":"noun","level":"B2","ru":"заём, кредит","def_en":"money borrowed that must be paid back","note_ru":"«Take out a loan» — взять кредит. Не путать с lone — одинокий, звучат одинаково.","example":"They took out a loan to cover it.","example_ru":"Они взяли кредит, чтобы это покрыть.","topic":"money"},
-{"id":"b2-142","word":"debt","ipa":"/det/","pos":"noun","level":"B2","ru":"долг","def_en":"money that you owe to someone","note_ru":"Буква b не читается — просто «дэт». «In debt» — в долгах, «pay off a debt» — погасить долг.","example":"She cleared her debt in two years.","example_ru":"Она закрыла долг за два года.","topic":"money"},
-{"id":"b2-143","word":"invest","ipa":"/ɪnˈvest/","pos":"verb","level":"B2","ru":"вкладывать, инвестировать","def_en":"to put money, time or effort into something for future benefit","note_ru":"«Invest in something» — предлог in. Не только про деньги: «invest time in learning».","example":"They invested heavily in training.","example_ru":"Они вложили много средств в обучение.","topic":"money"},
-{"id":"b2-144","word":"profit","ipa":"/ˈprɒfɪt/","pos":"noun","level":"B2","ru":"прибыль","def_en":"money gained after costs are subtracted","note_ru":"Одна f, одна t. Прибыль — profit, доход до вычетов — revenue. Прилагательное profitable.","example":"The company made a small profit.","example_ru":"Компания получила небольшую прибыль.","topic":"money"},
-{"id":"b2-145","word":"expenses","ipa":"/ɪkˈspensɪz/","pos":"noun","level":"B2","ru":"расходы; командировочные","def_en":"money spent, especially money an employer pays back","note_ru":"«Claim expenses» — подать на возмещение расходов. «All expenses paid» — всё оплачено.","example":"Travel expenses are covered.","example_ru":"Командировочные расходы покрываются.","topic":"money"},
-{"id":"b2-146","word":"insurance","ipa":"/ɪnˈʃʊərəns/","pos":"noun","level":"B2","ru":"страховка","def_en":"an arrangement where you pay a company to cover possible losses","note_ru":"Неисчисляемое. Глагол insure (страховать) — не путать с ensure (обеспечить).","example":"Does the insurance cover this?","example_ru":"Страховка это покрывает?","topic":"money"},
-{"id":"b2-147","word":"tax","ipa":"/tæks/","pos":"noun","level":"B2","ru":"налог","def_en":"money paid to the government from income or purchases","note_ru":"«Income tax» — подоходный, «tax return» — налоговая декларация, а не «возврат налога».","example":"The price includes tax.","example_ru":"Цена включает налог.","topic":"money"},
-{"id":"b2-148","word":"salary","ipa":"/ˈsæləri/","pos":"noun","level":"B2","ru":"оклад, зарплата","def_en":"a fixed regular payment from an employer","note_ru":"Salary — фиксированный оклад, обычно месячный. Почасовая оплата — wage.","example":"The salary is negotiable.","example_ru":"Оклад обсуждается.","topic":"work"},
-{"id":"b2-149","word":"pay rise","ipa":"/peɪ raɪz/","pos":"noun","level":"B2","ru":"повышение зарплаты","def_en":"an increase in the money you are paid","note_ru":"Британское. В США — «a raise». «Ask for a pay rise» — попросить прибавку.","example":"He asked for a pay rise.","example_ru":"Он попросил прибавку к зарплате.","topic":"work"},
-{"id":"b2-150","word":"promotion","ipa":"/prəˈməʊʃn/","pos":"noun","level":"B2","ru":"повышение в должности; продвижение товара","def_en":"a move to a higher job position; advertising activity","note_ru":"Два значения: «get a promotion» — повышение, «a sales promotion» — акция.","example":"She got a promotion last month.","example_ru":"В прошлом месяце её повысили.","topic":"work"},
-{"id":"b2-151","word":"resign","ipa":"/rɪˈzaɪn/","pos":"verb","level":"B2","ru":"уволиться по собственному желанию","def_en":"to officially leave a job","note_ru":"Буква g не читается — «ризАйн». Уволить сотрудника — fire или dismiss, это другое.","example":"He resigned after eight years.","example_ru":"Он уволился после восьми лет работы.","topic":"work"},
-{"id":"b2-152","word":"recruit","ipa":"/rɪˈkruːt/","pos":"verb","level":"B2","ru":"нанимать, набирать персонал","def_en":"to find and employ new people","note_ru":"Существительное recruitment — подбор персонала. Рекрутер — recruiter.","example":"We are recruiting two designers.","example_ru":"Мы набираем двух дизайнеров.","topic":"work"},
-{"id":"b2-153","word":"shift","ipa":"/ʃɪft/","pos":"noun","level":"B2","ru":"смена (рабочая); сдвиг","def_en":"a period of work; a change in position or attitude","note_ru":"«A night shift» — ночная смена. Переносно: «a shift in attitudes» — сдвиг во взглядах.","example":"She works the early shift.","example_ru":"Она работает в раннюю смену.","topic":"work"},
-{"id":"b2-154","word":"overtime","ipa":"/ˈəʊvətaɪm/","pos":"noun","level":"B2","ru":"сверхурочная работа","def_en":"extra hours worked beyond the normal schedule","note_ru":"Неисчисляемое, без артикля: «work overtime», «paid overtime».","example":"Nobody wants to work overtime again.","example_ru":"Никто не хочет снова работать сверхурочно.","topic":"work"},
-{"id":"b2-155","word":"contract","ipa":"/ˈkɒntrækt/","pos":"noun","level":"B2","ru":"договор, контракт","def_en":"a legal written agreement","note_ru":"Существительное «кОнтракт», глагол «кэнтрАкт» — сжиматься или заключать договор.","example":"Read the contract before signing.","example_ru":"Прочитай договор перед подписанием.","topic":"formal"},
-{"id":"b2-156","word":"notice period","ipa":"/ˈnəʊtɪs ˈpɪəriəd/","pos":"noun","level":"B2","ru":"срок отработки при увольнении","def_en":"the time you must keep working after resigning","note_ru":"«A one-month notice period» — месяц отработки. «Hand in your notice» — подать заявление.","example":"My notice period is two months.","example_ru":"У меня два месяца отработки.","topic":"work"},
-{"id":"b2-157","word":"fine","ipa":"/faɪn/","pos":"noun","level":"B2","ru":"штраф","def_en":"money you must pay as a punishment","note_ru":"То же слово, что «нормально» и «тонкий» — контекст решает. «A parking fine» — штраф за парковку.","example":"He got a fine for speeding.","example_ru":"Он получил штраф за превышение скорости.","topic":"city"},
-{"id":"b2-158","word":"witness","ipa":"/ˈwɪtnəs/","pos":"noun","level":"B2","ru":"свидетель","def_en":"a person who saw an event happen","note_ru":"И глагол: «he witnessed the accident» — стал свидетелем аварии.","example":"There were no witnesses.","example_ru":"Свидетелей не было.","topic":"formal"},
-{"id":"b2-159","word":"trial","ipa":"/ˈtraɪəl/","pos":"noun","level":"B2","ru":"судебный процесс; испытание, пробный период","def_en":"a legal hearing; a test of something new","note_ru":"«A free trial» — бесплатный пробный период. «Trial and error» — метод проб и ошибок.","example":"The software has a 30-day trial.","example_ru":"У программы есть тридцатидневный пробный период.","topic":"formal"},
-{"id":"b2-160","word":"guilty","ipa":"/ˈɡɪlti/","pos":"adj","level":"B2","ru":"виновный; испытывающий вину","def_en":"having done wrong; feeling bad about something you did","note_ru":"«Guilty of a crime» — виновен. «Feel guilty about» — чувствовать вину. «A guilty pleasure» — стыдное удовольствие.","example":"I feel guilty about cancelling.","example_ru":"Мне неловко из-за того, что я отменил.","topic":"emotions"}
+ {
+  "id": "b2-131",
+  "word": "sustainable",
+  "ipa": "/səˈsteɪnəbl/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "устойчивый, не истощающий ресурсы; посильный в долгую",
+  "def_en": "able to continue for a long time without damage or exhaustion",
+  "note_ru": "Не только про экологию: «a sustainable pace» — темп, который можно выдерживать долго.",
+  "example": "That workload is not sustainable.",
+  "example_ru": "Такая нагрузка нежизнеспособна в долгую.",
+  "examples_extra": [
+   {
+    "en": "We switched to a more sustainable schedule.",
+    "ru": "Мы перешли на более щадящий график."
+   }
+  ],
+  "topic": "nature"
+ },
+ {
+  "id": "b2-132",
+  "word": "emissions",
+  "ipa": "/ɪˈmɪʃnz/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "выбросы",
+  "def_en": "gases released into the air, especially harmful ones",
+  "note_ru": "Почти всегда во множественном: «carbon emissions». Глагол emit — испускать.",
+  "example": "The new rules cut emissions by a third.",
+  "example_ru": "Новые правила сократили выбросы на треть.",
+  "examples_extra": [
+   {
+    "en": "Cars remain the city's main source of emissions.",
+    "ru": "Автомобили остаются главным источником выбросов в городе."
+   }
+  ],
+  "topic": "nature"
+ },
+ {
+  "id": "b2-133",
+  "word": "renewable",
+  "ipa": "/rɪˈnjuːəbl/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "возобновляемый",
+  "def_en": "naturally replaced and therefore never used up",
+  "note_ru": "«Renewable energy» — возобновляемая энергия. Ещё про договор: «a renewable contract» — продлеваемый.",
+  "example": "Most of their power is renewable.",
+  "example_ru": "Большая часть их энергии возобновляемая.",
+  "examples_extra": [
+   {
+    "en": "Renewable energy is finally cheaper than coal.",
+    "ru": "Возобновляемая энергия наконец дешевле угля."
+   }
+  ],
+  "topic": "nature"
+ },
+ {
+  "id": "b2-134",
+  "word": "waste",
+  "ipa": "/weɪst/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "отходы; пустая трата",
+  "def_en": "material thrown away; the useless use of time or money",
+  "note_ru": "«A waste of time» — пустая трата времени. Омофон waist — талия.",
+  "example": "That meeting was a complete waste of time.",
+  "example_ru": "Та встреча была совершенной тратой времени.",
+  "examples_extra": [
+   {
+    "en": "Sort your waste into three bins.",
+    "ru": "Разделяйте отходы по трём бакам."
+   }
+  ],
+  "topic": "nature"
+ },
+ {
+  "id": "b2-135",
+  "word": "evidence",
+  "ipa": "/ˈevɪdəns/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "доказательства, данные",
+  "def_en": "facts that support a conclusion",
+  "note_ru": "Неисчисляемое: «evidences» не бывает, только «a piece of evidence». В суде — улики.",
+  "example": "There is little evidence for that claim.",
+  "example_ru": "Доказательств этого утверждения мало.",
+  "examples_extra": [
+   {
+    "en": "The evidence points in one direction.",
+    "ru": "Данные указывают в одном направлении."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-136",
+  "word": "trend",
+  "ipa": "/trend/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "тенденция, направление изменений",
+  "def_en": "a general direction in which something is developing",
+  "note_ru": "«An upward trend» — тенденция к росту. Прилагательное trendy — модный, это другое значение.",
+  "example": "The trend has been steady for months.",
+  "example_ru": "Тенденция держится уже несколько месяцев.",
+  "examples_extra": [
+   {
+    "en": "Remote work is more than a passing trend.",
+    "ru": "Удалённая работа — больше чем мимолётная тенденция."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-137",
+  "word": "estimate",
+  "ipa": "/ˈestɪmət/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "оценка, прикидка",
+  "def_en": "an approximate calculation of cost, size or time",
+  "note_ru": "Ударение как всегда переезжает: существительное «Эстимэт», глагол «Эстимэйт».",
+  "example": "That is a conservative estimate.",
+  "example_ru": "Это осторожная оценка.",
+  "examples_extra": [
+   {
+    "en": "First estimates put the damage at a million.",
+    "ru": "По первым оценкам, ущерб составил миллион."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-138",
+  "word": "rate",
+  "ipa": "/reɪt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "показатель, ставка; темп",
+  "def_en": "a measured amount per unit of time or per hundred",
+  "note_ru": "«Interest rate» — процентная ставка, «at this rate» — такими темпами. Как глагол — оценивать.",
+  "example": "The success rate is around eighty per cent.",
+  "example_ru": "Показатель успеха около восьмидесяти процентов.",
+  "examples_extra": [
+   {
+    "en": "Unemployment fell at the fastest rate in years.",
+    "ru": "Безработица снижалась самыми быстрыми темпами за годы."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-139",
+  "word": "forecast",
+  "ipa": "/ˈfɔːkɑːst/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "прогноз",
+  "def_en": "a statement about what will probably happen",
+  "note_ru": "Не только о погоде: «a sales forecast». Как глагол не меняется: forecast — forecast — forecast.",
+  "example": "The sales forecast looks optimistic.",
+  "example_ru": "Прогноз продаж выглядит оптимистично.",
+  "examples_extra": [
+   {
+    "en": "The forecast promises sun all weekend.",
+    "ru": "Прогноз обещает солнце все выходные."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-140",
+  "word": "mortgage",
+  "ipa": "/ˈmɔːɡɪdʒ/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "ипотека",
+  "def_en": "a long-term loan used to buy a home",
+  "note_ru": "Буква t не читается — «мОргидж». «Pay off the mortgage» — выплатить ипотеку.",
+  "example": "They are still paying off the mortgage.",
+  "example_ru": "Они всё ещё выплачивают ипотеку.",
+  "examples_extra": [
+   {
+    "en": "A bigger deposit means a smaller mortgage.",
+    "ru": "Больше первый взнос — меньше ипотека."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-141",
+  "word": "loan",
+  "ipa": "/ləʊn/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "заём, кредит",
+  "def_en": "money borrowed that must be paid back",
+  "note_ru": "«Take out a loan» — взять кредит. Не путать с lone — одинокий, звучат одинаково.",
+  "example": "They took out a loan to cover it.",
+  "example_ru": "Они взяли кредит, чтобы это покрыть.",
+  "examples_extra": [
+   {
+    "en": "He paid off the loan two years early.",
+    "ru": "Он выплатил кредит на два года раньше срока."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-142",
+  "word": "debt",
+  "ipa": "/det/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "долг",
+  "def_en": "money that you owe to someone",
+  "note_ru": "Буква b не читается — просто «дэт». «In debt» — в долгах, «pay off a debt» — погасить долг.",
+  "example": "She cleared her debt in two years.",
+  "example_ru": "Она закрыла долг за два года.",
+  "examples_extra": [
+   {
+    "en": "The club is drowning in debt.",
+    "ru": "Клуб тонет в долгах."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-143",
+  "word": "invest",
+  "ipa": "/ɪnˈvest/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "вкладывать, инвестировать",
+  "def_en": "to put money, time or effort into something for future benefit",
+  "note_ru": "«Invest in something» — предлог in. Не только про деньги: «invest time in learning».",
+  "example": "They invested heavily in training.",
+  "example_ru": "Они вложили много средств в обучение.",
+  "examples_extra": [
+   {
+    "en": "She invests a tenth of every paycheque.",
+    "ru": "Она инвестирует десятую часть каждой зарплаты."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-144",
+  "word": "profit",
+  "ipa": "/ˈprɒfɪt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "прибыль",
+  "def_en": "money gained after costs are subtracted",
+  "note_ru": "Одна f, одна t. Прибыль — profit, доход до вычетов — revenue. Прилагательное profitable.",
+  "example": "The company made a small profit.",
+  "example_ru": "Компания получила небольшую прибыль.",
+  "examples_extra": [
+   {
+    "en": "All profit goes back into the project.",
+    "ru": "Вся прибыль возвращается в проект."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-145",
+  "word": "expenses",
+  "ipa": "/ɪkˈspensɪz/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "расходы; командировочные",
+  "def_en": "money spent, especially money an employer pays back",
+  "note_ru": "«Claim expenses» — подать на возмещение расходов. «All expenses paid» — всё оплачено.",
+  "example": "Travel expenses are covered.",
+  "example_ru": "Командировочные расходы покрываются.",
+  "examples_extra": [
+   {
+    "en": "Keep the receipts to claim your expenses.",
+    "ru": "Сохраняйте чеки, чтобы возместить расходы."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-146",
+  "word": "insurance",
+  "ipa": "/ɪnˈʃʊərəns/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "страховка",
+  "def_en": "an arrangement where you pay a company to cover possible losses",
+  "note_ru": "Неисчисляемое. Глагол insure (страховать) — не путать с ensure (обеспечить).",
+  "example": "Does the insurance cover this?",
+  "example_ru": "Страховка это покрывает?",
+  "examples_extra": [
+   {
+    "en": "Travel insurance saved us a fortune in Peru.",
+    "ru": "Туристическая страховка сэкономила нам целое состояние в Перу."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-147",
+  "word": "tax",
+  "ipa": "/tæks/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "налог",
+  "def_en": "money paid to the government from income or purchases",
+  "note_ru": "«Income tax» — подоходный, «tax return» — налоговая декларация, а не «возврат налога».",
+  "example": "The price includes tax.",
+  "example_ru": "Цена включает налог.",
+  "examples_extra": [
+   {
+    "en": "The tax on sugary drinks doubled.",
+    "ru": "Налог на сладкие напитки удвоился."
+   }
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-148",
+  "word": "salary",
+  "ipa": "/ˈsæləri/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "оклад, зарплата",
+  "def_en": "a fixed regular payment from an employer",
+  "note_ru": "Salary — фиксированный оклад, обычно месячный. Почасовая оплата — wage.",
+  "example": "The salary is negotiable.",
+  "example_ru": "Оклад обсуждается.",
+  "examples_extra": [
+   {
+    "en": "The salary looks good until you see the rent here.",
+    "ru": "Оклад кажется хорошим, пока не увидишь местную аренду."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-149",
+  "word": "pay rise",
+  "ipa": "/peɪ raɪz/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "повышение зарплаты",
+  "def_en": "an increase in the money you are paid",
+  "note_ru": "Британское. В США — «a raise». «Ask for a pay rise» — попросить прибавку.",
+  "example": "He asked for a pay rise.",
+  "example_ru": "Он попросил прибавку к зарплате.",
+  "examples_extra": [
+   {
+    "en": "She negotiated a pay rise after the launch.",
+    "ru": "После запуска она договорилась о повышении зарплаты."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-150",
+  "word": "promotion",
+  "ipa": "/prəˈməʊʃn/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "повышение в должности; продвижение товара",
+  "def_en": "a move to a higher job position; advertising activity",
+  "note_ru": "Два значения: «get a promotion» — повышение, «a sales promotion» — акция.",
+  "example": "She got a promotion last month.",
+  "example_ru": "В прошлом месяце её повысили.",
+  "examples_extra": [
+   {
+    "en": "The promotion came with longer hours.",
+    "ru": "Повышение принесло с собой более длинный рабочий день."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-151",
+  "word": "resign",
+  "ipa": "/rɪˈzaɪn/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "уволиться по собственному желанию",
+  "def_en": "to officially leave a job",
+  "note_ru": "Буква g не читается — «ризАйн». Уволить сотрудника — fire или dismiss, это другое.",
+  "example": "He resigned after eight years.",
+  "example_ru": "Он уволился после восьми лет работы.",
+  "examples_extra": [
+   {
+    "en": "The minister resigned over the leak.",
+    "ru": "Министр ушёл в отставку из-за утечки."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-152",
+  "word": "recruit",
+  "ipa": "/rɪˈkruːt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "нанимать, набирать персонал",
+  "def_en": "to find and employ new people",
+  "note_ru": "Существительное recruitment — подбор персонала. Рекрутер — recruiter.",
+  "example": "We are recruiting two designers.",
+  "example_ru": "Мы набираем двух дизайнеров.",
+  "examples_extra": [
+   {
+    "en": "It's getting harder to recruit experienced nurses.",
+    "ru": "Нанимать опытных медсестёр становится всё труднее."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-153",
+  "word": "shift",
+  "ipa": "/ʃɪft/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "смена (рабочая); сдвиг",
+  "def_en": "a period of work; a change in position or attitude",
+  "note_ru": "«A night shift» — ночная смена. Переносно: «a shift in attitudes» — сдвиг во взглядах.",
+  "example": "She works the early shift.",
+  "example_ru": "Она работает в раннюю смену.",
+  "examples_extra": [
+   {
+    "en": "Night shifts pay more but ruin your sleep.",
+    "ru": "Ночные смены оплачиваются выше, но губят сон."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-154",
+  "word": "overtime",
+  "ipa": "/ˈəʊvətaɪm/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "сверхурочная работа",
+  "def_en": "extra hours worked beyond the normal schedule",
+  "note_ru": "Неисчисляемое, без артикля: «work overtime», «paid overtime».",
+  "example": "Nobody wants to work overtime again.",
+  "example_ru": "Никто не хочет снова работать сверхурочно.",
+  "examples_extra": [
+   {
+    "en": "They banned unpaid overtime last year.",
+    "ru": "В прошлом году запретили неоплачиваемые переработки."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-155",
+  "word": "contract",
+  "ipa": "/ˈkɒntrækt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "договор, контракт",
+  "def_en": "a legal written agreement",
+  "note_ru": "Существительное «кОнтракт», глагол «кэнтрАкт» — сжиматься или заключать договор.",
+  "example": "Read the contract before signing.",
+  "example_ru": "Прочитай договор перед подписанием.",
+  "examples_extra": [
+   {
+    "en": "The contract runs until the end of March.",
+    "ru": "Контракт действует до конца марта."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-156",
+  "word": "notice period",
+  "ipa": "/ˈnəʊtɪs ˈpɪəriəd/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "срок отработки при увольнении",
+  "def_en": "the time you must keep working after resigning",
+  "note_ru": "«A one-month notice period» — месяц отработки. «Hand in your notice» — подать заявление.",
+  "example": "My notice period is two months.",
+  "example_ru": "У меня два месяца отработки.",
+  "examples_extra": [
+   {
+    "en": "A long notice period complicates job changes.",
+    "ru": "Долгий срок отработки осложняет смену работы."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-157",
+  "word": "fine",
+  "ipa": "/faɪn/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "штраф",
+  "def_en": "money you must pay as a punishment",
+  "note_ru": "То же слово, что «нормально» и «тонкий» — контекст решает. «A parking fine» — штраф за парковку.",
+  "example": "He got a fine for speeding.",
+  "example_ru": "Он получил штраф за превышение скорости.",
+  "examples_extra": [
+   {
+    "en": "The fine doubles if you ignore the letter.",
+    "ru": "Штраф удваивается, если игнорировать письмо."
+   }
+  ],
+  "topic": "city"
+ },
+ {
+  "id": "b2-158",
+  "word": "witness",
+  "ipa": "/ˈwɪtnəs/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "свидетель",
+  "def_en": "a person who saw an event happen",
+  "note_ru": "И глагол: «he witnessed the accident» — стал свидетелем аварии.",
+  "example": "There were no witnesses.",
+  "example_ru": "Свидетелей не было.",
+  "examples_extra": [
+   {
+    "en": "A witness described the car in detail.",
+    "ru": "Свидетель подробно описал машину."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-159",
+  "word": "trial",
+  "ipa": "/ˈtraɪəl/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "судебный процесс; испытание, пробный период",
+  "def_en": "a legal hearing; a test of something new",
+  "note_ru": "«A free trial» — бесплатный пробный период. «Trial and error» — метод проб и ошибок.",
+  "example": "The software has a 30-day trial.",
+  "example_ru": "У программы есть тридцатидневный пробный период.",
+  "examples_extra": [
+   {
+    "en": "The trial lasted eleven weeks.",
+    "ru": "Судебный процесс длился одиннадцать недель."
+   }
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-160",
+  "word": "guilty",
+  "ipa": "/ˈɡɪlti/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "виновный; испытывающий вину",
+  "def_en": "having done wrong; feeling bad about something you did",
+  "note_ru": "«Guilty of a crime» — виновен. «Feel guilty about» — чувствовать вину. «A guilty pleasure» — стыдное удовольствие.",
+  "example": "I feel guilty about cancelling.",
+  "example_ru": "Мне неловко из-за того, что я отменил.",
+  "examples_extra": [
+   {
+    "en": "The jury found him not guilty.",
+    "ru": "Присяжные признали его невиновным."
+   }
+  ],
+  "topic": "emotions"
+ }
 ]

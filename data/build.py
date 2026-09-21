@@ -60,6 +60,25 @@ def load_parts():
                     stray = sorted({c for c in value if not ALLOWED.match(c)})
                     names = " ".join(f"U+{ord(c):04X}" for c in stray)
                     errors.append(f"{part}:{wid} - stray character(s) {names} in '{field}'")
+            # Every entry carries 1-2 extra examples beyond the primary one,
+            # validated with the same script rules as the primary pair.
+            extras = entry.get("examples_extra")
+            if not isinstance(extras, list) or not 1 <= len(extras) <= 2:
+                errors.append(f"{part}:{wid} - examples_extra must hold 1-2 items")
+            else:
+                for n, pair in enumerate(extras):
+                    en, ru = pair.get("en", ""), pair.get("ru", "")
+                    if not en or not ru:
+                        errors.append(f"{part}:{wid} - examples_extra[{n}] has an empty side")
+                    if CYRILLIC.search(en):
+                        errors.append(f"{part}:{wid} - Cyrillic in examples_extra[{n}].en")
+                    if not CYRILLIC.search(ru):
+                        errors.append(f"{part}:{wid} - no Cyrillic in examples_extra[{n}].ru")
+                    for side, value in (("en", en), ("ru", ru)):
+                        if not ALLOWED.match(value):
+                            stray = sorted({c for c in value if not ALLOWED.match(c)})
+                            names = " ".join(f"U+{ord(c):04X}" for c in stray)
+                            errors.append(f"{part}:{wid} - stray character(s) {names} in examples_extra[{n}].{side}")
             if wid in seen_id:
                 errors.append(f"{part}:{wid} - duplicate id, first seen in {seen_id[wid]}")
             seen_id[wid] = part

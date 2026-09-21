@@ -1,32 +1,612 @@
 [
-{"id":"b1-041","word":"actually","ipa":"/ˈæktʃuəli/","pos":"adverb","level":"B1","ru":"на самом деле, вообще-то","def_en":"in fact, or contrary to what was said or expected","note_ru":"Ложный друг: это не «актуально». Часто мягко поправляет собеседника: «Actually, it was Tuesday».","example":"Actually, I have already finished it.","example_ru":"Вообще-то я это уже закончил.","topic":"false-friend"},
-{"id":"b1-042","word":"sympathetic","ipa":"/ˌsɪmpəˈθetɪk/","pos":"adj","level":"B1","ru":"сочувствующий, понимающий","def_en":"showing that you understand someone's problems","note_ru":"Ложный друг: не «симпатичный» — привлекательный будет attractive или nice. Здесь только про сочувствие.","example":"She was very sympathetic when I explained.","example_ru":"Она отнеслась с большим пониманием, когда я объяснил.","topic":"false-friend"},
-{"id":"b1-043","word":"accurate","ipa":"/ˈækjərət/","pos":"adj","level":"B1","ru":"точный, верный","def_en":"correct and without mistakes","note_ru":"Ложный друг: не «аккуратный» — опрятный будет tidy или neat. Здесь про точность данных.","example":"The forecast turned out to be accurate.","example_ru":"Прогноз оказался точным.","topic":"false-friend"},
-{"id":"b1-044","word":"work out","ipa":"/wɜːk aʊt/","pos":"phrasal verb","level":"B1","ru":"вычислить; сложиться удачно; тренироваться","def_en":"to calculate; to end well; to exercise","note_ru":"Три разных смысла: «work out the cost», «it worked out fine», «I work out twice a week».","example":"It all worked out in the end.","example_ru":"В итоге всё сложилось.","topic":"phrasal"},
-{"id":"b1-045","word":"find out","ipa":"/faɪnd aʊt/","pos":"phrasal verb","level":"B1","ru":"выяснить, узнать","def_en":"to learn a fact by asking or searching","note_ru":"find — найти предмет, find out — узнать информацию. «I found out he had left».","example":"I need to find out when it opens.","example_ru":"Мне нужно выяснить, когда это открывается.","topic":"phrasal"},
-{"id":"b1-046","word":"look up","ipa":"/lʊk ʌp/","pos":"phrasal verb","level":"B1","ru":"посмотреть в словаре или справочнике","def_en":"to search for information in a book or online","note_ru":"Разделяемый глагол: «look it up», а не «look up it». С местоимением частица уходит в конец.","example":"Just look the word up in a dictionary.","example_ru":"Просто посмотри это слово в словаре.","topic":"phrasal"},
-{"id":"b1-047","word":"get on with","ipa":"/ɡet ɒn wɪð/","pos":"phrasal verb","level":"B1","ru":"ладить с кем-то; продолжать дело","def_en":"to have a good relationship; to continue doing something","note_ru":"«I get on with my boss» — лажу с начальником. «Get on with it» — займись уже делом.","example":"She gets on well with everyone.","example_ru":"Она со всеми хорошо ладит.","topic":"phrasal"},
-{"id":"b1-048","word":"carry on","ipa":"/ˈkæri ɒn/","pos":"phrasal verb","level":"B1","ru":"продолжать","def_en":"to continue doing something","note_ru":"После carry on идёт -ing: «carry on working». Синоним continue, но разговорнее.","example":"Carry on, I am listening.","example_ru":"Продолжай, я слушаю.","topic":"phrasal"},
-{"id":"b1-049","word":"turn down","ipa":"/tɜːn daʊn/","pos":"phrasal verb","level":"B1","ru":"отклонить; убавить громкость","def_en":"to refuse an offer; to reduce the volume or heat","note_ru":"«Turn down an offer» — отказаться от предложения. «Turn the music down» — сделать тише.","example":"He turned down the job offer.","example_ru":"Он отклонил предложение о работе.","topic":"phrasal"},
-{"id":"b1-050","word":"call off","ipa":"/kɔːl ɒf/","pos":"phrasal verb","level":"B1","ru":"отменить","def_en":"to cancel something that was planned","note_ru":"Синоним cancel. «The match was called off» — матч отменили.","example":"They called off the meeting at the last minute.","example_ru":"Встречу отменили в последнюю минуту.","topic":"phrasal"},
-{"id":"b1-051","word":"avoid","ipa":"/əˈvɔɪd/","pos":"verb","level":"B1","ru":"избегать","def_en":"to stay away from something or prevent it happening","note_ru":"После avoid всегда -ing: «avoid making mistakes», никогда «avoid to make».","example":"Try to avoid using too much jargon.","example_ru":"Постарайся избегать лишнего жаргона.","topic":"core"},
-{"id":"b1-052","word":"manage to","ipa":"/ˈmænɪdʒ tuː/","pos":"phrase","level":"B1","ru":"суметь, справиться и сделать","def_en":"to succeed in doing something difficult","note_ru":"Подразумевает преодолённую трудность: «I managed to fix it» — всё-таки починил. Без to значит «управлять».","example":"We managed to finish before the deadline.","example_ru":"Мы всё-таки успели до срока.","topic":"work"},
-{"id":"b1-053","word":"mention","ipa":"/ˈmenʃn/","pos":"verb","level":"B1","ru":"упоминать","def_en":"to say something briefly without going into detail","note_ru":"Без предлога: «he mentioned the price», не «mentioned about». «Don't mention it» — не за что.","example":"She mentioned it in passing.","example_ru":"Она упомянула об этом мимоходом.","topic":"communication"},
-{"id":"b1-054","word":"recommend","ipa":"/ˌrekəˈmend/","pos":"verb","level":"B1","ru":"рекомендовать, советовать","def_en":"to say that something is good and worth trying","note_ru":"Как suggest: «recommend doing» или «recommend that you do», но не «recommend me to do».","example":"I would recommend booking early.","example_ru":"Я бы советовал бронировать заранее.","topic":"communication"},
-{"id":"b1-055","word":"refuse","ipa":"/rɪˈfjuːz/","pos":"verb","level":"B1","ru":"отказываться","def_en":"to say firmly that you will not do something","note_ru":"refuse to do something — с инфинитивом. Существительное refusal. Ударение на второй слог.","example":"He refused to answer the question.","example_ru":"Он отказался отвечать на вопрос.","topic":"communication"},
-{"id":"b1-056","word":"deserve","ipa":"/dɪˈzɜːv/","pos":"verb","level":"B1","ru":"заслуживать","def_en":"to have earned something by your actions","note_ru":"«You deserve a break» — ты заслужил отдых. Работает и в минус: «he deserved it» о наказании.","example":"They deserve a lot of credit for this.","example_ru":"Они заслуживают большой похвалы за это.","topic":"relationships"},
-{"id":"b1-057","word":"involve","ipa":"/ɪnˈvɒlv/","pos":"verb","level":"B1","ru":"включать в себя; вовлекать","def_en":"to include something as a necessary part; to make someone take part","note_ru":"«What does it involve?» — что это в себя включает? «Get involved» — включиться, ввязаться.","example":"The job involves a lot of writing.","example_ru":"Работа предполагает много письменной работы.","topic":"work"},
-{"id":"b1-058","word":"prevent","ipa":"/prɪˈvent/","pos":"verb","level":"B1","ru":"предотвращать; мешать","def_en":"to stop something happening or someone doing something","note_ru":"Конструкция: prevent somebody from doing something. Предлог from обязателен.","example":"Nothing prevented them from trying again.","example_ru":"Ничто не помешало им попробовать снова.","topic":"core"},
-{"id":"b1-059","word":"expect","ipa":"/ɪkˈspekt/","pos":"verb","level":"B1","ru":"ожидать, рассчитывать","def_en":"to think that something will happen","note_ru":"Не путать с wait for (физически ждать). Expect — про ожидание в голове: «I expect he will call».","example":"We expect the results on Friday.","example_ru":"Мы ожидаем результаты в пятницу.","topic":"thinking"},
-{"id":"b1-060","word":"complain","ipa":"/kəmˈpleɪn/","pos":"verb","level":"B1","ru":"жаловаться","def_en":"to say that you are not satisfied with something","note_ru":"complain about something, complain to somebody. Существительное — complaint через t.","example":"Guests complained about the noise.","example_ru":"Гости жаловались на шум.","topic":"communication"},
-{"id":"b1-061","word":"aware of","ipa":"/əˈweər əv/","pos":"phrase","level":"B1","ru":"знающий о, осознающий","def_en":"knowing that something exists or is happening","note_ru":"«Are you aware of the risks?» Существительное awareness — осведомлённость.","example":"I was not aware of the change.","example_ru":"Я не знал об этом изменении.","topic":"thinking"},
-{"id":"b1-062","word":"confident","ipa":"/ˈkɒnfɪdənt/","pos":"adj","level":"B1","ru":"уверенный в себе","def_en":"sure of your own ability or of a result","note_ru":"Не путать с confidential — конфиденциальный. Существительное confidence — уверенность.","example":"She sounded confident about the plan.","example_ru":"Она говорила о плане уверенно.","topic":"character"},
-{"id":"b1-063","word":"disappointed","ipa":"/ˌdɪsəˈpɔɪntɪd/","pos":"adj","level":"B1","ru":"разочарованный","def_en":"sad because something was not as good as you hoped","note_ru":"Одна s, две p — частая ошибка в написании. «Disappointed with something» или «in somebody».","example":"I was a bit disappointed with the ending.","example_ru":"Я был немного разочарован концовкой.","topic":"emotions"},
-{"id":"b1-064","word":"grateful","ipa":"/ˈɡreɪtfl/","pos":"adj","level":"B1","ru":"благодарный","def_en":"feeling thankful for something someone did","note_ru":"«I would be grateful if you could…» — вежливая просьба в письме. Пишется без i, в отличие от great.","example":"I am really grateful for your help.","example_ru":"Я очень благодарен за твою помощь.","topic":"emotions"},
-{"id":"b1-065","word":"likely","ipa":"/ˈlaɪkli/","pos":"adj","level":"B1","ru":"вероятный, скорее всего","def_en":"probably going to happen","note_ru":"Это прилагательное, хотя кончается на -ly: «it is likely to rain». Антоним — unlikely.","example":"Prices are likely to rise again.","example_ru":"Цены, скорее всего, снова вырастут.","topic":"thinking"},
-{"id":"b1-066","word":"obvious","ipa":"/ˈɒbviəs/","pos":"adj","level":"B1","ru":"очевидный","def_en":"easy to see or understand","note_ru":"Наречие obviously — очевидно, разумеется. В речи часто смягчает: «obviously, I could be wrong».","example":"The mistake was pretty obvious.","example_ru":"Ошибка была довольно очевидной.","topic":"thinking"},
-{"id":"b1-067","word":"willing to","ipa":"/ˈwɪlɪŋ tuː/","pos":"phrase","level":"B1","ru":"готовый сделать что-то","def_en":"ready and happy to do something if needed","note_ru":"Про согласие, а не про подготовленность: «willing to help» — не против помочь. Готов по времени — ready.","example":"He is willing to work weekends.","example_ru":"Он готов работать по выходным.","topic":"work"},
-{"id":"b1-068","word":"advantage","ipa":"/ədˈvɑːntɪdʒ/","pos":"noun","level":"B1","ru":"преимущество","def_en":"something that helps you do better than others","note_ru":"«Take advantage of» — воспользоваться (и иногда «злоупотребить»). Антоним — disadvantage.","example":"Speaking two languages is a big advantage.","example_ru":"Знание двух языков — большое преимущество.","topic":"work"},
-{"id":"b1-069","word":"attitude","ipa":"/ˈætɪtjuːd/","pos":"noun","level":"B1","ru":"отношение, настрой","def_en":"the way you think and feel about something","note_ru":"«Attitude to» или «towards something». Отдельно «he has an attitude» — с гонором, задиристый.","example":"Her attitude to feedback is great.","example_ru":"У неё отличное отношение к обратной связи.","topic":"character"},
-{"id":"b1-070","word":"colleague","ipa":"/ˈkɒliːɡ/","pos":"noun","level":"B1","ru":"коллега","def_en":"someone you work with","note_ru":"Написание с ea и gue — частая ошибка. В разговоре чаще говорят просто «someone I work with».","example":"A colleague of mine recommended it.","example_ru":"Мне это посоветовал один коллега.","topic":"work"}
+ {
+  "id": "b1-041",
+  "word": "actually",
+  "ipa": "/ˈæktʃuəli/",
+  "pos": "adverb",
+  "level": "B1",
+  "ru": "на самом деле, вообще-то",
+  "def_en": "in fact, or contrary to what was said or expected",
+  "note_ru": "Ложный друг: это не «актуально». Часто мягко поправляет собеседника: «Actually, it was Tuesday».",
+  "example": "Actually, I have already finished it.",
+  "example_ru": "Вообще-то я это уже закончил.",
+  "examples_extra": [
+   {
+    "en": "Actually, the meeting is tomorrow, not today.",
+    "ru": "Вообще-то встреча завтра, а не сегодня."
+   },
+   {
+    "en": "I actually enjoyed the exam, strangely enough.",
+    "ru": "Как ни странно, экзамен мне на самом деле понравился."
+   }
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "b1-042",
+  "word": "sympathetic",
+  "ipa": "/ˌsɪmpəˈθetɪk/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "сочувствующий, понимающий",
+  "def_en": "showing that you understand someone's problems",
+  "note_ru": "Ложный друг: не «симпатичный» — привлекательный будет attractive или nice. Здесь только про сочувствие.",
+  "example": "She was very sympathetic when I explained.",
+  "example_ru": "Она отнеслась с большим пониманием, когда я объяснил.",
+  "examples_extra": [
+   {
+    "en": "Everyone was sympathetic about my situation.",
+    "ru": "Все отнеслись к моей ситуации с сочувствием."
+   },
+   {
+    "en": "A sympathetic nurse sat with him all night.",
+    "ru": "Понимающая медсестра просидела с ним всю ночь."
+   }
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "b1-043",
+  "word": "accurate",
+  "ipa": "/ˈækjərət/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "точный, верный",
+  "def_en": "correct and without mistakes",
+  "note_ru": "Ложный друг: не «аккуратный» — опрятный будет tidy или neat. Здесь про точность данных.",
+  "example": "The forecast turned out to be accurate.",
+  "example_ru": "Прогноз оказался точным.",
+  "examples_extra": [
+   {
+    "en": "The map wasn't accurate, so we got lost.",
+    "ru": "Карта была неточной, и мы заблудились."
+   },
+   {
+    "en": "Keep an accurate record of your spending.",
+    "ru": "Ведите точный учёт своих расходов."
+   }
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "b1-044",
+  "word": "work out",
+  "ipa": "/wɜːk aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "вычислить; сложиться удачно; тренироваться",
+  "def_en": "to calculate; to end well; to exercise",
+  "note_ru": "Три разных смысла: «work out the cost», «it worked out fine», «I work out twice a week».",
+  "example": "It all worked out in the end.",
+  "example_ru": "В итоге всё сложилось.",
+  "examples_extra": [
+   {
+    "en": "Things have a way of working out.",
+    "ru": "Всё как-то само складывается к лучшему."
+   },
+   {
+    "en": "Let's work out the total cost first.",
+    "ru": "Давайте сначала вычислим общую стоимость."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-045",
+  "word": "find out",
+  "ipa": "/faɪnd aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "выяснить, узнать",
+  "def_en": "to learn a fact by asking or searching",
+  "note_ru": "find — найти предмет, find out — узнать информацию. «I found out he had left».",
+  "example": "I need to find out when it opens.",
+  "example_ru": "Мне нужно выяснить, когда это открывается.",
+  "examples_extra": [
+   {
+    "en": "Can you find out who owns this building?",
+    "ru": "Можешь выяснить, кому принадлежит это здание?"
+   },
+   {
+    "en": "I found out about the party by accident.",
+    "ru": "Я узнал о вечеринке случайно."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-046",
+  "word": "look up",
+  "ipa": "/lʊk ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "посмотреть в словаре или справочнике",
+  "def_en": "to search for information in a book or online",
+  "note_ru": "Разделяемый глагол: «look it up», а не «look up it». С местоимением частица уходит в конец.",
+  "example": "Just look the word up in a dictionary.",
+  "example_ru": "Просто посмотри это слово в словаре.",
+  "examples_extra": [
+   {
+    "en": "I looked up the address before leaving.",
+    "ru": "Я посмотрел адрес перед выходом."
+   },
+   {
+    "en": "Look it up online if you don't believe me.",
+    "ru": "Проверь в интернете, если мне не веришь."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-047",
+  "word": "get on with",
+  "ipa": "/ɡet ɒn wɪð/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "ладить с кем-то; продолжать дело",
+  "def_en": "to have a good relationship; to continue doing something",
+  "note_ru": "«I get on with my boss» — лажу с начальником. «Get on with it» — займись уже делом.",
+  "example": "She gets on well with everyone.",
+  "example_ru": "Она со всеми хорошо ладит.",
+  "examples_extra": [
+   {
+    "en": "Do you get on with your flatmates?",
+    "ru": "Ты ладишь со своими соседями по квартире?"
+   },
+   {
+    "en": "Let's get on with the work, it's getting late.",
+    "ru": "Давайте продолжим работу, уже поздно."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-048",
+  "word": "carry on",
+  "ipa": "/ˈkæri ɒn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "продолжать",
+  "def_en": "to continue doing something",
+  "note_ru": "После carry on идёт -ing: «carry on working». Синоним continue, но разговорнее.",
+  "example": "Carry on, I am listening.",
+  "example_ru": "Продолжай, я слушаю.",
+  "examples_extra": [
+   {
+    "en": "Carry on without me, I'll catch up.",
+    "ru": "Продолжайте без меня, я догоню."
+   },
+   {
+    "en": "She carried on talking as if nothing had happened.",
+    "ru": "Она продолжала говорить, как будто ничего не случилось."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-049",
+  "word": "turn down",
+  "ipa": "/tɜːn daʊn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "отклонить; убавить громкость",
+  "def_en": "to refuse an offer; to reduce the volume or heat",
+  "note_ru": "«Turn down an offer» — отказаться от предложения. «Turn the music down» — сделать тише.",
+  "example": "He turned down the job offer.",
+  "example_ru": "Он отклонил предложение о работе.",
+  "examples_extra": [
+   {
+    "en": "Could you turn down the music a little?",
+    "ru": "Можешь немного убавить музыку?"
+   },
+   {
+    "en": "She turned down two offers before accepting this one.",
+    "ru": "Она отклонила два предложения, прежде чем принять это."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-050",
+  "word": "call off",
+  "ipa": "/kɔːl ɒf/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "отменить",
+  "def_en": "to cancel something that was planned",
+  "note_ru": "Синоним cancel. «The match was called off» — матч отменили.",
+  "example": "They called off the meeting at the last minute.",
+  "example_ru": "Встречу отменили в последнюю минуту.",
+  "examples_extra": [
+   {
+    "en": "The match was called off because of the storm.",
+    "ru": "Матч отменили из-за шторма."
+   },
+   {
+    "en": "They called off the search at midnight.",
+    "ru": "В полночь поиски прекратили."
+   }
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-051",
+  "word": "avoid",
+  "ipa": "/əˈvɔɪd/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "избегать",
+  "def_en": "to stay away from something or prevent it happening",
+  "note_ru": "После avoid всегда -ing: «avoid making mistakes», никогда «avoid to make».",
+  "example": "Try to avoid using too much jargon.",
+  "example_ru": "Постарайся избегать лишнего жаргона.",
+  "examples_extra": [
+   {
+    "en": "She avoided my question twice.",
+    "ru": "Она дважды ушла от моего вопроса."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-052",
+  "word": "manage to",
+  "ipa": "/ˈmænɪdʒ tuː/",
+  "pos": "phrase",
+  "level": "B1",
+  "ru": "суметь, справиться и сделать",
+  "def_en": "to succeed in doing something difficult",
+  "note_ru": "Подразумевает преодолённую трудность: «I managed to fix it» — всё-таки починил. Без to значит «управлять».",
+  "example": "We managed to finish before the deadline.",
+  "example_ru": "Мы всё-таки успели до срока.",
+  "examples_extra": [
+   {
+    "en": "I managed to fix it without any help.",
+    "ru": "Я сумел починить это без чьей-либо помощи."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-053",
+  "word": "mention",
+  "ipa": "/ˈmenʃn/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "упоминать",
+  "def_en": "to say something briefly without going into detail",
+  "note_ru": "Без предлога: «he mentioned the price», не «mentioned about». «Don't mention it» — не за что.",
+  "example": "She mentioned it in passing.",
+  "example_ru": "Она упомянула об этом мимоходом.",
+  "examples_extra": [
+   {
+    "en": "Did he mention the price at all?",
+    "ru": "Он вообще упоминал цену?"
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-054",
+  "word": "recommend",
+  "ipa": "/ˌrekəˈmend/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "рекомендовать, советовать",
+  "def_en": "to say that something is good and worth trying",
+  "note_ru": "Как suggest: «recommend doing» или «recommend that you do», но не «recommend me to do».",
+  "example": "I would recommend booking early.",
+  "example_ru": "Я бы советовал бронировать заранее.",
+  "examples_extra": [
+   {
+    "en": "Which dish would you recommend here?",
+    "ru": "Какое блюдо вы бы здесь порекомендовали?"
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-055",
+  "word": "refuse",
+  "ipa": "/rɪˈfjuːz/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "отказываться",
+  "def_en": "to say firmly that you will not do something",
+  "note_ru": "refuse to do something — с инфинитивом. Существительное refusal. Ударение на второй слог.",
+  "example": "He refused to answer the question.",
+  "example_ru": "Он отказался отвечать на вопрос.",
+  "examples_extra": [
+   {
+    "en": "She refused to sign the contract.",
+    "ru": "Она отказалась подписывать контракт."
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-056",
+  "word": "deserve",
+  "ipa": "/dɪˈzɜːv/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "заслуживать",
+  "def_en": "to have earned something by your actions",
+  "note_ru": "«You deserve a break» — ты заслужил отдых. Работает и в минус: «he deserved it» о наказании.",
+  "example": "They deserve a lot of credit for this.",
+  "example_ru": "Они заслуживают большой похвалы за это.",
+  "examples_extra": [
+   {
+    "en": "After that week, you deserve a rest.",
+    "ru": "После такой недели ты заслуживаешь отдыха."
+   }
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "b1-057",
+  "word": "involve",
+  "ipa": "/ɪnˈvɒlv/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "включать в себя; вовлекать",
+  "def_en": "to include something as a necessary part; to make someone take part",
+  "note_ru": "«What does it involve?» — что это в себя включает? «Get involved» — включиться, ввязаться.",
+  "example": "The job involves a lot of writing.",
+  "example_ru": "Работа предполагает много письменной работы.",
+  "examples_extra": [
+   {
+    "en": "The course involves a lot of group work.",
+    "ru": "Курс включает много работы в группах."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-058",
+  "word": "prevent",
+  "ipa": "/prɪˈvent/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "предотвращать; мешать",
+  "def_en": "to stop something happening or someone doing something",
+  "note_ru": "Конструкция: prevent somebody from doing something. Предлог from обязателен.",
+  "example": "Nothing prevented them from trying again.",
+  "example_ru": "Ничто не помешало им попробовать снова.",
+  "examples_extra": [
+   {
+    "en": "Regular breaks prevent silly mistakes.",
+    "ru": "Регулярные перерывы предотвращают глупые ошибки."
+   }
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-059",
+  "word": "expect",
+  "ipa": "/ɪkˈspekt/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "ожидать, рассчитывать",
+  "def_en": "to think that something will happen",
+  "note_ru": "Не путать с wait for (физически ждать). Expect — про ожидание в голове: «I expect he will call».",
+  "example": "We expect the results on Friday.",
+  "example_ru": "Мы ожидаем результаты в пятницу.",
+  "examples_extra": [
+   {
+    "en": "I didn't expect so many people to come.",
+    "ru": "Я не ожидал, что придёт столько людей."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-060",
+  "word": "complain",
+  "ipa": "/kəmˈpleɪn/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "жаловаться",
+  "def_en": "to say that you are not satisfied with something",
+  "note_ru": "complain about something, complain to somebody. Существительное — complaint через t.",
+  "example": "Guests complained about the noise.",
+  "example_ru": "Гости жаловались на шум.",
+  "examples_extra": [
+   {
+    "en": "He complained to the manager about the bill.",
+    "ru": "Он пожаловался менеджеру на счёт."
+   }
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-061",
+  "word": "aware of",
+  "ipa": "/əˈweər əv/",
+  "pos": "phrase",
+  "level": "B1",
+  "ru": "знающий о, осознающий",
+  "def_en": "knowing that something exists or is happening",
+  "note_ru": "«Are you aware of the risks?» Существительное awareness — осведомлённость.",
+  "example": "I was not aware of the change.",
+  "example_ru": "Я не знал об этом изменении.",
+  "examples_extra": [
+   {
+    "en": "Are you aware of the new parking rules?",
+    "ru": "Ты в курсе новых правил парковки?"
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-062",
+  "word": "confident",
+  "ipa": "/ˈkɒnfɪdənt/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "уверенный в себе",
+  "def_en": "sure of your own ability or of a result",
+  "note_ru": "Не путать с confidential — конфиденциальный. Существительное confidence — уверенность.",
+  "example": "She sounded confident about the plan.",
+  "example_ru": "Она говорила о плане уверенно.",
+  "examples_extra": [
+   {
+    "en": "Practice made her more confident on stage.",
+    "ru": "Практика сделала её более уверенной на сцене."
+   }
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-063",
+  "word": "disappointed",
+  "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "разочарованный",
+  "def_en": "sad because something was not as good as you hoped",
+  "note_ru": "Одна s, две p — частая ошибка в написании. «Disappointed with something» или «in somebody».",
+  "example": "I was a bit disappointed with the ending.",
+  "example_ru": "Я был немного разочарован концовкой.",
+  "examples_extra": [
+   {
+    "en": "Don't be disappointed if it takes time.",
+    "ru": "Не разочаровывайся, если это займёт время."
+   }
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "b1-064",
+  "word": "grateful",
+  "ipa": "/ˈɡreɪtfl/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "благодарный",
+  "def_en": "feeling thankful for something someone did",
+  "note_ru": "«I would be grateful if you could…» — вежливая просьба в письме. Пишется без i, в отличие от great.",
+  "example": "I am really grateful for your help.",
+  "example_ru": "Я очень благодарен за твою помощь.",
+  "examples_extra": [
+   {
+    "en": "We're grateful to everyone who donated.",
+    "ru": "Мы благодарны всем, кто пожертвовал средства."
+   }
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "b1-065",
+  "word": "likely",
+  "ipa": "/ˈlaɪkli/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "вероятный, скорее всего",
+  "def_en": "probably going to happen",
+  "note_ru": "Это прилагательное, хотя кончается на -ly: «it is likely to rain». Антоним — unlikely.",
+  "example": "Prices are likely to rise again.",
+  "example_ru": "Цены, скорее всего, снова вырастут.",
+  "examples_extra": [
+   {
+    "en": "It's likely to rain in the evening.",
+    "ru": "Вечером, скорее всего, будет дождь."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-066",
+  "word": "obvious",
+  "ipa": "/ˈɒbviəs/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "очевидный",
+  "def_en": "easy to see or understand",
+  "note_ru": "Наречие obviously — очевидно, разумеется. В речи часто смягчает: «obviously, I could be wrong».",
+  "example": "The mistake was pretty obvious.",
+  "example_ru": "Ошибка была довольно очевидной.",
+  "examples_extra": [
+   {
+    "en": "For obvious reasons, we kept the plan secret.",
+    "ru": "По очевидным причинам мы держали план в секрете."
+   }
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-067",
+  "word": "willing to",
+  "ipa": "/ˈwɪlɪŋ tuː/",
+  "pos": "phrase",
+  "level": "B1",
+  "ru": "готовый сделать что-то",
+  "def_en": "ready and happy to do something if needed",
+  "note_ru": "Про согласие, а не про подготовленность: «willing to help» — не против помочь. Готов по времени — ready.",
+  "example": "He is willing to work weekends.",
+  "example_ru": "Он готов работать по выходным.",
+  "examples_extra": [
+   {
+    "en": "Are you willing to travel for this job?",
+    "ru": "Вы готовы ездить в командировки ради этой работы?"
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-068",
+  "word": "advantage",
+  "ipa": "/ədˈvɑːntɪdʒ/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "преимущество",
+  "def_en": "something that helps you do better than others",
+  "note_ru": "«Take advantage of» — воспользоваться (и иногда «злоупотребить»). Антоним — disadvantage.",
+  "example": "Speaking two languages is a big advantage.",
+  "example_ru": "Знание двух языков — большое преимущество.",
+  "examples_extra": [
+   {
+    "en": "Working from home has clear advantages.",
+    "ru": "У работы из дома есть явные преимущества."
+   }
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-069",
+  "word": "attitude",
+  "ipa": "/ˈætɪtjuːd/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "отношение, настрой",
+  "def_en": "the way you think and feel about something",
+  "note_ru": "«Attitude to» или «towards something». Отдельно «he has an attitude» — с гонором, задиристый.",
+  "example": "Her attitude to feedback is great.",
+  "example_ru": "У неё отличное отношение к обратной связи.",
+  "examples_extra": [
+   {
+    "en": "A positive attitude helps in tough weeks.",
+    "ru": "Позитивный настрой помогает в тяжёлые недели."
+   }
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-070",
+  "word": "colleague",
+  "ipa": "/ˈkɒliːɡ/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "коллега",
+  "def_en": "someone you work with",
+  "note_ru": "Написание с ea и gue — частая ошибка. В разговоре чаще говорят просто «someone I work with».",
+  "example": "A colleague of mine recommended it.",
+  "example_ru": "Мне это посоветовал один коллега.",
+  "examples_extra": [
+   {
+    "en": "I'm meeting a former colleague for lunch.",
+    "ru": "Я обедаю с бывшим коллегой."
+   }
+  ],
+  "topic": "work"
+ }
 ]

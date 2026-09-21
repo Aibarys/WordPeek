@@ -1,5 +1,11 @@
 import Foundation
 
+/// One example sentence with its Russian translation.
+struct ExamplePair: Codable, Hashable {
+    let en: String
+    let ru: String
+}
+
 /// One vocabulary entry, decoded straight from `words.json`.
 struct Word: Codable, Identifiable, Hashable {
     let id: String
@@ -15,6 +21,10 @@ struct Word: Codable, Identifiable, Hashable {
     let noteRu: String
     let example: String
     let exampleRu: String
+    /// 1–2 more examples beyond the primary one. Kept separate from
+    /// `example`/`example_ru` so the widget and the web prototype keep
+    /// reading the primary pair unchanged.
+    let extraExamples: [ExamplePair]
     let topic: String
 
     enum CodingKeys: String, CodingKey {
@@ -23,6 +33,29 @@ struct Word: Codable, Identifiable, Hashable {
         case noteRu = "note_ru"
         case example
         case exampleRu = "example_ru"
+        case extraExamples = "examples_extra"
+    }
+}
+
+extension Word {
+    /// Custom decoding lives in an extension to keep the memberwise
+    /// initialiser. `examples_extra` is optional in the JSON: a dictionary
+    /// entry without it decodes with an empty list instead of failing the
+    /// whole bundle load.
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        id = try c.decode(String.self, forKey: .id)
+        word = try c.decode(String.self, forKey: .word)
+        ipa = try c.decode(String.self, forKey: .ipa)
+        pos = try c.decode(String.self, forKey: .pos)
+        level = try c.decode(Level.self, forKey: .level)
+        ru = try c.decode(String.self, forKey: .ru)
+        defEn = try c.decode(String.self, forKey: .defEn)
+        noteRu = try c.decode(String.self, forKey: .noteRu)
+        example = try c.decode(String.self, forKey: .example)
+        exampleRu = try c.decode(String.self, forKey: .exampleRu)
+        extraExamples = try c.decodeIfPresent([ExamplePair].self, forKey: .extraExamples) ?? []
+        topic = try c.decode(String.self, forKey: .topic)
     }
 }
 
@@ -91,6 +124,7 @@ extension Word {
         noteRu: "Словарь не загрузился — это запасная карточка.",
         example: "Finding that café was pure serendipity.",
         exampleRu: "То, что мы нашли это кафе, — чистая счастливая случайность.",
+        extraExamples: [],
         topic: "core"
     )
 }

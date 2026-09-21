@@ -10,6 +10,12 @@
   "note_ru": "Частая ошибка: borrow — брать у кого-то, lend — давать кому-то. «Can I borrow your pen?» — можно взять твою ручку?",
   "example": "Can I borrow your charger until tomorrow?",
   "example_ru": "Можно одолжить твою зарядку до завтра?",
+  "examples_extra": [
+   {
+    "en": "She borrowed a pen from the man next to her.",
+    "ru": "Она одолжила ручку у соседа."
+   }
+  ],
   "topic": "everyday"
  },
  {
@@ -23,6 +29,12 @@
   "note_ru": "Почти всегда с can/can't: «I can't afford it». Без модального глагола звучит неестественно.",
   "example": "We can't afford a new car this year.",
   "example_ru": "Мы не можем позволить себе новую машину в этом году.",
+  "examples_extra": [
+   {
+    "en": "I can afford a taxi today, it's payday.",
+    "ru": "Сегодня я могу позволить себе такси — зарплата."
+   }
+  ],
   "topic": "money"
  },
  {
@@ -36,6 +48,12 @@
   "note_ru": "От crowd — толпа. О месте, а не о вещах: crowded train, но не crowded bag.",
   "example": "The metro is really crowded at eight in the morning.",
   "example_ru": "В восемь утра в метро реально битком.",
+  "examples_extra": [
+   {
+    "en": "The beach gets crowded on hot weekends.",
+    "ru": "В жаркие выходные пляж переполнен."
+   }
+  ],
   "topic": "city"
  },
  {
@@ -49,6 +67,12 @@
   "note_ru": "Противоположность — by accident / by mistake. «Sorry, I didn't do it on purpose».",
   "example": "He stepped on my foot on purpose.",
   "example_ru": "Он наступил мне на ногу нарочно.",
+  "examples_extra": [
+   {
+    "en": "I didn't delete the file on purpose.",
+    "ru": "Я удалил файл не нарочно."
+   }
+  ],
   "topic": "everyday"
  },
  {
@@ -62,6 +86,12 @@
   "note_ru": "Коварное слово: в британском «quite good» = неплохо, но не отлично. В американском ближе к «очень хорошо».",
   "example": "The film was quite good, but a bit long.",
   "example_ru": "Фильм был неплох, но немного затянут.",
+  "examples_extra": [
+   {
+    "en": "I'm quite tired after the long walk.",
+    "ru": "Я довольно устал после долгой прогулки."
+   }
+  ],
   "topic": "core"
  },
  {
@@ -75,6 +105,12 @@
   "note_ru": "В США пишется neighbor. Обрати внимание на непроизносимое gh.",
   "example": "Our new neighbours seem friendly.",
   "example_ru": "Наши новые соседи кажутся дружелюбными.",
+  "examples_extra": [
+   {
+    "en": "Our neighbour waters our plants when we travel.",
+    "ru": "Наш сосед поливает наши цветы, когда мы уезжаем."
+   }
+  ],
   "topic": "everyday"
  },
  {
@@ -88,6 +124,12 @@
   "note_ru": "Буква p не читается: «рисИт». Не путать с recipe /ˈresəpi/ — рецепт блюда.",
   "example": "Keep the receipt in case you want to return it.",
   "example_ru": "Сохрани чек на случай, если захочешь вернуть.",
+  "examples_extra": [
+   {
+    "en": "The shop can't refund you without a receipt.",
+    "ru": "Без чека магазин не вернёт вам деньги."
+   }
+  ],
   "topic": "shopping"
  },
  {
@@ -101,6 +143,12 @@
   "note_ru": "После to идёт -ing: «get used to waking up early». Классическая ошибка — ставить инфинитив.",
   "example": "It took me a month to get used to the noise.",
   "example_ru": "Мне понадобился месяц, чтобы привыкнуть к шуму.",
+  "examples_extra": [
+   {
+    "en": "I still can't get used to the early mornings.",
+    "ru": "Я всё ещё не могу привыкнуть к ранним подъёмам."
+   }
+  ],
   "topic": "core"
  },
  {
@@ -114,6 +162,12 @@
   "note_ru": "Не путать с in time — «успеть, не опоздать». Поезд отходит on time; ты успеваешь на него in time.",
   "example": "The train left exactly on time.",
   "example_ru": "Поезд отошёл ровно вовремя.",
+  "examples_extra": [
+   {
+    "en": "Please try to arrive on time tomorrow.",
+    "ru": "Пожалуйста, постарайся прийти завтра вовремя."
+   }
+  ],
   "topic": "core"
  },
  {
@@ -127,6 +181,12 @@
   "note_ru": "Сильнее, чем sad — есть оттенок обиды. Как глагол — расстраивать: «Don't upset her».",
   "example": "She was upset about losing the photos.",
   "example_ru": "Она расстроилась из-за потерянных фотографий.",
+  "examples_extra": [
+   {
+    "en": "Don't be upset, we can fix this.",
+    "ru": "Не расстраивайся, мы можем это исправить."
+   }
+  ],
   "topic": "emotions"
  },
  {
@@ -140,6 +200,12 @@
   "note_ru": "Работает и про вещи (товар в наличии), и про людей (свободен для встречи).",
   "example": "Are you available on Friday afternoon?",
   "example_ru": "Ты свободен в пятницу днём?",
+  "examples_extra": [
+   {
+    "en": "The doctor is available after three o'clock.",
+    "ru": "Врач свободен после трёх часов."
+   }
+  ],
   "topic": "work"
  },
  {
@@ -153,6 +219,12 @@
   "note_ru": "Именно «be in a hurry», а не «have hurry». Глагол hurry тоже есть: «Hurry up!»",
   "example": "Sorry, I can't talk — I'm in a hurry.",
   "example_ru": "Извини, не могу говорить — я спешу.",
+  "examples_extra": [
+   {
+    "en": "She left in a hurry and forgot her umbrella.",
+    "ru": "Она уходила в спешке и забыла зонт."
+   }
+  ],
   "topic": "everyday"
  },
  {
@@ -166,6 +238,12 @@
   "note_ru": "Зеркало к borrow. Неправильный глагол: lend — lent — lent.",
   "example": "Could you lend me twenty pounds?",
   "example_ru": "Не одолжишь мне двадцать фунтов?",
+  "examples_extra": [
+   {
+    "en": "The library lends books for two weeks.",
+    "ru": "Библиотека выдаёт книги на две недели."
+   }
+  ],
   "topic": "money"
  },
  {
@@ -179,6 +257,12 @@
   "note_ru": "Как глагол — прибираться: «tidy up your room». Антоним — messy.",
   "example": "His desk is always incredibly tidy.",
   "example_ru": "У него на столе всегда идеальный порядок.",
+  "examples_extra": [
+   {
+    "en": "Keep your room tidy, please.",
+    "ru": "Пожалуйста, держи свою комнату в порядке."
+   }
+  ],
   "topic": "home"
  },
  {
@@ -192,6 +276,12 @@
   "note_ru": "После to — герундий: «looking forward to seeing you». Стандартная концовка письма.",
   "example": "I'm looking forward to the weekend.",
   "example_ru": "Жду не дождусь выходных.",
+  "examples_extra": [
+   {
+    "en": "We're looking forward to meeting your parents.",
+    "ru": "Мы с нетерпением ждём встречи с твоими родителями."
+   }
+  ],
   "topic": "core"
  },
  {
@@ -205,6 +295,12 @@
   "note_ru": "В США — cozy. В объявлениях о жилье часто значит «маленький».",
   "example": "It's a small flat, but really cosy.",
   "example_ru": "Квартира маленькая, но очень уютная.",
+  "examples_extra": [
+   {
+    "en": "The café is warm and cosy in winter.",
+    "ru": "Зимой в этом кафе тепло и уютно."
+   }
+  ],
   "topic": "home"
  },
  {
@@ -218,6 +314,12 @@
   "note_ru": "argue with somebody about something. Существительное — argument (спор, а не «аргумент» в русском смысле).",
   "example": "They argue about money all the time.",
   "example_ru": "Они постоянно спорят из-за денег.",
+  "examples_extra": [
+   {
+    "en": "Let's not argue about small things.",
+    "ru": "Давай не будем спорить из-за мелочей."
+   }
+  ],
   "topic": "relationships"
  },
  {
@@ -231,6 +333,12 @@
   "note_ru": "Антоним — rude. Наречие politely. «It's polite to say thank you».",
   "example": "He's always polite to the staff.",
   "example_ru": "Он всегда вежлив с персоналом.",
+  "examples_extra": [
+   {
+    "en": "It's polite to say thank you.",
+    "ru": "Говорить «спасибо» — вежливо."
+   }
+  ],
   "topic": "character"
  },
  {
@@ -244,6 +352,12 @@
   "note_ru": "Антоним — useless (бесполезный). Обрати внимание: одна l в useful, две в usefully.",
   "example": "That's a useful tip, thanks.",
   "example_ru": "Полезный совет, спасибо.",
+  "examples_extra": [
+   {
+    "en": "This app is really useful for planning trips.",
+    "ru": "Это приложение очень полезно для планирования поездок."
+   }
+  ],
   "topic": "core"
  },
  {
@@ -257,6 +371,12 @@
   "note_ru": "«Be careful!» — осторожно! Наречие carefully — тщательно.",
   "example": "Be careful with that glass.",
   "example_ru": "Осторожнее с этим стаканом.",
+  "examples_extra": [
+   {
+    "en": "She's a careful driver.",
+    "ru": "Она осторожный водитель."
+   }
+  ],
   "topic": "core"
  }
 ]
