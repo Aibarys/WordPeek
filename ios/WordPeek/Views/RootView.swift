@@ -4,13 +4,16 @@ struct RootView: View {
     @EnvironmentObject private var model: AppModel
 
     var body: some View {
-        TabView {
+        TabView(selection: $model.selectedTab) {
             TodayView()
                 .tabItem { Label("Сейчас", systemImage: "sparkles") }
+                .tag(AppModel.Tab.today)
             HistoryView()
                 .tabItem { Label("История", systemImage: "clock.arrow.circlepath") }
+                .tag(AppModel.Tab.history)
             SettingsView()
                 .tabItem { Label("Настройки", systemImage: "gearshape") }
+                .tag(AppModel.Tab.settings)
         }
         .sheet(item: $model.pinnedWord) { word in
             NavigationStack {

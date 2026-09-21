@@ -17,8 +17,13 @@ struct WordPeekApp: App {
 /// which is what the widget reads.
 @MainActor
 final class AppModel: ObservableObject {
+    enum Tab { case today, history, settings }
+
     @Published private(set) var currentWord: Word?
     @Published private(set) var currentSlot: Int = 0
+    /// The widget always lands the user on the Today tab, wherever the app
+    /// was left last time.
+    @Published var selectedTab: Tab = .today
     /// Set when the user taps the widget; overrides the clock until dismissed.
     @Published var pinnedWord: Word?
     @Published var settings: Settings {
@@ -110,6 +115,7 @@ final class AppModel: ObservableObject {
         guard url.scheme == "wordpeek", url.host == "word" else { return }
         let id = url.lastPathComponent
         guard let word = database.word(id: id) else { return }
+        selectedTab = .today
         refresh()
         guard word.id != currentWord?.id else { return }
         pinnedWord = word
