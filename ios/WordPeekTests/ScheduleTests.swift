@@ -38,13 +38,37 @@ final class ScheduleTests: XCTestCase {
             XCTAssertEqual(schedule.slotIndex(for: schedule.slotStart(index)), index)
         }
     }
+
+    func testStartSlotShiftsTheQueue() {
+        let schedule = Schedule(anchor: anchor, slotMinutes: 5, queue: ["a", "b", "c"], startSlot: 10)
+        XCTAssertEqual(schedule.wordID(atSlot: 10), "a")
+        XCTAssertEqual(schedule.wordID(atSlot: 12), "c")
+        XCTAssertEqual(schedule.wordID(atSlot: 13), "a")
+        // Slots before the start are clamped to the queue head.
+        XCTAssertEqual(schedule.wordID(atSlot: 4), "a")
+    }
+
+    func testDecodingScheduleWithoutStartSlotDefaultsToZero() throws {
+        // A schedule persisted by 1.0 — no startSlot key.
+        let stored = try JSONEncoder().encode(
+            Schedule(anchor: anchor, slotMinutes: 5, queue: ["a", "b"])
+        )
+        var json = try XCTUnwrap(JSONSerialization.jsonObject(with: stored) as? [String: Any])
+        json.removeValue(forKey: "startSlot")
+        let data = try JSONSerialization.data(withJSONObject: json)
+
+        let decoded = try JSONDecoder().decode(Schedule.self, from: data)
+        XCTAssertEqual(decoded.startSlot, 0)
+        XCTAssertEqual(decoded.queue, ["a", "b"])
+    }
 }
 
 final class ScheduleBuilderTests: XCTestCase {
     private func word(_ id: String, level: Level = .b1) -> Word {
         Word(id: id, word: id, ipa: "/x/", pos: "noun", level: level,
              ru: "перевод", defEn: "definition", noteRu: "заметка",
-             example: "Example.", exampleRu: "Пример.", topic: "core")
+             example: "Example.", exampleRu: "Пример.", extraExamples: [],
+             topic: "core")
     }
 
     func testNewWordsAppearMoreOftenThanAlmostLearnedOnes() {
@@ -110,6 +134,73 @@ final class ScheduleBuilderTests: XCTestCase {
         let queue = ScheduleBuilder.buildQueue(from: pool, progress: [:], seed: 3)
         XCTAssertLessThanOrEqual(queue.count, ScheduleBuilder.maxQueueLength)
     }
+
+    func testRecentIdsAreKeptOutOfTheQueueHead() {
+        let pool = (0..<12).map { word("w\($0)") }
+        for seed in 0..<50 as Range<UInt64> {
+            let queue = ScheduleBuilder.buildQueue(
+                from: pool, progress: [:], seed: seed,
+                avoidingRecent: ["w0", "w1", "w2"]
+            )
+            let head = queue.prefix(3)
+            XCTAssertFalse(head.contains("w0"), "w0 at head for seed \(seed)")
+            XCTAssertFalse(head.contains("w1"), "w1 at head for seed \(seed)")
+            XCTAssertFalse(head.contains("w2"), "w2 at head for seed \(seed)")
+            XCTAssertEqual(queue.count, 12 * 4, "eviction must not drop entries")
+        }
+    }
+}
+
+final class SharedStoreTests: XCTestCase {
+    private var store: SharedStore!
+    private var database: WordDatabase!
+
+    override func setUp() {
+        super.setUp()
+        let suiteName = "wordpeek.tests.\(UUID().uuidString)"
+        let defaults = UserDefaults(suiteName: suiteName)!
+        defaults.removePersistentDomain(forName: suiteName)
+        store = SharedStore(defaults: defaults)
+        database = WordDatabase(words: (0..<10).map { index in
+            Word(id: "w\(index)", word: "w\(index)", ipa: "/x/", pos: "noun", level: .b1,
+                 ru: "перевод", defEn: "definition", noteRu: "заметка",
+                 example: "Example.", exampleRu: "Пример.", extraExamples: [],
+                 topic: "core")
+        })
+    }
+
+    func testAnswerAlwaysAdvancesToADifferentWord() {
+        store.rebuildSchedule(database: database)
+        let now = Date()
+        for _ in 0..<20 {
+            let before = store.schedule.word(at: now, in: database)!.id
+            store.record(.learning, for: before, database: database, now: now)
+            let after = store.schedule.word(at: now, in: database)!.id
+            XCTAssertNotEqual(before, after, "the card must advance on every answer")
+        }
+    }
+
+    func testAnswersAreJournaledInOrder() {
+        store.rebuildSchedule(database: database)
+        let now = Date()
+        let first = store.schedule.word(at: now, in: database)!.id
+        store.record(.known, for: first, database: database, now: now)
+        let second = store.schedule.word(at: now, in: database)!.id
+
+        let journal = store.history.map(\.wordID)
+        XCTAssertTrue(journal.contains(first), "the answered word must stay in the history")
+        XCTAssertEqual(journal.last, second, "the freshly shown word must be journaled")
+    }
+
+    func testJournalIsCapped() {
+        store.rebuildSchedule(database: database)
+        let now = Date()
+        for _ in 0..<(SharedStore.historyLimit + 20) {
+            let current = store.schedule.word(at: now, in: database)!.id
+            store.record(.learning, for: current, database: database, now: now)
+        }
+        XCTAssertLessThanOrEqual(store.history.count, SharedStore.historyLimit)
+    }
 }
 
 final class WordDatabaseTests: XCTestCase {
@@ -124,6 +215,8 @@ final class WordDatabaseTests: XCTestCase {
             XCTAssertFalse(word.ru.isEmpty, "\(word.id) has no translation")
             XCTAssertFalse(word.defEn.isEmpty, "\(word.id) has no definition")
             XCTAssertFalse(word.example.isEmpty, "\(word.id) has no example")
+            XCTAssertFalse(word.extraExamples.isEmpty, "\(word.id) has no extra examples")
+            XCTAssertLessThanOrEqual(word.extraExamples.count, 2, "\(word.id) has too many extra examples")
         }
     }
 
@@ -131,7 +224,8 @@ final class WordDatabaseTests: XCTestCase {
         let database = WordDatabase(words: [
             Word(id: "x", word: "x", ipa: "/x/", pos: "noun", level: .c1,
                  ru: "перевод", defEn: "definition", noteRu: "заметка",
-                 example: "Example.", exampleRu: "Пример.", topic: "core")
+                 example: "Example.", exampleRu: "Пример.", extraExamples: [],
+                 topic: "core")
         ])
         XCTAssertEqual(database.words(levels: [.a2]).count, 1)
     }

@@ -14,6 +14,17 @@ struct Schedule: Codable, Equatable {
     var slotMinutes: Int
     /// Word ids in display order; wraps around when exhausted.
     var queue: [String]
+    /// The absolute slot index where `queue[0]` starts. An answer rebuilds
+    /// the rotation from the current slot, so the card always advances to a
+    /// fresh word instead of remapping the slot the user is looking at.
+    var startSlot: Int
+
+    init(anchor: Date, slotMinutes: Int, queue: [String], startSlot: Int = 0) {
+        self.anchor = anchor
+        self.slotMinutes = slotMinutes
+        self.queue = queue
+        self.startSlot = startSlot
+    }
 
     static let empty = Schedule(anchor: Date(timeIntervalSince1970: 0), slotMinutes: 5, queue: [])
 
@@ -35,12 +46,25 @@ struct Schedule: Codable, Equatable {
 
     func wordID(atSlot index: Int) -> String? {
         guard !queue.isEmpty else { return nil }
-        return queue[((index % queue.count) + queue.count) % queue.count]
+        let offset = max(0, index - startSlot)
+        return queue[offset % queue.count]
     }
 
     func word(at date: Date, in database: WordDatabase = .shared) -> Word? {
         guard let id = wordID(atSlot: slotIndex(for: date)) else { return nil }
         return database.word(id: id)
+    }
+}
+
+extension Schedule {
+    /// Schedules stored by 1.0 have no `startSlot`; treat them as starting
+    /// at slot 0, which is exactly how 1.0 interpreted them.
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        anchor = try container.decode(Date.self, forKey: .anchor)
+        slotMinutes = try container.decode(Int.self, forKey: .slotMinutes)
+        queue = try container.decode([String].self, forKey: .queue)
+        startSlot = try container.decodeIfPresent(Int.self, forKey: .startSlot) ?? 0
     }
 }
 

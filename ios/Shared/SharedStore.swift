@@ -23,6 +23,7 @@ final class SharedStore {
         static let schedule = "schedule.v1"
         static let progress = "progress.v1"
         static let settings = "settings.v1"
+        static let history = "history.v1"
     }
 
     /// Falls back to `.standard` so the app still runs (widget sharing aside)
@@ -77,18 +78,93 @@ final class SharedStore {
         progress[id] ?? .new
     }
 
-    /// Records an answer and rebuilds the upcoming rotation so the change is
-    /// visible on the lock screen within one slot.
-    func record(_ answer: Answer, for id: String, database: WordDatabase = .shared) {
+    // MARK: - History
+
+    /// A persisted journal of what was actually shown. The queue is rebuilt
+    /// on every answer, so deriving "the past" from the current queue would
+    /// rewrite it retroactively; the journal is append-only.
+    struct HistoryEntry: Codable, Equatable, Identifiable {
+        let id: UUID
+        let date: Date
+        let wordID: String
+
+        init(date: Date, wordID: String) {
+            self.id = UUID()
+            self.date = date
+            self.wordID = wordID
+        }
+    }
+
+    static let historyLimit = 60
+
+    var history: [HistoryEntry] {
+        get { read(Key.history) ?? [] }
+        set { write(newValue, to: Key.history) }
+    }
+
+    /// Appends every slot that has elapsed since the last journal entry,
+    /// using the current schedule. All mutations happen in the app process,
+    /// so between mutations the current schedule is exactly what the lock
+    /// screen displayed. Cheap when nothing elapsed.
+    func materializeHistory(now: Date = Date()) {
+        let schedule = self.schedule
+        guard !schedule.queue.isEmpty else { return }
+
+        var log = history
+        let lastDate = log.last?.date ?? .distantPast
+        let currentSlot = schedule.slotIndex(for: now)
+        let firstCandidate = max(schedule.startSlot, currentSlot - Self.historyLimit + 1)
+        guard firstCandidate <= currentSlot else { return }
+
+        var appended = false
+        for slot in firstCandidate...currentSlot {
+            let start = schedule.slotStart(slot)
+            guard start > lastDate, start <= now else { continue }
+            guard let id = schedule.wordID(atSlot: slot) else { continue }
+            log.append(HistoryEntry(date: start, wordID: id))
+            appended = true
+        }
+        guard appended else { return }
+        if log.count > Self.historyLimit {
+            log.removeFirst(log.count - Self.historyLimit)
+        }
+        history = log
+    }
+
+    /// Journals an entry "right now" — used when an answer switches the card
+    /// mid-slot, so the new word appears in the history immediately.
+    private func appendToHistory(_ wordID: String, at date: Date) {
+        var log = history
+        guard log.last?.wordID != wordID else { return }
+        log.append(HistoryEntry(date: date, wordID: wordID))
+        if log.count > Self.historyLimit {
+            log.removeFirst(log.count - Self.historyLimit)
+        }
+        history = log
+    }
+
+    /// Records an answer, journals the history, and restarts the rotation
+    /// from the current slot — the card (and the lock screen) always advance
+    /// to a fresh word, never back to the one just answered.
+    func record(_ answer: Answer, for id: String, database: WordDatabase = .shared, now: Date = Date()) {
+        materializeHistory(now: now)
+
         var all = progress
         var entry = all[id] ?? .new
         switch answer {
-        case .known: entry.markKnown()
-        case .learning: entry.markLearning()
+        case .known: entry.markKnown(now: now)
+        case .learning: entry.markLearning(now: now)
         }
         all[id] = entry
         progress = all
-        rebuildSchedule(database: database, preservingAnchor: true)
+
+        rebuildSchedule(database: database, preservingAnchor: true, answered: id, now: now)
+
+        // The card switched mid-slot; put the new word into the journal so
+        // the history reflects what is actually on screen.
+        if let shown = schedule.wordID(atSlot: schedule.slotIndex(for: now)) {
+            appendToHistory(shown, at: now)
+        }
     }
 
     enum Answer { case known, learning }
@@ -98,23 +174,37 @@ final class SharedStore {
     /// Rebuilds the queue from the current settings and progress.
     ///
     /// `preservingAnchor` keeps the slot grid where it is, so answering a word
-    /// does not reshuffle the clock underneath the user; only the contents of
-    /// upcoming slots change.
-    func rebuildSchedule(database: WordDatabase = .shared, preservingAnchor: Bool = false) {
+    /// does not reshuffle the clock underneath the user. The new queue starts
+    /// at the current slot (`startSlot`), and `answered` plus the last few
+    /// journal entries are kept out of its head, so the user never sees the
+    /// same word twice in a row.
+    func rebuildSchedule(
+        database: WordDatabase = .shared,
+        preservingAnchor: Bool = false,
+        answered: String? = nil,
+        now: Date = Date()
+    ) {
+        materializeHistory(now: now)
+
         let current = schedule
         let settings = self.settings
         let pool = database.words(levels: settings.levels)
-        let queue = ScheduleBuilder.buildQueue(from: pool, progress: progress)
+        var recent = history.suffix(3).map(\.wordID)
+        if let answered { recent.append(answered) }
+        let queue = ScheduleBuilder.buildQueue(from: pool, progress: progress, avoidingRecent: recent)
 
         let anchor: Date
+        let startSlot: Int
         if preservingAnchor, current.anchor.timeIntervalSince1970 > 0,
            current.slotMinutes == settings.slotMinutes {
             anchor = current.anchor
+            startSlot = current.slotIndex(for: now)
         } else {
-            anchor = Date()
+            anchor = now
+            startSlot = 0
         }
 
-        schedule = Schedule(anchor: anchor, slotMinutes: settings.slotMinutes, queue: queue)
+        schedule = Schedule(anchor: anchor, slotMinutes: settings.slotMinutes, queue: queue, startSlot: startSlot)
         reloadWidgets()
     }
 

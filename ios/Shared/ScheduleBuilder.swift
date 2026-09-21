@@ -14,10 +14,20 @@ enum ScheduleBuilder {
     /// repeats.
     static let maxQueueLength = 800
 
+    /// `avoidingRecent` — ids the user has just seen (or just answered).
+    /// They are pushed out of the first few slots so an answer never brings
+    /// the same word straight back.
+    ///
+    /// The default seed changes every second: queues are only ever built in
+    /// the app process in response to a user action, and each action should
+    /// produce a genuinely new shuffle — an "Учить" tap on a box-0 word
+    /// changes no weights, and with a coarser seed it would rebuild a
+    /// byte-identical queue, making the button look dead.
     static func buildQueue(
         from pool: [Word],
         progress: [String: WordProgress],
-        seed: UInt64 = UInt64(Date().timeIntervalSince1970) / 3600
+        seed: UInt64 = UInt64(Date().timeIntervalSince1970),
+        avoidingRecent recent: [String] = []
     ) -> [String] {
         guard !pool.isEmpty else { return [] }
 
@@ -40,7 +50,32 @@ enum ScheduleBuilder {
             weighted = Array(weighted.prefix(maxQueueLength))
         }
 
-        return spaceOutDuplicates(weighted)
+        var result = spaceOutDuplicates(weighted)
+
+        // Evict recently shown ids from the head: remove them from the first
+        // `minimumGap` positions and re-insert further down where they keep
+        // their distance. When the pool is too small to avoid them, they
+        // stay — showing something beats showing nothing.
+        let avoid = Set(recent)
+        if !avoid.isEmpty, result.count > 3 {
+            var displaced: [String] = []
+            var position = 0
+            // Removing an element slides the rest left, so the index only
+            // advances when the slot is clean — otherwise the id that just
+            // slid in would escape the check.
+            while position < min(3, result.count) {
+                if avoid.contains(result[position]) {
+                    displaced.append(result.remove(at: position))
+                } else {
+                    position += 1
+                }
+            }
+            for held in displaced {
+                result.insert(held, at: insertionIndex(for: held, in: result, minimumGap: 3, notBefore: 3))
+            }
+        }
+
+        return result
     }
 
     /// Pushes any id that would land next to a copy of itself further down the
@@ -82,11 +117,14 @@ enum ScheduleBuilder {
         return result
     }
 
-    /// First position where `id` would sit at least `minimumGap` items from
-    /// every copy of itself on both sides; `endIndex` (a plain append) if no
-    /// such position exists.
-    private static func insertionIndex(for id: String, in result: [String], minimumGap: Int) -> Int {
-        for index in result.indices {
+    /// First position at or past `notBefore` where `id` would sit at least
+    /// `minimumGap` items from every copy of itself on both sides;
+    /// `endIndex` (a plain append) if no such position exists.
+    private static func insertionIndex(
+        for id: String, in result: [String], minimumGap: Int, notBefore: Int = 0
+    ) -> Int {
+        guard notBefore < result.count else { return result.count }
+        for index in notBefore..<result.count {
             let before = result[max(0, index - minimumGap)..<index]
             let after = result[index..<min(result.count, index + minimumGap)]
             if !before.contains(id), !after.contains(id) { return index }

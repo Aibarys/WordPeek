@@ -178,7 +178,7 @@ struct HistoryView: View {
     var body: some View {
         let recent = model.recentWords()
         NavigationStack {
-            List(recent, id: \.slot) { item in
+            List(recent, id: \.entry.id) { item in
                 Button {
                     model.pinnedWord = item.word
                 } label: {
@@ -191,7 +191,7 @@ struct HistoryView: View {
                                 .lineLimit(1)
                         }
                         Spacer()
-                        Text(Self.formatter.string(from: item.date))
+                        Text(Self.formatter.string(from: item.entry.date))
                             .font(.caption.monospacedDigit())
                             .foregroundStyle(.tertiary)
                     }

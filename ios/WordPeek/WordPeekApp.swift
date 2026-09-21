@@ -57,6 +57,7 @@ final class AppModel: ObservableObject {
 
     func refresh() {
         let now = Date()
+        store.materializeHistory(now: now)
         let schedule = store.schedule
         currentSlot = schedule.slotIndex(for: now)
         currentWord = schedule.word(at: now, in: database)
@@ -90,26 +91,27 @@ final class AppModel: ObservableObject {
 
     // MARK: - History
 
-    /// The words shown over the last `count` slots, most recent first.
-    func recentWords(count: Int = 40) -> [(slot: Int, date: Date, word: Word)] {
-        let schedule = store.schedule
-        guard !schedule.queue.isEmpty else { return [] }
-        let newest = schedule.slotIndex(for: Date())
-        let oldest = max(0, newest - count + 1)
-        return stride(from: newest, through: oldest, by: -1).compactMap { index in
-            guard let id = schedule.wordID(atSlot: index),
-                  let word = database.word(id: id) else { return nil }
-            return (slot: index, date: schedule.slotStart(index), word: word)
+    /// What was actually shown, most recent first — read from the persisted
+    /// journal, so answers appear immediately and rebuilds never rewrite it.
+    func recentWords(count: Int = 40) -> [(entry: SharedStore.HistoryEntry, word: Word)] {
+        store.materializeHistory()
+        return store.history.suffix(count).reversed().compactMap { entry in
+            database.word(id: entry.wordID).map { (entry: entry, word: $0) }
         }
     }
 
     // MARK: - Deep links
 
-    /// `wordpeek://word/<id>` — sent by a widget tap.
+    /// `wordpeek://word/<id>` — sent by a widget tap. The card sheet only
+    /// opens when the tapped word is NOT the one already on screen (e.g. the
+    /// slot changed between the glance and the unlock) — otherwise the sheet
+    /// would just duplicate the card underneath it.
     func handle(url: URL) {
         guard url.scheme == "wordpeek", url.host == "word" else { return }
         let id = url.lastPathComponent
         guard let word = database.word(id: id) else { return }
+        refresh()
+        guard word.id != currentWord?.id else { return }
         pinnedWord = word
     }
 }
