@@ -1,0 +1,516 @@
+[
+ {
+  "id": "b2-269",
+  "word": "approach",
+  "ipa": "/əˈprəʊtʃ/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "подход",
+  "def_en": "a way of doing something",
+  "note_ru": "A practical approach to the problem — с to. Глагол — приближаться: winter is approaching.",
+  "example": "We need a different approach.",
+  "example_ru": "Нам нужен другой подход.",
+  "examples_extra": [
+   {"en": "Her approach to teaching is unusual.", "ru": "Её подход к преподаванию необычен."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-270",
+  "word": "attempt",
+  "ipa": "/əˈtempt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "попытка",
+  "def_en": "an act of trying to do something",
+  "note_ru": "Make an attempt, at the first attempt — с первой попытки. Формальнее, чем try.",
+  "example": "He passed the exam at the second attempt.",
+  "example_ru": "Он сдал экзамен со второй попытки.",
+  "examples_extra": [
+   {"en": "All attempts to fix it failed.", "ru": "Все попытки починить это провалились."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-271",
+  "word": "consequence",
+  "ipa": "/ˈkɒnsɪkwəns/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "последствие",
+  "def_en": "a result of an action, often bad",
+  "note_ru": "Face the consequences — отвечать за последствия. As a consequence — вследствие этого.",
+  "example": "Every choice has consequences.",
+  "example_ru": "У каждого выбора есть последствия.",
+  "examples_extra": [
+   {"en": "He ignored the rules and faced the consequences.", "ru": "Он игнорировал правила — и поплатился за это."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-272",
+  "word": "circumstances",
+  "ipa": "/ˈsɜːkəmstənsɪz/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "обстоятельства",
+  "def_en": "the facts of a situation",
+  "note_ru": "Under the circumstances — в сложившихся обстоятельствах. Under no circumstances — ни при каких условиях.",
+  "example": "Under the circumstances, you did well.",
+  "example_ru": "В таких обстоятельствах ты справился хорошо.",
+  "examples_extra": [
+   {"en": "Under no circumstances open this door.", "ru": "Ни при каких обстоятельствах не открывай эту дверь."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-273",
+  "word": "priority",
+  "ipa": "/praɪˈɒrəti/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "приоритет",
+  "def_en": "the most important thing",
+  "note_ru": "Top priority — первоочередная задача. Set priorities — расставить приоритеты.",
+  "example": "Safety is our top priority.",
+  "example_ru": "Безопасность — наш главный приоритет.",
+  "examples_extra": [
+   {"en": "Sleep became a priority after the burnout.", "ru": "После выгорания сон стал приоритетом."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-274",
+  "word": "objective",
+  "ipa": "/əbˈdʒektɪv/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "цель (формальная); объективный",
+  "def_en": "an aim; based on facts, not feelings",
+  "note_ru": "Существительное — цель проекта, прилагательное — беспристрастный. Оба живут в офисе.",
+  "example": "The main objective is to cut costs.",
+  "example_ru": "Главная цель — сократить расходы.",
+  "examples_extra": [
+   {"en": "Try to stay objective about your own work.", "ru": "Старайся объективно смотреть на собственную работу."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-275",
+  "word": "notion",
+  "ipa": "/ˈnəʊʃən/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "представление, понятие",
+  "def_en": "an idea or belief about something",
+  "note_ru": "The notion that... — представление о том, что... Часто про спорные идеи.",
+  "example": "I reject the notion that talent is everything.",
+  "example_ru": "Я отвергаю представление, что талант — это всё.",
+  "examples_extra": [
+   {"en": "He has no notion of time.", "ru": "У него нет никакого чувства времени."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b2-276",
+  "word": "concern",
+  "ipa": "/kənˈsɜːn/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "обеспокоенность; забота",
+  "def_en": "a worry; something important to you",
+  "note_ru": "Raise concerns — высказать опасения. To whom it may concern — шапка формальных писем.",
+  "example": "Parents raised concerns about safety.",
+  "example_ru": "Родители выразили обеспокоенность безопасностью.",
+  "examples_extra": [
+   {"en": "That's not my concern.", "ru": "Это не моя забота."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-277",
+  "word": "demand",
+  "ipa": "/dɪˈmɑːnd/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "спрос; требование",
+  "def_en": "the desire of people to buy; a firm request",
+  "note_ru": "In demand — востребованный. Supply and demand — спрос и предложение. On demand — по запросу.",
+  "example": "Demand for the course exceeded supply.",
+  "example_ru": "Спрос на курс превысил предложение.",
+  "examples_extra": [
+   {"en": "Good welders are in demand.", "ru": "Хорошие сварщики востребованы."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-278",
+  "word": "supply",
+  "ipa": "/səˈplaɪ/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "предложение (экон.); запас; поставки",
+  "def_en": "the amount available; providing goods",
+  "note_ru": "Пара к demand. Supplies — припасы. Power supply — электропитание.",
+  "example": "The water supply was cut for a day.",
+  "example_ru": "Подачу воды отключили на день.",
+  "examples_extra": [
+   {"en": "We keep a month's supply of coffee.", "ru": "Мы держим месячный запас кофе."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-279",
+  "word": "burden",
+  "ipa": "/ˈbɜːdən/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "бремя, ноша",
+  "def_en": "something heavy or difficult to deal with",
+  "note_ru": "A financial burden — финансовое бремя. Be a burden to someone — быть кому-то обузой.",
+  "example": "The debt became a heavy burden.",
+  "example_ru": "Долг стал тяжёлым бременем.",
+  "examples_extra": [
+   {"en": "I don't want to be a burden to you.", "ru": "Не хочу быть тебе обузой."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-280",
+  "word": "dispute",
+  "ipa": "/dɪˈspjuːt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "спор, тяжба",
+  "def_en": "a serious disagreement",
+  "note_ru": "Не дружеский спор (это argument), а конфликт сторон: a pay dispute, a legal dispute.",
+  "example": "The dispute over the fence lasted years.",
+  "example_ru": "Спор из-за забора длился годами.",
+  "examples_extra": [
+   {"en": "The facts are not in dispute.", "ru": "Факты никто не оспаривает."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-281",
+  "word": "commitment",
+  "ipa": "/kəˈmɪtmənt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "обязательство; преданность делу",
+  "def_en": "a promise to do something; dedication",
+  "note_ru": "Make a commitment — взять обязательство. Family commitments — семейные дела в календаре.",
+  "example": "Marriage is a serious commitment.",
+  "example_ru": "Брак — это серьёзное обязательство.",
+  "examples_extra": [
+   {"en": "Her commitment to the team is total.", "ru": "Её преданность команде абсолютна."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-282",
+  "word": "feedback",
+  "ipa": "/ˈfiːdbæk/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "обратная связь, отзывы",
+  "def_en": "opinions about how good something is",
+  "note_ru": "Неисчисляемое: much feedback, a piece of feedback. «Фидбэки» по-английски не существуют.",
+  "example": "We got positive feedback from users.",
+  "example_ru": "Мы получили положительные отзывы от пользователей.",
+  "examples_extra": [
+   {"en": "Any feedback on my draft?", "ru": "Есть комментарии по моему черновику?"}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-283",
+  "word": "guidance",
+  "ipa": "/ˈɡaɪdəns/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "руководство, наставление",
+  "def_en": "help and advice",
+  "note_ru": "Under her guidance — под её руководством. Неисчисляемое.",
+  "example": "I need some guidance on the visa forms.",
+  "example_ru": "Мне нужна помощь с визовыми формами.",
+  "examples_extra": [
+   {"en": "He grew fast under her guidance.", "ru": "Под её наставничеством он быстро вырос."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-284",
+  "word": "regulation",
+  "ipa": "/ˌreɡjʊˈleɪʃən/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "норма, регулирование",
+  "def_en": "an official rule",
+  "note_ru": "Safety regulations — нормы безопасности. Против правил — against regulations.",
+  "example": "New regulations come into force in May.",
+  "example_ru": "Новые нормы вступают в силу в мае.",
+  "examples_extra": [
+   {"en": "The industry needs tighter regulation.", "ru": "Отрасль нуждается в более жёстком регулировании."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-285",
+  "word": "procedure",
+  "ipa": "/prəˈsiːdʒə/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "процедура, порядок действий",
+  "def_en": "the official way of doing something",
+  "note_ru": "Follow the procedure — действовать по инструкции. Standard procedure — стандартный порядок.",
+  "example": "What's the procedure for refunds?",
+  "example_ru": "Каков порядок возврата денег?",
+  "examples_extra": [
+   {"en": "It's standard procedure, don't worry.", "ru": "Это стандартная процедура, не волнуйся."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-286",
+  "word": "asset",
+  "ipa": "/ˈæset/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "актив; ценный ресурс",
+  "def_en": "something valuable a person or company has",
+  "note_ru": "И финансовый актив, и переносно: she's a real asset to the team — она находка для команды.",
+  "example": "The brand is their biggest asset.",
+  "example_ru": "Бренд — их главный актив.",
+  "examples_extra": [
+   {"en": "Patience is a real asset in this job.", "ru": "Терпение — ценное качество в этой работе."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-287",
+  "word": "revenue",
+  "ipa": "/ˈrevənjuː/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "выручка",
+  "def_en": "the money a company receives",
+  "note_ru": "Revenue — всё, что пришло; profit — что осталось после расходов. Не путать!",
+  "example": "Revenue grew by twenty per cent.",
+  "example_ru": "Выручка выросла на двадцать процентов.",
+  "examples_extra": [
+   {"en": "Ads bring most of the site's revenue.", "ru": "Большую часть выручки сайту приносит реклама."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-288",
+  "word": "turnover",
+  "ipa": "/ˈtɜːnəʊvə/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "оборот; текучка кадров",
+  "def_en": "total sales; the rate people leave a company",
+  "note_ru": "Два офисных смысла: annual turnover — годовой оборот, staff turnover — текучка.",
+  "example": "Staff turnover here is worryingly high.",
+  "example_ru": "Текучка кадров здесь тревожно высокая.",
+  "examples_extra": [
+   {"en": "The shop doubled its turnover.", "ru": "Магазин удвоил оборот."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-289",
+  "word": "survey",
+  "ipa": "/ˈsɜːveɪ/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "опрос",
+  "def_en": "a set of questions asked to many people",
+  "note_ru": "Conduct a survey — провести опрос. Ударение существительного на первый слог.",
+  "example": "The survey covered two thousand people.",
+  "example_ru": "Опрос охватил две тысячи человек.",
+  "examples_extra": [
+   {"en": "Please fill in our short survey.", "ru": "Пожалуйста, заполните наш короткий опрос."}
+  ],
+  "topic": "media"
+ },
+ {
+  "id": "b2-290",
+  "word": "venue",
+  "ipa": "/ˈvenjuː/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "место проведения, площадка",
+  "def_en": "the place where an event happens",
+  "note_ru": "Универсальное слово для «где проходит»: концерт, свадьба, конференция — everything needs a venue.",
+  "example": "We've booked a venue for the wedding.",
+  "example_ru": "Мы забронировали площадку для свадьбы.",
+  "examples_extra": [
+   {"en": "The venue holds five hundred people.", "ru": "Площадка вмещает пятьсот человек."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "b2-291",
+  "word": "agenda",
+  "ipa": "/əˈdʒendə/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "повестка (собрания); скрытые мотивы",
+  "def_en": "a list of things to discuss; a hidden plan",
+  "note_ru": "Ложный друг «агенды»! On the agenda — на повестке. A hidden agenda — скрытый умысел.",
+  "example": "What's on the agenda today?",
+  "example_ru": "Что сегодня на повестке?",
+  "examples_extra": [
+   {"en": "He clearly has his own agenda.", "ru": "У него явно свои скрытые мотивы."},
+   {"en": "Let's add this to next week's agenda.", "ru": "Давайте внесём это в повестку следующей недели."}
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "b2-292",
+  "word": "minutes",
+  "ipa": "/ˈmɪnɪts/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "протокол собрания",
+  "def_en": "the written record of a meeting",
+  "note_ru": "Ложный друг: minutes — не только минуты! Take the minutes — вести протокол.",
+  "example": "Who's taking the minutes today?",
+  "example_ru": "Кто сегодня ведёт протокол?",
+  "examples_extra": [
+   {"en": "The minutes will be shared by email.", "ru": "Протокол разошлют по почте."},
+   {"en": "Check the minutes of the last meeting.", "ru": "Посмотри протокол прошлого собрания."}
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "b2-293",
+  "word": "quote",
+  "ipa": "/kwəʊt/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "цитата; смета, расценка",
+  "def_en": "repeated words; a price offer",
+  "note_ru": "Два смысла: a quote from the book и get a quote from the builder — запросить смету.",
+  "example": "Get three quotes before you choose.",
+  "example_ru": "Возьми три сметы, прежде чем выбирать.",
+  "examples_extra": [
+   {"en": "She opened with a quote from Tolstoy.", "ru": "Она начала с цитаты из Толстого."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-294",
+  "word": "draft",
+  "ipa": "/drɑːft/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "черновик",
+  "def_en": "an early version of a text",
+  "note_ru": "First draft — первый черновик. Глагол тоже: draft an email — набросать письмо.",
+  "example": "Send me the first draft by Friday.",
+  "example_ru": "Пришли мне первый черновик к пятнице.",
+  "examples_extra": [
+   {"en": "The draft needs one more pass.", "ru": "Черновику нужен ещё один проход."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-295",
+  "word": "milestone",
+  "ipa": "/ˈmaɪlstəʊn/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "веха, важный рубеж",
+  "def_en": "an important stage in a process",
+  "note_ru": "Дословно «мильный камень». Reach a milestone — достичь рубежа. Живёт в проектах и в жизни.",
+  "example": "The first thousand users was a big milestone.",
+  "example_ru": "Первая тысяча пользователей стала большой вехой.",
+  "examples_extra": [
+   {"en": "We hit every milestone on time.", "ru": "Мы прошли каждую веху вовремя."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-296",
+  "word": "bottleneck",
+  "ipa": "/ˈbɒtəlnek/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "узкое место",
+  "def_en": "the point that slows everything down",
+  "note_ru": "Дословно «бутылочное горлышко» — как и по-русски: узкое место процесса или дороги.",
+  "example": "Testing is the main bottleneck.",
+  "example_ru": "Тестирование — главное узкое место.",
+  "examples_extra": [
+   {"en": "The bridge is a traffic bottleneck.", "ru": "Мост — узкое место для трафика."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-297",
+  "word": "gap",
+  "ipa": "/ɡæp/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "пробел, разрыв",
+  "def_en": "an empty space or missing part",
+  "note_ru": "A gap in knowledge — пробел в знаниях, the pay gap — разрыв в зарплатах, gap year — год перерыва.",
+  "example": "There's a gap in my CV I need to explain.",
+  "example_ru": "В моём резюме есть пробел, который нужно объяснить.",
+  "examples_extra": [
+   {"en": "Mind the gap between the train and the platform.", "ru": "Осторожно, зазор между поездом и платформой."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-298",
+  "word": "flaw",
+  "ipa": "/flɔː/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "изъян, недостаток",
+  "def_en": "a fault that makes something not perfect",
+  "note_ru": "A flaw in the plan — изъян в плане. Flawless — безупречный.",
+  "example": "The plan has one serious flaw.",
+  "example_ru": "У плана есть один серьёзный изъян.",
+  "examples_extra": [
+   {"en": "Her performance was flawless.", "ru": "Её выступление было безупречным."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "b2-299",
+  "word": "threat",
+  "ipa": "/θret/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "угроза",
+  "def_en": "a danger; a warning of harm",
+  "note_ru": "Pose a threat — представлять угрозу. Глагол — threaten.",
+  "example": "Frost is a threat to the harvest.",
+  "example_ru": "Заморозки — угроза для урожая.",
+  "examples_extra": [
+   {"en": "The threat of fines changed nothing.", "ru": "Угроза штрафов ничего не изменила."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-300",
+  "word": "means",
+  "ipa": "/miːnz/",
+  "pos": "noun",
+  "level": "B2",
+  "ru": "средство, способ",
+  "def_en": "a way of doing something",
+  "note_ru": "A means of transport — вид транспорта. By all means — «конечно, пожалуйста!». By no means — отнюдь.",
+  "example": "The bike is my main means of transport.",
+  "example_ru": "Велосипед — моё основное средство передвижения.",
+  "examples_extra": [
+   {"en": "By all means, join us!", "ru": "Конечно, присоединяйся к нам!"}
+  ],
+  "topic": "formal"
+ }
+]

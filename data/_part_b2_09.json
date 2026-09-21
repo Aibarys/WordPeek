@@ -1,0 +1,578 @@
+[
+ {
+  "id": "b2-205",
+  "word": "convey",
+  "ipa": "/kənˈveɪ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "донести (мысль, чувство)",
+  "def_en": "to communicate an idea or feeling",
+  "note_ru": "Convey the message — донести суть. Про смысл, не про грузы (это транспорт).",
+  "example": "Words can't convey how grateful I am.",
+  "example_ru": "Словами не передать, как я благодарен.",
+  "examples_extra": [
+   {"en": "The photo conveys the mood perfectly.", "ru": "Фотография идеально передаёт настроение."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b2-206",
+  "word": "dismiss",
+  "ipa": "/dɪsˈmɪs/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "отмахнуться от; уволить",
+  "def_en": "to refuse to consider; to remove from a job",
+  "note_ru": "Dismiss an idea — отмести идею. Dismiss an employee — уволить (формально).",
+  "example": "He dismissed my concerns with a laugh.",
+  "example_ru": "Он со смехом отмахнулся от моих опасений.",
+  "examples_extra": [
+   {"en": "She was dismissed for breaking the rules.", "ru": "Её уволили за нарушение правил."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-207",
+  "word": "distinguish",
+  "ipa": "/dɪˈstɪŋɡwɪʃ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "различать",
+  "def_en": "to see the difference between things",
+  "note_ru": "Distinguish between A and B. Отличительная черта — distinguishing feature.",
+  "example": "It's hard to distinguish the twins.",
+  "example_ru": "Близнецов трудно различить.",
+  "examples_extra": [
+   {"en": "Learn to distinguish fact from opinion.", "ru": "Учись отличать факт от мнения."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b2-208",
+  "word": "eliminate",
+  "ipa": "/ɪˈlɪmɪneɪt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "устранить, исключить",
+  "def_en": "to remove completely",
+  "note_ru": "Eliminate errors — устранить ошибки. В спорте — выбыть: eliminated in the semi-final.",
+  "example": "The new process eliminates paperwork.",
+  "example_ru": "Новый процесс устраняет бумажную волокиту.",
+  "examples_extra": [
+   {"en": "They were eliminated in the first round.", "ru": "Они выбыли в первом раунде."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-209",
+  "word": "enhance",
+  "ipa": "/ɪnˈhɑːns/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "улучшить, усилить",
+  "def_en": "to improve the quality of something",
+  "note_ru": "Формальный improve: enhance the experience. Часто в маркетинге и резюме.",
+  "example": "Good lighting enhances the photos.",
+  "example_ru": "Хороший свет улучшает фотографии.",
+  "examples_extra": [
+   {"en": "The course enhanced my confidence.", "ru": "Курс укрепил мою уверенность."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-210",
+  "word": "exceed",
+  "ipa": "/ɪkˈsiːd/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "превышать",
+  "def_en": "to be more than a limit or expectation",
+  "note_ru": "Exceed expectations — превзойти ожидания. Exceed the speed limit — превысить скорость.",
+  "example": "The results exceeded all expectations.",
+  "example_ru": "Результаты превзошли все ожидания.",
+  "examples_extra": [
+   {"en": "Don't exceed the daily dose.", "ru": "Не превышай дневную дозу."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-211",
+  "word": "expand",
+  "ipa": "/ɪkˈspænd/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "расширять(ся)",
+  "def_en": "to become or make bigger",
+  "note_ru": "Expand the business, expand on an idea — раскрыть мысль подробнее.",
+  "example": "The café expanded into a chain.",
+  "example_ru": "Кафе разрослось в сеть.",
+  "examples_extra": [
+   {"en": "Could you expand on that point?", "ru": "Не могли бы вы раскрыть эту мысль?"}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-212",
+  "word": "generate",
+  "ipa": "/ˈdʒenəreɪt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "генерировать, порождать",
+  "def_en": "to produce something",
+  "note_ru": "Generate ideas, generate income, generate electricity — идеи, доход, энергия.",
+  "example": "The post generated a huge discussion.",
+  "example_ru": "Пост породил огромную дискуссию.",
+  "examples_extra": [
+   {"en": "Tourism generates most of the town's income.", "ru": "Туризм приносит городу большую часть дохода."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-213",
+  "word": "implement",
+  "ipa": "/ˈɪmplɪment/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "внедрить, реализовать",
+  "def_en": "to put a plan into action",
+  "note_ru": "План придумывают, а implement — воплощают. Ударение на первый слог.",
+  "example": "We implemented the new system in March.",
+  "example_ru": "Мы внедрили новую систему в марте.",
+  "examples_extra": [
+   {"en": "The changes will be implemented gradually.", "ru": "Изменения будут внедряться постепенно."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-214",
+  "word": "impose",
+  "ipa": "/ɪmˈpəʊz/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "навязать; ввести (налог, запрет)",
+  "def_en": "to force something on people",
+  "note_ru": "Impose a ban / a tax / an opinion. Impose on someone — злоупотреблять чьей-то добротой.",
+  "example": "The city imposed a parking ban.",
+  "example_ru": "Город ввёл запрет на парковку.",
+  "examples_extra": [
+   {"en": "Don't impose your taste on others.", "ru": "Не навязывай другим свой вкус."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-215",
+  "word": "interpret",
+  "ipa": "/ɪnˈtɜːprɪt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "истолковать; переводить устно",
+  "def_en": "to explain the meaning; to translate speech",
+  "note_ru": "Письменный перевод — translate, устный — interpret. Переводчик-синхронист — interpreter.",
+  "example": "How do you interpret these results?",
+  "example_ru": "Как вы истолковываете эти результаты?",
+  "examples_extra": [
+   {"en": "She interpreted for the delegation.", "ru": "Она переводила для делегации."}
+  ],
+  "topic": "language"
+ },
+ {
+  "id": "b2-216",
+  "word": "occur",
+  "ipa": "/əˈkɜː/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "происходить; приходить в голову",
+  "def_en": "to happen; to come to mind",
+  "note_ru": "Формальный happen. It occurred to me — мне пришло в голову.",
+  "example": "The error occurs only on Mondays.",
+  "example_ru": "Ошибка возникает только по понедельникам.",
+  "examples_extra": [
+   {"en": "It never occurred to me to ask.", "ru": "Мне и в голову не пришло спросить."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-217",
+  "word": "overcome",
+  "ipa": "/ˌəʊvəˈkʌm/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "преодолеть",
+  "def_en": "to succeed against a difficulty",
+  "note_ru": "Overcome fear, overcome obstacles. Формы: overcome - overcame - overcome.",
+  "example": "She overcame her fear of flying.",
+  "example_ru": "Она преодолела страх полётов.",
+  "examples_extra": [
+   {"en": "We overcame every obstacle together.", "ru": "Мы вместе преодолели все препятствия."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-218",
+  "word": "perceive",
+  "ipa": "/pəˈsiːv/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "воспринимать",
+  "def_en": "to see or understand in a particular way",
+  "note_ru": "Perceive as: его воспринимают как лидера — perceived as a leader. Восприятие — perception.",
+  "example": "The change was perceived as a threat.",
+  "example_ru": "Перемену восприняли как угрозу.",
+  "examples_extra": [
+   {"en": "We perceive time differently as we age.", "ru": "С возрастом мы воспринимаем время иначе."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b2-219",
+  "word": "restrict",
+  "ipa": "/rɪˈstrɪkt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "ограничивать",
+  "def_en": "to limit something",
+  "note_ru": "Restrict access — ограничить доступ. Мягче limit, формальнее — restrict.",
+  "example": "The app restricts screen time.",
+  "example_ru": "Приложение ограничивает экранное время.",
+  "examples_extra": [
+   {"en": "Parking is restricted to residents.", "ru": "Парковка разрешена только жильцам."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-220",
+  "word": "seek",
+  "ipa": "/siːk/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "искать (формально), добиваться",
+  "def_en": "to try to find or get something",
+  "note_ru": "Формальный look for: seek advice, seek help. Формы: seek - sought - sought.",
+  "example": "They're seeking investors for the project.",
+  "example_ru": "Они ищут инвесторов для проекта.",
+  "examples_extra": [
+   {"en": "Seek medical advice before the diet.", "ru": "Перед диетой обратись за советом к врачу."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-221",
+  "word": "specify",
+  "ipa": "/ˈspesɪfaɪ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "уточнить, указать конкретно",
+  "def_en": "to state something exactly",
+  "note_ru": "Specify the size and colour — укажите размер и цвет. Unless otherwise specified — если не указано иное.",
+  "example": "Please specify a delivery date.",
+  "example_ru": "Пожалуйста, укажите дату доставки.",
+  "examples_extra": [
+   {"en": "The contract doesn't specify who pays.", "ru": "В контракте не указано, кто платит."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-222",
+  "word": "trigger",
+  "ipa": "/ˈtrɪɡə/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "спровоцировать, запустить",
+  "def_en": "to make something start happening",
+  "note_ru": "Trigger an alarm, trigger a reaction. Существительное — «спусковой крючок» и в прямом, и в переносном.",
+  "example": "The news triggered a wave of panic.",
+  "example_ru": "Новость спровоцировала волну паники.",
+  "examples_extra": [
+   {"en": "Dust triggers her allergy.", "ru": "Пыль вызывает у неё аллергию."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-223",
+  "word": "urge",
+  "ipa": "/ɜːdʒ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "настоятельно призывать",
+  "def_en": "to strongly advise someone to do something",
+  "note_ru": "Urge someone to do. Существительное — «позыв»: an urge to laugh.",
+  "example": "Doctors urge people to get vaccinated.",
+  "example_ru": "Врачи настоятельно призывают прививаться.",
+  "examples_extra": [
+   {"en": "I urge you to read the contract first.", "ru": "Настоятельно советую сначала прочитать контракт."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-224",
+  "word": "verify",
+  "ipa": "/ˈverɪfaɪ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "проверить, подтвердить достоверность",
+  "def_en": "to check that something is true",
+  "note_ru": "Verify your email — подтвердить почту. Verify the facts — проверить факты.",
+  "example": "We couldn't verify his story.",
+  "example_ru": "Мы не смогли подтвердить его историю.",
+  "examples_extra": [
+   {"en": "Click the link to verify your account.", "ru": "Перейдите по ссылке, чтобы подтвердить аккаунт."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-225",
+  "word": "withdraw",
+  "ipa": "/wɪðˈdrɔː/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "снять (деньги); отозвать; выйти из",
+  "def_en": "to take money out; to remove or leave",
+  "note_ru": "Withdraw cash — снять наличные. Withdraw an offer — отозвать предложение.",
+  "example": "I withdrew two hundred euros.",
+  "example_ru": "Я снял двести евро.",
+  "examples_extra": [
+   {"en": "The company withdrew the product.", "ru": "Компания отозвала продукт."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b2-226",
+  "word": "comply",
+  "ipa": "/kəmˈplaɪ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "соблюдать (правила), подчиниться",
+  "def_en": "to act according to a rule or request",
+  "note_ru": "Comply with the rules. Комплаенс в компаниях — оттуда же.",
+  "example": "All ads must comply with the law.",
+  "example_ru": "Вся реклама должна соответствовать закону.",
+  "examples_extra": [
+   {"en": "He refused to comply with the order.", "ru": "Он отказался подчиниться приказу."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-227",
+  "word": "devote",
+  "ipa": "/dɪˈvəʊt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "посвятить (время, себя)",
+  "def_en": "to give time or effort to something",
+  "note_ru": "Devote time to — с to и герундием: devoted her life to teaching.",
+  "example": "He devotes his weekends to the garden.",
+  "example_ru": "Свои выходные он посвящает саду.",
+  "examples_extra": [
+   {"en": "She devoted herself to the cause.", "ru": "Она посвятила себя этому делу."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-228",
+  "word": "emerge",
+  "ipa": "/ɪˈmɜːdʒ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "появиться, всплыть, выйти наружу",
+  "def_en": "to appear or become known",
+  "note_ru": "New details emerged — всплыли новые детали. Emerging markets — развивающиеся рынки.",
+  "example": "New evidence emerged last week.",
+  "example_ru": "На прошлой неделе всплыли новые доказательства.",
+  "examples_extra": [
+   {"en": "She emerged as the team's leader.", "ru": "Она выдвинулась в лидеры команды."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-229",
+  "word": "enforce",
+  "ipa": "/ɪnˈfɔːs/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "обеспечивать соблюдение, принуждать",
+  "def_en": "to make people obey a rule",
+  "note_ru": "Законы пишут — и enforce: заставляют работать. Law enforcement — правоохранительные органы.",
+  "example": "The speed limit is rarely enforced here.",
+  "example_ru": "За соблюдением лимита скорости здесь почти не следят.",
+  "examples_extra": [
+   {"en": "It's hard to enforce this ban.", "ru": "Обеспечить соблюдение этого запрета трудно."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-230",
+  "word": "gain",
+  "ipa": "/ɡeɪn/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "приобрести, набрать",
+  "def_en": "to get something useful or more of something",
+  "note_ru": "Gain experience, gain weight, gain confidence. Приобретения любого рода.",
+  "example": "She gained a lot of experience abroad.",
+  "example_ru": "За границей она приобрела большой опыт.",
+  "examples_extra": [
+   {"en": "The idea is gaining support.", "ru": "Идея набирает поддержку."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-231",
+  "word": "grant",
+  "ipa": "/ɡrɑːnt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "предоставить, удовлетворить (просьбу)",
+  "def_en": "to officially give what is asked for",
+  "note_ru": "Grant a visa, grant permission. Грант на исследование — оттуда же.",
+  "example": "They granted him a visa.",
+  "example_ru": "Ему предоставили визу.",
+  "examples_extra": [
+   {"en": "Her request was granted at once.", "ru": "Её просьбу удовлетворили сразу."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-232",
+  "word": "identify",
+  "ipa": "/aɪˈdentɪfaɪ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "определить, распознать",
+  "def_en": "to recognise what or who something is",
+  "note_ru": "Identify the problem — определить проблему. Identify with — отождествлять себя с.",
+  "example": "We identified three key risks.",
+  "example_ru": "Мы определили три ключевых риска.",
+  "examples_extra": [
+   {"en": "Can you identify the smell?", "ru": "Можешь распознать этот запах?"}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-233",
+  "word": "launch",
+  "ipa": "/lɔːntʃ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "запустить (продукт, кампанию)",
+  "def_en": "to start something big or new",
+  "note_ru": "Launch a product, launch a rocket. Запуск — тоже launch: the launch went well.",
+  "example": "They launched the app in April.",
+  "example_ru": "Они запустили приложение в апреле.",
+  "examples_extra": [
+   {"en": "The campaign launches next week.", "ru": "Кампания стартует на следующей неделе."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-234",
+  "word": "neglect",
+  "ipa": "/nɪˈɡlekt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "запустить, пренебрегать",
+  "def_en": "to not give enough care or attention",
+  "note_ru": "Neglect your health — запустить здоровье. A neglected garden — заброшенный сад.",
+  "example": "Don't neglect your sleep during exams.",
+  "example_ru": "Не пренебрегай сном во время экзаменов.",
+  "examples_extra": [
+   {"en": "The building has been neglected for years.", "ru": "Здание годами стояло заброшенным."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-235",
+  "word": "object",
+  "ipa": "/əbˈdʒekt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "возражать",
+  "def_en": "to say you disagree",
+  "note_ru": "Ударение решает: обJECT — возражать, ОБject — предмет. Object to smoking — возражать против.",
+  "example": "Nobody objected to the plan.",
+  "example_ru": "Против плана никто не возразил.",
+  "examples_extra": [
+   {"en": "I object to being called lazy.", "ru": "Я возражаю против того, чтобы меня называли ленивым."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b2-236",
+  "word": "predict",
+  "ipa": "/prɪˈdɪkt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "предсказывать",
+  "def_en": "to say what will happen in the future",
+  "note_ru": "Predict the result. Прогноз — prediction, предсказуемый — predictable.",
+  "example": "Nobody predicted this outcome.",
+  "example_ru": "Такого исхода никто не предсказывал.",
+  "examples_extra": [
+   {"en": "It's hard to predict the market.", "ru": "Рынок трудно предсказать."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b2-237",
+  "word": "prompt",
+  "ipa": "/prɒmpt/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "побудить, подтолкнуть",
+  "def_en": "to cause someone to do something",
+  "note_ru": "The letter prompted him to call — письмо побудило его позвонить. Prompt как прилагательное — быстрый: a prompt reply.",
+  "example": "The crisis prompted new rules.",
+  "example_ru": "Кризис подтолкнул к новым правилам.",
+  "examples_extra": [
+   {"en": "Thanks for your prompt reply.", "ru": "Спасибо за быстрый ответ."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-238",
+  "word": "recall",
+  "ipa": "/rɪˈkɔːl/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "припомнить; отозвать (товар)",
+  "def_en": "to remember; to call a product back",
+  "note_ru": "I don't recall saying that — не припоминаю такого. Отзыв машин с рынка — recall.",
+  "example": "I don't recall meeting him.",
+  "example_ru": "Не припоминаю, чтобы мы встречались.",
+  "examples_extra": [
+   {"en": "The company recalled thousands of cars.", "ru": "Компания отозвала тысячи машин."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-239",
+  "word": "resemble",
+  "ipa": "/rɪˈzembəl/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "быть похожим на",
+  "def_en": "to look or be like someone or something",
+  "note_ru": "Без предлога: she resembles her mother, не «resembles on». Только сходство, не сравнение.",
+  "example": "The building resembles a ship.",
+  "example_ru": "Здание похоже на корабль.",
+  "examples_extra": [
+   {"en": "He closely resembles his brother.", "ru": "Он очень похож на брата."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-240",
+  "word": "undergo",
+  "ipa": "/ˌʌndəˈɡəʊ/",
+  "pos": "verb",
+  "level": "B2",
+  "ru": "претерпеть, пройти через",
+  "def_en": "to experience something difficult or a process",
+  "note_ru": "Undergo surgery — перенести операцию, undergo changes — претерпеть изменения.",
+  "example": "The site is undergoing maintenance.",
+  "example_ru": "Сайт на техобслуживании.",
+  "examples_extra": [
+   {"en": "He underwent knee surgery.", "ru": "Он перенёс операцию на колене."}
+  ],
+  "topic": "formal"
+ }
+]

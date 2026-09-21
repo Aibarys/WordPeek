@@ -1,0 +1,308 @@
+[
+ {
+  "id": "b2-161",
+  "word": "call it a day",
+  "ipa": "/kɔːl ɪt ə deɪ/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "закончить на сегодня, закруглиться",
+  "def_en": "to stop working for the day",
+  "note_ru": "Let's call it a day — «на сегодня хватит». Про завершение навсегда — call it quits.",
+  "example": "It's almost midnight - let's call it a day.",
+  "example_ru": "Почти полночь — давай на сегодня закончим.",
+  "examples_extra": [
+   {"en": "After ten interviews we called it a day.", "ru": "После десяти собеседований мы закруглились."},
+   {"en": "My back hurts, I'm calling it a day.", "ru": "Спина болит — на сегодня я всё."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-162",
+  "word": "get out of hand",
+  "ipa": "/ɡet aʊt əv hænd/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "выйти из-под контроля",
+  "def_en": "to become impossible to control",
+  "note_ru": "The party got out of hand — вечеринка вышла из-под контроля. Про ситуацию, не про человека.",
+  "example": "The argument quickly got out of hand.",
+  "example_ru": "Спор быстро вышел из-под контроля.",
+  "examples_extra": [
+   {"en": "Costs are getting out of hand.", "ru": "Расходы выходят из-под контроля."},
+   {"en": "Stop it before it gets out of hand.", "ru": "Останови это, пока не вышло из-под контроля."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-163",
+  "word": "a blessing in disguise",
+  "ipa": "/ə ˈblesɪŋ ɪn dɪsˈɡaɪz/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "нет худа без добра",
+  "def_en": "something bad that turns out to be good",
+  "note_ru": "Дословно «благословение в маскировке»: увольнение оказалось a blessing in disguise.",
+  "example": "Losing that job was a blessing in disguise.",
+  "example_ru": "Потеря той работы обернулась благом.",
+  "examples_extra": [
+   {"en": "The delay was a blessing in disguise - we found a mistake.", "ru": "Задержка оказалась к лучшему: мы нашли ошибку."},
+   {"en": "Maybe the rejection is a blessing in disguise.", "ru": "Может, этот отказ — нет худа без добра."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-164",
+  "word": "the elephant in the room",
+  "ipa": "/ði ˈelɪfənt ɪn ðə ruːm/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "очевидная проблема, о которой молчат",
+  "def_en": "a big problem everyone avoids mentioning",
+  "note_ru": "«Слон в комнате»: все видят, никто не говорит. Address the elephant in the room — назвать её вслух.",
+  "example": "Let's talk about the elephant in the room: the budget.",
+  "example_ru": "Давайте поговорим о слоне в комнате — о бюджете.",
+  "examples_extra": [
+   {"en": "His resignation was the elephant in the room.", "ru": "Его отставка была той самой темой, которую все обходили."},
+   {"en": "Nobody mentioned the elephant in the room.", "ru": "Никто не упомянул очевидную проблему."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-165",
+  "word": "once in a blue moon",
+  "ipa": "/wʌns ɪn ə bluː muːn/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "раз в сто лет, очень редко",
+  "def_en": "very rarely",
+  "note_ru": "Наш аналог — «раз в сто лет»: He calls once in a blue moon.",
+  "example": "We eat out once in a blue moon.",
+  "example_ru": "Мы выбираемся в ресторан раз в сто лет.",
+  "examples_extra": [
+   {"en": "Once in a blue moon he admits he's wrong.", "ru": "Раз в сто лет он признаёт, что неправ."},
+   {"en": "Snow here happens once in a blue moon.", "ru": "Снег здесь бывает крайне редко."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-166",
+  "word": "cost an arm and a leg",
+  "ipa": "/kɒst ən ɑːm ənd ə leɡ/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "стоить бешеных денег",
+  "def_en": "to be very expensive",
+  "note_ru": "«Стоить руки и ноги» — наш аналог «влететь в копеечку».",
+  "example": "That watch cost him an arm and a leg.",
+  "example_ru": "Эти часы влетели ему в копеечку.",
+  "examples_extra": [
+   {"en": "Parking in the centre costs an arm and a leg.", "ru": "Парковка в центре стоит бешеных денег."},
+   {"en": "It doesn't have to cost an arm and a leg.", "ru": "Это не обязано стоить целое состояние."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-167",
+  "word": "break the ice",
+  "ipa": "/breɪk ði aɪs/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "растопить лёд, разрядить обстановку",
+  "def_en": "to make people feel relaxed at the start",
+  "note_ru": "Отсюда icebreaker — вопрос или игра для знакомства в начале встречи.",
+  "example": "A joke helped break the ice.",
+  "example_ru": "Шутка помогла растопить лёд.",
+  "examples_extra": [
+   {"en": "Small talk breaks the ice before negotiations.", "ru": "Светская беседа разряжает обстановку перед переговорами."},
+   {"en": "He told a story to break the ice.", "ru": "Он рассказал историю, чтобы разрядить атмосферу."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-168",
+  "word": "food for thought",
+  "ipa": "/fuːd fə θɔːt/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "пища для размышлений",
+  "def_en": "something worth thinking about",
+  "note_ru": "Полное совпадение с русским: give someone food for thought.",
+  "example": "The talk gave me food for thought.",
+  "example_ru": "Доклад дал мне пищу для размышлений.",
+  "examples_extra": [
+   {"en": "That's real food for thought.", "ru": "Это настоящая пища для размышлений."},
+   {"en": "Her question left us with food for thought.", "ru": "Её вопрос оставил нам о чём подумать."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-169",
+  "word": "in a nutshell",
+  "ipa": "/ɪn ə ˈnʌtʃel/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "в двух словах, вкратце",
+  "def_en": "said in the shortest possible way",
+  "note_ru": "Дословно «в ореховой скорлупе». In a nutshell, we need more time.",
+  "example": "In a nutshell, the deal is off.",
+  "example_ru": "В двух словах: сделка отменяется.",
+  "examples_extra": [
+   {"en": "That, in a nutshell, is the plan.", "ru": "Вот, вкратце, и весь план."},
+   {"en": "Explain it in a nutshell, please.", "ru": "Объясни в двух словах, пожалуйста."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-170",
+  "word": "off the top of my head",
+  "ipa": "/ɒf ðə tɒp əv maɪ hed/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "навскидку, не проверяя",
+  "def_en": "from memory, without checking",
+  "note_ru": "Off the top of my head, it's about fifty — навскидку около пятидесяти.",
+  "example": "Off the top of my head, we have ten left.",
+  "example_ru": "Навскидку, у нас осталось десять.",
+  "examples_extra": [
+   {"en": "I can't name them all off the top of my head.", "ru": "Навскидку всех не назову."},
+   {"en": "Off the top of my head - around March.", "ru": "Навскидку — где-то в марте."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-171",
+  "word": "easier said than done",
+  "ipa": "/ˈiːziə sed ðən dʌn/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "легче сказать, чем сделать",
+  "def_en": "simple to suggest but hard to do",
+  "note_ru": "Полный аналог русского. Ответ на слишком лёгкий совет.",
+  "example": "Just relax? Easier said than done.",
+  "example_ru": "Просто расслабиться? Легче сказать, чем сделать.",
+  "examples_extra": [
+   {"en": "Saving money is easier said than done.", "ru": "Копить деньги — легче сказать, чем сделать."},
+   {"en": "Quitting is easier said than done.", "ru": "Бросить — проще на словах."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-172",
+  "word": "the last straw",
+  "ipa": "/ðə lɑːst strɔː/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "последняя капля",
+  "def_en": "the final problem that makes you give up",
+  "note_ru": "У нас — капля, у них — соломинка, сломавшая спину верблюда.",
+  "example": "The broken lift was the last straw.",
+  "example_ru": "Сломанный лифт стал последней каплей.",
+  "examples_extra": [
+   {"en": "That comment was the last straw - she quit.", "ru": "Тот комментарий стал последней каплей — она уволилась."},
+   {"en": "For me, the price rise was the last straw.", "ru": "Для меня повышение цены было последней каплей."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-173",
+  "word": "keep an eye on",
+  "ipa": "/kiːp ən aɪ ɒn/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "приглядывать за",
+  "def_en": "to watch something or someone carefully",
+  "note_ru": "Keep an eye on my bag — пригляди за сумкой. Keep an eye out for — высматривать.",
+  "example": "Can you keep an eye on the soup?",
+  "example_ru": "Присмотришь за супом?",
+  "examples_extra": [
+   {"en": "We're keeping an eye on the situation.", "ru": "Мы следим за ситуацией."},
+   {"en": "Keep an eye on prices this week.", "ru": "Последи за ценами на этой неделе."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-174",
+  "word": "on the fence",
+  "ipa": "/ɒn ðə fens/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "в нерешительности, ни туда ни сюда",
+  "def_en": "not able to decide between two options",
+  "note_ru": "Сидеть «на заборе» между двумя вариантами: I'm still on the fence.",
+  "example": "I'm on the fence about the move.",
+  "example_ru": "Я всё ещё не решил насчёт переезда.",
+  "examples_extra": [
+   {"en": "Voters on the fence decide elections.", "ru": "Выборы решают неопределившиеся избиратели."},
+   {"en": "She's on the fence between two offers.", "ru": "Она колеблется между двумя предложениями."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-175",
+  "word": "behind the scenes",
+  "ipa": "/bɪˈhaɪnd ðə siːnz/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "за кулисами, негласно",
+  "def_en": "privately, where people cannot see",
+  "note_ru": "И буквально про театр, и переносно: behind the scenes negotiations.",
+  "example": "A lot happens behind the scenes.",
+  "example_ru": "Многое происходит за кулисами.",
+  "examples_extra": [
+   {"en": "She works behind the scenes on every event.", "ru": "На каждом мероприятии она работает за кулисами."},
+   {"en": "Behind the scenes, the deal was almost dead.", "ru": "Негласно сделка была почти мертва."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-176",
+  "word": "read between the lines",
+  "ipa": "/riːd bɪˈtwiːn ðə laɪnz/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "читать между строк",
+  "def_en": "to understand what is not said directly",
+  "note_ru": "Полный аналог русского выражения.",
+  "example": "Read between the lines: they're not happy.",
+  "example_ru": "Читай между строк: они недовольны.",
+  "examples_extra": [
+   {"en": "Reading between the lines, the answer is no.", "ru": "Если читать между строк, ответ — нет."},
+   {"en": "You have to read between the lines of his emails.", "ru": "Его письма нужно читать между строк."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-177",
+  "word": "cut to the chase",
+  "ipa": "/kʌt tə ðə tʃeɪs/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "перейти к делу",
+  "def_en": "to skip the details and say the main thing",
+  "note_ru": "Из кино: «перемотать к погоне». Let's cut to the chase — ближе к делу.",
+  "example": "Let's cut to the chase: how much?",
+  "example_ru": "Перейдём к делу: сколько?",
+  "examples_extra": [
+   {"en": "I'll cut to the chase - we need you Monday.", "ru": "Сразу к делу: ты нужен нам в понедельник."},
+   {"en": "He never cuts to the chase.", "ru": "Он никогда не переходит сразу к сути."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "b2-178",
+  "word": "long story short",
+  "ipa": "/lɒŋ ˈstɔːri ʃɔːt/",
+  "pos": "phrase",
+  "level": "B2",
+  "ru": "короче говоря",
+  "def_en": "used to give only the result of a long story",
+  "note_ru": "Полная форма — to make a long story short. Идеально, чтобы свернуть длинный рассказ.",
+  "example": "Long story short, we missed the flight.",
+  "example_ru": "Короче говоря, мы опоздали на самолёт.",
+  "examples_extra": [
+   {"en": "Long story short, they got married.", "ru": "Короче говоря, они поженились."},
+   {"en": "Long story short - it worked.", "ru": "Если коротко — сработало."}
+  ],
+  "topic": "idiom"
+ }
+]

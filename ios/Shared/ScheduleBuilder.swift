@@ -9,10 +9,11 @@ import Foundation
 enum ScheduleBuilder {
     /// Upper bound on queue length. Sized against the dictionary: a cap below
     /// the number of eligible words would retire part of the deck for a whole
-    /// cycle, since the queue is a sample of the weighted pool. At the
-    /// 5-minute default this is about three days of slots before anything
-    /// repeats.
-    static let maxQueueLength = 800
+    /// cycle, since the queue is a sample of the weighted pool. With all four
+    /// levels enabled the pool is 1000 words, so the cap stays above it. At
+    /// the 5-minute default this is about five days of slots before the
+    /// queue wraps.
+    static let maxQueueLength = 1600
 
     /// `avoidingRecent` — ids the user has just seen (or just answered).
     /// They are pushed out of the first few slots so an answer never brings

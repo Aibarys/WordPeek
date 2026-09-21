@@ -1,0 +1,434 @@
+[
+ {
+  "id": "b1-215",
+  "word": "calm",
+  "ipa": "/kɑːm/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "спокойный",
+  "def_en": "not worried or excited",
+  "note_ru": "L не читается: «кам». Keep calm — сохраняй спокойствие.",
+  "example": "Stay calm and read the instructions.",
+  "example_ru": "Сохраняй спокойствие и читай инструкцию.",
+  "examples_extra": [
+   {"en": "The sea was completely calm.", "ru": "Море было совершенно спокойным."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-216",
+  "word": "rude",
+  "ipa": "/ruːd/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "грубый, невежливый",
+  "def_en": "not polite",
+  "note_ru": "It's rude to interrupt — перебивать невежливо. Про грубую ткань rude не говорят — rough.",
+  "example": "The waiter was really rude to us.",
+  "example_ru": "Официант был с нами очень груб.",
+  "examples_extra": [
+   {"en": "It's rude to ask about salary here.", "ru": "Здесь невежливо спрашивать о зарплате."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-217",
+  "word": "shy",
+  "ipa": "/ʃaɪ/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "застенчивый",
+  "def_en": "nervous about talking to people",
+  "note_ru": "Don't be shy — не стесняйся. Стесняться конкретного — be shy about something.",
+  "example": "He's too shy to ask questions.",
+  "example_ru": "Он слишком стеснительный, чтобы задавать вопросы.",
+  "examples_extra": [
+   {"en": "She was shy as a child.", "ru": "В детстве она была застенчивой."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-218",
+  "word": "brave",
+  "ipa": "/breɪv/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "смелый",
+  "def_en": "not afraid of danger or difficulty",
+  "note_ru": "Ложный друг «бравый» близко, но brave — именно храбрый. Be brave — держись!",
+  "example": "It was brave of you to speak up.",
+  "example_ru": "Смело с твоей стороны было высказаться.",
+  "examples_extra": [
+   {"en": "The brave decision paid off.", "ru": "Смелое решение окупилось."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-219",
+  "word": "cheerful",
+  "ipa": "/ˈtʃɪəfəl/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "жизнерадостный, бодрый",
+  "def_en": "happy and positive",
+  "note_ru": "Постоянная черта: a cheerful person. Разово весёлый — in a good mood.",
+  "example": "She's always cheerful in the mornings.",
+  "example_ru": "По утрам она всегда бодра и весела.",
+  "examples_extra": [
+   {"en": "The café has a cheerful atmosphere.", "ru": "В кафе жизнерадостная атмосфера."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-220",
+  "word": "hire",
+  "ipa": "/ˈhaɪə/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "нанимать; брать напрокат",
+  "def_en": "to give someone a job; to rent something",
+  "note_ru": "В BrE hire — ещё и прокат: hire a car. Наём на работу — везде hire.",
+  "example": "We're hiring two developers.",
+  "example_ru": "Мы нанимаем двух разработчиков.",
+  "examples_extra": [
+   {"en": "You can hire bikes by the park.", "ru": "У парка можно взять велосипеды напрокат."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-221",
+  "word": "quit",
+  "ipa": "/kwɪt/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "уволиться; бросить",
+  "def_en": "to leave a job; to stop doing something",
+  "note_ru": "Quit the job, quit smoking. Неформальнее, чем resign. Форма не меняется: quit - quit - quit.",
+  "example": "She quit her job to travel.",
+  "example_ru": "Она уволилась, чтобы путешествовать.",
+  "examples_extra": [
+   {"en": "I quit sugar for a month.", "ru": "Я на месяц бросил сахар."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-222",
+  "word": "interview",
+  "ipa": "/ˈɪntəvjuː/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "собеседование; интервью",
+  "def_en": "a formal meeting to get a job; a media conversation",
+  "note_ru": "A job interview — собеседование. I have an interview — «у меня собеседование», не только «интервью».",
+  "example": "I have a job interview on Tuesday.",
+  "example_ru": "У меня собеседование во вторник.",
+  "examples_extra": [
+   {"en": "The interview lasted an hour.", "ru": "Собеседование длилось час."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-223",
+  "word": "training",
+  "ipa": "/ˈtreɪnɪŋ/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "обучение, подготовка",
+  "def_en": "learning skills for a job or sport",
+  "note_ru": "Неисчисляемое: a training — нельзя, скажи a training session или просто training.",
+  "example": "New staff get two weeks of training.",
+  "example_ru": "Новые сотрудники проходят две недели обучения.",
+  "examples_extra": [
+   {"en": "She's in training for the marathon.", "ru": "Она готовится к марафону."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-224",
+  "word": "task",
+  "ipa": "/tɑːsk/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "задача, задание",
+  "def_en": "a piece of work to do",
+  "note_ru": "Рабочая задача — task, школьное домашнее задание — homework, упражнение — exercise.",
+  "example": "My first task is to sort the emails.",
+  "example_ru": "Моя первая задача — разобрать почту.",
+  "examples_extra": [
+   {"en": "It's not an easy task.", "ru": "Это непростая задача."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-225",
+  "word": "day off",
+  "ipa": "/deɪ ɒf/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "выходной (взятый)",
+  "def_en": "a day when you do not work",
+  "note_ru": "Take a day off — взять выходной. I'm off tomorrow — я завтра не работаю.",
+  "example": "I'm taking a day off on Friday.",
+  "example_ru": "В пятницу я беру выходной.",
+  "examples_extra": [
+   {"en": "Monday is my day off.", "ru": "Понедельник — мой выходной."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-226",
+  "word": "part-time",
+  "ipa": "/ˌpɑːt ˈtaɪm/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "на неполный день",
+  "def_en": "working fewer hours than normal",
+  "note_ru": "Work part-time, a part-time job. Полная занятость — full-time.",
+  "example": "She works part-time at the library.",
+  "example_ru": "Она работает в библиотеке на полставки.",
+  "examples_extra": [
+   {"en": "He's looking for a part-time job.", "ru": "Он ищет работу на неполный день."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-227",
+  "word": "internship",
+  "ipa": "/ˈɪntɜːnʃɪp/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "стажировка",
+  "def_en": "a period of work experience for a student",
+  "note_ru": "Стажёр — intern. Do an internship at a company.",
+  "example": "He did an internship at a bank.",
+  "example_ru": "Он прошёл стажировку в банке.",
+  "examples_extra": [
+   {"en": "The internship turned into a full-time job.", "ru": "Стажировка переросла в постоянную работу."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-228",
+  "word": "discuss",
+  "ipa": "/dɪˈskʌs/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "обсуждать",
+  "def_en": "to talk about something with someone",
+  "note_ru": "Без about! Discuss the plan, а не «discuss about the plan» — очень частая ошибка.",
+  "example": "Let's discuss it over lunch.",
+  "example_ru": "Давай обсудим это за обедом.",
+  "examples_extra": [
+   {"en": "We discussed the budget for an hour.", "ru": "Мы час обсуждали бюджет."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-229",
+  "word": "agree",
+  "ipa": "/əˈɡriː/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "соглашаться",
+  "def_en": "to have the same opinion",
+  "note_ru": "Agree with a person, agree to a plan. «I'm agree» — ошибка: agree — глагол, просто I agree.",
+  "example": "I agree with you completely.",
+  "example_ru": "Я с тобой полностью согласен.",
+  "examples_extra": [
+   {"en": "They agreed to meet halfway.", "ru": "Они согласились пойти на компромисс."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-230",
+  "word": "disagree",
+  "ipa": "/ˌdɪsəˈɡriː/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "не соглашаться",
+  "def_en": "to have a different opinion",
+  "note_ru": "Вежливое несогласие: I'm afraid I disagree. Тоже без «I'm»: просто I disagree.",
+  "example": "I disagree with that decision.",
+  "example_ru": "Я не согласен с этим решением.",
+  "examples_extra": [
+   {"en": "Experts disagree about the causes.", "ru": "Эксперты расходятся во мнениях о причинах."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-231",
+  "word": "apologise",
+  "ipa": "/əˈpɒlədʒaɪz/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "извиняться",
+  "def_en": "to say sorry",
+  "note_ru": "Apologise to someone for something: он извинился передо мной за опоздание — apologised to me for being late.",
+  "example": "He apologised for the mistake.",
+  "example_ru": "Он извинился за ошибку.",
+  "examples_extra": [
+   {"en": "You should apologise to her.", "ru": "Тебе стоит извиниться перед ней."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-232",
+  "word": "interrupt",
+  "ipa": "/ˌɪntəˈrʌpt/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "перебивать, прерывать",
+  "def_en": "to stop someone while they are speaking",
+  "note_ru": "Sorry to interrupt, but... — вежливый способ вклиниться в разговор.",
+  "example": "Please don't interrupt me.",
+  "example_ru": "Пожалуйста, не перебивай меня.",
+  "examples_extra": [
+   {"en": "Sorry to interrupt, but there's a call for you.", "ru": "Извините, что прерываю, но вам звонят."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-233",
+  "word": "persuade",
+  "ipa": "/pəˈsweɪd/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "уговорить, убедить сделать",
+  "def_en": "to make someone agree to do something",
+  "note_ru": "Persuade — уговорить сделать, convince — убедить в идее. Persuade someone to do something.",
+  "example": "She persuaded me to join the course.",
+  "example_ru": "Она уговорила меня записаться на курс.",
+  "examples_extra": [
+   {"en": "Nobody could persuade him to sell.", "ru": "Никто не смог уговорить его продать."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-234",
+  "word": "reply",
+  "ipa": "/rɪˈplaɪ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "отвечать (на письмо, сообщение)",
+  "def_en": "to answer in words or writing",
+  "note_ru": "Reply to an email — с to! Кнопка «ответить» в почте — это оно.",
+  "example": "She hasn't replied to my message.",
+  "example_ru": "Она не ответила на моё сообщение.",
+  "examples_extra": [
+   {"en": "I'll reply first thing tomorrow.", "ru": "Отвечу завтра с самого утра."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-235",
+  "word": "insist",
+  "ipa": "/ɪnˈsɪst/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "настаивать",
+  "def_en": "to say firmly that something must happen",
+  "note_ru": "Insist on: он настоял на оплате — insisted on paying. I insist! — «я настаиваю!» (например, угощая).",
+  "example": "He insisted on walking me home.",
+  "example_ru": "Он настоял на том, чтобы проводить меня домой.",
+  "examples_extra": [
+   {"en": "She insists that she's right.", "ru": "Она настаивает, что права."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-236",
+  "word": "deny",
+  "ipa": "/dɪˈnaɪ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "отрицать",
+  "def_en": "to say something is not true",
+  "note_ru": "Deny doing: он отрицает, что брал деньги — denies taking the money. Отказать в просьбе — refuse, не deny.",
+  "example": "He denied breaking the window.",
+  "example_ru": "Он отрицал, что разбил окно.",
+  "examples_extra": [
+   {"en": "She denied any involvement.", "ru": "Она отрицала любую причастность."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-237",
+  "word": "doubt",
+  "ipa": "/daʊt/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "сомневаться; сомнение",
+  "def_en": "to think something is probably not true",
+  "note_ru": "B не читается: «даут». I doubt it — сомневаюсь. No doubt — без сомнения.",
+  "example": "I doubt he'll come on time.",
+  "example_ru": "Сомневаюсь, что он придёт вовремя.",
+  "examples_extra": [
+   {"en": "There's no doubt about her talent.", "ru": "В её таланте нет сомнений."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-238",
+  "word": "guess",
+  "ipa": "/ɡes/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "угадывать; полагать",
+  "def_en": "to give an answer without being sure",
+  "note_ru": "Guess what! — «угадай, что!». I guess so — «наверное, да», разговорное.",
+  "example": "Guess how old she is.",
+  "example_ru": "Угадай, сколько ей лет.",
+  "examples_extra": [
+   {"en": "I guess you're right.", "ru": "Пожалуй, ты прав."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-239",
+  "word": "wonder",
+  "ipa": "/ˈwʌndə/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "задаваться вопросом, интересно",
+  "def_en": "to ask yourself about something",
+  "note_ru": "«Интересно, где он» — I wonder where he is. I was wondering if... — сверхвежливая просьба.",
+  "example": "I wonder why she left so early.",
+  "example_ru": "Интересно, почему она так рано ушла.",
+  "examples_extra": [
+   {"en": "I was wondering if you could help me.", "ru": "Я хотел спросить, не могли бы вы мне помочь."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-240",
+  "word": "imagine",
+  "ipa": "/ɪˈmædʒɪn/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "представлять себе",
+  "def_en": "to form a picture in your mind",
+  "note_ru": "Imagine doing: представь, что живёшь там — imagine living there. Без to!",
+  "example": "Imagine living by the sea.",
+  "example_ru": "Представь, что живёшь у моря.",
+  "examples_extra": [
+   {"en": "I can't imagine my day without coffee.", "ru": "Не представляю свой день без кофе."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-241",
+  "word": "recognise",
+  "ipa": "/ˈrekəɡnaɪz/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "узнавать; признавать",
+  "def_en": "to know someone or something you have seen before",
+  "note_ru": "Узнать в лицо — recognise. Узнать новость — find out. Русское «узнать» — два разных глагола.",
+  "example": "I didn't recognise you with the beard!",
+  "example_ru": "Я не узнал тебя с бородой!",
+  "examples_extra": [
+   {"en": "Do you recognise this song?", "ru": "Узнаёшь эту песню?"}
+  ],
+  "topic": "thinking"
+ }
+]

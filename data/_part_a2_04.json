@@ -1,0 +1,413 @@
+[
+ {
+  "id": "a2-081",
+  "word": "turn on",
+  "ipa": "/tɜːn ɒn/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "включить",
+  "def_en": "to make a device start working",
+  "note_ru": "Turn on the light, но с местоимением — turn it on, не «turn on it».",
+  "example": "Can you turn on the heating?",
+  "example_ru": "Можешь включить отопление?",
+  "examples_extra": [
+   {"en": "I turned the TV on and fell asleep.", "ru": "Я включил телевизор и уснул."},
+   {"en": "Turn it on and wait a minute.", "ru": "Включи его и подожди минуту."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-082",
+  "word": "turn off",
+  "ipa": "/tɜːn ɒf/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "выключить",
+  "def_en": "to make a device stop working",
+  "note_ru": "Свет, воду, телефон — всё turn off. Switch off — то же самое.",
+  "example": "Please turn off your phones.",
+  "example_ru": "Пожалуйста, выключите телефоны.",
+  "examples_extra": [
+   {"en": "Did you turn off the oven?", "ru": "Ты выключил духовку?"},
+   {"en": "Turn the music off, it's late.", "ru": "Выключи музыку, уже поздно."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-083",
+  "word": "put on",
+  "ipa": "/pʊt ɒn/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "надеть",
+  "def_en": "to place clothes on your body",
+  "note_ru": "Put on — действие, wear — состояние: put on a coat, потом wear a coat.",
+  "example": "Put on a warm jacket, it's cold.",
+  "example_ru": "Надень тёплую куртку, холодно.",
+  "examples_extra": [
+   {"en": "She put on her glasses and read the note.", "ru": "Она надела очки и прочитала записку."},
+   {"en": "Put your shoes on, we're leaving.", "ru": "Обувайся, мы выходим."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-084",
+  "word": "take off",
+  "ipa": "/teɪk ɒf/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "снять (одежду); взлететь",
+  "def_en": "to remove clothes; to leave the ground",
+  "note_ru": "Два главных смысла: take off your shoes и the plane takes off.",
+  "example": "Take off your coat, it's warm inside.",
+  "example_ru": "Снимай пальто, внутри тепло.",
+  "examples_extra": [
+   {"en": "The plane took off on time.", "ru": "Самолёт взлетел вовремя."},
+   {"en": "He took off his hat and smiled.", "ru": "Он снял шляпу и улыбнулся."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-085",
+  "word": "wake up",
+  "ipa": "/weɪk ʌp/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "просыпаться; будить",
+  "def_en": "to stop sleeping, or to make someone stop sleeping",
+  "note_ru": "Wake up — проснуться, get up — встать с кровати. Это разные моменты утра.",
+  "example": "I woke up before the alarm.",
+  "example_ru": "Я проснулся до будильника.",
+  "examples_extra": [
+   {"en": "Don't wake up the baby.", "ru": "Не разбуди ребёнка."},
+   {"en": "She wakes up at six every day.", "ru": "Она просыпается в шесть каждый день."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-086",
+  "word": "get up",
+  "ipa": "/ɡet ʌp/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "вставать (с кровати)",
+  "def_en": "to get out of bed",
+  "note_ru": "Проснулся в семь, встал в восемь: woke up at seven, got up at eight.",
+  "example": "I get up at seven on weekdays.",
+  "example_ru": "По будням я встаю в семь.",
+  "examples_extra": [
+   {"en": "He got up late and missed the bus.", "ru": "Он поздно встал и опоздал на автобус."},
+   {"en": "Time to get up, breakfast is ready.", "ru": "Пора вставать, завтрак готов."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-087",
+  "word": "go out",
+  "ipa": "/ɡəʊ aʊt/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "выходить куда-то, развлекаться вне дома",
+  "def_en": "to leave home for fun",
+  "note_ru": "Go out — не просто «выйти», а «пойти развеяться»: в кафе, в кино, к друзьям.",
+  "example": "Let's go out for dinner tonight.",
+  "example_ru": "Давай сходим куда-нибудь поужинать сегодня.",
+  "examples_extra": [
+   {"en": "They go out every Friday.", "ru": "Они выбираются куда-нибудь каждую пятницу."},
+   {"en": "I'm too tired to go out.", "ru": "Я слишком устал, чтобы куда-то идти."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-088",
+  "word": "come back",
+  "ipa": "/kʌm bæk/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "возвращаться (сюда)",
+  "def_en": "to return to this place",
+  "note_ru": "Come back — сюда, go back — туда: come back home, go back to the office.",
+  "example": "What time will you come back?",
+  "example_ru": "Во сколько ты вернёшься?",
+  "examples_extra": [
+   {"en": "She came back with two coffees.", "ru": "Она вернулась с двумя кофе."},
+   {"en": "Come back soon, we miss you.", "ru": "Возвращайся скорее, мы скучаем."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-089",
+  "word": "look for",
+  "ipa": "/lʊk fɔː/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "искать",
+  "def_en": "to try to find something",
+  "note_ru": "Look for — процесс поиска, find — результат: I looked for the keys and found them.",
+  "example": "I'm looking for my glasses.",
+  "example_ru": "Я ищу свои очки.",
+  "examples_extra": [
+   {"en": "She's looking for a new flat.", "ru": "Она ищет новую квартиру."},
+   {"en": "What are you looking for?", "ru": "Что ты ищешь?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-090",
+  "word": "try on",
+  "ipa": "/traɪ ɒn/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "примерять (одежду)",
+  "def_en": "to put on clothes to see if they fit",
+  "note_ru": "Try on — про одежду и обувь. Просто «попробовать» еду — try без on.",
+  "example": "Can I try on these jeans?",
+  "example_ru": "Можно примерить эти джинсы?",
+  "examples_extra": [
+   {"en": "Try it on before you buy it.", "ru": "Примерь, прежде чем покупать."},
+   {"en": "She tried on five dresses.", "ru": "Она примерила пять платьев."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-091",
+  "word": "wash up",
+  "ipa": "/wɒʃ ʌp/",
+  "pos": "phrasal verb",
+  "level": "A2",
+  "ru": "мыть посуду",
+  "def_en": "to clean the dishes after a meal",
+  "note_ru": "Британцы говорят wash up или do the dishes. «Мыть руки» — просто wash your hands.",
+  "example": "I'll cook if you wash up.",
+  "example_ru": "Я готовлю, если ты моешь посуду.",
+  "examples_extra": [
+   {"en": "Whose turn is it to wash up?", "ru": "Чья очередь мыть посуду?"},
+   {"en": "He washed up and went to bed.", "ru": "Он помыл посуду и пошёл спать."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "a2-092",
+  "word": "hungry",
+  "ipa": "/ˈhʌŋɡri/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "голодный",
+  "def_en": "wanting to eat",
+  "note_ru": "«Я хочу есть» — I'm hungry, а не «I want to eat» в каждой фразе.",
+  "example": "I'm really hungry, let's eat.",
+  "example_ru": "Я очень голоден, давай поедим.",
+  "examples_extra": [
+   {"en": "The kids get hungry after school.", "ru": "Дети приходят из школы голодными."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "a2-093",
+  "word": "thirsty",
+  "ipa": "/ˈθɜːsti/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "хотящий пить",
+  "def_en": "wanting to drink",
+  "note_ru": "«Хочу пить» — I'm thirsty. Дословного «я жаждущий» по-русски нет, поэтому слово часто забывают.",
+  "example": "I'm so thirsty after the run.",
+  "example_ru": "Я так хочу пить после пробежки.",
+  "examples_extra": [
+   {"en": "Salty food makes you thirsty.", "ru": "От солёной еды хочется пить."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "a2-094",
+  "word": "tired",
+  "ipa": "/ˈtaɪəd/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "уставший",
+  "def_en": "needing rest",
+  "note_ru": "Tired of — «надоело»: I'm tired of waiting. Это не про усталость тела.",
+  "example": "You look tired. Go to bed.",
+  "example_ru": "Ты выглядишь уставшим. Иди спать.",
+  "examples_extra": [
+   {"en": "I'm tired of this rain.", "ru": "Мне надоел этот дождь."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "a2-095",
+  "word": "angry",
+  "ipa": "/ˈæŋɡri/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "злой, сердитый",
+  "def_en": "feeling strong displeasure",
+  "note_ru": "Angry with a person, angry about a thing: злюсь на него — angry with him.",
+  "example": "She was angry with me for being late.",
+  "example_ru": "Она злилась на меня за опоздание.",
+  "examples_extra": [
+   {"en": "Don't be angry about the mess.", "ru": "Не сердись из-за беспорядка."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "a2-096",
+  "word": "scared",
+  "ipa": "/skeəd/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "испуганный, боящийся",
+  "def_en": "feeling fear",
+  "note_ru": "Scared of: боюсь собак — I'm scared of dogs. Afraid of — то же, чуть формальнее.",
+  "example": "I'm scared of spiders.",
+  "example_ru": "Я боюсь пауков.",
+  "examples_extra": [
+   {"en": "Don't be scared, the dog is friendly.", "ru": "Не бойся, собака дружелюбная."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "a2-097",
+  "word": "bored",
+  "ipa": "/bɔːd/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "скучающий, заскучавший",
+  "def_en": "feeling that something is not interesting",
+  "note_ru": "Bored — мне скучно, boring — сам предмет скучный. «I'm boring» значит «я зануда»!",
+  "example": "I'm bored. Let's do something.",
+  "example_ru": "Мне скучно. Давай чем-нибудь займёмся.",
+  "examples_extra": [
+   {"en": "The kids got bored after an hour.", "ru": "Дети заскучали через час."}
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "a2-098",
+  "word": "boring",
+  "ipa": "/ˈbɔːrɪŋ/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "скучный",
+  "def_en": "not interesting",
+  "note_ru": "Пара к bored: фильм boring, поэтому я bored. Перепутать — классика.",
+  "example": "The lecture was so boring.",
+  "example_ru": "Лекция была такой скучной.",
+  "examples_extra": [
+   {"en": "It's a boring little town.", "ru": "Это скучный маленький городок."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-099",
+  "word": "surprised",
+  "ipa": "/səˈpraɪzd/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "удивлённый",
+  "def_en": "feeling surprise",
+  "note_ru": "Surprised at или by: удивлён результату — surprised at the result.",
+  "example": "I was surprised at the price.",
+  "example_ru": "Я был удивлён цене.",
+  "examples_extra": [
+   {"en": "She wasn't surprised by the news.", "ru": "Новость её не удивила."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "a2-100",
+  "word": "proud",
+  "ipa": "/praʊd/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "гордый, гордящийся",
+  "def_en": "feeling pleased about something done well",
+  "note_ru": "Proud of: горжусь тобой — I'm proud of you. Предлог только of.",
+  "example": "We're proud of our team.",
+  "example_ru": "Мы гордимся нашей командой.",
+  "examples_extra": [
+   {"en": "She's proud of her garden.", "ru": "Она гордится своим садом."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "a2-101",
+  "word": "glad",
+  "ipa": "/ɡlæd/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "рад, довольный",
+  "def_en": "happy about something",
+  "note_ru": "Только после глагола: I'm glad. «A glad person» не говорят — тогда happy.",
+  "example": "I'm glad you came.",
+  "example_ru": "Я рад, что ты пришёл.",
+  "examples_extra": [
+   {"en": "Glad to hear the good news!", "ru": "Рад слышать хорошие новости!"}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "a2-102",
+  "word": "again",
+  "ipa": "/əˈɡen/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "снова, ещё раз",
+  "def_en": "one more time",
+  "note_ru": "Ставится в конец: Say it again. «Again say» — типичная русская калька.",
+  "example": "Could you say that again, please?",
+  "example_ru": "Не могли бы вы повторить ещё раз?",
+  "examples_extra": [
+   {"en": "It's raining again.", "ru": "Снова идёт дождь."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-103",
+  "word": "already",
+  "ipa": "/ɔːlˈredi/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "уже (в утверждениях)",
+  "def_en": "before now, sooner than expected",
+  "note_ru": "Already — в утверждениях, yet — в вопросах и отрицаниях: I've already eaten.",
+  "example": "I've already seen this film.",
+  "example_ru": "Я уже видел этот фильм.",
+  "examples_extra": [
+   {"en": "It's already dark outside.", "ru": "На улице уже темно."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "a2-104",
+  "word": "yet",
+  "ipa": "/jet/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "уже (в вопросах); ещё не",
+  "def_en": "until now — in questions and negatives",
+  "note_ru": "Have you eaten yet? — «уже». I haven't eaten yet — «ещё не». Всегда в конце.",
+  "example": "Have you finished yet?",
+  "example_ru": "Ты уже закончил?",
+  "examples_extra": [
+   {"en": "The parcel hasn't arrived yet.", "ru": "Посылка ещё не пришла."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "a2-105",
+  "word": "still",
+  "ipa": "/stɪl/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "всё ещё, до сих пор",
+  "def_en": "continuing until now",
+  "note_ru": "Still — до глагола: He still works there. Не путать с yet: still — продолжается, yet — ещё не случилось.",
+  "example": "Are you still at work?",
+  "example_ru": "Ты всё ещё на работе?",
+  "examples_extra": [
+   {"en": "I still remember my first lesson.", "ru": "Я до сих пор помню свой первый урок."}
+  ],
+  "topic": "grammar"
+ }
+]

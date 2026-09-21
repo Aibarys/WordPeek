@@ -1,0 +1,402 @@
+[
+ {
+  "id": "c1-176",
+  "word": "conundrum",
+  "ipa": "/kəˈnʌndrəm/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "головоломка, неразрешимая задача",
+  "def_en": "a problem that is very difficult to solve",
+  "note_ru": "Не механическая головоломка (это puzzle), а жизненная дилемма без хорошего ответа.",
+  "example": "Parking here is a daily conundrum.",
+  "example_ru": "Парковка здесь — ежедневная головоломка.",
+  "examples_extra": [
+   {"en": "The chicken-and-egg conundrum of experience and jobs.", "ru": "Замкнутый круг «опыт или работа» — та ещё головоломка."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-177",
+  "word": "crux",
+  "ipa": "/krʌks/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "суть, самое главное",
+  "def_en": "the most important point of a problem",
+  "note_ru": "The crux of the matter — суть дела. То, вокруг чего всё вертится.",
+  "example": "The crux of the issue is trust.",
+  "example_ru": "Суть проблемы — в доверии.",
+  "examples_extra": [
+   {"en": "Now we come to the crux of the matter.", "ru": "Вот мы и подошли к сути дела."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-178",
+  "word": "deterrent",
+  "ipa": "/dɪˈterənt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "сдерживающий фактор",
+  "def_en": "something that stops people from doing something",
+  "note_ru": "A deterrent to crime — то, что отпугивает от преступления. От deter.",
+  "example": "Cameras act as a deterrent to thieves.",
+  "example_ru": "Камеры служат сдерживающим фактором для воров.",
+  "examples_extra": [
+   {"en": "High fines are the best deterrent here.", "ru": "Высокие штрафы — лучший сдерживающий фактор."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-179",
+  "word": "feat",
+  "ipa": "/fiːt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "подвиг, достижение",
+  "def_en": "an impressive achievement",
+  "note_ru": "A feat of engineering — чудо инженерии. No mean feat — «не пустяк!».",
+  "example": "Feeding fifty guests is no mean feat.",
+  "example_ru": "Накормить пятьдесят гостей — это вам не пустяк.",
+  "examples_extra": [
+   {"en": "The bridge is a remarkable feat of engineering.", "ru": "Мост — выдающееся достижение инженерной мысли."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-180",
+  "word": "gist",
+  "ipa": "/dʒɪst/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "суть, общий смысл",
+  "def_en": "the main idea without the details",
+  "note_ru": "Get the gist — уловить суть. Читается «джист».",
+  "example": "I didn't catch every word, but I got the gist.",
+  "example_ru": "Я расслышал не всё, но суть уловил.",
+  "examples_extra": [
+   {"en": "Give me the gist in two sentences.", "ru": "Передай суть в двух предложениях."}
+  ],
+  "topic": "language"
+ },
+ {
+  "id": "c1-181",
+  "word": "hurdle",
+  "ipa": "/ˈhɜːdəl/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "барьер, препятствие",
+  "def_en": "a problem you must solve to progress",
+  "note_ru": "Из лёгкой атлетики: clear the last hurdle — взять последний барьер.",
+  "example": "The visa was the last hurdle.",
+  "example_ru": "Виза была последним барьером.",
+  "examples_extra": [
+   {"en": "Funding is the biggest hurdle for startups.", "ru": "Финансирование — главный барьер для стартапов."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-182",
+  "word": "influx",
+  "ipa": "/ˈɪnflʌks/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "наплыв, приток",
+  "def_en": "a large number of people or things arriving",
+  "note_ru": "An influx of tourists / orders / refugees — внезапный приток.",
+  "example": "Summer brings an influx of tourists.",
+  "example_ru": "Лето приносит наплыв туристов.",
+  "examples_extra": [
+   {"en": "The site crashed under an influx of visitors.", "ru": "Сайт лёг под наплывом посетителей."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-183",
+  "word": "loophole",
+  "ipa": "/ˈluːphəʊl/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "лазейка (в законе, правилах)",
+  "def_en": "a gap in a rule that lets people avoid it",
+  "note_ru": "A tax loophole — налоговая лазейка. Close the loophole — прикрыть лазейку.",
+  "example": "They found a loophole in the contract.",
+  "example_ru": "Они нашли лазейку в контракте.",
+  "examples_extra": [
+   {"en": "The new law closes that loophole.", "ru": "Новый закон закрывает эту лазейку."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-184",
+  "word": "onus",
+  "ipa": "/ˈəʊnəs/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "бремя ответственности",
+  "def_en": "the responsibility for something",
+  "note_ru": "The onus is on you to prove it — доказывать — твоя обязанность.",
+  "example": "The onus is on the seller to prove quality.",
+  "example_ru": "Бремя доказательства качества лежит на продавце.",
+  "examples_extra": [
+   {"en": "Don't put the onus on the newest employee.", "ru": "Не взваливай ответственность на новичка."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-185",
+  "word": "ordeal",
+  "ipa": "/ɔːˈdiːl/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "тяжёлое испытание, мучение",
+  "def_en": "a very unpleasant and difficult experience",
+  "note_ru": "The whole ordeal lasted hours — вся эта пытка длилась часами. Про пережитое, а не про экзамен.",
+  "example": "The airport ordeal lasted twelve hours.",
+  "example_ru": "Мучения в аэропорту длились двенадцать часов.",
+  "examples_extra": [
+   {"en": "She spoke calmly about her ordeal.", "ru": "Она спокойно рассказывала о пережитом испытании."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "c1-186",
+  "word": "oversight",
+  "ipa": "/ˈəʊvəsaɪt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "недосмотр; надзор",
+  "def_en": "a mistake made by not noticing; supervision",
+  "note_ru": "Коварное слово с двумя противоположными смыслами: an oversight — упущение, oversight committee — надзорный комитет.",
+  "example": "Leaving you off the list was an oversight.",
+  "example_ru": "То, что тебя не внесли в список, — недосмотр.",
+  "examples_extra": [
+   {"en": "The project needs stronger oversight.", "ru": "Проекту нужен более строгий надзор."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-187",
+  "word": "pitfall",
+  "ipa": "/ˈpɪtfɔːl/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "подводный камень",
+  "def_en": "a hidden danger or common mistake",
+  "note_ru": "The pitfalls of renting — подводные камни аренды. Обычно во множественном.",
+  "example": "The guide lists common pitfalls for beginners.",
+  "example_ru": "Гид перечисляет типичные подводные камни для новичков.",
+  "examples_extra": [
+   {"en": "Avoid the pitfall of overpromising.", "ru": "Избегай ловушки завышенных обещаний."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-188",
+  "word": "plethora",
+  "ipa": "/ˈpleθərə/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "изобилие, переизбыток",
+  "def_en": "a very large amount, often too much",
+  "note_ru": "A plethora of options — избыток вариантов. Часто с оттенком «слишком много».",
+  "example": "There's a plethora of apps for this.",
+  "example_ru": "Для этого существует переизбыток приложений.",
+  "examples_extra": [
+   {"en": "We received a plethora of complaints.", "ru": "Мы получили ворох жалоб."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-189",
+  "word": "pretext",
+  "ipa": "/ˈpriːtekst/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "предлог (для действия)",
+  "def_en": "a false reason given to hide the real one",
+  "note_ru": "Under the pretext of — под предлогом. Не путать с preposition (предлог в грамматике)!",
+  "example": "He left under the pretext of a headache.",
+  "example_ru": "Он ушёл под предлогом головной боли.",
+  "examples_extra": [
+   {"en": "The call was a pretext to check on us.", "ru": "Звонок был лишь предлогом нас проверить."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-190",
+  "word": "quirk",
+  "ipa": "/kwɜːk/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "причуда, странность",
+  "def_en": "an unusual habit or feature",
+  "note_ru": "A quirk of fate — причуда судьбы. Quirky — чудаковатый (мило).",
+  "example": "Everyone has their little quirks.",
+  "example_ru": "У каждого свои маленькие причуды.",
+  "examples_extra": [
+   {"en": "By a quirk of fate, we met again.", "ru": "По причуде судьбы мы встретились снова."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "c1-191",
+  "word": "repercussion",
+  "ipa": "/ˌriːpəˈkʌʃən/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "отголосок, далеко идущее последствие",
+  "def_en": "an indirect bad result of an action",
+  "note_ru": "Обычно во множественном: repercussions — последствия, которые аукаются позже.",
+  "example": "The decision had repercussions for years.",
+  "example_ru": "Решение аукалось ещё годы.",
+  "examples_extra": [
+   {"en": "Fear of repercussions kept them silent.", "ru": "Страх последствий заставлял их молчать."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-192",
+  "word": "scapegoat",
+  "ipa": "/ˈskeɪpɡəʊt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "козёл отпущения",
+  "def_en": "a person blamed for others' mistakes",
+  "note_ru": "Полное совпадение с русским образом. Make a scapegoat of someone.",
+  "example": "They needed a scapegoat for the failure.",
+  "example_ru": "Им нужен был козёл отпущения за провал.",
+  "examples_extra": [
+   {"en": "The intern became a convenient scapegoat.", "ru": "Стажёр стал удобным козлом отпущения."}
+  ],
+  "topic": "idiom"
+ },
+ {
+  "id": "c1-193",
+  "word": "shortcoming",
+  "ipa": "/ˈʃɔːtkʌmɪŋ/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "недостаток, слабое место",
+  "def_en": "a fault or weakness",
+  "note_ru": "Мягче, чем flaw: shortcomings признают в себе и в планах. Обычно во множественном.",
+  "example": "The plan has obvious shortcomings.",
+  "example_ru": "У плана есть очевидные слабые места.",
+  "examples_extra": [
+   {"en": "He's honest about his shortcomings.", "ru": "Он честно признаёт свои недостатки."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-194",
+  "word": "stalemate",
+  "ipa": "/ˈsteɪlmeɪt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "тупик (в переговорах), пат",
+  "def_en": "a situation where neither side can win or move",
+  "note_ru": "Из шахмат (пат). Reach a stalemate — зайти в тупик.",
+  "example": "The talks ended in stalemate.",
+  "example_ru": "Переговоры зашли в тупик.",
+  "examples_extra": [
+   {"en": "Months of stalemate followed.", "ru": "Последовали месяцы тупика."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-195",
+  "word": "upheaval",
+  "ipa": "/ʌpˈhiːvəl/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "потрясение, переворот (в жизни, обществе)",
+  "def_en": "a big sudden change causing trouble",
+  "note_ru": "Political upheaval, emotional upheaval — встряска любого масштаба.",
+  "example": "Moving abroad is a huge upheaval.",
+  "example_ru": "Переезд за границу — огромная встряска.",
+  "examples_extra": [
+   {"en": "The country went through years of upheaval.", "ru": "Страна пережила годы потрясений."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-196",
+  "word": "watershed",
+  "ipa": "/ˈwɔːtəʃed/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "переломный момент",
+  "def_en": "a moment after which everything changes",
+  "note_ru": "A watershed moment — водораздел «до» и «после».",
+  "example": "The trial was a watershed for the industry.",
+  "example_ru": "Этот процесс стал переломным для отрасли.",
+  "examples_extra": [
+   {"en": "It marked a watershed in her career.", "ru": "Это стало водоразделом в её карьере."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-197",
+  "word": "whim",
+  "ipa": "/wɪm/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "прихоть",
+  "def_en": "a sudden wish without a good reason",
+  "note_ru": "On a whim — с бухты-барахты: bought it on a whim — купил под настроение.",
+  "example": "We booked the trip on a whim.",
+  "example_ru": "Мы забронировали поездку с бухты-барахты.",
+  "examples_extra": [
+   {"en": "Prices change at the owner's whim.", "ru": "Цены меняются по прихоти владельца."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "c1-198",
+  "word": "fallout",
+  "ipa": "/ˈfɔːlaʊt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "негативные последствия, шлейф",
+  "def_en": "the bad effects that follow an event",
+  "note_ru": "Из ядерной лексики («осадки») — в офисную: the fallout from the scandal.",
+  "example": "The fallout from the merger lasted months.",
+  "example_ru": "Шлейф от слияния тянулся месяцами.",
+  "examples_extra": [
+   {"en": "She resigned amid the political fallout.", "ru": "Она ушла в отставку на фоне политических последствий."}
+  ],
+  "topic": "media"
+ },
+ {
+  "id": "c1-199",
+  "word": "benchmark",
+  "ipa": "/ˈbentʃmɑːk/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "эталон, ориентир для сравнения",
+  "def_en": "a standard used to compare things",
+  "note_ru": "Set the benchmark — задать планку. В ИТ — тест производительности.",
+  "example": "Their support sets the benchmark for the industry.",
+  "example_ru": "Их поддержка — эталон для отрасли.",
+  "examples_extra": [
+   {"en": "We use last year as a benchmark.", "ru": "За ориентир мы берём прошлый год."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-200",
+  "word": "culprit",
+  "ipa": "/ˈkʌlprɪt/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "виновник (и причина проблемы)",
+  "def_en": "the person or thing that caused a problem",
+  "note_ru": "Не только человек: the culprit was a loose cable — виновником оказался кабель.",
+  "example": "The culprit was a leaking pipe.",
+  "example_ru": "Виновницей оказалась протекающая труба.",
+  "examples_extra": [
+   {"en": "Police caught the culprits within a day.", "ru": "Полиция поймала виновников за день."}
+  ],
+  "topic": "formal"
+ }
+]

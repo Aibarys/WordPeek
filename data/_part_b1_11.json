@@ -1,0 +1,418 @@
+[
+ {
+  "id": "b1-269",
+  "word": "customs",
+  "ipa": "/ˈkʌstəmz/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "таможня",
+  "def_en": "the border control for goods",
+  "note_ru": "Go through customs — пройти таможню. Custom в единственном — обычай, совсем другое.",
+  "example": "We got through customs quickly.",
+  "example_ru": "Мы быстро прошли таможню.",
+  "examples_extra": [
+   {"en": "Customs checked every suitcase.", "ru": "Таможня проверила каждый чемодан."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "b1-270",
+  "word": "get lost",
+  "ipa": "/ɡet lɒst/",
+  "pos": "phrase",
+  "level": "B1",
+  "ru": "заблудиться",
+  "def_en": "to not know where you are",
+  "note_ru": "We got lost — мы заблудились. Грубое Get lost! — «отвали!». Контекст решает всё.",
+  "example": "We got lost in the old town.",
+  "example_ru": "Мы заблудились в старом городе.",
+  "examples_extra": [
+   {"en": "You can't get lost with this map.", "ru": "С этой картой не заблудишься."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "b1-271",
+  "word": "directions",
+  "ipa": "/daɪˈrekʃənz/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "указания дороги",
+  "def_en": "instructions for how to get somewhere",
+  "note_ru": "Ask for directions — спросить дорогу. В единственном direction — направление.",
+  "example": "Let's ask someone for directions.",
+  "example_ru": "Давай спросим у кого-нибудь дорогу.",
+  "examples_extra": [
+   {"en": "Her directions were easy to follow.", "ru": "По её указаниям было легко идти."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "b1-272",
+  "word": "tip",
+  "ipa": "/tɪp/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "чаевые; совет, лайфхак",
+  "def_en": "extra money for service; a useful piece of advice",
+  "note_ru": "Leave a tip — оставить чаевые. A useful tip — полезный совет. Одно слово, два подарка.",
+  "example": "We left a generous tip.",
+  "example_ru": "Мы оставили щедрые чаевые.",
+  "examples_extra": [
+   {"en": "Here's a tip: book on Tuesdays.", "ru": "Вот совет: бронируй по вторникам."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "b1-273",
+  "word": "furniture",
+  "ipa": "/ˈfɜːnɪtʃə/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "мебель",
+  "def_en": "things like tables, chairs and beds",
+  "note_ru": "Неисчисляемое! Furniture is, a piece of furniture — один предмет мебели. «Furnitures» не существует.",
+  "example": "The flat comes with furniture.",
+  "example_ru": "Квартира сдаётся с мебелью.",
+  "examples_extra": [
+   {"en": "We need one more piece of furniture here.", "ru": "Сюда нужен ещё один предмет мебели."}
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "b1-274",
+  "word": "floor",
+  "ipa": "/flɔː/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "пол; этаж",
+  "def_en": "the surface you walk on; a level of a building",
+  "note_ru": "В Британии ground floor — наш первый этаж, first floor — наш второй. Вечная путаница!",
+  "example": "The lift stops on every floor.",
+  "example_ru": "Лифт останавливается на каждом этаже.",
+  "examples_extra": [
+   {"en": "We live on the third floor.", "ru": "Мы живём на четвёртом (по-русски) этаже."}
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "b1-275",
+  "word": "purpose",
+  "ipa": "/ˈpɜːpəs/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "цель, назначение",
+  "def_en": "the reason why something is done",
+  "note_ru": "The purpose of the visit — цель визита. Жизненная цель-мечта — goal, а purpose — «зачем».",
+  "example": "What's the purpose of this form?",
+  "example_ru": "Каково назначение этой формы?",
+  "examples_extra": [
+   {"en": "The tool serves two purposes.", "ru": "Инструмент служит двум целям."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-276",
+  "word": "decision",
+  "ipa": "/dɪˈsɪʒən/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "решение",
+  "def_en": "a choice you make",
+  "note_ru": "Принять решение — make a decision, не take и не do.",
+  "example": "It was a difficult decision.",
+  "example_ru": "Это было трудное решение.",
+  "examples_extra": [
+   {"en": "We need to make a decision today.", "ru": "Нам нужно принять решение сегодня."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-277",
+  "word": "opinion",
+  "ipa": "/əˈpɪnjən/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "мнение",
+  "def_en": "what you think about something",
+  "note_ru": "In my opinion — по моему мнению. «On my opinion» — ошибка.",
+  "example": "In my opinion, it's worth the price.",
+  "example_ru": "По-моему, это стоит своих денег.",
+  "examples_extra": [
+   {"en": "Everyone has an opinion about the new design.", "ru": "У каждого есть мнение о новом дизайне."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "b1-278",
+  "word": "suggestion",
+  "ipa": "/səˈdʒestʃən/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "предложение (идея)",
+  "def_en": "an idea you offer",
+  "note_ru": "Make a suggestion — внести предложение. Деловое предложение-оферта — offer или proposal.",
+  "example": "Do you have any suggestions?",
+  "example_ru": "Есть предложения?",
+  "examples_extra": [
+   {"en": "Her suggestion saved us an hour.", "ru": "Её идея сэкономила нам час."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-279",
+  "word": "complaint",
+  "ipa": "/kəmˈpleɪnt/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "жалоба",
+  "def_en": "a statement that something is wrong",
+  "note_ru": "Make a complaint — подать жалобу. Глагол — complain, без t.",
+  "example": "We received two complaints about the noise.",
+  "example_ru": "Мы получили две жалобы на шум.",
+  "examples_extra": [
+   {"en": "He filed a complaint with the manager.", "ru": "Он подал жалобу менеджеру."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-280",
+  "word": "excuse",
+  "ipa": "/ɪkˈskjuːs/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "отговорка, оправдание",
+  "def_en": "a reason you give to explain something bad",
+  "note_ru": "Существительное — «экскьюС», глагол excuse me — «экскьюЗ». Одна буква s, два звука.",
+  "example": "That's just an excuse.",
+  "example_ru": "Это просто отговорка.",
+  "examples_extra": [
+   {"en": "He always finds an excuse to be late.", "ru": "Он всегда находит оправдание опозданию."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-281",
+  "word": "favour",
+  "ipa": "/ˈfeɪvə/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "одолжение, услуга",
+  "def_en": "something kind you do for someone",
+  "note_ru": "Can you do me a favour? — «сделаешь одолжение?». In favour of — в пользу чего-то.",
+  "example": "Could you do me a favour?",
+  "example_ru": "Можешь сделать мне одолжение?",
+  "examples_extra": [
+   {"en": "I'm in favour of the new schedule.", "ru": "Я за новый график."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-282",
+  "word": "deal",
+  "ipa": "/diːl/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "сделка; уговор",
+  "def_en": "an agreement, especially in business",
+  "note_ru": "It's a deal! — «по рукам!». A good deal — выгодная покупка. Big deal — «подумаешь!» (ирония).",
+  "example": "We made a deal with the supplier.",
+  "example_ru": "Мы заключили сделку с поставщиком.",
+  "examples_extra": [
+   {"en": "Two for one? That's a great deal.", "ru": "Два по цене одного? Отличное предложение."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b1-283",
+  "word": "convenient",
+  "ipa": "/kənˈviːniənt/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "удобный (по времени, расположению)",
+  "def_en": "easy to use or suitable for your plans",
+  "note_ru": "Удобное время — convenient, удобное кресло — comfortable. Русское «удобный» — два английских слова.",
+  "example": "Is Monday convenient for you?",
+  "example_ru": "Понедельник вам удобен?",
+  "examples_extra": [
+   {"en": "The flat is convenient for the metro.", "ru": "Квартира удобно расположена рядом с метро."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-284",
+  "word": "suitable",
+  "ipa": "/ˈsuːtəbəl/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "подходящий",
+  "def_en": "right for a purpose or situation",
+  "note_ru": "Suitable for: обувь, подходящая для гор — suitable for the mountains.",
+  "example": "This film isn't suitable for children.",
+  "example_ru": "Этот фильм не подходит для детей.",
+  "examples_extra": [
+   {"en": "We found a suitable place for the office.", "ru": "Мы нашли подходящее место для офиса."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-285",
+  "word": "ordinary",
+  "ipa": "/ˈɔːdənəri/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "обычный, заурядный",
+  "def_en": "normal, not special",
+  "note_ru": "Ordinary people — обычные люди. Out of the ordinary — из ряда вон.",
+  "example": "It was an ordinary Tuesday.",
+  "example_ru": "Это был обычный вторник.",
+  "examples_extra": [
+   {"en": "Nothing out of the ordinary happened.", "ru": "Ничего необычного не произошло."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-286",
+  "word": "unusual",
+  "ipa": "/ʌnˈjuːʒuəl/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "необычный",
+  "def_en": "different from what is normal",
+  "note_ru": "It's unusual for him to be late — для него нехарактерно опаздывать.",
+  "example": "What an unusual name!",
+  "example_ru": "Какое необычное имя!",
+  "examples_extra": [
+   {"en": "It's unusual to see snow here.", "ru": "Снег здесь — редкость."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-287",
+  "word": "typical",
+  "ipa": "/ˈtɪpɪkəl/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "типичный",
+  "def_en": "usual for a person or thing",
+  "note_ru": "Typical of: это на него похоже — that's typical of him. Просто Typical! — «как всегда!».",
+  "example": "It's a typical winter day.",
+  "example_ru": "Типичный зимний день.",
+  "examples_extra": [
+   {"en": "Late again? Typical!", "ru": "Опять опоздал? Как всегда!"}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-288",
+  "word": "certain",
+  "ipa": "/ˈsɜːtən/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "уверенный; определённый, некий",
+  "def_en": "sure; particular but not named",
+  "note_ru": "I'm certain — уверен (сильнее sure). A certain person — некий человек. Два разных смысла.",
+  "example": "Are you certain about the address?",
+  "example_ru": "Ты уверен насчёт адреса?",
+  "examples_extra": [
+   {"en": "Certain foods make the symptoms worse.", "ru": "Некоторые продукты усиливают симптомы."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-289",
+  "word": "huge",
+  "ipa": "/hjuːdʒ/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "огромный",
+  "def_en": "very big",
+  "note_ru": "Уже значит «очень большой» — very huge не говорят. A huge difference — огромная разница.",
+  "example": "They live in a huge house.",
+  "example_ru": "Они живут в огромном доме.",
+  "examples_extra": [
+   {"en": "It makes a huge difference.", "ru": "Это меняет очень многое."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-290",
+  "word": "narrow",
+  "ipa": "/ˈnærəʊ/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "узкий",
+  "def_en": "not wide",
+  "note_ru": "Narrow streets — узкие улицы. A narrow escape — чудом спасся.",
+  "example": "The staircase is very narrow.",
+  "example_ru": "Лестница очень узкая.",
+  "examples_extra": [
+   {"en": "We drove down a narrow lane.", "ru": "Мы ехали по узкому переулку."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-291",
+  "word": "flat",
+  "ipa": "/flæt/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "плоский; квартира (BrE); спущенный",
+  "def_en": "level and smooth; a home in a building; without air",
+  "note_ru": "Три жизни слова: flat surface, a two-room flat, a flat tyre — спущенное колесо.",
+  "example": "We rent a small flat in the centre.",
+  "example_ru": "Мы снимаем небольшую квартиру в центре.",
+  "examples_extra": [
+   {"en": "The road is flat all the way.", "ru": "Дорога ровная на всём пути."}
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "b1-292",
+  "word": "sharp",
+  "ipa": "/ʃɑːp/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "острый (о предмете); резкий",
+  "def_en": "able to cut; sudden and strong",
+  "note_ru": "Нож — sharp, еда — spicy. At six sharp — ровно в шесть.",
+  "example": "Careful, the knife is very sharp.",
+  "example_ru": "Осторожно, нож очень острый.",
+  "examples_extra": [
+   {"en": "Be there at nine sharp.", "ru": "Будь там ровно в девять."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "b1-293",
+  "word": "raw",
+  "ipa": "/rɔː/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "сырой (не приготовленный)",
+  "def_en": "not cooked",
+  "note_ru": "Raw fish — сырая рыба. Сырая погода — damp, сырые данные — raw data (тут совпало!).",
+  "example": "You can eat this fish raw.",
+  "example_ru": "Эту рыбу можно есть сырой.",
+  "examples_extra": [
+   {"en": "The report is based on raw data.", "ru": "Отчёт основан на сырых данных."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "b1-294",
+  "word": "although",
+  "ipa": "/ɔːlˈðəʊ/",
+  "pos": "conjunction",
+  "level": "B1",
+  "ru": "хотя",
+  "def_en": "despite the fact that",
+  "note_ru": "После although — целое предложение, и без but: Although it rained, we went out. Не «although... but»!",
+  "example": "Although it was late, we kept talking.",
+  "example_ru": "Хотя было поздно, мы продолжали разговаривать.",
+  "examples_extra": [
+   {"en": "Although he's young, he leads the team.", "ru": "Хотя он молод, он руководит командой."}
+  ],
+  "topic": "grammar"
+ }
+]

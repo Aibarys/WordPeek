@@ -1,0 +1,403 @@
+[
+ {
+  "id": "a2-106",
+  "word": "soon",
+  "ipa": "/suːn/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "скоро, вскоре",
+  "def_en": "in a short time from now",
+  "note_ru": "As soon as possible — «как можно скорее», в письмах сокращают до asap.",
+  "example": "Dinner will be ready soon.",
+  "example_ru": "Ужин скоро будет готов.",
+  "examples_extra": [
+   {"en": "See you soon!", "ru": "До скорого!"}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-107",
+  "word": "suddenly",
+  "ipa": "/ˈsʌdənli/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "вдруг, внезапно",
+  "def_en": "quickly and unexpectedly",
+  "note_ru": "Часто открывает предложение: Suddenly, the lights went out.",
+  "example": "Suddenly it started to rain.",
+  "example_ru": "Внезапно пошёл дождь.",
+  "examples_extra": [
+   {"en": "He suddenly remembered the meeting.", "ru": "Он вдруг вспомнил про встречу."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-108",
+  "word": "early",
+  "ipa": "/ˈɜːli/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "рано; ранний",
+  "def_en": "before the usual or planned time",
+  "note_ru": "И наречие, и прилагательное: get up early, an early train.",
+  "example": "I arrived twenty minutes early.",
+  "example_ru": "Я приехал на двадцать минут раньше.",
+  "examples_extra": [
+   {"en": "Let's take the early train.", "ru": "Давай поедем ранним поездом."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-109",
+  "word": "late",
+  "ipa": "/leɪt/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "опаздывающий; поздно",
+  "def_en": "after the planned time",
+  "note_ru": "Опаздывать — be late for: I'm late for work. Lately — это «в последнее время», другое слово.",
+  "example": "Sorry I'm late.",
+  "example_ru": "Извини, что опоздал.",
+  "examples_extra": [
+   {"en": "We were late for the film.", "ru": "Мы опоздали на фильм."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-110",
+  "word": "at night",
+  "ipa": "/ət naɪt/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "ночью",
+  "def_en": "during the night",
+  "note_ru": "In the morning, in the evening, но at night — без in. Исключение, которое все путают.",
+  "example": "I can't sleep well at night.",
+  "example_ru": "Я плохо сплю по ночам.",
+  "examples_extra": [
+   {"en": "The street is quiet at night.", "ru": "Ночью улица тихая."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "a2-111",
+  "word": "at the weekend",
+  "ipa": "/ət ðə ˌwiːkˈend/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "на выходных",
+  "def_en": "on Saturday and Sunday",
+  "note_ru": "Британцы говорят at the weekend, американцы — on the weekend. Оба верны.",
+  "example": "What are you doing at the weekend?",
+  "example_ru": "Что делаешь на выходных?",
+  "examples_extra": [
+   {"en": "We usually relax at the weekend.", "ru": "На выходных мы обычно отдыхаем."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-112",
+  "word": "cheap",
+  "ipa": "/tʃiːp/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "дешёвый",
+  "def_en": "costing little money",
+  "note_ru": "О человеке cheap значит «жмот». Про низкую цену без осуждения — inexpensive.",
+  "example": "The tickets were surprisingly cheap.",
+  "example_ru": "Билеты оказались на удивление дешёвыми.",
+  "examples_extra": [
+   {"en": "We found a cheap hotel near the station.", "ru": "Мы нашли дешёвый отель у вокзала."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "a2-113",
+  "word": "expensive",
+  "ipa": "/ɪkˈspensɪv/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "дорогой (по цене)",
+  "def_en": "costing a lot of money",
+  "note_ru": "«Дорогой человек» — dear, не expensive. Expensive — только про деньги.",
+  "example": "That restaurant is too expensive.",
+  "example_ru": "Тот ресторан слишком дорогой.",
+  "examples_extra": [
+   {"en": "Petrol is getting more expensive.", "ru": "Бензин дорожает."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "a2-114",
+  "word": "free",
+  "ipa": "/friː/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "бесплатный; свободный",
+  "def_en": "costing nothing; not busy or not occupied",
+  "note_ru": "Are you free tonight? — «ты свободен?». Free Wi-Fi — бесплатный. Контекст решает.",
+  "example": "The museum is free on Sundays.",
+  "example_ru": "По воскресеньям музей бесплатный.",
+  "examples_extra": [
+   {"en": "Is this seat free?", "ru": "Это место свободно?"}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-115",
+  "word": "change",
+  "ipa": "/tʃeɪndʒ/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "сдача; мелочь; перемена",
+  "def_en": "money you get back; coins; something becoming different",
+  "note_ru": "Keep the change — «сдачи не надо». Мелочь в кармане — тоже change.",
+  "example": "Here's your change, ten euros.",
+  "example_ru": "Ваша сдача — десять евро.",
+  "examples_extra": [
+   {"en": "Do you have change for the bus?", "ru": "У тебя есть мелочь на автобус?"}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "a2-116",
+  "word": "cash",
+  "ipa": "/kæʃ/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "наличные",
+  "def_en": "money in notes and coins",
+  "note_ru": "Pay in cash — платить наличными. By card — картой.",
+  "example": "Can I pay in cash?",
+  "example_ru": "Можно заплатить наличными?",
+  "examples_extra": [
+   {"en": "I never carry much cash.", "ru": "Я никогда не ношу с собой много наличных."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "a2-117",
+  "word": "sale",
+  "ipa": "/seɪl/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "распродажа; продажа",
+  "def_en": "a time when shops sell things cheaper",
+  "note_ru": "On sale — со скидкой, for sale — просто продаётся. Разница важная.",
+  "example": "I bought this coat in the sale.",
+  "example_ru": "Я купил это пальто на распродаже.",
+  "examples_extra": [
+   {"en": "Their house is for sale.", "ru": "Их дом продаётся."}
+  ],
+  "topic": "shopping"
+ },
+ {
+  "id": "a2-118",
+  "word": "fit",
+  "ipa": "/fɪt/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "подходить по размеру",
+  "def_en": "to be the right size",
+  "note_ru": "Fit — размер, suit — идёт тебе, match — сочетается с другим. Три разных «подходит».",
+  "example": "These shoes don't fit me.",
+  "example_ru": "Эти туфли мне не по размеру.",
+  "examples_extra": [
+   {"en": "The dress fits perfectly.", "ru": "Платье сидит идеально."}
+  ],
+  "topic": "shopping"
+ },
+ {
+  "id": "a2-119",
+  "word": "suit",
+  "ipa": "/suːt/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "идти, быть к лицу; устраивать",
+  "def_en": "to look good on someone; to be convenient",
+  "note_ru": "Тебе идёт этот цвет — this colour suits you. И про время: Does Monday suit you?",
+  "example": "That colour really suits you.",
+  "example_ru": "Этот цвет тебе очень идёт.",
+  "examples_extra": [
+   {"en": "Would ten o'clock suit you?", "ru": "Вас устроит десять часов?"}
+  ],
+  "topic": "shopping"
+ },
+ {
+  "id": "a2-120",
+  "word": "clean",
+  "ipa": "/kliːn/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "чистый; убирать",
+  "def_en": "not dirty; to remove dirt",
+  "note_ru": "И прилагательное, и глагол: a clean room, clean the room.",
+  "example": "The kitchen is clean now.",
+  "example_ru": "Кухня теперь чистая.",
+  "examples_extra": [
+   {"en": "I clean the flat every Saturday.", "ru": "Я убираю квартиру каждую субботу."}
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "a2-121",
+  "word": "dirty",
+  "ipa": "/ˈdɜːti/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "грязный",
+  "def_en": "not clean",
+  "note_ru": "Get dirty — испачкаться: My shoes got dirty.",
+  "example": "Put the dirty clothes in the basket.",
+  "example_ru": "Положи грязную одежду в корзину.",
+  "examples_extra": [
+   {"en": "The windows are dirty after the storm.", "ru": "Окна грязные после бури."}
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "a2-122",
+  "word": "comfortable",
+  "ipa": "/ˈkʌmftəbəl/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "удобный (физически), комфортный",
+  "def_en": "pleasant to sit, wear or be in",
+  "note_ru": "Произносится «КАМфтэбл» — три слога, не четыре. Про удобное время — convenient, не comfortable.",
+  "example": "This chair is really comfortable.",
+  "example_ru": "Это кресло очень удобное.",
+  "examples_extra": [
+   {"en": "Make yourself comfortable.", "ru": "Устраивайся поудобнее."}
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "a2-123",
+  "word": "cook",
+  "ipa": "/kʊk/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "готовить (еду)",
+  "def_en": "to prepare food with heat",
+  "note_ru": "Cook — с огнём. Салат не cook, а make: make a salad. Повар — тоже cook, а cooker — плита!",
+  "example": "Who's cooking tonight?",
+  "example_ru": "Кто сегодня готовит?",
+  "examples_extra": [
+   {"en": "He cooks better than me.", "ru": "Он готовит лучше меня."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "a2-124",
+  "word": "fix",
+  "ipa": "/fɪks/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "починить; уладить",
+  "def_en": "to repair something",
+  "note_ru": "Fix = repair, но короче и разговорнее. Fix a problem — решить проблему.",
+  "example": "Can you fix my bike?",
+  "example_ru": "Можешь починить мой велосипед?",
+  "examples_extra": [
+   {"en": "They fixed the internet in an hour.", "ru": "Интернет починили за час."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-125",
+  "word": "abroad",
+  "ipa": "/əˈbrɔːd/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "за границей, за границу",
+  "def_en": "in or to a foreign country",
+  "note_ru": "Без предлога: go abroad, live abroad. «Go to abroad» — частая ошибка.",
+  "example": "She works abroad now.",
+  "example_ru": "Она теперь работает за границей.",
+  "examples_extra": [
+   {"en": "Have you ever studied abroad?", "ru": "Ты когда-нибудь учился за границей?"}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "a2-126",
+  "word": "ticket",
+  "ipa": "/ˈtɪkɪt/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "билет; штрафной талон",
+  "def_en": "a paper that lets you travel or enter; a fine notice",
+  "note_ru": "A ticket to Paris, но и parking ticket — штраф за парковку.",
+  "example": "Two tickets to the centre, please.",
+  "example_ru": "Два билета до центра, пожалуйста.",
+  "examples_extra": [
+   {"en": "I got a parking ticket yesterday.", "ru": "Вчера я получил штраф за парковку."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "a2-127",
+  "word": "miss",
+  "ipa": "/mɪs/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "опоздать на; пропустить; скучать",
+  "def_en": "to not catch, to not attend, or to feel sad without someone",
+  "note_ru": "Три смысла: miss the bus, miss the lesson, I miss you. Кого скучаешь — без предлога!",
+  "example": "Hurry up or we'll miss the train.",
+  "example_ru": "Поторопись, а то опоздаем на поезд.",
+  "examples_extra": [
+   {"en": "I miss my old friends.", "ru": "Я скучаю по старым друзьям."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "a2-128",
+  "word": "delay",
+  "ipa": "/dɪˈleɪ/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "задержка",
+  "def_en": "a situation when something happens later than planned",
+  "note_ru": "The flight is delayed — рейс задерживается. Без «is delaying»!",
+  "example": "There's a two-hour delay.",
+  "example_ru": "Задержка на два часа.",
+  "examples_extra": [
+   {"en": "Sorry for the delay in replying.", "ru": "Извините за задержку с ответом."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "a2-129",
+  "word": "book",
+  "ipa": "/bʊk/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "бронировать",
+  "def_en": "to reserve a place, room or ticket",
+  "note_ru": "Да, book — это и «книга», и «бронировать»: book a table, book a flight.",
+  "example": "I booked a table for two.",
+  "example_ru": "Я забронировал столик на двоих.",
+  "examples_extra": [
+   {"en": "Book your tickets early.", "ru": "Бронируй билеты заранее."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "a2-130",
+  "word": "stay",
+  "ipa": "/steɪ/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "оставаться; останавливаться (в отеле)",
+  "def_en": "to remain in a place; to live somewhere for a short time",
+  "note_ru": "Ложный друг: stay — не «стоять»! Стоять — stand. Where are you staying? — где ты остановился?",
+  "example": "We stayed at a small hotel.",
+  "example_ru": "Мы остановились в маленьком отеле.",
+  "examples_extra": [
+   {"en": "Stay here, I'll be back in a minute.", "ru": "Оставайся здесь, я вернусь через минуту."},
+   {"en": "She stayed home with a cold.", "ru": "Она осталась дома из-за простуды."}
+  ],
+  "topic": "false-friend"
+ }
+]

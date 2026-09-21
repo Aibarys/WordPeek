@@ -1,0 +1,451 @@
+[
+ {
+  "id": "b2-241",
+  "word": "abrupt",
+  "ipa": "/əˈbrʌpt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "резкий, внезапный",
+  "def_en": "sudden and unexpected; rudely short",
+  "note_ru": "An abrupt end — резкий конец. Про человека — грубовато-резкий в общении.",
+  "example": "The film has an abrupt ending.",
+  "example_ru": "У фильма резкая концовка.",
+  "examples_extra": [
+   {"en": "Sorry if I was abrupt on the phone.", "ru": "Прости, если я был резок по телефону."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b2-242",
+  "word": "adequate",
+  "ipa": "/ˈædɪkwət/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "достаточный, приемлемый",
+  "def_en": "enough or good enough",
+  "note_ru": "Ложный друг! Это не «адекватный человек» (по-английски — sensible, reasonable). Adequate — достаточный, причём часто с оттенком «так себе».",
+  "example": "The salary is adequate, nothing more.",
+  "example_ru": "Зарплата приемлемая, не более того.",
+  "examples_extra": [
+   {"en": "We don't have adequate time for testing.", "ru": "У нас недостаточно времени на тестирование."},
+   {"en": "The food was adequate but boring.", "ru": "Еда была сносной, но скучной."}
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "b2-243",
+  "word": "genuine",
+  "ipa": "/ˈdʒenjuɪn/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "подлинный, искренний",
+  "def_en": "real and true, not fake",
+  "note_ru": "Genuine leather — натуральная кожа, genuine interest — неподдельный интерес. Читается «ДЖЕНьюин».",
+  "example": "Her surprise was genuine.",
+  "example_ru": "Её удивление было искренним.",
+  "examples_extra": [
+   {"en": "Is this a genuine antique?", "ru": "Это подлинный антиквариат?"}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b2-244",
+  "word": "explicit",
+  "ipa": "/ɪkˈsplɪsɪt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "явный, выраженный прямо",
+  "def_en": "said clearly and directly",
+  "note_ru": "Explicit instructions — недвусмысленные инструкции. Пара к implicit (подразумеваемый).",
+  "example": "She gave explicit instructions.",
+  "example_ru": "Она дала предельно чёткие инструкции.",
+  "examples_extra": [
+   {"en": "Be explicit about the deadline.", "ru": "Скажи о дедлайне прямо."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-245",
+  "word": "implicit",
+  "ipa": "/ɪmˈplɪsɪt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "подразумеваемый, невысказанный",
+  "def_en": "suggested but not said directly",
+  "note_ru": "Implicit agreement — молчаливое согласие. Противоположность explicit.",
+  "example": "There was an implicit threat in his words.",
+  "example_ru": "В его словах была скрытая угроза.",
+  "examples_extra": [
+   {"en": "Trust was implicit in their deal.", "ru": "Доверие в их сделке подразумевалось само собой."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-246",
+  "word": "fragile",
+  "ipa": "/ˈfrædʒaɪl/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "хрупкий",
+  "def_en": "easily broken or damaged",
+  "note_ru": "Наклейка на коробках: FRAGILE. И переносно: a fragile peace — хрупкий мир.",
+  "example": "Careful, the vase is fragile.",
+  "example_ru": "Осторожно, ваза хрупкая.",
+  "examples_extra": [
+   {"en": "The ceasefire remains fragile.", "ru": "Перемирие остаётся хрупким."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-247",
+  "word": "profound",
+  "ipa": "/prəˈfaʊnd/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "глубокий (о мысли, влиянии)",
+  "def_en": "very deep or strong in effect",
+  "note_ru": "Глубокая мысль — profound, глубокая яма — deep. A profound effect — глубокое влияние.",
+  "example": "The book had a profound effect on me.",
+  "example_ru": "Книга оказала на меня глубокое влияние.",
+  "examples_extra": [
+   {"en": "She said something surprisingly profound.", "ru": "Она сказала нечто на удивление глубокое."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-248",
+  "word": "scarce",
+  "ipa": "/skeəs/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "дефицитный, в нехватке",
+  "def_en": "existing in small amounts, hard to find",
+  "note_ru": "Water is scarce — воды не хватает. Scarcely — едва (как hardly).",
+  "example": "Affordable flats are scarce here.",
+  "example_ru": "Доступные квартиры здесь в дефиците.",
+  "examples_extra": [
+   {"en": "Jobs were scarce after the crisis.", "ru": "После кризиса работы было мало."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-249",
+  "word": "notorious",
+  "ipa": "/nəʊˈtɔːriəs/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "печально известный",
+  "def_en": "famous for something bad",
+  "note_ru": "Famous — просто известный, notorious — известный плохим: notorious traffic.",
+  "example": "The road is notorious for accidents.",
+  "example_ru": "Эта дорога печально известна авариями.",
+  "examples_extra": [
+   {"en": "He's notorious for being late.", "ru": "Он славится своими опозданиями."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "b2-250",
+  "word": "prominent",
+  "ipa": "/ˈprɒmɪnənt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "видный, заметный",
+  "def_en": "important and well known; easy to see",
+  "note_ru": "A prominent scientist — видный учёный. In a prominent place — на видном месте.",
+  "example": "She's a prominent lawyer in the city.",
+  "example_ru": "Она видный юрист в городе.",
+  "examples_extra": [
+   {"en": "Put the warning in a prominent place.", "ru": "Помести предупреждение на видное место."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-251",
+  "word": "remote",
+  "ipa": "/rɪˈməʊt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "удалённый, отдалённый",
+  "def_en": "far away; done from a distance",
+  "note_ru": "Remote village — глухая деревня, remote work — удалёнка, remote control — пульт.",
+  "example": "They live in a remote village.",
+  "example_ru": "Они живут в отдалённой деревне.",
+  "examples_extra": [
+   {"en": "Remote work suits me perfectly.", "ru": "Удалёнка мне идеально подходит."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-252",
+  "word": "tedious",
+  "ipa": "/ˈtiːdiəs/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "нудный, утомительный",
+  "def_en": "boring and taking a long time",
+  "note_ru": "Скучный от монотонности: tedious paperwork. Сильнее и противнее, чем boring.",
+  "example": "Filling in the forms was tedious.",
+  "example_ru": "Заполнение форм было нудным занятием.",
+  "examples_extra": [
+   {"en": "The journey grew tedious after ten hours.", "ru": "После десяти часов дорога стала утомительной."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "b2-253",
+  "word": "transparent",
+  "ipa": "/trænsˈpærənt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "прозрачный (и переносно)",
+  "def_en": "easy to see through; open and honest",
+  "note_ru": "Transparent pricing — прозрачные цены. Прозрачность процессов — transparency.",
+  "example": "The company is transparent about salaries.",
+  "example_ru": "Компания прозрачна в вопросе зарплат.",
+  "examples_extra": [
+   {"en": "The lid is transparent plastic.", "ru": "Крышка из прозрачного пластика."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-254",
+  "word": "urgent",
+  "ipa": "/ˈɜːdʒənt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "срочный",
+  "def_en": "needing action immediately",
+  "note_ru": "An urgent matter — срочное дело. Пометка в письмах: URGENT.",
+  "example": "It's urgent - call me back now.",
+  "example_ru": "Это срочно — перезвони прямо сейчас.",
+  "examples_extra": [
+   {"en": "The roof needs urgent repairs.", "ru": "Крыша требует срочного ремонта."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-255",
+  "word": "vague",
+  "ipa": "/veɪɡ/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "расплывчатый, смутный",
+  "def_en": "not clear or exact",
+  "note_ru": "A vague answer — уклончивый ответ. A vague memory — смутное воспоминание. Читается «вейг».",
+  "example": "His answer was deliberately vague.",
+  "example_ru": "Его ответ был нарочито расплывчатым.",
+  "examples_extra": [
+   {"en": "I have only a vague idea of the plan.", "ru": "О плане у меня лишь смутное представление."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b2-256",
+  "word": "vivid",
+  "ipa": "/ˈvɪvɪd/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "яркий (о памяти, описании, цвете)",
+  "def_en": "very clear and strong in the mind; bright",
+  "note_ru": "A vivid memory — яркое воспоминание, vivid imagination — живое воображение.",
+  "example": "I have a vivid memory of that day.",
+  "example_ru": "У меня яркое воспоминание о том дне.",
+  "examples_extra": [
+   {"en": "She paints in vivid colours.", "ru": "Она пишет яркими красками."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-257",
+  "word": "widespread",
+  "ipa": "/ˈwaɪdspred/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "широко распространённый",
+  "def_en": "happening in many places",
+  "note_ru": "Widespread support — широкая поддержка, widespread flooding — масштабные наводнения.",
+  "example": "The practice is widespread in the industry.",
+  "example_ru": "Эта практика широко распространена в отрасли.",
+  "examples_extra": [
+   {"en": "There was widespread confusion about the rules.", "ru": "Правила вызвали повсеместную путаницу."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-258",
+  "word": "compulsory",
+  "ipa": "/kəmˈpʌlsəri/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "обязательный",
+  "def_en": "required by rules or law",
+  "note_ru": "Compulsory education — обязательное образование. Синоним — mandatory.",
+  "example": "Helmets are compulsory on site.",
+  "example_ru": "Каски на объекте обязательны.",
+  "examples_extra": [
+   {"en": "Attendance is compulsory for first-years.", "ru": "Для первокурсников посещение обязательно."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-259",
+  "word": "voluntary",
+  "ipa": "/ˈvɒləntəri/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "добровольный",
+  "def_en": "done by choice, not because you must",
+  "note_ru": "Voluntary work — волонтёрство. Противоположность compulsory.",
+  "example": "The training is voluntary.",
+  "example_ru": "Обучение добровольное.",
+  "examples_extra": [
+   {"en": "She does voluntary work at the shelter.", "ru": "Она волонтёрит в приюте."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-260",
+  "word": "temporary",
+  "ipa": "/ˈtempərəri/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "временный",
+  "def_en": "lasting only a short time",
+  "note_ru": "A temporary job, a temporary fix. Временный работник — a temp.",
+  "example": "It's only a temporary solution.",
+  "example_ru": "Это лишь временное решение.",
+  "examples_extra": [
+   {"en": "The road is closed - temporary measure.", "ru": "Дорога закрыта — временная мера."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-261",
+  "word": "permanent",
+  "ipa": "/ˈpɜːmənənt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "постоянный",
+  "def_en": "lasting forever or a very long time",
+  "note_ru": "A permanent job — постоянная работа, permanent address — постоянный адрес.",
+  "example": "She's looking for a permanent position.",
+  "example_ru": "Она ищет постоянную должность.",
+  "examples_extra": [
+   {"en": "The marker leaves a permanent mark.", "ru": "Маркер оставляет несмываемый след."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-262",
+  "word": "gradual",
+  "ipa": "/ˈɡrædʒuəl/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "постепенный",
+  "def_en": "happening slowly over time",
+  "note_ru": "A gradual improvement — постепенное улучшение. Наречие gradually — постепенно.",
+  "example": "We saw a gradual improvement.",
+  "example_ru": "Мы наблюдали постепенное улучшение.",
+  "examples_extra": [
+   {"en": "The change was gradual but steady.", "ru": "Перемены были постепенными, но устойчивыми."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-263",
+  "word": "initial",
+  "ipa": "/ɪˈnɪʃəl/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "первоначальный",
+  "def_en": "happening at the beginning",
+  "note_ru": "Initial reaction — первая реакция. Initials — инициалы. Initially — поначалу.",
+  "example": "My initial reaction was to say no.",
+  "example_ru": "Моей первой реакцией было отказаться.",
+  "examples_extra": [
+   {"en": "The initial cost is high, but it pays off.", "ru": "Начальные затраты высоки, но они окупаются."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-264",
+  "word": "frequent",
+  "ipa": "/ˈfriːkwənt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "частый",
+  "def_en": "happening often",
+  "note_ru": "Frequent flyer — часто летающий пассажир. Наречие frequently = often, но формальнее.",
+  "example": "Delays are frequent on this line.",
+  "example_ru": "Задержки на этой ветке часты.",
+  "examples_extra": [
+   {"en": "He's a frequent guest on the show.", "ru": "Он частый гость этого шоу."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-265",
+  "word": "rare",
+  "ipa": "/reə/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "редкий; с кровью (о стейке)",
+  "def_en": "not happening often; lightly cooked",
+  "note_ru": "Rare birds — редкие птицы. В ресторане: rare / medium / well done — прожарка стейка!",
+  "example": "It's rare to see him angry.",
+  "example_ru": "Редко увидишь его злым.",
+  "examples_extra": [
+   {"en": "Medium rare, please.", "ru": "Средней прожарки с кровью, пожалуйста."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b2-266",
+  "word": "precise",
+  "ipa": "/prɪˈsaɪs/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "точный",
+  "def_en": "exact and accurate",
+  "note_ru": "To be precise — если быть точным. Precise instructions — точные указания.",
+  "example": "Give me the precise time of arrival.",
+  "example_ru": "Назови мне точное время прибытия.",
+  "examples_extra": [
+   {"en": "Three weeks - two, to be precise.", "ru": "Три недели — точнее, две."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b2-267",
+  "word": "efficient",
+  "ipa": "/ɪˈfɪʃənt/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "эффективный (без потерь ресурсов)",
+  "def_en": "working well without wasting time or energy",
+  "note_ru": "Efficient — экономно, effective — результативно. Обогреватель efficient (мало ест), лекарство effective (помогает).",
+  "example": "The new boiler is very efficient.",
+  "example_ru": "Новый котёл очень экономичен.",
+  "examples_extra": [
+   {"en": "She's the most efficient worker here.", "ru": "Она самый продуктивный работник здесь."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b2-268",
+  "word": "effective",
+  "ipa": "/ɪˈfektɪv/",
+  "pos": "adj",
+  "level": "B2",
+  "ru": "действенный, дающий результат",
+  "def_en": "producing the result you want",
+  "note_ru": "Пара к efficient. Effective from Monday — вступает в силу с понедельника.",
+  "example": "The ad campaign was very effective.",
+  "example_ru": "Рекламная кампания оказалась очень действенной.",
+  "examples_extra": [
+   {"en": "The new rules are effective from May.", "ru": "Новые правила действуют с мая."}
+  ],
+  "topic": "work"
+ }
+]

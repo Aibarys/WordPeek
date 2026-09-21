@@ -1,0 +1,434 @@
+[
+ {
+  "id": "b1-242",
+  "word": "compare",
+  "ipa": "/kəmˈpeə/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "сравнивать",
+  "def_en": "to look at differences and similarities",
+  "note_ru": "Compare with или to — оба живут. Compared to last year — по сравнению с прошлым годом.",
+  "example": "Compare the prices before you buy.",
+  "example_ru": "Сравни цены, прежде чем покупать.",
+  "examples_extra": [
+   {"en": "Compared to July, August was cool.", "ru": "По сравнению с июлем август был прохладным."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-243",
+  "word": "prove",
+  "ipa": "/pruːv/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "доказывать",
+  "def_en": "to show that something is true",
+  "note_ru": "Prove — глагол, proof — существительное «доказательство». Читается «прув».",
+  "example": "Can you prove it?",
+  "example_ru": "Можешь это доказать?",
+  "examples_extra": [
+   {"en": "The receipt proves I paid.", "ru": "Чек доказывает, что я заплатил."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-244",
+  "word": "seem",
+  "ipa": "/siːm/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "казаться",
+  "def_en": "to appear to be",
+  "note_ru": "He seems tired — он кажется уставшим. It seems that... — похоже, что... Простое слово, которое избегают зря.",
+  "example": "You seem worried today.",
+  "example_ru": "Ты сегодня кажешься обеспокоенным.",
+  "examples_extra": [
+   {"en": "It seems that the shop is closed.", "ru": "Похоже, магазин закрыт."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-245",
+  "word": "belong",
+  "ipa": "/bɪˈlɒŋ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "принадлежать; быть на своём месте",
+  "def_en": "to be someone's property; to be in the right place",
+  "note_ru": "Belong to: кому это принадлежит? — who does this belong to?",
+  "example": "This bag belongs to my sister.",
+  "example_ru": "Эта сумка принадлежит моей сестре.",
+  "examples_extra": [
+   {"en": "I finally feel I belong here.", "ru": "Я наконец чувствую себя здесь своим."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-246",
+  "word": "matter",
+  "ipa": "/ˈmætə/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "иметь значение",
+  "def_en": "to be important",
+  "note_ru": "It doesn't matter — неважно, ничего страшного. What's the matter? — что случилось?",
+  "example": "It doesn't matter who started it.",
+  "example_ru": "Неважно, кто это начал.",
+  "examples_extra": [
+   {"en": "Your opinion matters to me.", "ru": "Твоё мнение важно для меня."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-247",
+  "word": "own",
+  "ipa": "/əʊn/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "владеть; собственный",
+  "def_en": "to have something as your property",
+  "note_ru": "My own room — моя собственная комната. On my own — сам, в одиночку.",
+  "example": "They own a small café.",
+  "example_ru": "Они владеют маленьким кафе.",
+  "examples_extra": [
+   {"en": "She fixed it on her own.", "ru": "Она починила это сама."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-248",
+  "word": "cancel",
+  "ipa": "/ˈkænsəl/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "отменять",
+  "def_en": "to say a planned event will not happen",
+  "note_ru": "Cancel a meeting, cancel an order. Отменить в последний момент — call off.",
+  "example": "They cancelled the flight.",
+  "example_ru": "Рейс отменили.",
+  "examples_extra": [
+   {"en": "I had to cancel my subscription.", "ru": "Мне пришлось отменить подписку."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "b1-249",
+  "word": "postpone",
+  "ipa": "/pəˈspəʊn/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "переносить на позже",
+  "def_en": "to move an event to a later time",
+  "note_ru": "Postpone — формальнее, put off — разговорнее. Postpone until Friday.",
+  "example": "The match was postponed until Sunday.",
+  "example_ru": "Матч перенесли на воскресенье.",
+  "examples_extra": [
+   {"en": "Let's postpone the decision a week.", "ru": "Давайте отложим решение на неделю."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-250",
+  "word": "confirm",
+  "ipa": "/kənˈfɜːm/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "подтверждать",
+  "def_en": "to say that something is definite",
+  "note_ru": "Confirm the booking — подтвердить бронь. Письмо-подтверждение — confirmation email.",
+  "example": "Please confirm your reservation.",
+  "example_ru": "Пожалуйста, подтвердите бронирование.",
+  "examples_extra": [
+   {"en": "He confirmed that the meeting is on.", "ru": "Он подтвердил, что встреча состоится."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-251",
+  "word": "exchange",
+  "ipa": "/ɪksˈtʃeɪndʒ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "обменивать",
+  "def_en": "to give one thing and get another",
+  "note_ru": "Exchange money — обменять валюту, exchange a shirt for a bigger size — с for.",
+  "example": "Can I exchange this for a larger one?",
+  "example_ru": "Можно обменять это на размер побольше?",
+  "examples_extra": [
+   {"en": "We exchanged phone numbers.", "ru": "Мы обменялись номерами."}
+  ],
+  "topic": "shopping"
+ },
+ {
+  "id": "b1-252",
+  "word": "sign",
+  "ipa": "/saɪn/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "подписывать; знак",
+  "def_en": "to write your name on a document; a symbol",
+  "note_ru": "G не читается: «сайн». Sign here, please. Подпись — signature.",
+  "example": "Sign here, please.",
+  "example_ru": "Подпишите здесь, пожалуйста.",
+  "examples_extra": [
+   {"en": "It's a good sign that they called back.", "ru": "То, что они перезвонили, — хороший знак."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "b1-253",
+  "word": "charge",
+  "ipa": "/tʃɑːdʒ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "заряжать; брать плату",
+  "def_en": "to put power into a battery; to ask money for something",
+  "note_ru": "Charge the phone и they charged me ten euros. Free of charge — бесплатно.",
+  "example": "I need to charge my phone.",
+  "example_ru": "Мне нужно зарядить телефон.",
+  "examples_extra": [
+   {"en": "They charged us extra for the luggage.", "ru": "С нас взяли доплату за багаж."}
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-254",
+  "word": "switch",
+  "ipa": "/swɪtʃ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "переключить(ся), сменить",
+  "def_en": "to change from one thing to another",
+  "note_ru": "Switch to English — перейти на английский. Switch seats — поменяться местами.",
+  "example": "Let's switch to plan B.",
+  "example_ru": "Переключимся на план Б.",
+  "examples_extra": [
+   {"en": "I switched banks last year.", "ru": "В прошлом году я сменил банк."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "b1-255",
+  "word": "press",
+  "ipa": "/pres/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "нажимать",
+  "def_en": "to push a button",
+  "note_ru": "Press the button, но click в интерфейсах: click OK. Физическая кнопка — press.",
+  "example": "Press the green button to start.",
+  "example_ru": "Нажми зелёную кнопку, чтобы начать.",
+  "examples_extra": [
+   {"en": "Press and hold for three seconds.", "ru": "Нажми и удерживай три секунды."}
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-256",
+  "word": "download",
+  "ipa": "/ˌdaʊnˈləʊd/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "скачивать",
+  "def_en": "to copy a file from the internet to your device",
+  "note_ru": "Download — себе, upload — в сеть. Скачай приложение — download the app.",
+  "example": "Download the app for free.",
+  "example_ru": "Скачай приложение бесплатно.",
+  "examples_extra": [
+   {"en": "The film takes ages to download.", "ru": "Фильм скачивается целую вечность."}
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-257",
+  "word": "install",
+  "ipa": "/ɪnˈstɔːl/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "устанавливать",
+  "def_en": "to put a program on a device or equipment in a place",
+  "note_ru": "Install an app, install a washing machine — и софт, и техника.",
+  "example": "Install the update tonight.",
+  "example_ru": "Установи обновление вечером.",
+  "examples_extra": [
+   {"en": "They installed a new boiler.", "ru": "Они установили новый бойлер."}
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-258",
+  "word": "delete",
+  "ipa": "/dɪˈliːt/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "удалять",
+  "def_en": "to remove a file or text",
+  "note_ru": "Delete a message, delete an account. В реальном мире «удалить пятно» — remove, не delete.",
+  "example": "I deleted the photo by accident.",
+  "example_ru": "Я случайно удалил фотографию.",
+  "examples_extra": [
+   {"en": "Delete the old files to free up space.", "ru": "Удали старые файлы, чтобы освободить место."}
+  ],
+  "topic": "tech"
+ },
+ {
+  "id": "b1-259",
+  "word": "fever",
+  "ipa": "/ˈfiːvə/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "жар, высокая температура",
+  "def_en": "a body temperature higher than normal",
+  "note_ru": "У меня температура — I have a fever, а не «I have temperature».",
+  "example": "She's in bed with a fever.",
+  "example_ru": "Она лежит с температурой.",
+  "examples_extra": [
+   {"en": "The fever broke during the night.", "ru": "Ночью жар спал."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-260",
+  "word": "cough",
+  "ipa": "/kɒf/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "кашель; кашлять",
+  "def_en": "the act of pushing air out of your throat noisily",
+  "note_ru": "Читается «коф»! Одно из самых коварных произношений: cough, enough, through — всё разное.",
+  "example": "I can't get rid of this cough.",
+  "example_ru": "Никак не могу избавиться от этого кашля.",
+  "examples_extra": [
+   {"en": "He was coughing all night.", "ru": "Он кашлял всю ночь."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-261",
+  "word": "pill",
+  "ipa": "/pɪl/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "таблетка",
+  "def_en": "a small round piece of medicine you swallow",
+  "note_ru": "Take a pill — выпить таблетку (не drink!). Синоним — tablet.",
+  "example": "Take one pill after meals.",
+  "example_ru": "Принимай по одной таблетке после еды.",
+  "examples_extra": [
+   {"en": "These pills make me sleepy.", "ru": "От этих таблеток меня клонит в сон."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-262",
+  "word": "prescription",
+  "ipa": "/prɪˈskrɪpʃən/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "рецепт (от врача)",
+  "def_en": "a doctor's written order for medicine",
+  "note_ru": "Рецепт врача — prescription, кулинарный рецепт — recipe. Не перепутай!",
+  "example": "This medicine is only sold on prescription.",
+  "example_ru": "Это лекарство продаётся только по рецепту.",
+  "examples_extra": [
+   {"en": "The doctor wrote me a prescription.", "ru": "Врач выписал мне рецепт."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-263",
+  "word": "recover",
+  "ipa": "/rɪˈkʌvə/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "выздоравливать; восстанавливаться",
+  "def_en": "to become healthy or normal again",
+  "note_ru": "Recover from: он оправился от гриппа — recovered from the flu. И про экономику тоже.",
+  "example": "She's recovering from the operation.",
+  "example_ru": "Она восстанавливается после операции.",
+  "examples_extra": [
+   {"en": "It took him a month to fully recover.", "ru": "Ему понадобился месяц, чтобы полностью выздороветь."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "b1-264",
+  "word": "sightseeing",
+  "ipa": "/ˈsaɪtsiːɪŋ/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "осмотр достопримечательностей",
+  "def_en": "visiting interesting places as a tourist",
+  "note_ru": "Go sightseeing — гулять по достопримечательностям. Сами достопримечательности — sights.",
+  "example": "We spent the morning sightseeing.",
+  "example_ru": "Утро мы провели, осматривая достопримечательности.",
+  "examples_extra": [
+   {"en": "The city is perfect for sightseeing on foot.", "ru": "Этот город идеален для пеших прогулок по достопримечательностям."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "b1-265",
+  "word": "accommodation",
+  "ipa": "/əˌkɒməˈdeɪʃən/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "жильё (на время)",
+  "def_en": "a place to stay or live",
+  "note_ru": "Неисчисляемое в BrE: accommodation is expensive. Две c, две m — чемпион по опечаткам.",
+  "example": "The price includes accommodation.",
+  "example_ru": "В цену включено проживание.",
+  "examples_extra": [
+   {"en": "We're still looking for accommodation.", "ru": "Мы всё ещё ищем жильё."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "b1-266",
+  "word": "destination",
+  "ipa": "/ˌdestɪˈneɪʃən/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "пункт назначения",
+  "def_en": "the place you are travelling to",
+  "note_ru": "Популярное направление — a popular destination. В навигаторе: you have reached your destination.",
+  "example": "We reached our destination at midnight.",
+  "example_ru": "Мы добрались до места назначения в полночь.",
+  "examples_extra": [
+   {"en": "Lisbon is a popular holiday destination.", "ru": "Лиссабон — популярное направление для отпуска."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "b1-267",
+  "word": "departure",
+  "ipa": "/dɪˈpɑːtʃə/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "отправление, вылет",
+  "def_en": "the act of leaving a place",
+  "note_ru": "Табло вылетов — departures, прилёты — arrivals. Departure time — время отправления.",
+  "example": "Check the departure time twice.",
+  "example_ru": "Дважды проверь время вылета.",
+  "examples_extra": [
+   {"en": "Our departure was delayed by fog.", "ru": "Наш вылет задержали из-за тумана."}
+  ],
+  "topic": "travel"
+ },
+ {
+  "id": "b1-268",
+  "word": "border",
+  "ipa": "/ˈbɔːdə/",
+  "pos": "noun",
+  "level": "B1",
+  "ru": "граница",
+  "def_en": "the line between two countries",
+  "note_ru": "Cross the border — пересечь границу. Границы личные — boundaries, не borders.",
+  "example": "We crossed the border at dawn.",
+  "example_ru": "Мы пересекли границу на рассвете.",
+  "examples_extra": [
+   {"en": "The town sits right on the border.", "ru": "Городок стоит прямо на границе."}
+  ],
+  "topic": "travel"
+ }
+]

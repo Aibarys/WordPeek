@@ -1,0 +1,444 @@
+[
+ {
+  "id": "b2-179",
+  "word": "follow up",
+  "ipa": "/ˈfɒləʊ ʌp/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "проконтролировать продолжение, вернуться к вопросу",
+  "def_en": "to take further action on something",
+  "note_ru": "Рабочая классика: follow up on the email — напомнить о письме. Follow-up — «созвон по итогам».",
+  "example": "I'll follow up on this next week.",
+  "example_ru": "Я вернусь к этому вопросу на следующей неделе.",
+  "examples_extra": [
+   {"en": "Did anyone follow up with the client?", "ru": "Кто-нибудь связался с клиентом по итогам?"},
+   {"en": "Follow up your interview with a short email.", "ru": "После собеседования отправь короткое письмо-напоминание."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-180",
+  "word": "narrow down",
+  "ipa": "/ˈnærəʊ daʊn/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "сузить (выбор)",
+  "def_en": "to reduce the number of options",
+  "note_ru": "Narrow down the list to three — сузить список до трёх.",
+  "example": "We narrowed the choice down to two flats.",
+  "example_ru": "Мы сузили выбор до двух квартир.",
+  "examples_extra": [
+   {"en": "Can you narrow down the dates?", "ru": "Можешь сузить диапазон дат?"},
+   {"en": "The police narrowed down the suspects.", "ru": "Полиция сузила круг подозреваемых."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-181",
+  "word": "iron out",
+  "ipa": "/ˈaɪən aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "утрясти, сгладить (проблемы)",
+  "def_en": "to remove small problems",
+  "note_ru": "«Разгладить утюгом» шероховатости: iron out the details.",
+  "example": "We still need to iron out a few details.",
+  "example_ru": "Нам ещё нужно утрясти пару деталей.",
+  "examples_extra": [
+   {"en": "They ironed out their differences.", "ru": "Они сгладили свои разногласия."},
+   {"en": "The bugs were ironed out before launch.", "ru": "Баги устранили до запуска."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-182",
+  "word": "single out",
+  "ipa": "/ˈsɪŋɡəl aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "выделить (одного из многих)",
+  "def_en": "to choose one person or thing from a group",
+  "note_ru": "И в хорошем, и в плохом: singled out for praise / for criticism.",
+  "example": "The coach singled her out for praise.",
+  "example_ru": "Тренер особо отметил её похвалой.",
+  "examples_extra": [
+   {"en": "Why single me out? Everyone was late.", "ru": "Почему именно я? Все опоздали."},
+   {"en": "The report singles out two problems.", "ru": "Отчёт особо выделяет две проблемы."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-183",
+  "word": "opt out",
+  "ipa": "/ɒpt aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "отказаться от участия",
+  "def_en": "to choose not to take part",
+  "note_ru": "Opt out of the newsletter — отписаться. Противоположность — opt in.",
+  "example": "You can opt out at any time.",
+  "example_ru": "Вы можете отказаться в любой момент.",
+  "examples_extra": [
+   {"en": "Half the team opted out of the trip.", "ru": "Половина команды отказалась от поездки."},
+   {"en": "I opted out of the extra insurance.", "ru": "Я отказался от дополнительной страховки."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-184",
+  "word": "factor in",
+  "ipa": "/ˈfæktər ɪn/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "учесть в расчётах",
+  "def_en": "to include something when calculating",
+  "note_ru": "Factor in the taxes — заложи налоги в расчёт.",
+  "example": "Don't forget to factor in delivery costs.",
+  "example_ru": "Не забудь учесть стоимость доставки.",
+  "examples_extra": [
+   {"en": "We factored in a week for testing.", "ru": "Мы заложили неделю на тестирование."},
+   {"en": "Factor in the jet lag when you plan.", "ru": "Планируя, учти джетлаг."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-185",
+  "word": "flesh out",
+  "ipa": "/fleʃ aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "детализировать, наполнить содержанием",
+  "def_en": "to add details to an idea",
+  "note_ru": "«Нарастить мясо» на скелет идеи: flesh out the proposal.",
+  "example": "Let's flesh out the plan before the pitch.",
+  "example_ru": "Давайте детализируем план перед презентацией.",
+  "examples_extra": [
+   {"en": "The writer fleshed out the minor characters.", "ru": "Писатель проработал второстепенных персонажей."},
+   {"en": "These notes need fleshing out.", "ru": "Эти наброски нужно наполнить деталями."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-186",
+  "word": "roll out",
+  "ipa": "/rəʊl aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "запустить, развернуть (продукт, фичу)",
+  "def_en": "to launch something for many users",
+  "note_ru": "Айтишная классика: roll out the update gradually — выкатывать обновление постепенно.",
+  "example": "The feature rolls out next month.",
+  "example_ru": "Функция выкатывается в следующем месяце.",
+  "examples_extra": [
+   {"en": "They rolled out the new menu in ten cities.", "ru": "Новое меню запустили в десяти городах."},
+   {"en": "The update was rolled out overnight.", "ru": "Обновление развернули за ночь."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-187",
+  "word": "spell out",
+  "ipa": "/spel aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "разжевать, объяснить прямо",
+  "def_en": "to explain something very clearly and directly",
+  "note_ru": "Do I have to spell it out? — «мне что, по буквам объяснить?».",
+  "example": "The contract spells out every duty.",
+  "example_ru": "В контракте прямо прописана каждая обязанность.",
+  "examples_extra": [
+   {"en": "Let me spell out what this means for us.", "ru": "Позвольте прямо объяснить, что это для нас значит."},
+   {"en": "He spelled out the risks one by one.", "ru": "Он по пунктам разжевал все риски."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-188",
+  "word": "think through",
+  "ipa": "/θɪŋk θruː/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "продумать до конца",
+  "def_en": "to consider all parts of a plan carefully",
+  "note_ru": "Think it through — обдумай как следует, со всеми последствиями.",
+  "example": "Think it through before you resign.",
+  "example_ru": "Продумай всё как следует, прежде чем увольняться.",
+  "examples_extra": [
+   {"en": "The plan wasn't thought through.", "ru": "План не был продуман до конца."},
+   {"en": "Give me a day to think things through.", "ru": "Дай мне день всё обдумать."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-189",
+  "word": "run by",
+  "ipa": "/rʌn baɪ/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "показать на согласование, посоветоваться",
+  "def_en": "to tell someone an idea to get their opinion",
+  "note_ru": "Run it by the boss — покажи это боссу. Run that by me again — повтори-ка ещё раз.",
+  "example": "Let me run this idea by you.",
+  "example_ru": "Дай я обкатаю эту идею на тебе.",
+  "examples_extra": [
+   {"en": "Run the text by legal first.", "ru": "Сначала согласуй текст с юристами."},
+   {"en": "Can you run that by me again?", "ru": "Можешь повторить это ещё раз?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-190",
+  "word": "sign off",
+  "ipa": "/saɪn ɒf/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "утвердить; попрощаться в эфире",
+  "def_en": "to formally approve; to end a broadcast or letter",
+  "note_ru": "Sign off on the design — дать финальное добро. В письмах: время прощаться — I'll sign off here.",
+  "example": "The director signed off on the budget.",
+  "example_ru": "Директор утвердил бюджет.",
+  "examples_extra": [
+   {"en": "We can't print until they sign off.", "ru": "Мы не можем печатать, пока они не утвердят."},
+   {"en": "Time to sign off - see you tomorrow.", "ru": "Пора закругляться — до завтра."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-191",
+  "word": "wind down",
+  "ipa": "/waɪnd daʊn/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "сбавлять обороты; расслабляться",
+  "def_en": "to gradually reduce activity; to relax",
+  "note_ru": "Wind произносится «уайнд». Wind down after work — выдохнуть после работы.",
+  "example": "I need an hour to wind down after work.",
+  "example_ru": "Мне нужен час, чтобы выдохнуть после работы.",
+  "examples_extra": [
+   {"en": "The company is winding down the project.", "ru": "Компания сворачивает проект."},
+   {"en": "Music helps me wind down.", "ru": "Музыка помогает мне расслабиться."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-192",
+  "word": "wrap up",
+  "ipa": "/ræp ʌp/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "завершить; укутаться",
+  "def_en": "to finish something; to dress warmly",
+  "note_ru": "Let's wrap up — «давайте закругляться». Wrap up warm — оденься теплее!",
+  "example": "Let's wrap up the meeting.",
+  "example_ru": "Давайте завершать встречу.",
+  "examples_extra": [
+   {"en": "We wrapped up the project on Friday.", "ru": "Мы закрыли проект в пятницу."},
+   {"en": "Wrap up warm, it's freezing out.", "ru": "Укутайся потеплее, на улице мороз."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-193",
+  "word": "touch on",
+  "ipa": "/tʌtʃ ɒn/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "затронуть (тему)",
+  "def_en": "to mention a subject briefly",
+  "note_ru": "The talk touched on privacy — доклад коснулся приватности. Кратко, без погружения.",
+  "example": "We only touched on the pricing question.",
+  "example_ru": "Вопрос цены мы затронули лишь вскользь.",
+  "examples_extra": [
+   {"en": "The article touches on three themes.", "ru": "Статья затрагивает три темы."},
+   {"en": "He touched on his childhood in the interview.", "ru": "В интервью он коснулся своего детства."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-194",
+  "word": "weigh up",
+  "ipa": "/weɪ ʌp/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "взвесить (варианты)",
+  "def_en": "to compare advantages and disadvantages",
+  "note_ru": "Weigh up the pros and cons — взвесить за и против.",
+  "example": "We're weighing up both offers.",
+  "example_ru": "Мы взвешиваем оба предложения.",
+  "examples_extra": [
+   {"en": "Weigh up the risks before you invest.", "ru": "Взвесь риски, прежде чем вкладываться."},
+   {"en": "She weighed up her options carefully.", "ru": "Она тщательно взвесила свои варианты."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-195",
+  "word": "put forward",
+  "ipa": "/pʊt ˈfɔːwəd/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "выдвинуть (идею, кандидата)",
+  "def_en": "to suggest an idea or person for consideration",
+  "note_ru": "Put forward a proposal — внести предложение. Формальнее, чем suggest.",
+  "example": "She put forward a bold proposal.",
+  "example_ru": "Она выдвинула смелое предложение.",
+  "examples_extra": [
+   {"en": "His name was put forward for the award.", "ru": "Его кандидатуру выдвинули на премию."},
+   {"en": "Two plans were put forward at the meeting.", "ru": "На собрании выдвинули два плана."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-196",
+  "word": "push back",
+  "ipa": "/pʊʃ bæk/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "возразить, сопротивляться; перенести позже",
+  "def_en": "to resist a plan; to delay something",
+  "note_ru": "Два офисных смысла: the team pushed back on the idea и push back the meeting to 4pm.",
+  "example": "The team pushed back on the new schedule.",
+  "example_ru": "Команда воспротивилась новому графику.",
+  "examples_extra": [
+   {"en": "Can we push the call back an hour?", "ru": "Можем сдвинуть созвон на час позже?"},
+   {"en": "Expect some pushback from the clients.", "ru": "Ожидай сопротивления со стороны клиентов."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-197",
+  "word": "step down",
+  "ipa": "/step daʊn/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "уйти с поста",
+  "def_en": "to leave an important job or position",
+  "note_ru": "Мягче, чем resign: step down as chairman — покинуть пост председателя.",
+  "example": "The CEO stepped down after eight years.",
+  "example_ru": "Гендиректор покинул пост после восьми лет.",
+  "examples_extra": [
+   {"en": "She stepped down for family reasons.", "ru": "Она ушла с поста по семейным обстоятельствам."},
+   {"en": "Calls for him to step down grew louder.", "ru": "Призывы к его отставке становились громче."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-198",
+  "word": "take over",
+  "ipa": "/teɪk ˈəʊvə/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "принять управление; поглотить (компанию)",
+  "def_en": "to take control of something",
+  "note_ru": "Take over the family business — принять семейное дело. Takeover — поглощение компании.",
+  "example": "She took over the project in May.",
+  "example_ru": "Она приняла проект в мае.",
+  "examples_extra": [
+   {"en": "A bigger firm took over our company.", "ru": "Нашу компанию поглотила фирма покрупнее."},
+   {"en": "Can you take over while I'm away?", "ru": "Подхватишь дела, пока меня нет?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-199",
+  "word": "hand over",
+  "ipa": "/hænd ˈəʊvə/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "передать (дела, вещь)",
+  "def_en": "to give something to someone else",
+  "note_ru": "Hand over the keys — передать ключи. Передача дел — handover.",
+  "example": "He handed over the keys to the new owner.",
+  "example_ru": "Он передал ключи новому владельцу.",
+  "examples_extra": [
+   {"en": "I'm handing over my projects this week.", "ru": "На этой неделе я передаю свои проекты."},
+   {"en": "The thief was handed over to the police.", "ru": "Вора передали полиции."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-200",
+  "word": "back down",
+  "ipa": "/bæk daʊn/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "отступить, пойти на попятную",
+  "def_en": "to stop demanding something after opposition",
+  "note_ru": "Neither side backed down — ни одна сторона не уступила. Про споры и требования.",
+  "example": "He refused to back down.",
+  "example_ru": "Он отказался идти на попятную.",
+  "examples_extra": [
+   {"en": "The company backed down after the protests.", "ru": "После протестов компания отступила."},
+   {"en": "She never backs down in an argument.", "ru": "В споре она никогда не отступает."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-201",
+  "word": "pan out",
+  "ipa": "/pæn aʊt/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "сложиться, получиться (о планах)",
+  "def_en": "to develop or end in a particular way",
+  "note_ru": "Let's see how it pans out — посмотрим, как всё сложится. Из золотоискательства!",
+  "example": "The plan didn't pan out.",
+  "example_ru": "План не сложился.",
+  "examples_extra": [
+   {"en": "Let's see how the trial week pans out.", "ru": "Посмотрим, как пройдёт пробная неделя."},
+   {"en": "Things panned out better than expected.", "ru": "Всё сложилось лучше, чем ожидалось."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-202",
+  "word": "fall through",
+  "ipa": "/fɔːl θruː/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "сорваться (о сделке, планах)",
+  "def_en": "to fail to happen",
+  "note_ru": "The deal fell through — сделка сорвалась. Про планы, продажи, договорённости.",
+  "example": "Our holiday plans fell through.",
+  "example_ru": "Наши планы на отпуск сорвались.",
+  "examples_extra": [
+   {"en": "The sale fell through at the last minute.", "ru": "Продажа сорвалась в последний момент."},
+   {"en": "If this falls through, we have a plan B.", "ru": "Если это сорвётся, у нас есть план Б."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-203",
+  "word": "drag on",
+  "ipa": "/dræɡ ɒn/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "затянуться (нудно)",
+  "def_en": "to continue for too long",
+  "note_ru": "The meeting dragged on — собрание тянулось бесконечно. С оттенком скуки.",
+  "example": "The talks dragged on for months.",
+  "example_ru": "Переговоры тянулись месяцами.",
+  "examples_extra": [
+   {"en": "The film dragged on and on.", "ru": "Фильм всё тянулся и тянулся."},
+   {"en": "Don't let the case drag on.", "ru": "Не дайте делу затянуться."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b2-204",
+  "word": "look up to",
+  "ipa": "/lʊk ʌp tuː/",
+  "pos": "phrasal verb",
+  "level": "B2",
+  "ru": "равняться на, уважать",
+  "def_en": "to admire and respect someone",
+  "note_ru": "Смотреть «снизу вверх» с уважением. Противоположность — look down on (смотреть свысока).",
+  "example": "Kids look up to their coaches.",
+  "example_ru": "Дети равняются на своих тренеров.",
+  "examples_extra": [
+   {"en": "I've always looked up to my grandmother.", "ru": "Я всегда равнялся на бабушку."},
+   {"en": "Don't look down on beginners.", "ru": "Не смотри свысока на новичков."}
+  ],
+  "topic": "phrasal"
+ }
+]

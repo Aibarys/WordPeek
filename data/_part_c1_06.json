@@ -1,0 +1,404 @@
+[
+ {
+  "id": "c1-126",
+  "word": "falter",
+  "ipa": "/ˈfɔːltə/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "дать сбой, дрогнуть",
+  "def_en": "to become weaker or less certain",
+  "note_ru": "The economy faltered — экономика забуксовала. Голос дрогнул — her voice faltered.",
+  "example": "His voice faltered at the question.",
+  "example_ru": "На этом вопросе его голос дрогнул.",
+  "examples_extra": [
+   {"en": "The recovery faltered in autumn.", "ru": "Осенью восстановление забуксовало."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-127",
+  "word": "foster",
+  "ipa": "/ˈfɒstə/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "взращивать, способствовать развитию",
+  "def_en": "to encourage something to develop",
+  "note_ru": "Foster trust / creativity — культивировать. Ещё foster family — приёмная семья.",
+  "example": "Small teams foster open discussion.",
+  "example_ru": "Маленькие команды способствуют открытому обсуждению.",
+  "examples_extra": [
+   {"en": "The school fosters a love of reading.", "ru": "Школа прививает любовь к чтению."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-128",
+  "word": "curb",
+  "ipa": "/kɜːb/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "обуздать, сдержать",
+  "def_en": "to control or limit something",
+  "note_ru": "Curb inflation / spending / enthusiasm — притормозить. Дословно — «взнуздать».",
+  "example": "The bank tried to curb inflation.",
+  "example_ru": "Банк пытался обуздать инфляцию.",
+  "examples_extra": [
+   {"en": "I need to curb my online shopping.", "ru": "Мне нужно умерить свой онлайн-шопинг."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-129",
+  "word": "avert",
+  "ipa": "/əˈvɜːt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "предотвратить",
+  "def_en": "to prevent something bad from happening",
+  "note_ru": "Avert a crisis / disaster. Avert your eyes — отвести взгляд.",
+  "example": "Quick action averted a disaster.",
+  "example_ru": "Быстрые действия предотвратили катастрофу.",
+  "examples_extra": [
+   {"en": "The strike was averted at the last minute.", "ru": "Забастовку предотвратили в последнюю минуту."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-130",
+  "word": "deem",
+  "ipa": "/diːm/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "считать, признавать (формально)",
+  "def_en": "to consider or judge something in a stated way",
+  "note_ru": "Формальный consider: deemed safe — признан безопасным. Любимец юридических текстов.",
+  "example": "The building was deemed unsafe.",
+  "example_ru": "Здание признали небезопасным.",
+  "examples_extra": [
+   {"en": "The offer was deemed too risky.", "ru": "Предложение сочли слишком рискованным."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-131",
+  "word": "deter",
+  "ipa": "/dɪˈtɜː/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "отпугнуть, удержать от",
+  "def_en": "to make someone decide not to do something",
+  "note_ru": "Deter someone from doing. Средство устрашения — deterrent.",
+  "example": "High prices deter many buyers.",
+  "example_ru": "Высокие цены отпугивают многих покупателей.",
+  "examples_extra": [
+   {"en": "The rain didn't deter the fans.", "ru": "Дождь не остановил болельщиков."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-132",
+  "word": "devise",
+  "ipa": "/dɪˈvaɪz/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "разработать, изобрести (план, способ)",
+  "def_en": "to invent a plan or method",
+  "note_ru": "Devise a scheme — придумать хитрую схему. Оттенок изобретательности.",
+  "example": "They devised a clever workaround.",
+  "example_ru": "Они придумали хитрый обходной путь.",
+  "examples_extra": [
+   {"en": "We devised a system for sharing chores.", "ru": "Мы разработали систему распределения домашних дел."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-133",
+  "word": "embark on",
+  "ipa": "/ɪmˈbɑːk ɒn/",
+  "pos": "phrasal verb",
+  "level": "C1",
+  "ru": "взяться за, пуститься в",
+  "def_en": "to start something new and important",
+  "note_ru": "Embark on a journey / career / project. Дословно — «взойти на борт».",
+  "example": "She embarked on a new career at forty.",
+  "example_ru": "В сорок она пустилась в новую карьеру.",
+  "examples_extra": [
+   {"en": "The city embarked on a huge renovation.", "ru": "Город взялся за масштабную реконструкцию."},
+   {"en": "Think twice before embarking on this path.", "ru": "Подумай дважды, прежде чем вставать на этот путь."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "c1-134",
+  "word": "evoke",
+  "ipa": "/ɪˈvəʊk/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "вызывать (чувство, образ)",
+  "def_en": "to bring a feeling or memory to mind",
+  "note_ru": "Evoke memories / emotions. Вызвать врача — call, вызвать чувство — evoke.",
+  "example": "The song evokes my school years.",
+  "example_ru": "Эта песня вызывает в памяти школьные годы.",
+  "examples_extra": [
+   {"en": "The photos evoke a strong sense of place.", "ru": "Фотографии рождают яркое ощущение места."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-135",
+  "word": "exert",
+  "ipa": "/ɪɡˈzɜːt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "оказывать (давление, влияние)",
+  "def_en": "to use power or influence",
+  "note_ru": "Exert pressure / influence. Exert yourself — напрячься, выложиться.",
+  "example": "Investors exerted pressure on the board.",
+  "example_ru": "Инвесторы оказывали давление на совет директоров.",
+  "examples_extra": [
+   {"en": "Don't exert yourself after the surgery.", "ru": "Не перенапрягайся после операции."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-136",
+  "word": "forge",
+  "ipa": "/fɔːdʒ/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "выковать (отношения); подделать",
+  "def_en": "to build something strong; to fake a document",
+  "note_ru": "Два смысла: forge ties — наладить связи, forge a signature — подделать подпись.",
+  "example": "The two firms forged a close partnership.",
+  "example_ru": "Две компании выковали тесное партнёрство.",
+  "examples_extra": [
+   {"en": "He forged his boss's signature.", "ru": "Он подделал подпись начальника."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-137",
+  "word": "gauge",
+  "ipa": "/ɡeɪdʒ/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "оценить, измерить (настроение, масштаб)",
+  "def_en": "to judge or measure something",
+  "note_ru": "Gauge the mood — прощупать настроение. Пишется хитро: g-a-u-g-e, читается «гейдж».",
+  "example": "It's hard to gauge his reaction.",
+  "example_ru": "Его реакцию трудно оценить.",
+  "examples_extra": [
+   {"en": "We ran a poll to gauge interest.", "ru": "Мы запустили опрос, чтобы оценить интерес."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-138",
+  "word": "infer",
+  "ipa": "/ɪnˈfɜː/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "сделать вывод (из намёков)",
+  "def_en": "to reach a conclusion from evidence",
+  "note_ru": "Пара к imply: говорящий implies (намекает), слушатель infers (делает вывод).",
+  "example": "From her tone, I inferred she was against it.",
+  "example_ru": "По её тону я заключил, что она против.",
+  "examples_extra": [
+   {"en": "What can we infer from these numbers?", "ru": "Какой вывод можно сделать из этих цифр?"}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-139",
+  "word": "render",
+  "ipa": "/ˈrendə/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "сделать каким-то; оказать (услугу)",
+  "def_en": "to cause to become; to provide",
+  "note_ru": "Render useless — сделать бесполезным. For services rendered — за оказанные услуги.",
+  "example": "The storm rendered the road impassable.",
+  "example_ru": "Буря сделала дорогу непроезжей.",
+  "examples_extra": [
+   {"en": "The news rendered her speechless.", "ru": "Новость лишила её дара речи."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-140",
+  "word": "resort to",
+  "ipa": "/rɪˈzɔːt tuː/",
+  "pos": "phrasal verb",
+  "level": "C1",
+  "ru": "прибегнуть к (крайнему)",
+  "def_en": "to use something bad because nothing else works",
+  "note_ru": "Resort to threats — докатиться до угроз. As a last resort — в крайнем случае.",
+  "example": "We had to resort to bribery - with sweets.",
+  "example_ru": "Пришлось прибегнуть к подкупу — конфетами.",
+  "examples_extra": [
+   {"en": "Never resort to shouting with kids.", "ru": "Никогда не опускайся до крика на детей."},
+   {"en": "Use the stairs only as a last resort.", "ru": "Лестницей пользуйся только в крайнем случае."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "c1-141",
+  "word": "blunt",
+  "ipa": "/blʌnt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "прямолинейный; тупой (о лезвии)",
+  "def_en": "saying what you think directly; not sharp",
+  "note_ru": "To be blunt — «скажу прямо». Тупой нож — blunt knife. Тупой человек — совсем другие слова!",
+  "example": "To be blunt, the essay is weak.",
+  "example_ru": "Скажу прямо: эссе слабое.",
+  "examples_extra": [
+   {"en": "This knife is too blunt to cut bread.", "ru": "Этот нож слишком тупой, чтобы резать хлеб."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "c1-142",
+  "word": "conspicuous",
+  "ipa": "/kənˈspɪkjuəs/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "бросающийся в глаза",
+  "def_en": "very easy to notice",
+  "note_ru": "Conspicuous by his absence — его отсутствие бросалось в глаза (ироничная классика).",
+  "example": "The error was conspicuous on the first page.",
+  "example_ru": "Ошибка бросалась в глаза на первой же странице.",
+  "examples_extra": [
+   {"en": "He was conspicuous by his absence.", "ru": "Его отсутствие было красноречивым."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-143",
+  "word": "convoluted",
+  "ipa": "/ˈkɒnvəluːtɪd/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "замороченный, витиеватый",
+  "def_en": "too complicated to follow",
+  "note_ru": "Про сюжеты, объяснения, процессы: a convoluted plot — закрученный до непонятности сюжет.",
+  "example": "The refund process is absurdly convoluted.",
+  "example_ru": "Процесс возврата денег до абсурда замороченный.",
+  "examples_extra": [
+   {"en": "His explanation was long and convoluted.", "ru": "Его объяснение было длинным и путаным."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "c1-144",
+  "word": "cursory",
+  "ipa": "/ˈkɜːsəri/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "беглый, поверхностный",
+  "def_en": "done quickly without attention to detail",
+  "note_ru": "A cursory glance — беглый взгляд. Осмотр «для галочки».",
+  "example": "He gave the contract a cursory glance.",
+  "example_ru": "Он лишь бегло взглянул на контракт.",
+  "examples_extra": [
+   {"en": "Even a cursory check finds three errors.", "ru": "Даже беглая проверка находит три ошибки."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-145",
+  "word": "daunting",
+  "ipa": "/ˈdɔːntɪŋ/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "пугающий масштабом",
+  "def_en": "seeming very difficult to do",
+  "note_ru": "A daunting task — задача, от которой опускаются руки. Daunted — обескураженный.",
+  "example": "Learning kanji felt daunting at first.",
+  "example_ru": "Учить иероглифы поначалу казалось неподъёмным делом.",
+  "examples_extra": [
+   {"en": "The to-do list looks daunting.", "ru": "Список дел выглядит устрашающе."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "c1-146",
+  "word": "detrimental",
+  "ipa": "/ˌdetrɪˈmentəl/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "пагубный",
+  "def_en": "causing harm",
+  "note_ru": "Detrimental to health — вредный для здоровья. Формальный harmful.",
+  "example": "Lack of sleep is detrimental to memory.",
+  "example_ru": "Недосып пагубен для памяти.",
+  "examples_extra": [
+   {"en": "The policy proved detrimental to small firms.", "ru": "Политика оказалась пагубной для малого бизнеса."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-147",
+  "word": "dire",
+  "ipa": "/ˈdaɪə/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "страшный, отчаянный (о положении)",
+  "def_en": "very serious or terrible",
+  "note_ru": "Dire consequences — страшные последствия, in dire need — в отчаянной нужде.",
+  "example": "The hospital is in dire need of staff.",
+  "example_ru": "Больница отчаянно нуждается в персонале.",
+  "examples_extra": [
+   {"en": "They warned of dire consequences.", "ru": "Они предупреждали о страшных последствиях."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-148",
+  "word": "dubious",
+  "ipa": "/ˈdjuːbiəs/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "сомнительный; сомневающийся",
+  "def_en": "probably not honest or good; not sure",
+  "note_ru": "A dubious honour — сомнительная честь. I'm dubious about it — я сомневаюсь.",
+  "example": "The data came from a dubious source.",
+  "example_ru": "Данные взяты из сомнительного источника.",
+  "examples_extra": [
+   {"en": "I'm dubious about these claims.", "ru": "Я отношусь к этим заявлениям с сомнением."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "c1-149",
+  "word": "elusive",
+  "ipa": "/ɪˈluːsɪv/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "неуловимый",
+  "def_en": "difficult to find, catch or achieve",
+  "note_ru": "Success remained elusive — успех ускользал. Про сон, счастье и редких зверей.",
+  "example": "A good night's sleep remains elusive.",
+  "example_ru": "Полноценный сон всё так же ускользает.",
+  "examples_extra": [
+   {"en": "The snow leopard is famously elusive.", "ru": "Снежный барс знаменит своей неуловимостью."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-150",
+  "word": "erratic",
+  "ipa": "/ɪˈrætɪk/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "хаотичный, непредсказуемый",
+  "def_en": "changing without pattern; unpredictable",
+  "note_ru": "Erratic driving — рваная езда, erratic behaviour — непредсказуемое поведение.",
+  "example": "The wifi has been erratic all day.",
+  "example_ru": "Вайфай весь день работает как попало.",
+  "examples_extra": [
+   {"en": "His sleep schedule is completely erratic.", "ru": "Его режим сна совершенно хаотичен."}
+  ],
+  "topic": "formal"
+ }
+]

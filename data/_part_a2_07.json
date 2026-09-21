@@ -1,0 +1,402 @@
+[
+ {
+  "id": "a2-156",
+  "word": "invite",
+  "ipa": "/ɪnˈvaɪt/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "приглашать",
+  "def_en": "to ask someone to come",
+  "note_ru": "Invite someone to a party. Ударение в глаголе на второй слог: инВАЙТ.",
+  "example": "They invited us to dinner.",
+  "example_ru": "Они пригласили нас на ужин.",
+  "examples_extra": [
+   {"en": "Who did you invite to the wedding?", "ru": "Кого ты пригласил на свадьбу?"}
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "a2-157",
+  "word": "visit",
+  "ipa": "/ˈvɪzɪt/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "навещать, посещать",
+  "def_en": "to go and see a person or place",
+  "note_ru": "Без предлога: visit my parents, visit London. «Visit to» — только существительное: a visit to London.",
+  "example": "We visited my grandmother on Sunday.",
+  "example_ru": "В воскресенье мы навестили бабушку.",
+  "examples_extra": [
+   {"en": "Millions of people visit the museum every year.", "ru": "Миллионы людей посещают этот музей каждый год."}
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "a2-158",
+  "word": "move",
+  "ipa": "/muːv/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "переезжать; двигаться",
+  "def_en": "to go to live in a new place; to change position",
+  "note_ru": "Переехать — move, без «relocate» в бытовой речи: We moved to a new flat.",
+  "example": "They moved to Berlin last year.",
+  "example_ru": "В прошлом году они переехали в Берлин.",
+  "examples_extra": [
+   {"en": "Don't move, I'll take a photo.", "ru": "Не двигайся, я сфотографирую."}
+  ],
+  "topic": "home"
+ },
+ {
+  "id": "a2-159",
+  "word": "leave",
+  "ipa": "/liːv/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "уходить, уезжать; оставлять",
+  "def_en": "to go away; to let something stay",
+  "note_ru": "Два смысла: the train leaves at six и I left my phone at home.",
+  "example": "What time do you leave for work?",
+  "example_ru": "Во сколько ты выходишь на работу?",
+  "examples_extra": [
+   {"en": "I left my keys in the car.", "ru": "Я оставил ключи в машине."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-160",
+  "word": "return",
+  "ipa": "/rɪˈtɜːn/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "возвращаться; возвращать",
+  "def_en": "to come back; to give back",
+  "note_ru": "A return ticket (BrE) — билет туда-обратно. Вернуть товар — return it to the shop.",
+  "example": "She returned home late.",
+  "example_ru": "Она вернулась домой поздно.",
+  "examples_extra": [
+   {"en": "I need to return these boots.", "ru": "Мне нужно вернуть эти ботинки."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-161",
+  "word": "carry",
+  "ipa": "/ˈkæri/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "нести, носить с собой",
+  "def_en": "to hold something and take it somewhere",
+  "note_ru": "Carry — нести в руках. Носить одежду — wear, не carry.",
+  "example": "Let me carry your bag.",
+  "example_ru": "Давай я понесу твою сумку.",
+  "examples_extra": [
+   {"en": "He always carries an umbrella.", "ru": "Он всегда носит с собой зонт."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-162",
+  "word": "break",
+  "ipa": "/breɪk/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "ломать(ся); перерыв",
+  "def_en": "to damage into pieces; a short rest",
+  "note_ru": "Break — и глагол, и «перерыв»: take a break. Сломался телефон — my phone is broken.",
+  "example": "Careful, don't break the glass.",
+  "example_ru": "Осторожно, не разбей стакан.",
+  "examples_extra": [
+   {"en": "Let's take a ten-minute break.", "ru": "Давайте сделаем десятиминутный перерыв."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-163",
+  "word": "win",
+  "ipa": "/wɪn/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "выигрывать, побеждать",
+  "def_en": "to be first in a game or competition",
+  "note_ru": "Win a game, но beat a person: мы выиграли матч — won, обыграли их — beat them.",
+  "example": "Our team won the match.",
+  "example_ru": "Наша команда выиграла матч.",
+  "examples_extra": [
+   {"en": "She won first prize.", "ru": "Она выиграла первый приз."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-164",
+  "word": "a few",
+  "ipa": "/ə fjuː/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "несколько (с исчисляемыми)",
+  "def_en": "a small number of things",
+  "note_ru": "A few friends, a few days — только с тем, что можно посчитать. Для неисчисляемого — a little.",
+  "example": "I need a few minutes.",
+  "example_ru": "Мне нужно несколько минут.",
+  "examples_extra": [
+   {"en": "We invited a few friends over.", "ru": "Мы позвали в гости нескольких друзей."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "a2-165",
+  "word": "a little",
+  "ipa": "/ə ˈlɪtəl/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "немного (с неисчисляемыми)",
+  "def_en": "a small amount of something",
+  "note_ru": "A little water, a little time — с неисчисляемым. Пара к a few.",
+  "example": "Add a little salt.",
+  "example_ru": "Добавь немного соли.",
+  "examples_extra": [
+   {"en": "I speak a little Spanish.", "ru": "Я немного говорю по-испански."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "a2-166",
+  "word": "enough",
+  "ipa": "/ɪˈnʌf/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "достаточно",
+  "def_en": "as much as needed",
+  "note_ru": "После прилагательного: big enough, не «enough big». Перед существительным — до: enough money.",
+  "example": "The room isn't big enough.",
+  "example_ru": "Комната недостаточно большая.",
+  "examples_extra": [
+   {"en": "Do we have enough time?", "ru": "У нас достаточно времени?"}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "a2-167",
+  "word": "too",
+  "ipa": "/tuː/",
+  "pos": "adverb",
+  "level": "A2",
+  "ru": "слишком; тоже",
+  "def_en": "more than needed; also",
+  "note_ru": "Too hot — слишком жарко. Me too — я тоже. «Тоже» в конце фразы, «слишком» перед словом.",
+  "example": "It's too late to call now.",
+  "example_ru": "Сейчас уже слишком поздно звонить.",
+  "examples_extra": [
+   {"en": "I love this song too.", "ru": "Мне тоже нравится эта песня."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "a2-168",
+  "word": "both",
+  "ipa": "/bəʊθ/",
+  "pos": "pronoun",
+  "level": "A2",
+  "ru": "оба, обе",
+  "def_en": "the two together",
+  "note_ru": "Both of us, both hands. С отрицанием both не дружит — говорят neither: neither of us.",
+  "example": "Both answers are correct.",
+  "example_ru": "Оба ответа правильные.",
+  "examples_extra": [
+   {"en": "We both love the sea.", "ru": "Мы оба любим море."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "a2-169",
+  "word": "dangerous",
+  "ipa": "/ˈdeɪndʒərəs/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "опасный",
+  "def_en": "able to cause harm",
+  "note_ru": "Ударение на первый слог: ДЭЙНджерэс. It's dangerous to swim here.",
+  "example": "This road is dangerous at night.",
+  "example_ru": "Эта дорога опасна ночью.",
+  "examples_extra": [
+   {"en": "Smoking is dangerous for your health.", "ru": "Курение опасно для здоровья."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-170",
+  "word": "safe",
+  "ipa": "/seɪf/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "безопасный; в безопасности",
+  "def_en": "not in danger",
+  "note_ru": "Safe and sound — цел и невредим. Have a safe trip! — счастливой дороги!",
+  "example": "Is it safe to drink this water?",
+  "example_ru": "Эту воду безопасно пить?",
+  "examples_extra": [
+   {"en": "Drive safely and text me when you're home.", "ru": "Веди аккуратно и напиши, когда будешь дома."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-171",
+  "word": "loud",
+  "ipa": "/laʊd/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "громкий",
+  "def_en": "making a lot of sound",
+  "note_ru": "Out loud — вслух: read it out loud. Громче — louder.",
+  "example": "The music is too loud.",
+  "example_ru": "Музыка слишком громкая.",
+  "examples_extra": [
+   {"en": "Can you speak a bit louder?", "ru": "Можешь говорить чуть громче?"}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-172",
+  "word": "dark",
+  "ipa": "/dɑːk/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "тёмный; темно",
+  "def_en": "with little or no light",
+  "note_ru": "It gets dark early — рано темнеет. Тёмно-синий — dark blue.",
+  "example": "It gets dark at five in winter.",
+  "example_ru": "Зимой темнеет в пять.",
+  "examples_extra": [
+   {"en": "She was wearing a dark green coat.", "ru": "На ней было тёмно-зелёное пальто."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-173",
+  "word": "bright",
+  "ipa": "/braɪt/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "яркий; смышлёный",
+  "def_en": "full of light; clever",
+  "note_ru": "Bright colours — яркие цвета, a bright student — способный ученик.",
+  "example": "The sun is too bright today.",
+  "example_ru": "Солнце сегодня слишком яркое.",
+  "examples_extra": [
+   {"en": "She's a very bright kid.", "ru": "Она очень смышлёный ребёнок."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-174",
+  "word": "hobby",
+  "ipa": "/ˈhɒbi/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "хобби, увлечение",
+  "def_en": "an activity you enjoy in your free time",
+  "note_ru": "Множественное — hobbies. What are your hobbies? — стандартный вопрос на собеседовании и в анкетах.",
+  "example": "My hobby is photography.",
+  "example_ru": "Моё хобби — фотография.",
+  "examples_extra": [
+   {"en": "He has too many hobbies and too little time.", "ru": "У него слишком много увлечений и слишком мало времени."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-175",
+  "word": "guest",
+  "ipa": "/ɡest/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "гость",
+  "def_en": "a person you invite; a hotel customer",
+  "note_ru": "«Идти в гости» одним словом не переводится: visit friends или come over.",
+  "example": "We're having guests tonight.",
+  "example_ru": "Сегодня у нас гости.",
+  "examples_extra": [
+   {"en": "Hotel guests can use the pool for free.", "ru": "Гости отеля могут пользоваться бассейном бесплатно."}
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "a2-176",
+  "word": "gift",
+  "ipa": "/ɡɪft/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "подарок; дар",
+  "def_en": "something you give to someone",
+  "note_ru": "Gift и present — синонимы. A gift for languages — способность к языкам.",
+  "example": "This watch was a gift from my dad.",
+  "example_ru": "Эти часы — подарок от папы.",
+  "examples_extra": [
+   {"en": "She has a real gift for music.", "ru": "У неё настоящий дар к музыке."}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-177",
+  "word": "ready",
+  "ipa": "/ˈredi/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "готовый",
+  "def_en": "prepared to do something",
+  "note_ru": "Ready for a test, ready to go. Get ready — собираться: I'm getting ready.",
+  "example": "Are you ready to order?",
+  "example_ru": "Вы готовы сделать заказ?",
+  "examples_extra": [
+   {"en": "Dinner is ready!", "ru": "Ужин готов!"}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-178",
+  "word": "sure",
+  "ipa": "/ʃɔː/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "уверенный; конечно",
+  "def_en": "certain; of course",
+  "note_ru": "Are you sure? — ты уверен? Sure! — «конечно» в ответ на просьбу. Make sure — убедись.",
+  "example": "Are you sure about the time?",
+  "example_ru": "Ты уверен насчёт времени?",
+  "examples_extra": [
+   {"en": "Make sure the door is locked.", "ru": "Убедись, что дверь заперта."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-179",
+  "word": "wrong",
+  "ipa": "/rɒŋ/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "неправильный; не тот",
+  "def_en": "not correct",
+  "note_ru": "What's wrong? — «что случилось?». Сесть не на тот автобус — take the wrong bus.",
+  "example": "Sorry, wrong number.",
+  "example_ru": "Извините, вы ошиблись номером.",
+  "examples_extra": [
+   {"en": "What's wrong? You look sad.", "ru": "Что случилось? Ты выглядишь грустным."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-180",
+  "word": "right",
+  "ipa": "/raɪt/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "правильный; правый",
+  "def_en": "correct; on the side of your right hand",
+  "note_ru": "That's right — верно. Turn right — направо. Right now — прямо сейчас. Одно слово, три роли.",
+  "example": "You were right about the weather.",
+  "example_ru": "Ты был прав насчёт погоды.",
+  "examples_extra": [
+   {"en": "Turn right at the bank.", "ru": "Поверни направо у банка."}
+  ],
+  "topic": "core"
+ }
+]

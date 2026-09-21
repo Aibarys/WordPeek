@@ -1,0 +1,403 @@
+[
+ {
+  "id": "c1-101",
+  "word": "compound",
+  "ipa": "/kəmˈpaʊnd/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "усугубить",
+  "def_en": "to make a problem worse",
+  "note_ru": "Compound the problem — усугубить проблему. Ударение глагола на втором слоге.",
+  "example": "Panic only compounded the chaos.",
+  "example_ru": "Паника только усугубила хаос.",
+  "examples_extra": [
+   {"en": "The delay was compounded by bad weather.", "ru": "Задержку усугубила плохая погода."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-102",
+  "word": "elicit",
+  "ipa": "/ɪˈlɪsɪt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "выудить, вызвать (реакцию, ответ)",
+  "def_en": "to get a response or information from someone",
+  "note_ru": "Elicit a response — добиться реакции. Не путать с illicit — незаконный (звучат одинаково!).",
+  "example": "The question elicited a long silence.",
+  "example_ru": "Вопрос вызвал долгое молчание.",
+  "examples_extra": [
+   {"en": "Good teachers elicit answers rather than give them.", "ru": "Хорошие учителя выуживают ответы, а не выдают их."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-103",
+  "word": "encompass",
+  "ipa": "/ɪnˈkʌmpəs/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "охватывать, включать в себя",
+  "def_en": "to include a wide range of things",
+  "note_ru": "The course encompasses history and culture — охватывает. Шире и формальнее include.",
+  "example": "The term encompasses several ideas.",
+  "example_ru": "Этот термин охватывает несколько понятий.",
+  "examples_extra": [
+   {"en": "Her duties encompass everything from hiring to payroll.", "ru": "Её обязанности охватывают всё — от найма до зарплат."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-104",
+  "word": "expedite",
+  "ipa": "/ˈekspədaɪt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "ускорить (процесс)",
+  "def_en": "to make a process happen faster",
+  "note_ru": "Официальное «ускорить»: expedite the delivery. В переписке с поддержкой — золотое слово.",
+  "example": "Can you expedite my order?",
+  "example_ru": "Можете ускорить мой заказ?",
+  "examples_extra": [
+   {"en": "A letter from the employer expedites the visa.", "ru": "Письмо от работодателя ускоряет визу."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-105",
+  "word": "grapple with",
+  "ipa": "/ˈɡræpəl wɪð/",
+  "pos": "phrasal verb",
+  "level": "C1",
+  "ru": "биться над, пытаться совладать с",
+  "def_en": "to struggle to deal with a difficult problem",
+  "note_ru": "Из борьбы: «сцепиться» с проблемой. Grapple with a question — ломать голову.",
+  "example": "The city is grappling with rising rents.",
+  "example_ru": "Город бьётся с растущей арендой.",
+  "examples_extra": [
+   {"en": "Philosophers still grapple with this paradox.", "ru": "Философы до сих пор бьются над этим парадоксом."},
+   {"en": "I'm grappling with the new tax forms.", "ru": "Я сражаюсь с новыми налоговыми формами."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "c1-106",
+  "word": "harness",
+  "ipa": "/ˈhɑːnɪs/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "обуздать и использовать",
+  "def_en": "to control something and use its power",
+  "note_ru": "Дословно «запрячь»: harness solar energy, harness talent — поставить на службу.",
+  "example": "The dam harnesses the river's power.",
+  "example_ru": "Плотина использует силу реки.",
+  "examples_extra": [
+   {"en": "How do we harness all this enthusiasm?", "ru": "Как нам направить весь этот энтузиазм в дело?"}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-107",
+  "word": "incur",
+  "ipa": "/ɪnˈkɜː/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "понести (расходы, убытки), навлечь",
+  "def_en": "to experience something bad as a result of your actions",
+  "note_ru": "Incur costs / losses / debts — понести расходы. Incur someone's anger — навлечь гнев.",
+  "example": "Late payments incur a fee.",
+  "example_ru": "За просрочку платежа начисляется сбор.",
+  "examples_extra": [
+   {"en": "The company incurred heavy losses.", "ru": "Компания понесла тяжёлые убытки."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "c1-108",
+  "word": "leverage",
+  "ipa": "/ˈliːvərɪdʒ/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "использовать как рычаг, выжать пользу",
+  "def_en": "to use something you have to achieve more",
+  "note_ru": "Бизнес-жаргон: leverage your network — задействовать связи. Существительное — рычаг влияния.",
+  "example": "They leveraged the brand to enter new markets.",
+  "example_ru": "Они использовали бренд как рычаг для выхода на новые рынки.",
+  "examples_extra": [
+   {"en": "We have no leverage in these talks.", "ru": "В этих переговорах у нас нет рычагов."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-109",
+  "word": "offset",
+  "ipa": "/ˈɒfset/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "компенсировать, уравновесить",
+  "def_en": "to balance one thing against another",
+  "note_ru": "Higher costs offset by higher sales — расходы компенсируются продажами. Carbon offset — углеродная компенсация.",
+  "example": "Savings on rent offset the travel costs.",
+  "example_ru": "Экономия на аренде компенсирует расходы на дорогу.",
+  "examples_extra": [
+   {"en": "The gains were offset by new taxes.", "ru": "Выгоду свели на нет новые налоги."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "c1-110",
+  "word": "perpetuate",
+  "ipa": "/pəˈpetʃueɪt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "увековечивать, закреплять (дурное)",
+  "def_en": "to make something bad continue",
+  "note_ru": "Perpetuate a myth / a stereotype — поддерживать миф. Почти всегда о плохом.",
+  "example": "Films often perpetuate stereotypes.",
+  "example_ru": "Фильмы часто закрепляют стереотипы.",
+  "examples_extra": [
+   {"en": "Low wages perpetuate the cycle of poverty.", "ru": "Низкие зарплаты замыкают круг бедности."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-111",
+  "word": "pinpoint",
+  "ipa": "/ˈpɪnpɔɪnt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "точно определить",
+  "def_en": "to find or say exactly what or where something is",
+  "note_ru": "«Указать булавкой»: pinpoint the cause — точно назвать причину.",
+  "example": "We pinpointed the leak to one pipe.",
+  "example_ru": "Мы точно определили, что течёт одна конкретная труба.",
+  "examples_extra": [
+   {"en": "It's hard to pinpoint when it started.", "ru": "Трудно точно сказать, когда это началось."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-112",
+  "word": "plummet",
+  "ipa": "/ˈplʌmɪt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "обвалиться, резко упасть",
+  "def_en": "to fall very quickly",
+  "note_ru": "Про цены, акции, температуру. Пара к soar (взлететь).",
+  "example": "Sales plummeted after the scandal.",
+  "example_ru": "После скандала продажи обвалились.",
+  "examples_extra": [
+   {"en": "Temperatures plummeted overnight.", "ru": "За ночь температура резко упала."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-113",
+  "word": "preclude",
+  "ipa": "/prɪˈkluːd/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "исключать возможность",
+  "def_en": "to make something impossible",
+  "note_ru": "The rules preclude any exceptions — правила исключают исключения. Очень формальное.",
+  "example": "His age doesn't preclude him from applying.",
+  "example_ru": "Возраст не мешает ему подать заявку.",
+  "examples_extra": [
+   {"en": "A prior deal precludes us from selling.", "ru": "Ранее заключённая сделка не позволяет нам продавать."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-114",
+  "word": "relinquish",
+  "ipa": "/rɪˈlɪŋkwɪʃ/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "отказаться от (власти, контроля)",
+  "def_en": "to give up something such as power or control",
+  "note_ru": "Relinquish control — выпустить бразды. Неохотно и формально.",
+  "example": "He refused to relinquish control of the company.",
+  "example_ru": "Он отказался выпускать компанию из рук.",
+  "examples_extra": [
+   {"en": "She relinquished her claim to the title.", "ru": "Она отказалась от притязаний на титул."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-115",
+  "word": "revamp",
+  "ipa": "/ˌriːˈvæmp/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "переделать, обновить",
+  "def_en": "to change something to improve it",
+  "note_ru": "Живее, чем redesign: revamp the menu / the website / the brand.",
+  "example": "They revamped the whole menu.",
+  "example_ru": "Они полностью обновили меню.",
+  "examples_extra": [
+   {"en": "The station was revamped last year.", "ru": "Вокзал реконструировали в прошлом году."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-116",
+  "word": "stifle",
+  "ipa": "/ˈstaɪfəl/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "душить, подавлять (инициативу, смех)",
+  "def_en": "to stop something from developing or being expressed",
+  "note_ru": "Stifle creativity — душить творчество, stifle a yawn — подавить зевок.",
+  "example": "Heavy rules stifle innovation.",
+  "example_ru": "Жёсткие правила душат инновации.",
+  "examples_extra": [
+   {"en": "She stifled a laugh.", "ru": "Она подавила смешок."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-117",
+  "word": "supersede",
+  "ipa": "/ˌsuːpəˈsiːd/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "прийти на смену, вытеснить",
+  "def_en": "to replace something older",
+  "note_ru": "The new standard supersedes the old one — новый стандарт заменяет старый.",
+  "example": "Email superseded the fax.",
+  "example_ru": "Электронная почта вытеснила факс.",
+  "examples_extra": [
+   {"en": "This policy supersedes all previous versions.", "ru": "Эта политика заменяет все предыдущие версии."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-118",
+  "word": "underpin",
+  "ipa": "/ˌʌndəˈpɪn/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "лежать в основе, подкреплять",
+  "def_en": "to be the base that supports something",
+  "note_ru": "Trust underpins the deal — сделка держится на доверии.",
+  "example": "Trust underpins every partnership.",
+  "example_ru": "В основе любого партнёрства лежит доверие.",
+  "examples_extra": [
+   {"en": "The theory is underpinned by decades of data.", "ru": "Теория подкреплена десятилетиями данных."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-119",
+  "word": "unravel",
+  "ipa": "/ʌnˈrævəl/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "распутать; развалиться",
+  "def_en": "to solve something complex; to fall apart",
+  "note_ru": "Два направления: детектив unravels the mystery, но планы могут unravel — расползтись.",
+  "example": "Detectives slowly unravelled the scheme.",
+  "example_ru": "Сыщики постепенно распутали схему.",
+  "examples_extra": [
+   {"en": "The deal began to unravel within a week.", "ru": "Сделка начала разваливаться уже через неделю."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "c1-120",
+  "word": "uphold",
+  "ipa": "/ʌpˈhəʊld/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "отстаивать, поддерживать (в силе)",
+  "def_en": "to defend a principle; to confirm a decision",
+  "note_ru": "Uphold standards — блюсти стандарты. Суд upheld the decision — оставил решение в силе.",
+  "example": "The court upheld the original ruling.",
+  "example_ru": "Суд оставил первоначальное решение в силе.",
+  "examples_extra": [
+   {"en": "We're committed to upholding quality.", "ru": "Мы твёрдо намерены держать планку качества."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-121",
+  "word": "wane",
+  "ipa": "/weɪn/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "идти на убыль",
+  "def_en": "to become weaker or smaller",
+  "note_ru": "Interest is waning — интерес угасает. Про луну тоже: waxing and waning.",
+  "example": "Public interest quickly waned.",
+  "example_ru": "Интерес публики быстро угас.",
+  "examples_extra": [
+   {"en": "His influence waned after the election.", "ru": "После выборов его влияние пошло на убыль."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-122",
+  "word": "warrant",
+  "ipa": "/ˈwɒrənt/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "оправдывать, заслуживать (мер)",
+  "def_en": "to make an action necessary or appropriate",
+  "note_ru": "The case warrants attention — дело заслуживает внимания. Существительное — ордер.",
+  "example": "The results warrant further study.",
+  "example_ru": "Результаты оправдывают дальнейшее исследование.",
+  "examples_extra": [
+   {"en": "Nothing here warrants such panic.", "ru": "Ничто здесь не оправдывает такой паники."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-123",
+  "word": "yield",
+  "ipa": "/jiːld/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "давать (результат, урожай); уступить",
+  "def_en": "to produce a result; to give way",
+  "note_ru": "The study yielded results — дало результаты. Yield to pressure — уступить давлению.",
+  "example": "The survey yielded surprising results.",
+  "example_ru": "Опрос дал неожиданные результаты.",
+  "examples_extra": [
+   {"en": "He finally yielded to their demands.", "ru": "В конце концов он уступил их требованиям."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-124",
+  "word": "soar",
+  "ipa": "/sɔː/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "взлететь, резко вырасти",
+  "def_en": "to rise very quickly; to fly high",
+  "note_ru": "Prices soared — цены взлетели. Пара к plummet. И про орлов, и про аренду.",
+  "example": "Rents have soared this year.",
+  "example_ru": "Аренда в этом году взлетела.",
+  "examples_extra": [
+   {"en": "Her confidence soared after the win.", "ru": "После победы её уверенность взлетела."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-125",
+  "word": "dwindle",
+  "ipa": "/ˈdwɪndəl/",
+  "pos": "verb",
+  "level": "C1",
+  "ru": "таять, иссякать",
+  "def_en": "to become gradually smaller",
+  "note_ru": "Savings dwindled — сбережения растаяли. Медленное, печальное уменьшение.",
+  "example": "Our supplies dwindled to almost nothing.",
+  "example_ru": "Наши запасы растаяли почти до нуля.",
+  "examples_extra": [
+   {"en": "The crowd dwindled as it got colder.", "ru": "Толпа редела по мере похолодания."}
+  ],
+  "topic": "formal"
+ }
+]

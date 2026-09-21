@@ -1,0 +1,402 @@
+[
+ {
+  "id": "c1-151",
+  "word": "exorbitant",
+  "ipa": "/ɪɡˈzɔːbɪtənt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "заоблачный (о цене)",
+  "def_en": "much too expensive",
+  "note_ru": "Exorbitant prices / rent / fees. Сильнее, чем too expensive.",
+  "example": "The hotel charges exorbitant prices in July.",
+  "example_ru": "В июле отель дерёт заоблачные цены.",
+  "examples_extra": [
+   {"en": "An exorbitant fee for a simple transfer.", "ru": "Заоблачная комиссия за простой перевод."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "c1-152",
+  "word": "fierce",
+  "ipa": "/fɪəs/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "ожесточённый, яростный",
+  "def_en": "very strong or aggressive",
+  "note_ru": "Fierce competition — жёсткая конкуренция, fierce debate — яростный спор.",
+  "example": "Competition for places is fierce.",
+  "example_ru": "Конкуренция за места ожесточённая.",
+  "examples_extra": [
+   {"en": "She's a fierce defender of her team.", "ru": "Она яростно защищает свою команду."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-153",
+  "word": "flimsy",
+  "ipa": "/ˈflɪmzi/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "хлипкий; неубедительный",
+  "def_en": "weakly made; not convincing",
+  "note_ru": "Flimsy furniture — хлипкая мебель, flimsy excuse — жалкая отговорка. Оба смысла живые.",
+  "example": "That's a flimsy excuse.",
+  "example_ru": "Это жалкая отговорка.",
+  "examples_extra": [
+   {"en": "The shelf is too flimsy for books.", "ru": "Полка слишком хлипкая для книг."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "c1-154",
+  "word": "formidable",
+  "ipa": "/ˈfɔːmɪdəbəl/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "внушительный, грозный",
+  "def_en": "impressive and a little frightening",
+  "note_ru": "A formidable opponent — грозный соперник. Уважение с оттенком опаски.",
+  "example": "She has a formidable reputation.",
+  "example_ru": "У неё внушительная репутация.",
+  "examples_extra": [
+   {"en": "The team faces a formidable task.", "ru": "Перед командой стоит грандиозная задача."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-155",
+  "word": "grim",
+  "ipa": "/ɡrɪm/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "мрачный, безрадостный",
+  "def_en": "very serious and unpleasant",
+  "note_ru": "Grim news — мрачные новости, a grim face — суровое лицо.",
+  "example": "The forecast looks grim.",
+  "example_ru": "Прогноз выглядит мрачно.",
+  "examples_extra": [
+   {"en": "He listened with a grim expression.", "ru": "Он слушал с мрачным выражением лица."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "c1-156",
+  "word": "imminent",
+  "ipa": "/ˈɪmɪnənt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "неминуемый, вот-вот наступящий",
+  "def_en": "about to happen very soon",
+  "note_ru": "An imminent storm — надвигающаяся буря. Не путать с eminent — выдающийся!",
+  "example": "A price rise is imminent.",
+  "example_ru": "Повышение цен неминуемо.",
+  "examples_extra": [
+   {"en": "The building is in imminent danger of collapse.", "ru": "Здание вот-вот рухнет."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-157",
+  "word": "impeccable",
+  "ipa": "/ɪmˈpekəbəl/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "безупречный",
+  "def_en": "perfect, without any faults",
+  "note_ru": "Impeccable manners / taste / timing. Комплимент высшей пробы.",
+  "example": "Her English is impeccable.",
+  "example_ru": "Её английский безупречен.",
+  "examples_extra": [
+   {"en": "He arrived with impeccable timing.", "ru": "Он появился безупречно вовремя."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "c1-158",
+  "word": "indispensable",
+  "ipa": "/ˌɪndɪˈspensəbəl/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "незаменимый",
+  "def_en": "too important to be without",
+  "note_ru": "Indispensable to the team. Ирония HR: «незаменимых нет» — nobody is indispensable.",
+  "example": "A good dictionary is indispensable.",
+  "example_ru": "Хороший словарь незаменим.",
+  "examples_extra": [
+   {"en": "She made herself indispensable within a year.", "ru": "За год она стала незаменимой."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-159",
+  "word": "intricate",
+  "ipa": "/ˈɪntrɪkət/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "затейливо-сложный",
+  "def_en": "with many small connected details",
+  "note_ru": "Intricate design — сложный узор (с восхищением). Convoluted — сложный с раздражением.",
+  "example": "The watch has an intricate mechanism.",
+  "example_ru": "У часов затейливый механизм.",
+  "examples_extra": [
+   {"en": "The novel weaves an intricate plot.", "ru": "Роман плетёт замысловатый сюжет."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-160",
+  "word": "lucrative",
+  "ipa": "/ˈluːkrətɪv/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "прибыльный",
+  "def_en": "producing a lot of money",
+  "note_ru": "A lucrative contract — жирный контракт. Профитный — это он.",
+  "example": "Tutoring turned out to be lucrative.",
+  "example_ru": "Репетиторство оказалось прибыльным делом.",
+  "examples_extra": [
+   {"en": "He left a lucrative job to start a farm.", "ru": "Он бросил прибыльную работу ради фермы."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "c1-161",
+  "word": "meagre",
+  "ipa": "/ˈmiːɡə/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "скудный",
+  "def_en": "too small in amount",
+  "note_ru": "A meagre salary — скудная зарплата, meagre results — жидкие результаты.",
+  "example": "They survived on a meagre budget.",
+  "example_ru": "Они выживали на скудный бюджет.",
+  "examples_extra": [
+   {"en": "The response was meagre - three replies.", "ru": "Отклик был скудным: три ответа."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "c1-162",
+  "word": "obscure",
+  "ipa": "/əbˈskjʊə/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "малоизвестный; неясный",
+  "def_en": "not well known; hard to understand",
+  "note_ru": "An obscure band — никому не известная группа. For obscure reasons — по неясным причинам.",
+  "example": "He quotes obscure philosophers.",
+  "example_ru": "Он цитирует малоизвестных философов.",
+  "examples_extra": [
+   {"en": "The instructions were obscure at best.", "ru": "Инструкции были в лучшем случае туманными."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-163",
+  "word": "paramount",
+  "ipa": "/ˈpærəmaʊnt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "первостепенный",
+  "def_en": "more important than anything else",
+  "note_ru": "Safety is paramount — безопасность превыше всего. Формула любого инструктажа.",
+  "example": "Privacy is paramount in this app.",
+  "example_ru": "Приватность в этом приложении превыше всего.",
+  "examples_extra": [
+   {"en": "Speed is important, but accuracy is paramount.", "ru": "Скорость важна, но точность первостепенна."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-164",
+  "word": "precarious",
+  "ipa": "/prɪˈkeəriəs/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "шаткий, ненадёжный",
+  "def_en": "not safe or certain, likely to fail",
+  "note_ru": "A precarious position — шаткое положение: и на лестнице, и в компании.",
+  "example": "The ladder looked precarious.",
+  "example_ru": "Лестница выглядела шаткой.",
+  "examples_extra": [
+   {"en": "Freelancers often have precarious incomes.", "ru": "У фрилансеров доход часто нестабилен."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-165",
+  "word": "prudent",
+  "ipa": "/ˈpruːdənt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "благоразумный, осмотрительный",
+  "def_en": "careful and sensible about the future",
+  "note_ru": "A prudent investor — осторожный инвестор. It would be prudent to... — было бы разумно...",
+  "example": "It's prudent to keep three months of savings.",
+  "example_ru": "Благоразумно держать запас на три месяца.",
+  "examples_extra": [
+   {"en": "A prudent driver checks the forecast.", "ru": "Осмотрительный водитель проверяет прогноз."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "c1-166",
+  "word": "rampant",
+  "ipa": "/ˈræmpənt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "безудержный, разгулявшийся",
+  "def_en": "spreading fast and out of control",
+  "note_ru": "Rampant inflation / corruption — о плохом, вышедшем из-под контроля.",
+  "example": "Speculation is rampant online.",
+  "example_ru": "В сети разгулялись домыслы.",
+  "examples_extra": [
+   {"en": "Piracy was rampant in the nineties.", "ru": "В девяностые пиратство цвело буйным цветом."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-167",
+  "word": "staggering",
+  "ipa": "/ˈstæɡərɪŋ/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "ошеломляющий (о цифрах, масштабе)",
+  "def_en": "so big it is hard to believe",
+  "note_ru": "A staggering amount — умопомрачительная сумма. Про цифры, которые сбивают с ног.",
+  "example": "They spent a staggering two million.",
+  "example_ru": "Они потратили ошеломляющие два миллиона.",
+  "examples_extra": [
+   {"en": "The view is simply staggering.", "ru": "Вид просто сногсшибательный."}
+  ],
+  "topic": "opinion"
+ },
+ {
+  "id": "c1-168",
+  "word": "stark",
+  "ipa": "/stɑːk/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "разительный; суровый, голый",
+  "def_en": "very clear and harsh",
+  "note_ru": "In stark contrast — в разительном контрасте. A stark warning — жёсткое предупреждение.",
+  "example": "The result stands in stark contrast to the promises.",
+  "example_ru": "Результат разительно контрастирует с обещаниями.",
+  "examples_extra": [
+   {"en": "The room was stark: a bed and a chair.", "ru": "Комната была аскетичной: кровать и стул."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-169",
+  "word": "staunch",
+  "ipa": "/stɔːntʃ/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "стойкий, верный (сторонник)",
+  "def_en": "very loyal in attitude",
+  "note_ru": "A staunch supporter / ally — преданный сторонник. Почти всегда про людей и лояльность.",
+  "example": "She's a staunch defender of free speech.",
+  "example_ru": "Она стойкая защитница свободы слова.",
+  "examples_extra": [
+   {"en": "He remained a staunch ally to the end.", "ru": "Он оставался верным союзником до конца."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "c1-170",
+  "word": "stringent",
+  "ipa": "/ˈstrɪndʒənt/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "жёсткий (о правилах, требованиях)",
+  "def_en": "very strict and exact",
+  "note_ru": "Stringent rules / checks / standards. Строже, чем strict.",
+  "example": "The lab has stringent safety rules.",
+  "example_ru": "В лаборатории жёсткие правила безопасности.",
+  "examples_extra": [
+   {"en": "Visas are subject to stringent checks.", "ru": "Визы проходят строжайшие проверки."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-171",
+  "word": "ubiquitous",
+  "ipa": "/juːˈbɪkwɪtəs/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "вездесущий",
+  "def_en": "seeming to be everywhere",
+  "note_ru": "Smartphones are ubiquitous — смартфоны повсюду. Любимое слово технокритики.",
+  "example": "Coffee shops are ubiquitous here.",
+  "example_ru": "Кофейни здесь на каждом шагу.",
+  "examples_extra": [
+   {"en": "QR codes became ubiquitous overnight.", "ru": "QR-коды в одночасье стали вездесущими."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-172",
+  "word": "unprecedented",
+  "ipa": "/ʌnˈpresɪdentɪd/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "беспрецедентный",
+  "def_en": "never having happened before",
+  "note_ru": "An unprecedented scale — невиданный масштаб. Любимец заголовков.",
+  "example": "The demand was unprecedented.",
+  "example_ru": "Спрос был беспрецедентным.",
+  "examples_extra": [
+   {"en": "They took the unprecedented step of closing early.", "ru": "Они пошли на беспрецедентный шаг — закрылись раньше."}
+  ],
+  "topic": "formal"
+ },
+ {
+  "id": "c1-173",
+  "word": "volatile",
+  "ipa": "/ˈvɒlətaɪl/",
+  "pos": "adj",
+  "level": "C1",
+  "ru": "нестабильный, взрывоопасный",
+  "def_en": "likely to change suddenly",
+  "note_ru": "Volatile markets — волатильные рынки, a volatile temper — взрывной характер.",
+  "example": "Crypto prices are notoriously volatile.",
+  "example_ru": "Криптовалютные цены печально известны своей нестабильностью.",
+  "examples_extra": [
+   {"en": "The situation remains volatile.", "ru": "Ситуация остаётся взрывоопасной."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "c1-174",
+  "word": "breakthrough",
+  "ipa": "/ˈbreɪkθruː/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "прорыв",
+  "def_en": "an important discovery or success",
+  "note_ru": "A breakthrough in talks / science. Make a breakthrough — совершить прорыв.",
+  "example": "The talks finally saw a breakthrough.",
+  "example_ru": "В переговорах наконец случился прорыв.",
+  "examples_extra": [
+   {"en": "It was the breakthrough her career needed.", "ru": "Это был прорыв, которого не хватало её карьере."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "c1-175",
+  "word": "catalyst",
+  "ipa": "/ˈkætəlɪst/",
+  "pos": "noun",
+  "level": "C1",
+  "ru": "катализатор (перен.)",
+  "def_en": "something that causes a big change",
+  "note_ru": "A catalyst for change — катализатор перемен. Из химии в жизнь.",
+  "example": "The film was a catalyst for the debate.",
+  "example_ru": "Фильм стал катализатором дискуссии.",
+  "examples_extra": [
+   {"en": "Her arrival was the catalyst the team needed.", "ru": "Её приход стал тем толчком, который был нужен команде."}
+  ],
+  "topic": "formal"
+ }
+]

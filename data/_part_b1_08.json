@@ -1,0 +1,451 @@
+[
+ {
+  "id": "b1-188",
+  "word": "calm down",
+  "ipa": "/kɑːm daʊn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "успокоиться; успокоить",
+  "def_en": "to become or make someone less angry or worried",
+  "note_ru": "L в calm не читается: «кам даун». Calm down! в споре часто злит ещё сильнее.",
+  "example": "Take a breath and calm down.",
+  "example_ru": "Вдохни и успокойся.",
+  "examples_extra": [
+   {"en": "It took her a while to calm down.", "ru": "Ей понадобилось время, чтобы успокоиться."},
+   {"en": "Music calms the baby down.", "ru": "Музыка успокаивает малыша."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-189",
+  "word": "cheer up",
+  "ipa": "/tʃɪər ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "взбодриться; развеселить",
+  "def_en": "to become or make someone happier",
+  "note_ru": "Cheer up! — «не грусти!». Развеселить кого-то — cheer someone up.",
+  "example": "Cheer up, it's not the end of the world.",
+  "example_ru": "Не грусти, это не конец света.",
+  "examples_extra": [
+   {"en": "The good news cheered everyone up.", "ru": "Хорошая новость всех приободрила."},
+   {"en": "I bought flowers to cheer her up.", "ru": "Я купил цветы, чтобы поднять ей настроение."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-190",
+  "word": "warm up",
+  "ipa": "/wɔːm ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "разогреться; разогреть",
+  "def_en": "to prepare your body for sport; to heat food again",
+  "note_ru": "Разминка перед спортом и разогрев вчерашнего ужина — оба warm up.",
+  "example": "Warm up before you run.",
+  "example_ru": "Разомнись перед бегом.",
+  "examples_extra": [
+   {"en": "I'll warm up yesterday's soup.", "ru": "Я разогрею вчерашний суп."},
+   {"en": "The room warmed up quickly.", "ru": "Комната быстро прогрелась."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-191",
+  "word": "slow down",
+  "ipa": "/sləʊ daʊn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "замедлиться, сбавить темп",
+  "def_en": "to go or do something more slowly",
+  "note_ru": "И про машину, и про жизнь: Slow down, you work too much.",
+  "example": "Slow down, there's a school ahead.",
+  "example_ru": "Сбавь скорость, впереди школа.",
+  "examples_extra": [
+   {"en": "Slow down, I can't follow you.", "ru": "Помедленнее, я за тобой не успеваю."},
+   {"en": "Sales slowed down in January.", "ru": "В январе продажи замедлились."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-192",
+  "word": "move in",
+  "ipa": "/muːv ɪn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "въехать, заселиться",
+  "def_en": "to start living in a new home",
+  "note_ru": "Move in with someone — съехаться с кем-то.",
+  "example": "We moved in last weekend.",
+  "example_ru": "Мы въехали на прошлых выходных.",
+  "examples_extra": [
+   {"en": "She's moving in with her boyfriend.", "ru": "Она съезжается со своим парнем."},
+   {"en": "The new neighbours moved in yesterday.", "ru": "Новые соседи заселились вчера."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-193",
+  "word": "move out",
+  "ipa": "/muːv aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "съехать (с жилья)",
+  "def_en": "to stop living in a home",
+  "note_ru": "Move out of the flat. Съехать от родителей — move out (of your parents' place).",
+  "example": "He moved out when he turned twenty.",
+  "example_ru": "Он съехал, когда ему исполнилось двадцать.",
+  "examples_extra": [
+   {"en": "We have to move out by the end of the month.", "ru": "Мы должны съехать до конца месяца."},
+   {"en": "She moved out after the argument.", "ru": "После ссоры она съехала."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-194",
+  "word": "eat out",
+  "ipa": "/iːt aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "есть не дома, ходить в кафе",
+  "def_en": "to have a meal in a restaurant",
+  "note_ru": "Противоположность — eat in или cook at home.",
+  "example": "We eat out about once a week.",
+  "example_ru": "Мы ходим куда-нибудь поесть примерно раз в неделю.",
+  "examples_extra": [
+   {"en": "Let's eat out tonight, the fridge is empty.", "ru": "Давай сегодня поедим не дома — холодильник пуст."},
+   {"en": "Eating out here is surprisingly cheap.", "ru": "Есть в кафе здесь на удивление дёшево."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-195",
+  "word": "take away",
+  "ipa": "/teɪk əˈweɪ/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "забрать; еда навынос",
+  "def_en": "to remove; food you take home",
+  "note_ru": "В кафе спросят: eat in or take away? Takeaway — сама еда навынос.",
+  "example": "Two coffees to take away, please.",
+  "example_ru": "Два кофе навынос, пожалуйста.",
+  "examples_extra": [
+   {"en": "The waiter took away our plates.", "ru": "Официант забрал наши тарелки."},
+   {"en": "Nothing can take away that memory.", "ru": "Ничто не отнимет это воспоминание."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-196",
+  "word": "stay up",
+  "ipa": "/steɪ ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "не ложиться спать допоздна",
+  "def_en": "to not go to bed",
+  "note_ru": "Stay up late — засиживаться допоздна. Stay up all night — не спать всю ночь.",
+  "example": "The kids stayed up past midnight.",
+  "example_ru": "Дети не ложились за полночь.",
+  "examples_extra": [
+   {"en": "I stayed up to watch the match.", "ru": "Я не ложился, чтобы посмотреть матч."},
+   {"en": "Don't stay up too late.", "ru": "Не засиживайся допоздна."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-197",
+  "word": "give in",
+  "ipa": "/ɡɪv ɪn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "уступить, сдаться (под давлением)",
+  "def_en": "to finally agree after refusing",
+  "note_ru": "Give in — сдаться под уговорами; give up — бросить попытки. Разные капитуляции!",
+  "example": "In the end, dad gave in and bought the dog.",
+  "example_ru": "В конце концов папа сдался и купил собаку.",
+  "examples_extra": [
+   {"en": "Don't give in to pressure.", "ru": "Не поддавайся давлению."},
+   {"en": "She never gives in without an argument.", "ru": "Она никогда не уступает без спора."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-198",
+  "word": "pay back",
+  "ipa": "/peɪ bæk/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "вернуть долг; отплатить",
+  "def_en": "to return money you owe",
+  "note_ru": "I'll pay you back tomorrow — верну завтра. Payback — расплата (и название фильмов не зря).",
+  "example": "I'll pay you back on Friday.",
+  "example_ru": "Верну тебе в пятницу.",
+  "examples_extra": [
+   {"en": "He paid back every penny.", "ru": "Он вернул всё до копейки."},
+   {"en": "How can I ever pay you back for this?", "ru": "Как мне вообще отблагодарить тебя за это?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-199",
+  "word": "look around",
+  "ipa": "/lʊk əˈraʊnd/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "осмотреться; осматривать (место)",
+  "def_en": "to walk around a place and look at it",
+  "note_ru": "В магазине: I'm just looking around — «я просто смотрю», спасение от продавцов.",
+  "example": "Let's look around the old town.",
+  "example_ru": "Давай погуляем по старому городу.",
+  "examples_extra": [
+   {"en": "Can we look around the flat today?", "ru": "Можно сегодня посмотреть квартиру?"},
+   {"en": "I'm just looking around, thanks.", "ru": "Я просто смотрю, спасибо."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-200",
+  "word": "see off",
+  "ipa": "/siː ɒf/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "провожать (в дорогу)",
+  "def_en": "to go to the station or airport to say goodbye",
+  "note_ru": "Провожать на вокзал — see someone off. Проводить до двери — see someone out.",
+  "example": "We went to the airport to see her off.",
+  "example_ru": "Мы поехали в аэропорт проводить её.",
+  "examples_extra": [
+   {"en": "The whole family came to see him off.", "ru": "Провожать его пришла вся семья."},
+   {"en": "Thanks for seeing me off.", "ru": "Спасибо, что проводили."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-201",
+  "word": "get off",
+  "ipa": "/ɡet ɒf/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "выходить (из транспорта)",
+  "def_en": "to leave a bus, train or plane",
+  "note_ru": "Get off the bus, но get out of the car. Автобус/поезд — off, машина — out of.",
+  "example": "Get off at the next stop.",
+  "example_ru": "Выходи на следующей остановке.",
+  "examples_extra": [
+   {"en": "We got off the train in the wrong town.", "ru": "Мы вышли из поезда не в том городе."},
+   {"en": "Where do I get off for the museum?", "ru": "Где мне выходить к музею?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-202",
+  "word": "check in",
+  "ipa": "/tʃek ɪn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "зарегистрироваться (в отеле, на рейс)",
+  "def_en": "to register at a hotel or airport",
+  "note_ru": "Check in online — онлайн-регистрация на рейс. Стойка регистрации — check-in desk.",
+  "example": "We checked in and went straight to the beach.",
+  "example_ru": "Мы заселились и сразу пошли на пляж.",
+  "examples_extra": [
+   {"en": "Check in closes forty minutes before the flight.", "ru": "Регистрация закрывается за сорок минут до рейса."},
+   {"en": "I'll check in online tonight.", "ru": "Я зарегистрируюсь онлайн вечером."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-203",
+  "word": "check out",
+  "ipa": "/tʃek aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "выехать из отеля; глянуть, зацени",
+  "def_en": "to leave a hotel; to look at something interesting",
+  "note_ru": "Формально — выписаться из отеля. Неформально: check this out! — «зацени!».",
+  "example": "We have to check out by eleven.",
+  "example_ru": "Мы должны выехать до одиннадцати.",
+  "examples_extra": [
+   {"en": "Check out this video, it's hilarious.", "ru": "Зацени это видео, оно уморительное."},
+   {"en": "She checked out early and caught the train.", "ru": "Она выписалась пораньше и успела на поезд."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-204",
+  "word": "log in",
+  "ipa": "/lɒɡ ɪn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "войти в аккаунт",
+  "def_en": "to enter a computer system with your name and password",
+  "note_ru": "Log in / log out. Логин как имя пользователя — username, а не login!",
+  "example": "I can't log in - wrong password again.",
+  "example_ru": "Не могу войти — опять неверный пароль.",
+  "examples_extra": [
+   {"en": "Log in to see your orders.", "ru": "Войдите, чтобы увидеть свои заказы."},
+   {"en": "Don't forget to log out on shared computers.", "ru": "Не забывай выходить из аккаунта на общих компьютерах."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-205",
+  "word": "jealous",
+  "ipa": "/ˈdʒeləs/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "ревнивый; завидующий",
+  "def_en": "unhappy because someone has what you want",
+  "note_ru": "Покрывает и ревность, и зависть: jealous of her success. Белая зависть в разговоре — тоже jealous, шутливо.",
+  "example": "He gets jealous when she talks to other guys.",
+  "example_ru": "Он ревнует, когда она болтает с другими парнями.",
+  "examples_extra": [
+   {"en": "I'm so jealous of your holiday!", "ru": "Как я завидую твоему отпуску!"}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "b1-206",
+  "word": "ashamed",
+  "ipa": "/əˈʃeɪmd/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "стыдящийся",
+  "def_en": "feeling bad about something you did",
+  "note_ru": "Ashamed of: мне стыдно за это — I'm ashamed of it. Только после глагола, не «an ashamed man».",
+  "example": "I'm ashamed of how I behaved.",
+  "example_ru": "Мне стыдно за то, как я себя вёл.",
+  "examples_extra": [
+   {"en": "There's nothing to be ashamed of.", "ru": "Тут нечего стыдиться."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "b1-207",
+  "word": "anxious",
+  "ipa": "/ˈæŋkʃəs/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "тревожащийся, обеспокоенный",
+  "def_en": "worried about what may happen",
+  "note_ru": "Anxious about the exam. Сильнее, чем worried; постоянная тревожность — anxiety.",
+  "example": "She's anxious about the results.",
+  "example_ru": "Она тревожится из-за результатов.",
+  "examples_extra": [
+   {"en": "Waiting makes me anxious.", "ru": "Ожидание заставляет меня нервничать."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "b1-208",
+  "word": "relieved",
+  "ipa": "/rɪˈliːvd/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "испытавший облегчение",
+  "def_en": "happy that something bad did not happen",
+  "note_ru": "«Отлегло» — I was so relieved. Существительное — relief: what a relief!",
+  "example": "I was relieved to hear you're okay.",
+  "example_ru": "Мне отлегло, когда я узнал, что ты в порядке.",
+  "examples_extra": [
+   {"en": "She looked relieved after the call.", "ru": "После звонка она выглядела успокоенной."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "b1-209",
+  "word": "annoyed",
+  "ipa": "/əˈnɔɪd/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "раздражённый",
+  "def_en": "a little angry",
+  "note_ru": "Annoyed — раздражён (слабее angry). Annoyed with him, annoyed about the delay.",
+  "example": "She was annoyed with me for forgetting.",
+  "example_ru": "Она была раздражена, что я забыл.",
+  "examples_extra": [
+   {"en": "He gets annoyed by loud chewing.", "ru": "Его раздражает громкое чавканье."}
+  ],
+  "topic": "emotions"
+ },
+ {
+  "id": "b1-210",
+  "word": "moody",
+  "ipa": "/ˈmuːdi/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "с перепадами настроения, угрюмый",
+  "def_en": "often changing mood; often in a bad mood",
+  "note_ru": "Не «модный»! Модный — fashionable/trendy. Moody — про настроение.",
+  "example": "Teenagers can be moody.",
+  "example_ru": "Подростки бывают с перепадами настроения.",
+  "examples_extra": [
+   {"en": "He's been moody all week.", "ru": "Он всю неделю ходит угрюмый."}
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "b1-211",
+  "word": "selfish",
+  "ipa": "/ˈselfɪʃ/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "эгоистичный",
+  "def_en": "caring only about yourself",
+  "note_ru": "Противоположность — selfless (самоотверженный) или generous.",
+  "example": "It was selfish of him to take the last seat.",
+  "example_ru": "С его стороны было эгоистично занять последнее место.",
+  "examples_extra": [
+   {"en": "Don't be selfish, share the cake.", "ru": "Не будь эгоистом, поделись тортом."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-212",
+  "word": "lazy",
+  "ipa": "/ˈleɪzi/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "ленивый",
+  "def_en": "not wanting to work or make an effort",
+  "note_ru": "A lazy Sunday — ленивое воскресенье, тут без осуждения.",
+  "example": "I'm too lazy to cook tonight.",
+  "example_ru": "Мне лень сегодня готовить.",
+  "examples_extra": [
+   {"en": "We spent a lazy day by the lake.", "ru": "Мы провели ленивый день у озера."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-213",
+  "word": "hard-working",
+  "ipa": "/ˌhɑːd ˈwɜːkɪŋ/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "трудолюбивый",
+  "def_en": "working with a lot of effort",
+  "note_ru": "Не путать с working hard (усердно работает сейчас) — hard-working описывает характер.",
+  "example": "She's the most hard-working person I know.",
+  "example_ru": "Она самый трудолюбивый человек из всех, кого я знаю.",
+  "examples_extra": [
+   {"en": "Hard-working students get scholarships here.", "ru": "Трудолюбивые студенты получают здесь стипендии."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-214",
+  "word": "patient",
+  "ipa": "/ˈpeɪʃənt/",
+  "pos": "adj",
+  "level": "B1",
+  "ru": "терпеливый",
+  "def_en": "able to wait calmly",
+  "note_ru": "Как существительное — пациент. Be patient with me — будь со мной терпелив.",
+  "example": "Be patient, the results take a week.",
+  "example_ru": "Потерпи, результаты будут через неделю.",
+  "examples_extra": [
+   {"en": "She's very patient with beginners.", "ru": "Она очень терпелива с новичками."}
+  ],
+  "topic": "false-friend"
+ }
+]

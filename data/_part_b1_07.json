@@ -1,0 +1,461 @@
+[
+ {
+  "id": "b1-161",
+  "word": "bring back",
+  "ipa": "/brɪŋ bæk/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "вернуть; напомнить о прошлом",
+  "def_en": "to return something; to make you remember",
+  "note_ru": "Два смысла: bring back the chairs и this song brings back memories.",
+  "example": "Bring the ladder back when you're done.",
+  "example_ru": "Верни лестницу, когда закончишь.",
+  "examples_extra": [
+   {"en": "This smell brings back my childhood.", "ru": "Этот запах возвращает меня в детство."},
+   {"en": "Could you bring back some milk?", "ru": "Захватишь на обратном пути молока?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-162",
+  "word": "take back",
+  "ipa": "/teɪk bæk/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "вернуть (в магазин); взять слова обратно",
+  "def_en": "to return goods; to admit you were wrong to say something",
+  "note_ru": "I take it back — «беру свои слова обратно». Про товар — take it back to the shop.",
+  "example": "I took the kettle back to the shop.",
+  "example_ru": "Я вернул чайник в магазин.",
+  "examples_extra": [
+   {"en": "That was unfair - I take it back.", "ru": "Это было несправедливо — беру слова обратно."},
+   {"en": "You can take it back within thirty days.", "ru": "Вернуть можно в течение тридцати дней."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-163",
+  "word": "hand in",
+  "ipa": "/hænd ɪn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "сдать (работу, документы)",
+  "def_en": "to give work to a teacher or boss",
+  "note_ru": "Hand in an essay, hand in your notice — подать заявление об уходе.",
+  "example": "Hand in your essays by Friday.",
+  "example_ru": "Сдайте эссе до пятницы.",
+  "examples_extra": [
+   {"en": "She handed in her notice yesterday.", "ru": "Вчера она подала заявление об уходе."},
+   {"en": "I handed the report in on time.", "ru": "Я сдал отчёт вовремя."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-164",
+  "word": "hand out",
+  "ipa": "/hænd aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "раздавать",
+  "def_en": "to give things to each person in a group",
+  "note_ru": "Отсюда handout — раздаточный материал на занятии.",
+  "example": "The teacher handed out the tests.",
+  "example_ru": "Учитель раздал тесты.",
+  "examples_extra": [
+   {"en": "They were handing out free samples.", "ru": "Они раздавали бесплатные образцы."},
+   {"en": "Can you hand these leaflets out?", "ru": "Можешь раздать эти листовки?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-165",
+  "word": "throw away",
+  "ipa": "/θrəʊ əˈweɪ/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "выбрасывать",
+  "def_en": "to put something in the rubbish",
+  "note_ru": "Throw away или throw out — одно и то же. Упустить шанс — тоже throw away a chance.",
+  "example": "Don't throw away the receipt.",
+  "example_ru": "Не выбрасывай чек.",
+  "examples_extra": [
+   {"en": "I threw away all my old notes.", "ru": "Я выбросил все свои старые конспекты."},
+   {"en": "He threw away a great opportunity.", "ru": "Он упустил отличную возможность."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-166",
+  "word": "look through",
+  "ipa": "/lʊk θruː/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "просмотреть, пролистать",
+  "def_en": "to read something quickly",
+  "note_ru": "Look through the report — бегло просмотреть. Внимательно изучить — go over.",
+  "example": "I looked through the menu quickly.",
+  "example_ru": "Я быстро пролистал меню.",
+  "examples_extra": [
+   {"en": "Look through the notes before the exam.", "ru": "Просмотри конспекты перед экзаменом."},
+   {"en": "She looked through the photos and smiled.", "ru": "Она просмотрела фотографии и улыбнулась."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-167",
+  "word": "go over",
+  "ipa": "/ɡəʊ ˈəʊvə/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "разобрать, пройтись по (ещё раз)",
+  "def_en": "to check or explain something carefully",
+  "note_ru": "Go over the plan — пройтись по плану пункт за пунктом. Часто перед экзаменом или встречей.",
+  "example": "Let's go over the plan once more.",
+  "example_ru": "Давайте ещё раз пройдёмся по плану.",
+  "examples_extra": [
+   {"en": "The teacher went over the mistakes with us.", "ru": "Учитель разобрал с нами ошибки."},
+   {"en": "I'll go over the figures tonight.", "ru": "Вечером я пройдусь по цифрам."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-168",
+  "word": "come over",
+  "ipa": "/kʌm ˈəʊvə/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "зайти в гости",
+  "def_en": "to visit someone at their home",
+  "note_ru": "Come over — «заходи к нам»: come over for dinner. Это и есть «прийти в гости».",
+  "example": "Come over after work, we'll cook.",
+  "example_ru": "Заходи после работы, что-нибудь приготовим.",
+  "examples_extra": [
+   {"en": "Some friends are coming over tonight.", "ru": "Сегодня вечером к нам зайдут друзья."},
+   {"en": "Can I come over at the weekend?", "ru": "Можно я заеду на выходных?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-169",
+  "word": "get back to",
+  "ipa": "/ɡet bæk tuː/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "перезвонить, ответить позже",
+  "def_en": "to contact someone later with an answer",
+  "note_ru": "Рабочая классика: I'll get back to you — «я вернусь к вам с ответом».",
+  "example": "I'll get back to you tomorrow.",
+  "example_ru": "Я отвечу вам завтра.",
+  "examples_extra": [
+   {"en": "She never got back to me about the price.", "ru": "Она так и не ответила мне насчёт цены."},
+   {"en": "Let me check and get back to you.", "ru": "Дайте я уточню и вернусь с ответом."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-170",
+  "word": "set off",
+  "ipa": "/set ɒf/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "отправиться в путь",
+  "def_en": "to start a journey",
+  "note_ru": "Set off early — выехать пораньше. Ещё set off an alarm — случайно включить сигнализацию.",
+  "example": "We set off at six in the morning.",
+  "example_ru": "Мы выехали в шесть утра.",
+  "examples_extra": [
+   {"en": "They set off for the mountains on Friday.", "ru": "В пятницу они отправились в горы."},
+   {"en": "The smoke set off the fire alarm.", "ru": "Дым включил пожарную сигнализацию."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-171",
+  "word": "take after",
+  "ipa": "/teɪk ˈɑːftə/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "пойти в кого-то, быть похожим на родню",
+  "def_en": "to look or behave like an older relative",
+  "note_ru": "Только про родственников: He takes after his father — он весь в отца.",
+  "example": "She takes after her mother.",
+  "example_ru": "Она пошла в мать.",
+  "examples_extra": [
+   {"en": "Who does the baby take after?", "ru": "В кого пошёл малыш?"},
+   {"en": "He takes after his grandad - same humour.", "ru": "Он весь в деда — тот же юмор."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-172",
+  "word": "grow up",
+  "ipa": "/ɡrəʊ ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "расти, взрослеть",
+  "def_en": "to change from a child into an adult",
+  "note_ru": "Grow up — про людей, grow — про растения и волосы. Where did you grow up? — где ты вырос?",
+  "example": "I grew up in a small town.",
+  "example_ru": "Я вырос в маленьком городе.",
+  "examples_extra": [
+   {"en": "She wants to be a vet when she grows up.", "ru": "Когда вырастет, она хочет стать ветеринаром."},
+   {"en": "Oh, grow up!", "ru": "Да повзрослей ты уже!"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-173",
+  "word": "turn up",
+  "ipa": "/tɜːn ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "объявиться, прийти; прибавить (громкость)",
+  "def_en": "to arrive; to increase volume or heat",
+  "note_ru": "He didn't turn up — он так и не пришёл. Turn up the music — сделай погромче.",
+  "example": "She turned up an hour late.",
+  "example_ru": "Она объявилась на час позже.",
+  "examples_extra": [
+   {"en": "Turn up the heating, it's freezing.", "ru": "Прибавь отопление, здесь холодина."},
+   {"en": "My keys turned up in the fridge.", "ru": "Мои ключи нашлись в холодильнике."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-174",
+  "word": "turn into",
+  "ipa": "/tɜːn ˈɪntuː/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "превратиться в",
+  "def_en": "to become something different",
+  "note_ru": "The talk turned into an argument — разговор перерос в ссору.",
+  "example": "The party turned into a disaster.",
+  "example_ru": "Вечеринка превратилась в катастрофу.",
+  "examples_extra": [
+   {"en": "The hobby turned into a business.", "ru": "Хобби превратилось в бизнес."},
+   {"en": "Rain turned into snow by evening.", "ru": "К вечеру дождь перешёл в снег."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-175",
+  "word": "run into",
+  "ipa": "/rʌn ˈɪntuː/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "случайно встретить; столкнуться с",
+  "def_en": "to meet by chance; to experience a problem",
+  "note_ru": "Run into an old friend — столкнуться со знакомым. Run into problems — напороться на проблемы.",
+  "example": "I ran into Anna at the airport.",
+  "example_ru": "Я случайно встретил Анну в аэропорту.",
+  "examples_extra": [
+   {"en": "We ran into a few problems with the visa.", "ru": "Мы столкнулись с парой проблем с визой."},
+   {"en": "You'll never guess who I ran into today.", "ru": "Ни за что не угадаешь, кого я сегодня встретил."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-176",
+  "word": "take out",
+  "ipa": "/teɪk aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "вынуть; сводить куда-то; оформить",
+  "def_en": "to remove; to invite somewhere; to arrange a loan or insurance",
+  "note_ru": "Take out the rubbish — вынести мусор. Take her out — сводить её в ресторан. Take out a loan — взять кредит.",
+  "example": "Can you take out the rubbish?",
+  "example_ru": "Можешь вынести мусор?",
+  "examples_extra": [
+   {"en": "He took us out for pizza.", "ru": "Он сводил нас поесть пиццы."},
+   {"en": "They took out a loan for the car.", "ru": "Они взяли кредит на машину."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-177",
+  "word": "try out",
+  "ipa": "/traɪ aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "опробовать, испытать",
+  "def_en": "to test something to see if it works",
+  "note_ru": "Try out — испытать в деле: try out a new app. Try on — только про одежду.",
+  "example": "I want to try out the new café.",
+  "example_ru": "Хочу опробовать новое кафе.",
+  "examples_extra": [
+   {"en": "We tried out three different routes.", "ru": "Мы испытали три разных маршрута."},
+   {"en": "Try the feature out and tell me.", "ru": "Опробуй эту функцию и расскажи."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-178",
+  "word": "work on",
+  "ipa": "/wɜːk ɒn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "работать над",
+  "def_en": "to spend time improving or making something",
+  "note_ru": "I'm working on it — «я этим занимаюсь», универсальный рабочий ответ.",
+  "example": "She's working on a new book.",
+  "example_ru": "Она работает над новой книгой.",
+  "examples_extra": [
+   {"en": "I need to work on my pronunciation.", "ru": "Мне нужно поработать над произношением."},
+   {"en": "We're still working on the details.", "ru": "Мы ещё прорабатываем детали."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-179",
+  "word": "give away",
+  "ipa": "/ɡɪv əˈweɪ/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "отдать даром; выдать (секрет)",
+  "def_en": "to give something for free; to reveal a secret",
+  "note_ru": "Give away old clothes — раздать вещи. Don't give away the ending! — не спойлери!",
+  "example": "We gave away most of our furniture.",
+  "example_ru": "Большую часть мебели мы раздали.",
+  "examples_extra": [
+   {"en": "His smile gave him away.", "ru": "Улыбка его выдала."},
+   {"en": "They're giving away free tickets.", "ru": "Они раздают бесплатные билеты."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-180",
+  "word": "break up",
+  "ipa": "/breɪk ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "расстаться; распасться",
+  "def_en": "to end a relationship",
+  "note_ru": "Break up with someone — расстаться с кем-то. Группа распалась — the band broke up.",
+  "example": "They broke up after five years.",
+  "example_ru": "Они расстались после пяти лет.",
+  "examples_extra": [
+   {"en": "She broke up with him by text.", "ru": "Она рассталась с ним по смс."},
+   {"en": "The meeting broke up at noon.", "ru": "Собрание разошлось в полдень."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-181",
+  "word": "make up",
+  "ipa": "/meɪk ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "выдумать; помириться; составлять",
+  "def_en": "to invent a story; to become friends again; to form",
+  "note_ru": "Три смысла: make up a story, they made up after the row, women make up half the team.",
+  "example": "He made up an excuse about traffic.",
+  "example_ru": "Он выдумал отговорку про пробки.",
+  "examples_extra": [
+   {"en": "Let's kiss and make up.", "ru": "Давай помиримся."},
+   {"en": "Students make up most of the audience.", "ru": "Студенты составляют большую часть аудитории."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-182",
+  "word": "hang out",
+  "ipa": "/hæŋ aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "тусоваться, проводить время",
+  "def_en": "to spend relaxed time with people",
+  "note_ru": "Неформальное: hang out with friends. Where do you hang out? — где ты обычно бываешь?",
+  "example": "We hung out at the park all day.",
+  "example_ru": "Мы весь день тусовались в парке.",
+  "examples_extra": [
+   {"en": "Want to hang out on Saturday?", "ru": "Потусим в субботу?"},
+   {"en": "He hangs out with the design team.", "ru": "Он много общается с командой дизайна."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-183",
+  "word": "hold on",
+  "ipa": "/həʊld ɒn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "подождать; держаться",
+  "def_en": "to wait a moment; to keep holding something",
+  "note_ru": "Hold on a second — секундочку. По телефону: hold on, please — оставайтесь на линии.",
+  "example": "Hold on, I'll check the calendar.",
+  "example_ru": "Подожди, я проверю календарь.",
+  "examples_extra": [
+   {"en": "Hold on tight, the road is bumpy.", "ru": "Держись крепче, дорога ухабистая."},
+   {"en": "Can you hold on a minute?", "ru": "Можешь минутку подождать?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-184",
+  "word": "go on",
+  "ipa": "/ɡəʊ ɒn/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "происходить; продолжать",
+  "def_en": "to happen; to continue",
+  "note_ru": "What's going on? — «что происходит?». Go on! — «продолжай!» или «да ладно!».",
+  "example": "What's going on here?",
+  "example_ru": "Что здесь происходит?",
+  "examples_extra": [
+   {"en": "The show went on despite the rain.", "ru": "Шоу продолжилось, несмотря на дождь."},
+   {"en": "Go on, I'm listening.", "ru": "Продолжай, я слушаю."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-185",
+  "word": "come up",
+  "ipa": "/kʌm ʌp/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "возникнуть, всплыть (о теме, деле)",
+  "def_en": "to appear or be mentioned unexpectedly",
+  "note_ru": "Something came up — «кое-что случилось», вежливая причина отменить планы.",
+  "example": "Sorry, something came up at work.",
+  "example_ru": "Извини, на работе кое-что возникло.",
+  "examples_extra": [
+   {"en": "Your name came up in the meeting.", "ru": "Твоё имя всплыло на собрании."},
+   {"en": "The question comes up every year.", "ru": "Этот вопрос всплывает каждый год."}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-186",
+  "word": "drop off",
+  "ipa": "/drɒp ɒf/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "подвезти и высадить; занести",
+  "def_en": "to take someone or something to a place by car",
+  "note_ru": "Drop me off at the corner — высади меня на углу. Противоположность pick up.",
+  "example": "I'll drop you off at the station.",
+  "example_ru": "Я подброшу тебя до вокзала.",
+  "examples_extra": [
+   {"en": "She drops the kids off at eight.", "ru": "Она завозит детей к восьми."},
+   {"en": "Can you drop off the documents on your way?", "ru": "Занесёшь документы по дороге?"}
+  ],
+  "topic": "phrasal"
+ },
+ {
+  "id": "b1-187",
+  "word": "watch out",
+  "ipa": "/wɒtʃ aʊt/",
+  "pos": "phrasal verb",
+  "level": "B1",
+  "ru": "осторожно!, беречься",
+  "def_en": "to be careful",
+  "note_ru": "Watch out! — «берегись!». Watch out for pickpockets — остерегайся карманников.",
+  "example": "Watch out! The floor is wet.",
+  "example_ru": "Осторожно! Пол мокрый.",
+  "examples_extra": [
+   {"en": "Watch out for ice on the steps.", "ru": "Осторожнее со льдом на ступеньках."},
+   {"en": "Drivers should watch out for cyclists here.", "ru": "Водителям здесь стоит остерегаться велосипедистов."}
+  ],
+  "topic": "phrasal"
+ }
+]

@@ -1,0 +1,419 @@
+[
+ {
+  "id": "b1-295",
+  "word": "though",
+  "ipa": "/ðəʊ/",
+  "pos": "conjunction",
+  "level": "B1",
+  "ru": "хотя; впрочем",
+  "def_en": "although; however - at the end of a sentence",
+  "note_ru": "В конце фразы though = «впрочем»: It's expensive. Nice, though. Очень разговорная фишка.",
+  "example": "It was cold, though sunny.",
+  "example_ru": "Было холодно, хотя и солнечно.",
+  "examples_extra": [
+   {"en": "Great film. Too long, though.", "ru": "Отличный фильм. Правда, длинноват."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "b1-296",
+  "word": "unless",
+  "ipa": "/ənˈles/",
+  "pos": "conjunction",
+  "level": "B1",
+  "ru": "если не",
+  "def_en": "except if",
+  "note_ru": "Unless = if not: Unless you hurry, we'll be late. После unless отрицание не нужно!",
+  "example": "We'll miss the bus unless we run.",
+  "example_ru": "Мы опоздаем на автобус, если не побежим.",
+  "examples_extra": [
+   {"en": "Don't call unless it's urgent.", "ru": "Не звони, если это не срочно."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "b1-297",
+  "word": "while",
+  "ipa": "/waɪl/",
+  "pos": "conjunction",
+  "level": "B1",
+  "ru": "пока, в то время как",
+  "def_en": "during the time that",
+  "note_ru": "While I was cooking... — пока я готовил. A while — некоторое время: for a while.",
+  "example": "She called while you were out.",
+  "example_ru": "Она звонила, пока тебя не было.",
+  "examples_extra": [
+   {"en": "Let's wait here for a while.", "ru": "Давай немного подождём здесь."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "b1-298",
+  "word": "during",
+  "ipa": "/ˈdjʊərɪŋ/",
+  "pos": "preposition",
+  "level": "B1",
+  "ru": "во время",
+  "def_en": "through the time of an event",
+  "note_ru": "During the film — когда, for two hours — как долго. During + событие, for + срок. Классика ошибок.",
+  "example": "No phones during the lesson.",
+  "example_ru": "Никаких телефонов во время урока.",
+  "examples_extra": [
+   {"en": "He fell asleep during the meeting.", "ru": "Он уснул во время собрания."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "b1-299",
+  "word": "since",
+  "ipa": "/sɪns/",
+  "pos": "preposition",
+  "level": "B1",
+  "ru": "с (какого-то момента); поскольку",
+  "def_en": "from a time until now; because",
+  "note_ru": "Since Monday — с понедельника (+ Perfect!). For three days — три дня. Since ещё значит «раз уж».",
+  "example": "I've lived here since 2019.",
+  "example_ru": "Я живу здесь с 2019 года.",
+  "examples_extra": [
+   {"en": "Since you're here, help me move this.", "ru": "Раз уж ты здесь, помоги мне это передвинуть."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "b1-300",
+  "word": "until",
+  "ipa": "/ənˈtɪl/",
+  "pos": "preposition",
+  "level": "B1",
+  "ru": "до (какого-то момента)",
+  "def_en": "up to a time",
+  "note_ru": "Until five — до пяти (процесс длится). By five — к пяти (крайний срок). Не путать!",
+  "example": "The shop is open until nine.",
+  "example_ru": "Магазин открыт до девяти.",
+  "examples_extra": [
+   {"en": "Wait until the light turns green.", "ru": "Подожди, пока не загорится зелёный."}
+  ],
+  "topic": "grammar"
+ },
+ {
+  "id": "b1-301",
+  "word": "anyway",
+  "ipa": "/ˈeniweɪ/",
+  "pos": "adverb",
+  "level": "B1",
+  "ru": "всё равно; в любом случае; короче",
+  "def_en": "despite that; used to change the subject",
+  "note_ru": "Thanks anyway — всё равно спасибо. Anyway, ... — «короче, ...» для смены темы.",
+  "example": "It was raining, but we went anyway.",
+  "example_ru": "Шёл дождь, но мы всё равно пошли.",
+  "examples_extra": [
+   {"en": "Anyway, back to the plan.", "ru": "Короче, вернёмся к плану."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-302",
+  "word": "immediately",
+  "ipa": "/ɪˈmiːdiətli/",
+  "pos": "adverb",
+  "level": "B1",
+  "ru": "немедленно, сразу же",
+  "def_en": "at once, without delay",
+  "note_ru": "Синоним попроще — right away. Immediately after — сразу после.",
+  "example": "Call me immediately if anything changes.",
+  "example_ru": "Немедленно звони, если что-то изменится.",
+  "examples_extra": [
+   {"en": "She answered immediately.", "ru": "Она ответила сразу же."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-303",
+  "word": "recently",
+  "ipa": "/ˈriːsəntli/",
+  "pos": "adverb",
+  "level": "B1",
+  "ru": "недавно, в последнее время",
+  "def_en": "not long ago",
+  "note_ru": "Recently дружит и с Past, и с Perfect: I recently moved / I've recently moved.",
+  "example": "They recently opened a new branch.",
+  "example_ru": "Недавно они открыли новый филиал.",
+  "examples_extra": [
+   {"en": "Have you seen her recently?", "ru": "Ты видел её в последнее время?"}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-304",
+  "word": "definitely",
+  "ipa": "/ˈdefɪnətli/",
+  "pos": "adverb",
+  "level": "B1",
+  "ru": "определённо, точно",
+  "def_en": "without any doubt",
+  "note_ru": "Definitely! — «однозначно!». Правописание — ловушка: definAtely не существует.",
+  "example": "I'll definitely come to the party.",
+  "example_ru": "Я точно приду на вечеринку.",
+  "examples_extra": [
+   {"en": "It's definitely worth trying.", "ru": "Это определённо стоит попробовать."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-305",
+  "word": "achieve",
+  "ipa": "/əˈtʃiːv/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "достигать, добиваться",
+  "def_en": "to succeed in doing something after effort",
+  "note_ru": "Achieve a goal — достичь цели. Достичь города (доехать) — reach, не achieve.",
+  "example": "She achieved her goal in two years.",
+  "example_ru": "Она достигла своей цели за два года.",
+  "examples_extra": [
+   {"en": "You won't achieve anything by shouting.", "ru": "Криком ты ничего не добьёшься."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-306",
+  "word": "develop",
+  "ipa": "/dɪˈveləp/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "развивать(ся); разрабатывать",
+  "def_en": "to grow or make something grow better",
+  "note_ru": "Ударение на второй слог: диВЕлоп. Develop an app, develop a habit.",
+  "example": "Reading develops your vocabulary.",
+  "example_ru": "Чтение развивает словарный запас.",
+  "examples_extra": [
+   {"en": "The company develops mobile games.", "ru": "Компания разрабатывает мобильные игры."}
+  ],
+  "topic": "work"
+ },
+ {
+  "id": "b1-307",
+  "word": "invent",
+  "ipa": "/ɪnˈvent/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "изобретать; выдумывать",
+  "def_en": "to create something completely new",
+  "note_ru": "Invent — создать новое, discover — найти существующее. Телефон invent, Америку — discover.",
+  "example": "Who invented the telephone?",
+  "example_ru": "Кто изобрёл телефон?",
+  "examples_extra": [
+   {"en": "He invented the whole story.", "ru": "Он выдумал всю эту историю."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-308",
+  "word": "discover",
+  "ipa": "/dɪˈskʌvə/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "обнаружить, открыть",
+  "def_en": "to find something that existed but was not known",
+  "note_ru": "Пара к invent: открывают то, что уже есть. Discover a mistake — обнаружить ошибку.",
+  "example": "We discovered a great little café.",
+  "example_ru": "Мы открыли для себя отличное маленькое кафе.",
+  "examples_extra": [
+   {"en": "Scientists discovered a new species.", "ru": "Учёные обнаружили новый вид."}
+  ],
+  "topic": "thinking"
+ },
+ {
+  "id": "b1-309",
+  "word": "protect",
+  "ipa": "/prəˈtekt/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "защищать",
+  "def_en": "to keep safe from harm",
+  "note_ru": "Protect from или against: крем защищает от солнца — protects from the sun.",
+  "example": "Sunscreen protects your skin.",
+  "example_ru": "Солнцезащитный крем защищает кожу.",
+  "examples_extra": [
+   {"en": "A password protects your account.", "ru": "Пароль защищает твой аккаунт."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-310",
+  "word": "destroy",
+  "ipa": "/dɪˈstrɔɪ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "разрушать, уничтожать",
+  "def_en": "to damage something completely",
+  "note_ru": "Destroy — до конца, damage — частично. Пожар destroy дом, буря damage крышу.",
+  "example": "The fire destroyed the old mill.",
+  "example_ru": "Пожар уничтожил старую мельницу.",
+  "examples_extra": [
+   {"en": "One rumour can destroy a reputation.", "ru": "Один слух может разрушить репутацию."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-311",
+  "word": "damage",
+  "ipa": "/ˈdæmɪdʒ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "повредить; ущерб",
+  "def_en": "to harm something; the harm caused",
+  "note_ru": "Ударение на первый слог: ДЭмидж. Повредить вещь — damage, ранить человека — injure.",
+  "example": "The storm damaged the roof.",
+  "example_ru": "Буря повредила крышу.",
+  "examples_extra": [
+   {"en": "The damage cost thousands to repair.", "ru": "Ремонт ущерба обошёлся в тысячи."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "b1-312",
+  "word": "earn",
+  "ipa": "/ɜːn/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "зарабатывать; заслужить",
+  "def_en": "to get money for work; to deserve",
+  "note_ru": "Earn money работой, win money в лотерею. Заслужил отдых — earned a rest.",
+  "example": "How much does a nurse earn here?",
+  "example_ru": "Сколько здесь зарабатывает медсестра?",
+  "examples_extra": [
+   {"en": "You've earned a break.", "ru": "Ты заслужил перерыв."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b1-313",
+  "word": "owe",
+  "ipa": "/əʊ/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "быть должным",
+  "def_en": "to need to pay or give something back",
+  "note_ru": "How much do I owe you? — сколько я тебе должен? I owe you one — «за мной должок».",
+  "example": "You owe me twenty euros.",
+  "example_ru": "Ты должен мне двадцать евро.",
+  "examples_extra": [
+   {"en": "I owe you an apology.", "ru": "Я должен перед тобой извиниться."}
+  ],
+  "topic": "money"
+ },
+ {
+  "id": "b1-314",
+  "word": "accept",
+  "ipa": "/əkˈsept/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "принимать (предложение, факт)",
+  "def_en": "to say yes to an offer; to agree something is true",
+  "note_ru": "Accept an offer, но agree to do — согласиться сделать. Карта принимается — cards are accepted.",
+  "example": "She accepted the job offer.",
+  "example_ru": "Она приняла предложение о работе.",
+  "examples_extra": [
+   {"en": "Do you accept cards?", "ru": "Вы принимаете карты?"}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-315",
+  "word": "receive",
+  "ipa": "/rɪˈsiːv/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "получать",
+  "def_en": "to get something sent or given",
+  "note_ru": "Формальнее, чем get. Правописание: i перед e после c наоборот — recEIve.",
+  "example": "Did you receive my email?",
+  "example_ru": "Ты получил моё письмо?",
+  "examples_extra": [
+   {"en": "She received a warm welcome.", "ru": "Её тепло встретили."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "b1-316",
+  "word": "support",
+  "ipa": "/səˈpɔːt/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "поддерживать",
+  "def_en": "to help or agree with someone",
+  "note_ru": "Support a team — болеть за команду! I support Arsenal. И тех-поддержка — support.",
+  "example": "My family supported my decision.",
+  "example_ru": "Семья поддержала моё решение.",
+  "examples_extra": [
+   {"en": "Which team do you support?", "ru": "За какую команду ты болеешь?"}
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "b1-317",
+  "word": "treat",
+  "ipa": "/triːt/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "обращаться с; угощать; лечить",
+  "def_en": "to behave towards someone; to pay for someone; to cure",
+  "note_ru": "Три смысла: treat people well, I'll treat you to lunch (угощаю!), treat an illness.",
+  "example": "They treat their staff really well.",
+  "example_ru": "Они очень хорошо обращаются с сотрудниками.",
+  "examples_extra": [
+   {"en": "Let me treat you to dinner.", "ru": "Позволь угостить тебя ужином."}
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "b1-318",
+  "word": "behave",
+  "ipa": "/bɪˈheɪv/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "вести себя",
+  "def_en": "to act in a particular way",
+  "note_ru": "Behave yourself! — веди себя прилично! Без «myself» в обычном смысле: he behaved strangely.",
+  "example": "The kids behaved really well today.",
+  "example_ru": "Дети сегодня очень хорошо себя вели.",
+  "examples_extra": [
+   {"en": "He behaved as if nothing had happened.", "ru": "Он вёл себя так, будто ничего не случилось."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "b1-319",
+  "word": "pretend",
+  "ipa": "/prɪˈtend/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "притворяться",
+  "def_en": "to act as if something is true when it is not",
+  "note_ru": "Ложный друг! Претендовать на — apply for или claim. Pretend — только притворяться.",
+  "example": "He pretended to be asleep.",
+  "example_ru": "Он притворился спящим.",
+  "examples_extra": [
+   {"en": "Let's pretend we didn't see that.", "ru": "Сделаем вид, что мы этого не видели."},
+   {"en": "She pretended not to hear the question.", "ru": "Она притворилась, что не слышала вопроса."}
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "b1-320",
+  "word": "bother",
+  "ipa": "/ˈbɒðə/",
+  "pos": "verb",
+  "level": "B1",
+  "ru": "беспокоить; утруждаться",
+  "def_en": "to annoy someone; to make an effort",
+  "note_ru": "Sorry to bother you — простите за беспокойство. Don't bother — не утруждайся.",
+  "example": "Sorry to bother you so late.",
+  "example_ru": "Извините, что беспокою так поздно.",
+  "examples_extra": [
+   {"en": "He didn't even bother to reply.", "ru": "Он даже не потрудился ответить."}
+  ],
+  "topic": "communication"
+ }
+]

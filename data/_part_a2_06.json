@@ -1,0 +1,402 @@
+[
+ {
+  "id": "a2-131",
+  "word": "married",
+  "ipa": "/ˈmærid/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "женат, замужем",
+  "def_en": "having a husband or wife",
+  "note_ru": "Married to, не with: She's married to a doctor. Жениться на ком-то — marry без предлога.",
+  "example": "They've been married for ten years.",
+  "example_ru": "Они женаты десять лет.",
+  "examples_extra": [
+   {"en": "He's married to my cousin.", "ru": "Он женат на моей двоюродной сестре."}
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "a2-132",
+  "word": "single",
+  "ipa": "/ˈsɪŋɡəl/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "не женат, не замужем; одиночный",
+  "def_en": "not married; only one",
+  "note_ru": "A single ticket (BrE) — билет в одну сторону. Туда-обратно — return.",
+  "example": "He's still single.",
+  "example_ru": "Он всё ещё не женат.",
+  "examples_extra": [
+   {"en": "A single room, please.", "ru": "Одноместный номер, пожалуйста."}
+  ],
+  "topic": "relationships"
+ },
+ {
+  "id": "a2-133",
+  "word": "friendly",
+  "ipa": "/ˈfrendli/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "дружелюбный",
+  "def_en": "kind and pleasant to others",
+  "note_ru": "Несмотря на -ly, это прилагательное, не наречие: a friendly smile.",
+  "example": "The locals are very friendly.",
+  "example_ru": "Местные очень дружелюбные.",
+  "examples_extra": [
+   {"en": "She gave me a friendly wave.", "ru": "Она дружески помахала мне."}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "a2-134",
+  "word": "kind",
+  "ipa": "/kaɪnd/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "добрый; вид, тип",
+  "def_en": "caring about others; a type of something",
+  "note_ru": "Два слова в одном: a kind person и what kind of music? — какая музыка?",
+  "example": "It was kind of you to help.",
+  "example_ru": "Было мило с твоей стороны помочь.",
+  "examples_extra": [
+   {"en": "What kind of food do you like?", "ru": "Какую еду ты любишь?"}
+  ],
+  "topic": "character"
+ },
+ {
+  "id": "a2-135",
+  "word": "funny",
+  "ipa": "/ˈfʌni/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "смешной; странный",
+  "def_en": "making you laugh; strange",
+  "note_ru": "Funny — смешной, fun — приятно-весёлый. A funny film смешит, a fun trip радует.",
+  "example": "That was a really funny joke.",
+  "example_ru": "Это была очень смешная шутка.",
+  "examples_extra": [
+   {"en": "The milk smells funny.", "ru": "Молоко странно пахнет."}
+  ],
+  "topic": "false-friend"
+ },
+ {
+  "id": "a2-136",
+  "word": "fun",
+  "ipa": "/fʌn/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "веселье, удовольствие",
+  "def_en": "enjoyment",
+  "note_ru": "Have fun — повеселись! It was fun — было классно. Это существительное, «very fun» звучит криво — говори great fun.",
+  "example": "The party was great fun.",
+  "example_ru": "Вечеринка была очень весёлой.",
+  "examples_extra": [
+   {"en": "Have fun at the concert!", "ru": "Повеселись на концерте!"}
+  ],
+  "topic": "everyday"
+ },
+ {
+  "id": "a2-137",
+  "word": "delicious",
+  "ipa": "/dɪˈlɪʃəs/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "очень вкусный",
+  "def_en": "tasting very good",
+  "note_ru": "Уже значит «очень вкусный», поэтому «very delicious» не говорят — просто delicious.",
+  "example": "This soup is delicious!",
+  "example_ru": "Этот суп очень вкусный!",
+  "examples_extra": [
+   {"en": "She makes delicious pancakes.", "ru": "Она печёт восхитительные блины."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "a2-138",
+  "word": "sweet",
+  "ipa": "/swiːt/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "сладкий; милый",
+  "def_en": "tasting of sugar; charming",
+  "note_ru": "That's so sweet of you — «как мило с твоей стороны». Не только про сахар.",
+  "example": "This tea is too sweet for me.",
+  "example_ru": "Этот чай для меня слишком сладкий.",
+  "examples_extra": [
+   {"en": "What a sweet little dog!", "ru": "Какая милая собачка!"}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "a2-139",
+  "word": "spicy",
+  "ipa": "/ˈspaɪsi/",
+  "pos": "adj",
+  "level": "A2",
+  "ru": "острый (о еде)",
+  "def_en": "having a strong hot taste",
+  "note_ru": "Острая еда — spicy или hot, но нож — sharp. Русское «острый» покрывает оба, английский — нет.",
+  "example": "Do you like spicy food?",
+  "example_ru": "Ты любишь острую еду?",
+  "examples_extra": [
+   {"en": "The curry was too spicy for the kids.", "ru": "Карри оказалось слишком острым для детей."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "a2-140",
+  "word": "order",
+  "ipa": "/ˈɔːdə/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "заказывать",
+  "def_en": "to ask for food or goods",
+  "note_ru": "Are you ready to order? — стандартный вопрос официанта. Заказ (существительное) — тоже order.",
+  "example": "I ordered a pizza and a salad.",
+  "example_ru": "Я заказал пиццу и салат.",
+  "examples_extra": [
+   {"en": "You can order it online.", "ru": "Это можно заказать онлайн."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "a2-141",
+  "word": "dish",
+  "ipa": "/dɪʃ/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "блюдо",
+  "def_en": "food prepared in a particular way; a plate",
+  "note_ru": "Фирменное блюдо ресторана — speciality, блюдо дня — dish of the day. Do the dishes — мыть посуду.",
+  "example": "What's your favourite dish?",
+  "example_ru": "Какое твоё любимое блюдо?",
+  "examples_extra": [
+   {"en": "This dish is made with rice and fish.", "ru": "Это блюдо готовится из риса и рыбы."}
+  ],
+  "topic": "food"
+ },
+ {
+  "id": "a2-142",
+  "word": "headache",
+  "ipa": "/ˈhedeɪk/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "головная боль",
+  "def_en": "a pain in your head",
+  "note_ru": "I have a headache — с артиклем a. Произношение: «ХЕДэйк», ache читается как «эйк».",
+  "example": "I've got a terrible headache.",
+  "example_ru": "У меня ужасно болит голова.",
+  "examples_extra": [
+   {"en": "Loud music gives me a headache.", "ru": "От громкой музыки у меня болит голова."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "a2-143",
+  "word": "a cold",
+  "ipa": "/ə kəʊld/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "простуда",
+  "def_en": "a common illness with a runny nose",
+  "note_ru": "Catch a cold — простудиться, have a cold — болеть простудой. С артиклем a!",
+  "example": "I think I'm catching a cold.",
+  "example_ru": "Кажется, я простужаюсь.",
+  "examples_extra": [
+   {"en": "He stayed home with a bad cold.", "ru": "Он остался дома с сильной простудой."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "a2-144",
+  "word": "medicine",
+  "ipa": "/ˈmedsən/",
+  "pos": "noun",
+  "level": "A2",
+  "ru": "лекарство; медицина",
+  "def_en": "something you take to feel better",
+  "note_ru": "Принимать лекарство — take medicine, не drink. Произносится «МЕДсэн», два слога.",
+  "example": "Take this medicine twice a day.",
+  "example_ru": "Принимай это лекарство два раза в день.",
+  "examples_extra": [
+   {"en": "The medicine helped almost at once.", "ru": "Лекарство помогло почти сразу."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "a2-145",
+  "word": "feel",
+  "ipa": "/fiːl/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "чувствовать себя",
+  "def_en": "to experience an emotion or state",
+  "note_ru": "Без myself! I feel good, а не «I feel myself good» — эта калька звучит очень странно.",
+  "example": "How are you feeling today?",
+  "example_ru": "Как ты себя сегодня чувствуешь?",
+  "examples_extra": [
+   {"en": "I feel much better now.", "ru": "Теперь я чувствую себя гораздо лучше."}
+  ],
+  "topic": "health"
+ },
+ {
+  "id": "a2-146",
+  "word": "ask for",
+  "ipa": "/ɑːsk fɔː/",
+  "pos": "phrase",
+  "level": "A2",
+  "ru": "попросить что-то",
+  "def_en": "to say you want something",
+  "note_ru": "Ask спросить, ask for — попросить: ask for help, ask for the bill.",
+  "example": "She asked for a glass of water.",
+  "example_ru": "Она попросила стакан воды.",
+  "examples_extra": [
+   {"en": "Don't be afraid to ask for help.", "ru": "Не бойся просить о помощи."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-147",
+  "word": "answer",
+  "ipa": "/ˈɑːnsə/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "отвечать; ответ",
+  "def_en": "to say something back; a reply",
+  "note_ru": "Answer the question — без to! Answer the phone — взять трубку.",
+  "example": "Nobody answered the phone.",
+  "example_ru": "Никто не взял трубку.",
+  "examples_extra": [
+   {"en": "I don't know the answer.", "ru": "Я не знаю ответа."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-148",
+  "word": "explain",
+  "ipa": "/ɪkˈspleɪn/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "объяснять",
+  "def_en": "to make something clear",
+  "note_ru": "Explain something to me, а не «explain me» — частая ошибка.",
+  "example": "Can you explain this rule to me?",
+  "example_ru": "Можешь объяснить мне это правило?",
+  "examples_extra": [
+   {"en": "She explained how the game works.", "ru": "Она объяснила, как работает игра."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-149",
+  "word": "mean",
+  "ipa": "/miːn/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "значить; иметь в виду",
+  "def_en": "to have a meaning; to intend to say",
+  "note_ru": "What do you mean? — «что ты имеешь в виду?». What does it mean? — «что это значит?».",
+  "example": "What does this word mean?",
+  "example_ru": "Что значит это слово?",
+  "examples_extra": [
+   {"en": "I didn't mean to hurt you.", "ru": "Я не хотел тебя обидеть."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-150",
+  "word": "spell",
+  "ipa": "/spel/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "произносить или писать по буквам",
+  "def_en": "to say or write the letters of a word",
+  "note_ru": "How do you spell it? — «как это пишется?». Полезнейший вопрос, у которого нет короткого русского аналога.",
+  "example": "Could you spell your surname, please?",
+  "example_ru": "Продиктуйте вашу фамилию по буквам, пожалуйста.",
+  "examples_extra": [
+   {"en": "I always spell this word wrong.", "ru": "Я всегда пишу это слово с ошибкой."}
+  ],
+  "topic": "language"
+ },
+ {
+  "id": "a2-151",
+  "word": "repeat",
+  "ipa": "/rɪˈpiːt/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "повторять",
+  "def_en": "to say or do something again",
+  "note_ru": "Вежливо переспросить: Could you repeat that? Или просто: Sorry?",
+  "example": "Could you repeat that, please?",
+  "example_ru": "Не могли бы вы повторить?",
+  "examples_extra": [
+   {"en": "Repeat after me.", "ru": "Повторяйте за мной."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-152",
+  "word": "tell",
+  "ipa": "/tel/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "рассказать, сказать кому-то",
+  "def_en": "to give information to someone",
+  "note_ru": "Tell — всегда кому-то: tell me. Say — без адресата: say a word. «Tell to me» — ошибка.",
+  "example": "Tell me about your trip.",
+  "example_ru": "Расскажи мне о своей поездке.",
+  "examples_extra": [
+   {"en": "She told us a funny story.", "ru": "Она рассказала нам смешную историю."}
+  ],
+  "topic": "communication"
+ },
+ {
+  "id": "a2-153",
+  "word": "forget",
+  "ipa": "/fəˈɡet/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "забывать",
+  "def_en": "to not remember",
+  "note_ru": "Don't forget to call — не забудь позвонить. Forget doing — забыть, что уже делал. Разные смыслы!",
+  "example": "I forgot to lock the door.",
+  "example_ru": "Я забыл запереть дверь.",
+  "examples_extra": [
+   {"en": "Don't forget your umbrella.", "ru": "Не забудь зонт."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-154",
+  "word": "remember",
+  "ipa": "/rɪˈmembə/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "помнить, вспоминать",
+  "def_en": "to keep something in your mind",
+  "note_ru": "Remember to do — не забыть сделать. Remember doing — помнить, как делал. Как у forget.",
+  "example": "Do you remember her name?",
+  "example_ru": "Ты помнишь её имя?",
+  "examples_extra": [
+   {"en": "Remember to switch off the lights.", "ru": "Не забудь выключить свет."}
+  ],
+  "topic": "core"
+ },
+ {
+  "id": "a2-155",
+  "word": "meet",
+  "ipa": "/miːt/",
+  "pos": "verb",
+  "level": "A2",
+  "ru": "встречать; знакомиться",
+  "def_en": "to see someone; to know someone for the first time",
+  "note_ru": "Nice to meet you — при первом знакомстве. При повторной встрече — nice to see you!",
+  "example": "Nice to meet you!",
+  "example_ru": "Приятно познакомиться!",
+  "examples_extra": [
+   {"en": "Let's meet at the station at five.", "ru": "Давай встретимся на вокзале в пять."}
+  ],
+  "topic": "communication"
+ }
+]
