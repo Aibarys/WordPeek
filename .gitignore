@@ -12,3 +12,7 @@ __pycache__/
 
 # Tool caches
 .impeccable/
+
+# Личные промо-материалы — не для репозитория
+marketing/stories/
+marketing/tiktok/

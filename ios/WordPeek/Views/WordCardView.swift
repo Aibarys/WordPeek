@@ -114,15 +114,37 @@ struct WordCardView: View {
 
 /// Reads the headword aloud. One shared synthesiser: creating a new one per tap
 /// clips the start of short utterances on some devices.
-final class Speaker {
+///
+/// The audio session uses the `.playback` category so the voice is heard
+/// even with the ring/silent switch on silent — the user explicitly tapped
+/// the speaker button, so sound is expected, like in any dictionary app.
+/// Background music ducks while the word is spoken and recovers afterwards.
+final class Speaker: NSObject, AVSpeechSynthesizerDelegate {
     static let shared = Speaker()
     private let synthesiser = AVSpeechSynthesizer()
 
+    private override init() {
+        super.init()
+        synthesiser.delegate = self
+    }
+
     func say(_ text: String, language: String = "en-GB") {
+        let session = AVAudioSession.sharedInstance()
+        try? session.setCategory(.playback, options: [.duckOthers])
+        try? session.setActive(true)
+
         let utterance = AVSpeechUtterance(string: text)
         utterance.voice = AVSpeechSynthesisVoice(language: language)
         utterance.rate = 0.42
         synthesiser.stopSpeaking(at: .immediate)
         synthesiser.speak(utterance)
+    }
+
+    /// Releases the session once speech ends so ducked audio (music,
+    /// podcasts) returns to full volume. Not done on cancel: a cancel only
+    /// happens when a new utterance is about to start.
+    func speechSynthesizer(_ synthesizer: AVSpeechSynthesizer, didFinish utterance: AVSpeechUtterance) {
+        guard !synthesizer.isSpeaking else { return }
+        try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
     }
 }
